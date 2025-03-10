@@ -1,0 +1,84 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WCAAfricanChampionship2022",
+            "name": "Rubik's WCA African Championship 2022",
+            "city": "Cape Town",
+            "country": "ZA",
+            "date": {
+                "from": "2022-10-07",
+                "till": "2022-10-09",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Brendan James Gray",
+                    "email": "bgray@worldcubeassociation.org"
+                },
+                {
+                    "name": "Brent Boswell",
+                    "email": "bboswell@worldcubeassociation.org"
+                },
+                {
+                    "name": "Duncan Hobbs",
+                    "email": "dhobbs@worldcubeassociation.org"
+                },
+                {
+                    "name": "Maverick Pearson",
+                    "email": "mpearson@worldcubeassociation.org"
+                },
+                {
+                    "name": "Timothy Lawrance",
+                    "email": "tlawrance@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Donovan Pretorius",
+                    "email": "donovanp007@gmail.com"
+                },
+                {
+                    "name": "Jonathan Ontong",
+                    "email": "jsontong.jo@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "GrandWest Casino and Entertainment World",
+                "address": "1 Jakes Gerwel Drive, Goodwood, Cape Town, 7460",
+                "details": "GrandWest Sun Exhibits Hall",
+                "coordinates": {
+                    "latitude": -33.917704,
+                    "longitude": 18.547872
+                }
+            },
+            "information": "![](https:\/\/i.imgur.com\/YoWZNDt.png)\r\n\r\n**COVID-19 Safety Measures**\r\nAll registrants will be required to adhere to all COVID-19 health and safety measures while at the competition venue.\r\n\r\n**Volunteering**\r\nWe will need your help as volunteers to support with the running and judging of the day. If you would like to volunteer to help staff at the competition, please contact the [organisers](https:\/\/africanchamps.thecubinghub.com\/google-forms\/). Groups will be assigned so that volunteer duties don't clash with your competing.\r\n\r\n**Notice of Filming and Photography**\r\nAttendees of Rubik's WCA African Championship 2022 consent to their images being used by the World Cube Association and its partners in their marketing and social media platforms.\r\n\r\n",
+            "externalWebsite": "https:\/\/africanchamps.thecubinghub.com",
+            "region": "africa"
+        }
+    ]
+}

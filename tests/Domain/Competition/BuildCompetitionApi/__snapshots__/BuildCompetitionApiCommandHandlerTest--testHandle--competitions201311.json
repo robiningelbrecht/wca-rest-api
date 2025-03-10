@@ -1,0 +1,55 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "ValceaRubikOpen2013",
+            "name": "Valcea Rubik Open 2013",
+            "city": "Ramnicu Valcea",
+            "country": "RO",
+            "date": {
+                "from": "2013-11-09",
+                "till": "2013-11-09",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Radu F\u0103ciu",
+                    "email": "radufaciu@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "M\u0103d\u0103lin Constantin Stoenete",
+                    "email": "wrt+2012stoe01@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sorin Ve\u0219temean",
+                    "email": "newmagicfilms@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[River Plaza Mall](http:\/\/www.riverplaza.ro\/)",
+                "address": "Calea lui Traian nr. 125",
+                "details": "Etajul 1",
+                "coordinates": {
+                    "latitude": 45.099911,
+                    "longitude": 24.361817
+                }
+            },
+            "information": "Prima competitie de cub Rubik din Ramnicu Valcea. Va fi o competitie de o singura zi si speram la cat mai multi participanti pentru a repeta si in alti ani acest eveniment.",
+            "externalWebsite": "http:\/\/www.speedcubing.ro\/p-55\/valcea-rubik-open"
+        }
+    ]
+}

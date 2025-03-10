@@ -1,0 +1,48 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "MacauOpen2009",
+            "name": "Macau Rubik's Open 2009",
+            "city": "Macau",
+            "country": "MO",
+            "date": {
+                "from": "2009-08-15",
+                "till": "2009-08-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "magic",
+                "mmagic"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chan Tak Chuen (\u9673\u5fb7\u6cc9)",
+                    "email": "tchan@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Macau Fisherman\u00b4s Wharf](http:\/\/www.fishermanswharf.com.mo)",
+                "address": "Avenida da Amizade e Avenida Dr.Sun Yat-Sen",
+                "details": "",
+                "coordinates": {
+                    "latitude": 22.195203,
+                    "longitude": 113.55483
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/hkcubeunion.net\/mo09"
+        }
+    ]
+}

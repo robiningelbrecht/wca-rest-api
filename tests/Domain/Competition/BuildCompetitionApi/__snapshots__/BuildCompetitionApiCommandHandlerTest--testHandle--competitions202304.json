@@ -1,0 +1,185 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 3
+    },
+    "total": 3,
+    "items": [
+        {
+            "id": "VIDCubing2023",
+            "name": "VID Cubing 2023",
+            "city": "Hatillo 3, San Jose",
+            "country": "CR",
+            "date": {
+                "from": "2023-04-29",
+                "till": "2023-04-29",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Marvin Solano",
+                    "email": "msolano@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Norman L\u00f3pez Delgado",
+                    "email": "norman.lopez.delgado@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[VID](https:\/\/www.instagram.com\/vid_ibecr\/)",
+                "address": "Hatillo 3, contiguo al Liceo Edgar Cervantes",
+                "details": "Sal\u00f3n Principal",
+                "coordinates": {
+                    "latitude": 9.917322,
+                    "longitude": -84.100223
+                }
+            },
+            "information": "**VID Cubing 2023** \r\n\r\nEs la segunda competencia del nuevo a\u00f1o 2023.\r\n\r\nEsta competencia es reconocida como una competencia official de la World Cube Association.\r\nLa competencia es abierta a competidores de cualquier nacionalidad, el registro esta habilitado desde la p\u00e1gina oficial de la WCA. No es necesario tener experiencia, pero los competidores deben estar conocer los Reglamentos\r\nEl acceso a invitados y espectadores ser\u00e1 gratuita.\r\n_____\r\n**English version**\r\n\r\n**VID Cubing 2023**\r\n\r\nIs a second competition of the new year 2023. \r\n\r\nThis competition is recognized as an official World Cube Association competition.\r\nThe competition is open to all competitors of all nationalities. Registration is available on the WCA website. No experience in WCA competitions is necessary, but competitors should be familiar with the WCA Regulations\r\nThe competition is free to spectators and guests.\r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "UCOMParaguay2023",
+            "name": "UCOM Paraguay 2023",
+            "city": "Asunci\u00f3n",
+            "country": "PY",
+            "date": {
+                "from": "2023-04-15",
+                "till": "2023-04-16",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Elias Miguel Acosta Acosta",
+                    "email": "eacosta@worldcubeassociation.org"
+                },
+                {
+                    "name": "Gustavo Riveiro",
+                    "email": "griveiro@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Griselda Mendieta",
+                    "email": "grisel94@gmail.com"
+                },
+                {
+                    "name": "Gustavo Riveiro",
+                    "email": "griveiro@worldcubeassociation.org"
+                },
+                {
+                    "name": "Hermes L\u00f3pez",
+                    "email": "samulopez424@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Universidad Comunera] (https:\/\/ucom.edu.py)",
+                "address": "Monse\u00f1or Bogar\u00edn 284 esq. Dr. Juan Eulogio Estigarribia",
+                "details": "Sal\u00f3n Auditorio",
+                "coordinates": {
+                    "latitude": -25.294426,
+                    "longitude": -57.583583
+                }
+            },
+            "information": "**\u00a1Form\u00e1 parte de este nuevo torneo!**\r\nRecord\u00e1 que para participar es obligatorio estar familiarizado con el [Reglamento de la WCA](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/spanish-american\/)\r\n\r\n\u00a1Te necesitamos para seguir fortaleciendo nuestra comunidad! Involucrate con las diferentes tareas que nos ayudan a un torneo exitoso y agradable para todos, ya sea como juez, runner, scrambler, etc. Te dejamos links para m\u00e1s informaci\u00f3n a continuaci\u00f3n:\r\n\r\n *[Reglas basicas sobre c\u00f3mo competir](https:\/\/www.youtube.com\/watch?v=8O_iWRGq4K8)\r\n *[Manual WCA para competidores](https:\/\/www.worldcubeassociation.org\/edudoc\/competitor-tutorial\/es\/tutorial.pdf)\r\n *[Manual WCA para jueces](https:\/\/www.worldcubeassociation.org\/edudoc\/judge-tutorial\/judge-tutorial-es.pdf)\r\n\r\nTe esperamos :)\r\n\r\n**Be part of this new tournament!**\r\nRemember that to participate it is mandatory to be familiar with the [\"WCA Regulations\"](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\n\r\nWe need you to continue strengthening our community! Get involved with the different tasks that help us to have a successful and enjoyable tournament for everyone, be it as a judge, runner, scrambler, etc. We leave you links for more information below:\r\n\r\n *[Basics rules to compete](https:\/\/www.youtube.com\/watch?v=dPL3eV-A0ww)\r\n *[WCA competitor tutorial](https:\/\/www.worldcubeassociation.org\/edudoc\/competitor-tutorial\/tutorial.pdf)\r\n *[WCA judging tutorial](https:\/\/www.worldcubeassociation.org\/edudoc\/judge-tutorial\/judge-tutorial.pdf)\r\n\r\nSee you there :)\r\n\r\nCLUB DE SPEEDCUBING PARAGUAY\r\nEmail: speedcubingpy@gmail.com\r\nFacebook: [\/cscpy](https:\/\/web.facebook.com\/cscpy\/)\r\nInstagram: [@cscpy](https:\/\/www.instagram.com\/cscpy\/)",
+            "externalWebsite": null
+        },
+        {
+            "id": "YouOnlyNeeda3x3AZ2023",
+            "name": "You Only Need a 3x3 AZ 2023",
+            "city": "Phoenix, Arizona",
+            "country": "US",
+            "date": {
+                "from": "2023-04-15",
+                "till": "2023-04-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ivan Vanek",
+                    "email": "ivanek@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jake Roberts",
+                    "email": "jroberts@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mason Langenderfer",
+                    "email": "mlangenderfer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Matthew Dickman",
+                    "email": "mdickman@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mia Sponseller",
+                    "email": "msponseller@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Jake Roberts",
+                    "email": "jroberts@worldcubeassociation.org"
+                },
+                {
+                    "name": "Matthew Dickman",
+                    "email": "mdickman@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mia Sponseller",
+                    "email": "msponseller@worldcubeassociation.org"
+                },
+                {
+                    "name": "Shane Grogan",
+                    "email": "shane724a@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[C. O. Greenfield Elementary School](https:\/\/az01901084.schoolwires.net\/greenfield)",
+                "address": "7009 S. 10th St. Phoenix AZ 85042",
+                "details": "Multi Purpose Room",
+                "coordinates": {
+                    "latitude": 33.381738,
+                    "longitude": -112.057511
+                }
+            },
+            "information": "This competition is recognized as an official World Cube Association competition. Therefore, all competitors must be familiar with the [WCA Regulations](https:\/\/www.worldcubeassociation.org\/regulations\/). If you are new to competing, please refer to the [Competitor Responsibilities](https:\/\/www.worldcubeassociation.org\/competitions\/YouOnlyNeeda3x3AZ2023#20697-competitor-responsibilities) tab.\r\n\r\nJoin our [Facebook group](https:\/\/www.facebook.com\/groups\/380588094020424\/) to hear about competitions in Arizona before they're announced and keep in touch with cubers in the area!",
+            "externalWebsite": null
+        }
+    ]
+}

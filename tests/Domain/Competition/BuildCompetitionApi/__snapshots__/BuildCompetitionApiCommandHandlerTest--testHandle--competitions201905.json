@@ -1,0 +1,178 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 3
+    },
+    "total": 3,
+    "items": [
+        {
+            "id": "NigeriaOpen2019",
+            "name": "Nigeria Open 2019",
+            "city": "Lagos",
+            "country": "NG",
+            "date": {
+                "from": "2019-05-25",
+                "till": "2019-05-26",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Soufiane Lakhlifi",
+                    "email": "slakhlifi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arinze Owoh",
+                    "email": "arinzeowoh@gmail.com"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kemi Awe",
+                    "email": "kawe@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Lyc\u00e9e Fran\u00e7ais Louis Pasteur](https:\/\/www.lflp-lagos.com)",
+                "address": "16 Younis Bashorun Street, Victoria Island, Lagos, Nigeria",
+                "details": "Room: Salle des Droits de l'Homme",
+                "coordinates": {
+                    "latitude": 6.426613,
+                    "longitude": 3.436617
+                }
+            },
+            "information": "You're asked to have read the [WCA regulations](https:\/\/www.worldcubeassociation.org\/regulations\/), the tutorial at the competition is here to remind them to you!\r\nIt is very important to attend to at least one of the tutorials so that you can understand how the competition goes and to avoid incidents!\r\n\r\nThe competition is open to all competitors, of all ages and all nationalities!",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZurichOpen2019",
+            "name": "Zurich Open 2019",
+            "city": "Uster",
+            "country": "CH",
+            "date": {
+                "from": "2019-05-18",
+                "till": "2019-05-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Oleg Gritsenko",
+                    "email": "ogritsenko@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Fabian L\u00f6hle",
+                    "email": "fabian.lakers@hotmail.com"
+                },
+                {
+                    "name": "Theo Mayer",
+                    "email": "theoderkaffe@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Musikcontainer Uster",
+                "address": "Asylstrasse 10, 8610 Uster",
+                "details": "",
+                "coordinates": {
+                    "latitude": 47.350221,
+                    "longitude": 8.723703
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZagrebCubeDay2019",
+            "name": "Zagreb Cube Day 2019",
+            "city": "Zagreb",
+            "country": "HR",
+            "date": {
+                "from": "2019-05-12",
+                "till": "2019-05-12",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "David Vujasi\u0107",
+                    "email": "dvujasic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Filip Vukovi\u0107",
+                    "email": "fvukovic@speedcubinghrvatska.hr"
+                },
+                {
+                    "name": "Toni Varga",
+                    "email": "toni.varga@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Prva Gimnazija Zagreb](https:\/\/www.prva.hr\/)",
+                "address": "Avenija Dubrovnik 36, 10010, Zagreb, Hrvatska",
+                "details": "Competition will be held in the main hall. \/ Natjecanje \u0107e biti odr\u017eano u glavnoj prostoriji \u0161kole. ",
+                "coordinates": {
+                    "latitude": 45.777462,
+                    "longitude": 15.992121
+                }
+            },
+            "information": "(HR)\r\n\r\nZagreb Cube Day 2019 je dvanaesto natjecanje po redu koje se odr\u017eava u Hrvatskoj od 2011. godine. Bilo tko mo\u017ee sudjelovati, bez obzira na nacionalnost i\r\nstarost, no svatko mora biti upoznat s WCA Pravilnikom.\r\n\r\nNatjecanje je pod organizacijom Udruge Speedcubing Hrvatska. Kotizacija pokriva tro\u0161ak organizacije i najma prostora. Mogu\u0107i vi\u0161ak kotizacije ide u svrhu razvitka Udruge Speedcubing Hrvatska.\r\n\r\n--------------\r\n\r\n(EN)\r\n\r\nZagreb Cube Day 2019 is the 12th speedcubing competition being held in Croatia since 2011. Anyone can participate, no matter which nationality or age they are, but they need to be familiar with the WCA Regulations.\r\n\r\nThis competition is being organized by the Speedcubing Association Croatia. Registration fee covers the cost of the organization and venue rental. Any extra money goes directly to support Speedcubing Association Croatia.",
+            "externalWebsite": null
+        }
+    ]
+}

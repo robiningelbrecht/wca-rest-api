@@ -1,0 +1,73 @@
+{
+    "id": "WinnipegOpen2023",
+    "name": "Winnipeg Open 2023",
+    "city": "Winnipeg, Manitoba",
+    "country": "CA",
+    "date": {
+        "from": "2023-06-17",
+        "till": "2023-06-18",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "444",
+        "777",
+        "minx",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Alexander Mutch",
+            "email": "amutch@worldcubeassociation.org"
+        },
+        {
+            "name": "Carter Bitz",
+            "email": "cbitz@worldcubeassociation.org"
+        },
+        {
+            "name": "Carter Kucala",
+            "email": "ckucala@worldcubeassociation.org"
+        },
+        {
+            "name": "Simon Kellum",
+            "email": "skellum@worldcubeassociation.org"
+        },
+        {
+            "name": "Walker Welch",
+            "email": "wwelch@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Alberta Cubers",
+            "email": "albertacubers@gmail.com"
+        },
+        {
+            "name": "Alexander Mutch",
+            "email": "amutch@worldcubeassociation.org"
+        },
+        {
+            "name": "Laura Plourde",
+            "email": "lauraplourde@outlook.com"
+        },
+        {
+            "name": "Walker Welch",
+            "email": "wwelch@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "[Crescentwood Site - Corydon Community Centre](https:\/\/corydoncc.com\/facilities\/crescentwood-facilities\/)",
+        "address": "1170 Corydon Ave, Winnipeg, MB R3M 0Z1, Canada",
+        "details": "Saturday: Multi-Purpose Room, Sunday: Crescentwood Gym",
+        "coordinates": {
+            "latitude": 49.864835,
+            "longitude": -97.170405
+        }
+    },
+    "information": "# FMC Canada 2023\r\n\r\nFMC Canada 2023 is also being held before Winnipeg Open 2023 at the same venue. You are welcome to register for one or both competitions, but please note that you need to *register for FMC Canada 2023 separately*.",
+    "externalWebsite": null
+}

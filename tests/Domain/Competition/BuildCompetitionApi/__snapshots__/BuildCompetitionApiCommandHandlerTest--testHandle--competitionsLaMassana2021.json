@@ -1,0 +1,59 @@
+{
+    "id": "LaMassana2021",
+    "name": "La Massana 2021",
+    "city": "La Massana",
+    "country": "AD",
+    "date": {
+        "from": "2021-10-30",
+        "till": "2021-10-31",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333fm",
+        "333oh",
+        "444",
+        "555",
+        "clock",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Javier Tirado Ortiz",
+            "email": "jortiz@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Club de Rubik de Catalunya",
+            "email": "wca@rubik.cat"
+        },
+        {
+            "name": "Marcos Ameijeiras Moreno",
+            "email": "marcos@rubik.cat"
+        },
+        {
+            "name": "Pablo Nicol\u00e1s Oshiro Mondo\u00f1edo",
+            "email": "pabloosmo@hotmail.com"
+        },
+        {
+            "name": "Pau Vela Garc\u00eda",
+            "email": "pau.vela.garcia@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[La Closeta](https:\/\/www.lamassana.ad\/serveis-equipaments\/teatre-fontetes-sales-comunals)",
+        "address": "Av. de Sant Antoni, 29, AD400 La Massana, Andorra",
+        "details": "",
+        "coordinates": {
+            "latitude": 42.54486,
+            "longitude": 1.515505
+        }
+    },
+    "information": "Revisa l'[horari](https:\/\/www.worldcubeassociation.org\/competitions\/LaMassana2021#competition-schedule). All\u00e0 hi trobar\u00e0s tota la planificaci\u00f3 de la competici\u00f3. Es prega molta puntualitat. Et recomanem arribar mitja hora abans de cada prova a la qual competeixis.\r\n\r\nLlegeix detingudament la pestanya sobre la [COVID-19](https:\/\/www.worldcubeassociation.org\/competitions\/LaMassana2021#16408-covid-19) amb els principals canvis de la competici\u00f3 a causa de la situaci\u00f3 sanit\u00e0ria.\r\n\r\n--------\r\n\r\nRevisa el [horario](https:\/\/www.worldcubeassociation.org\/competitions\/LaMassana2021#competition-schedule). All\u00ed encontrar\u00e0s toda la planificaci\u00f3n de la competici\u00f3n. Se ruega mucha puntualidad. Te recomendamos llegar media hora antes de cada prueba en la que compitas.\r\n\r\nLee detenidamente la pesta\u00f1a sobre el [COVID-19](https:\/\/www.worldcubeassociation.org\/competitions\/LaMassana2021#16408-covid-19) con los principales cambios de la competici\u00f3n debido a la situaci\u00f3n sanitaria.\r\n\r\n--------\r\n\r\nCheck the [schedule](https:\/\/www.worldcubeassociation.org\/competitions\/LaMassana2021#competition-schedule). There you can see all the planning of the competition. Please be very punctual. We recommend you to arrive half hour in advance for each event you compete in.\r\n\r\nRead carefully the tab about [COVID-19](https:\/\/www.worldcubeassociation.org\/competitions\/LaMassana2021#16408-covid-19) with the main changes in the competition due to the health situation.",
+    "externalWebsite": "https:\/\/www.rubik.cat\/campionats\/la-massana-2021"
+}

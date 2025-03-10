@@ -1,0 +1,57 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "TbilisiSummerOpen2023",
+            "name": "Tbilisi Summer Open 2023",
+            "city": "Tbilisi",
+            "country": "GE",
+            "date": {
+                "from": "2023-06-11",
+                "till": "2023-06-11",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Conan Mo",
+                    "email": "conan@speedcubing.org.au"
+                },
+                {
+                    "name": "Vako Marchilashvili (\u10d5\u10d0\u10d9\u10dd \u10db\u10d0\u10e0\u10e9\u10d8\u10da\u10d0\u10e8\u10d5\u10d8\u10da\u10d8)",
+                    "email": "vmarchilashvili@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Vako Marchilashvili (\u10d5\u10d0\u10d9\u10dd \u10db\u10d0\u10e0\u10e9\u10d8\u10da\u10d0\u10e8\u10d5\u10d8\u10da\u10d8)",
+                    "email": "vmarchilashvili@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Institute of Cybernetic (\u10d9\u10d8\u10d1\u10d4\u10e0\u10dc\u10d4\u10e2\u10d8\u10d9\u10d8\u10e1 \u10d8\u10dc\u10e1\u10e2\u10d8\u10e2\u10e3\u10e2\u10d8)",
+                "address": "Institute of Cybernetic (\u10d9\u10d8\u10d1\u10d4\u10e0\u10dc\u10d4\u10e2\u10d8\u10d9\u10d8\u10e1 \u10d8\u10dc\u10e1\u10e2\u10d8\u10e2\u10e3\u10e2\u10d8)",
+                "details": "2 Floor , ( \u10db\u10d4\u10dd\u10e0\u10d4 \u10e1\u10d0\u10e0\u10d7\u10e3\u10da\u10d8  )",
+                "coordinates": {
+                    "latitude": 41.723067,
+                    "longitude": 44.715356
+                }
+            },
+            "information": "[GE]\r\n\u10d2\u10d7\u10ee\u10dd\u10d5\u10d7, \u10e1\u10d0\u10ee\u10d4\u10da\u10d8 \u10d3\u10d0 \u10d2\u10d5\u10d0\u10e0\u10d8 \u10e8\u10d4\u10d0\u10d5\u10e1\u10dd\u10d7 \u10d6\u10e3\u10e1\u10e2\u10d0\u10d3 \u10d8\u10e1\u10d4 \u10e0\u10dd\u10d2\u10dd\u10e0\u10ea \u10db\u10dd\u10ea\u10d4\u10db\u10e3\u10da\u10d8\u10d0 \u10d7\u10e5\u10d5\u10d4\u10dc\u10e1 \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d3\u10d0\u10db\u10d0\u10d3\u10d0\u10e1\u10e2\u10e3\u10e0\u10d4\u10d1\u10d4\u10da \u10e1\u10d0\u10d1\u10e3\u10d7\u10e8\u10d8. \u10d8\u10dc\u10d2\u10da\u10d8\u10e1\u10e3\u10e0\u10d0\u10d3 \u10e8\u10d4\u10d5\u10e1\u10d4\u10d1\u10d8\u10e1\u10d0\u10e1, \u10e1\u10d0\u10ee\u10d4\u10da\u10d8\u10e1 \u10d3\u10d0 \u10d2\u10d5\u10d0\u10e0\u10d8\u10e1 \u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d8 \u10d0\u10e1\u10dd \u10e9\u10d0\u10ec\u10d4\u10e0\u10d4\u10d7 \u10d3\u10d8\u10d3\u10d8 \u10d0\u10e1\u10dd\u10d4\u10d1\u10d8\u10d7. \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d3\u10d0\u10db\u10d0\u10d3\u10d0\u10e1\u10e2\u10e3\u10e0\u10d4\u10d1\u10d4\u10da\u10d8 \u10e1\u10d0\u10d1\u10e3\u10d7\u10d8 \u10d7\u10d0\u10dc \u10d8\u10e5\u10dd\u10dc\u10d8\u10d4\u10d7 \u10e8\u10d4\u10ef\u10d8\u10d1\u10e0\u10d6\u10d4 \u10d2\u10d0\u10db\u10dd\u10ea\u10ee\u10d0\u10d3\u10d4\u10d1\u10d8\u10e1\u10d0\u10e1.\r\n\u10e1\u10e2\u10e3\u10db\u10e0\u10d8\u10e1 \u10e0\u10d0\u10dd\u10d3\u10d4\u10dc\u10dd\u10d1\u10d0 \u10e8\u10d4\u10d6\u10e6\u10e3\u10d3\u10e3\u10da\u10d8\u10d0 (1 \u10db\u10dd\u10dc\u10d0\u10ec\u10d8\u10da\u10d4\u10e1 \u10e8\u10d4\u10e1\u10d0\u10eb\u10da\u10d4\u10d1\u10d4\u10da\u10d8\u10d0 \u10d7\u10d0\u10dc \u10d0\u10ee\u10da\u10d3\u10d4\u10e1 \u10db\u10d0\u10e5\u10e1\u10d8\u10db\u10e3\u10db 1 \u10d2\u10e3\u10da\u10e8\u10d4\u10db\u10d0\u10e2\u10d9\u10d8\u10d5\u10d0\u10e0\u10d8) - \u10d2\u10e3\u10da\u10e8\u10d4\u10db\u10d0\u10e2\u10d9\u10d8\u10d5\u10e0\u10d8\u10e1 \u10d3\u10d0\u10e1\u10ec\u10e0\u10d4\u10d1\u10d0 \u10e3\u10e4\u10d0\u10e1\u10dd\u10d0\r\n\u10d5\u10d8\u10dc\u10ea \u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d0\u10d3 \u10d8\u10e6\u10d4\u10d1\u10d7 \u10db\u10dd\u10dc\u10d0\u10ec\u10d8\u10da\u10d4\u10dd\u10d1\u10d0\u10e1 \u10d0\u10e3\u10ea\u10d8\u10da\u10d4\u10d1\u10da\u10d0\u10d3 \u10d7\u10d0\u10dc \u10d8\u10e5\u10dd\u10dc\u10d8\u10d4\u10d7 \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d0\u10dc \u10d3\u10d0\u10d1\u10d0\u10d3\u10d4\u10d1\u10d8\u10e1 \u10db\u10dd\u10ec\u10db\u10dd\u10d1\u10d0 \r\n\r\n[EN]\r\nPlease enter your name and surname during registration as it is writter on your ID.\r\nThe First letters are capital letters.\r\nDont forget to have an ID card with you when you come to the competition\r\nHere is Guest limitation (1 guest for each competitor) - its free to attend Guest\r\nFirst Timer competitors must have ID Card or birthday Certificate ",
+            "externalWebsite": null
+        }
+    ]
+}

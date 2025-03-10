@@ -1,0 +1,54 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "GhanaOpen2019",
+            "name": "Ghana Open 2019",
+            "city": "Accra",
+            "country": "GH",
+            "date": {
+                "from": "2019-04-06",
+                "till": "2019-04-06",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Pooja Gokaldas",
+                    "email": "poojavgokaldas@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Al Rayan International School",
+                "address": "Boundary Rd",
+                "details": "Auditorium ",
+                "coordinates": {
+                    "latitude": 5.629556,
+                    "longitude": -0.160079
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        }
+    ]
+}

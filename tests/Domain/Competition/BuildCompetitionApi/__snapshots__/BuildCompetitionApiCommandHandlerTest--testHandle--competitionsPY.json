@@ -1,0 +1,71 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "UCOMParaguay2023",
+            "name": "UCOM Paraguay 2023",
+            "city": "Asunci\u00f3n",
+            "country": "PY",
+            "date": {
+                "from": "2023-04-15",
+                "till": "2023-04-16",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Elias Miguel Acosta Acosta",
+                    "email": "eacosta@worldcubeassociation.org"
+                },
+                {
+                    "name": "Gustavo Riveiro",
+                    "email": "griveiro@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Griselda Mendieta",
+                    "email": "grisel94@gmail.com"
+                },
+                {
+                    "name": "Gustavo Riveiro",
+                    "email": "griveiro@worldcubeassociation.org"
+                },
+                {
+                    "name": "Hermes L\u00f3pez",
+                    "email": "samulopez424@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Universidad Comunera] (https:\/\/ucom.edu.py)",
+                "address": "Monse\u00f1or Bogar\u00edn 284 esq. Dr. Juan Eulogio Estigarribia",
+                "details": "Sal\u00f3n Auditorio",
+                "coordinates": {
+                    "latitude": -25.294426,
+                    "longitude": -57.583583
+                }
+            },
+            "information": "**\u00a1Form\u00e1 parte de este nuevo torneo!**\r\nRecord\u00e1 que para participar es obligatorio estar familiarizado con el [Reglamento de la WCA](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/spanish-american\/)\r\n\r\n\u00a1Te necesitamos para seguir fortaleciendo nuestra comunidad! Involucrate con las diferentes tareas que nos ayudan a un torneo exitoso y agradable para todos, ya sea como juez, runner, scrambler, etc. Te dejamos links para m\u00e1s informaci\u00f3n a continuaci\u00f3n:\r\n\r\n *[Reglas basicas sobre c\u00f3mo competir](https:\/\/www.youtube.com\/watch?v=8O_iWRGq4K8)\r\n *[Manual WCA para competidores](https:\/\/www.worldcubeassociation.org\/edudoc\/competitor-tutorial\/es\/tutorial.pdf)\r\n *[Manual WCA para jueces](https:\/\/www.worldcubeassociation.org\/edudoc\/judge-tutorial\/judge-tutorial-es.pdf)\r\n\r\nTe esperamos :)\r\n\r\n**Be part of this new tournament!**\r\nRemember that to participate it is mandatory to be familiar with the [\"WCA Regulations\"](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\n\r\nWe need you to continue strengthening our community! Get involved with the different tasks that help us to have a successful and enjoyable tournament for everyone, be it as a judge, runner, scrambler, etc. We leave you links for more information below:\r\n\r\n *[Basics rules to compete](https:\/\/www.youtube.com\/watch?v=dPL3eV-A0ww)\r\n *[WCA competitor tutorial](https:\/\/www.worldcubeassociation.org\/edudoc\/competitor-tutorial\/tutorial.pdf)\r\n *[WCA judging tutorial](https:\/\/www.worldcubeassociation.org\/edudoc\/judge-tutorial\/judge-tutorial.pdf)\r\n\r\nSee you there :)\r\n\r\nCLUB DE SPEEDCUBING PARAGUAY\r\nEmail: speedcubingpy@gmail.com\r\nFacebook: [\/cscpy](https:\/\/web.facebook.com\/cscpy\/)\r\nInstagram: [@cscpy](https:\/\/www.instagram.com\/cscpy\/)",
+            "externalWebsite": null
+        }
+    ]
+}

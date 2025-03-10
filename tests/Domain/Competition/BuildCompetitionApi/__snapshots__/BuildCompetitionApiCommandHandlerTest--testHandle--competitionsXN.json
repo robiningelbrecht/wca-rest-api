@@ -1,0 +1,99 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "FMCNorthAmericaWest2019",
+            "name": "FMC North America West 2019",
+            "city": "Multiple Cities",
+            "country": "XN",
+            "date": {
+                "from": "2019-09-07",
+                "till": "2019-09-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Brandon Harnish",
+                    "email": "bharnish@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kevin Matthews",
+                    "email": "kmatthews@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kit Clement",
+                    "email": "kclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Lauren Clement",
+                    "email": "lclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Michael Young",
+                    "email": "myoung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ryan Jew",
+                    "email": "rjew@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andrew Nathenson",
+                    "email": "colorfulpockets01@gmail.com"
+                },
+                {
+                    "name": "Brandon Harnish",
+                    "email": "bharnish@worldcubeassociation.org"
+                },
+                {
+                    "name": "Elijah Brown",
+                    "email": "ebrown@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kevin Matthews",
+                    "email": "kmatthews@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kit Clement",
+                    "email": "kclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Lauren Clement",
+                    "email": "lclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Liew Yee Voon (\u5289\u501a\u6587)",
+                    "email": "opliew.vanguards@gmail.com"
+                },
+                {
+                    "name": "Michael Young",
+                    "email": "myoung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ryan Jew",
+                    "email": "rjew@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "See the locations tab for more information about venue locations",
+                "address": "Multiple Locations",
+                "details": "",
+                "coordinates": {
+                    "latitude": 45.507194,
+                    "longitude": -122.680292
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        }
+    ]
+}

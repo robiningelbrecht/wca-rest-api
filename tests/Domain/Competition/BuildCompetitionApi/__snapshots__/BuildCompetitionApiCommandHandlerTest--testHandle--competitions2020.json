@@ -1,0 +1,501 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 9
+    },
+    "total": 9,
+    "items": [
+        {
+            "id": "WelcomeBackMongoliaChampions2020",
+            "name": "Welcome Back Mongolia Championship 2020",
+            "city": "Ulaanbaatar",
+            "country": "MN",
+            "date": {
+                "from": "2020-12-19",
+                "till": "2020-12-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": true,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Myagmardorj Ulziijargal (\u04e8\u043b\u0437\u0438\u0439\u0436\u0430\u0440\u0433\u0430\u043b \u041c\u044f\u0433\u043c\u0430\u0440\u0434\u043e\u0440\u0436)",
+                    "email": "mulziijargal@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Maralgoo Ganbold (\u0413\u0430\u043d\u0431\u043e\u043b\u0434 \u041c\u0430\u0440\u0430\u043b\u0433\u043e\u043e)",
+                    "email": "maralhello@gmail.com"
+                },
+                {
+                    "name": "Sergelenbat Nymdorj",
+                    "email": "bukgan.tamir@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Mongolia-Japan Center",
+                "address": "Mongolia-Japan Center, Baga toiruu-1, Ulaanbaatar, Mongolia",
+                "details": "Conference hall, 1st floor",
+                "coordinates": {
+                    "latitude": 47.923036,
+                    "longitude": 106.920334
+                }
+            },
+            "information": "#### \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u043d\u044d\u044d\u043b\u043b\u0442\u044d\u0439 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\r\nThis competition is the official Championship of Mongolia.\r\nOnly Mongolian citizens are eligible to win prizes and titles.\r\nThe competition remains open for all nationalities to compete.\r\n\r\n**COVID-19 \u0446\u0430\u0440 \u0442\u0430\u0445\u043b\u044b\u043d \u0443\u043b\u043c\u0430\u0430\u0441 \u0446\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0431\u0430\u0439\u0441\u0430\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u0442\u044d\u043c\u0446\u044d\u044d\u043d \u201cWelcome Back Mongolia Championship 2020\u201d \u0433\u044d\u0441\u044d\u043d \u043d\u044d\u0440\u0442\u044d\u0439\u0433\u044d\u044d\u0440 \u0434\u0430\u0445\u0438\u043d \u0437\u0430\u0440\u043b\u0430\u0433\u0434\u0430\u0436 \u0431\u0430\u0439\u043d\u0430.\r\n\u0425\u044d\u0440\u0432\u044d\u044d \u0442\u0430 \u0446\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0431\u0430\u0439\u0441\u0430\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0423\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u0441\u044d\u043d \u0431\u043e\u043b \u044d\u043d\u044d \u0443\u0434\u0430\u0430\u0433\u0438\u0439\u043d \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 50%-\u0438\u0439\u043d \u0445\u04e9\u043d\u0433\u04e9\u043b\u04e9\u043b\u0442\u0442\u044d\u0439 \u043e\u0440\u043e\u043b\u0446\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0442\u043e\u0439.**\r\n\r\n**\u0413\u044d\u0445\u0434\u044d\u044d \u0442\u0430 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434\u044d\u044d \u0434\u0430\u0445\u0438\u043d \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u044d\u0445 \u0451\u0441\u0442\u043e\u0439 \u0433\u044d\u0434\u0433\u0438\u0439\u0433 \u0430\u043d\u0445\u0430\u0430\u0440\u043d\u0430 \u0443\u0443!**\r\n\r\n**\u0425\u044d\u0440\u0432\u044d\u044d \u0442\u0430 \u044d\u043d\u044d \u0443\u0434\u0430\u0430\u0433\u0438\u0439\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u043e\u0440\u043e\u043b\u0446\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0433\u04af\u0439 \u0431\u043e\u043b\u0441\u043e\u043d \u0442\u043e\u0445\u0438\u043e\u043b\u0434\u043e\u043b\u0434 \u0442\u0430\u043d\u044b \u0442\u04e9\u043b\u0441\u04e9\u043d \u0445\u0443\u0440\u0430\u0430\u043c\u0436\u043d\u044b \u043c\u04e9\u043d\u0433\u0438\u0439\u0433 \u0431\u0443\u0446\u0430\u0430\u043d \u043e\u043b\u0433\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0433\u04af\u0439. \u0425\u0430\u0440\u0438\u043d \u0442\u0430\u043d\u044c\u0434 \u04af\u043d\u044d \u0431\u04af\u0445\u0438\u0439 \u0434\u0443\u0440\u0441\u0433\u0430\u043b\u044b\u043d \u0437\u04af\u0439\u043b\u0441 \u0431\u044d\u043b\u044d\u0433\u043b\u044d\u0445 \u0431\u043e\u043b\u043d\u043e.**\r\n\r\n**\u0411\u0438\u0434\u043d\u0438\u0439 \u043d\u04e9\u0445\u0446\u04e9\u043b \u0431\u0430\u0439\u0434\u043b\u044b\u0433 \u043e\u0439\u043b\u0433\u043e\u0436 \u0445\u04af\u043b\u044d\u044d\u0446\u0442\u044d\u0439 \u0445\u0430\u043d\u0434\u0430\u043d\u0430 \u0443\u0443.**\r\n\r\n\r\n**The official Mongolia Championship, which was canceled due to the COVID-19 epidemic, is being re-announced under the name \"Welcome Back Mongolia Championship 2020\".**\r\n**If you have registered for the canceled Mongolia Championship, you can participate in this competiton with a 50% discount.**\r\n\r\n**Please note, however, that you must re-register for the competition!**\r\n\r\n**If you are unable to participate in this Mongolia Championship, your fee will not be refunded. But you will get valuable souvenirs.**\r\n\r\n**Please understand our situation and be patient.**\r\n\r\n[\u0422\u044d\u043c\u0446\u044d\u044d\u043d\u0442\u044d\u0439 \u0445\u043e\u043b\u0431\u043e\u043e\u0442\u043e\u0439 \u043c\u044d\u0434\u044d\u044d\u043b\u044d\u043b\/ Information of Mongolian competitions](https:\/\/www.facebook.com\/Mongoliacubecompetition\/)\r\n[\u0422\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u044d\u0445 \u0437\u0430\u0430\u0432\u0430\u0440\/ Instruction of registration](https:\/\/www.facebook.com\/media\/set\/?set=ms.c.eJxFj1EOAzAIQm~_0FMVW73~_xZSWjvy9PQBw2OJnoYQ0~%3BEAC6NqLDICriDPuB38lG~%3BUEsGcsAF~_QYKCOdkbwt9YyW4drY19jH4MhIZ~%3BSd3s7gEvAJtQPPSNV6aYbe9y8sZcQXMQs64A~-~-.bps.a.1748149085227952&type=1&__tn__=HH-R)\r\n\r\n\u0425\u043e\u043b\u0431\u043e\u043e \u0431\u0430\u0440\u0438\u0445\/Contact:\r\nFacebook: [Myagmardorj Ulziijargal](https:\/\/www.facebook.com\/Myagmardorj.Ulziijargal)\r\n\r\n\u0423\u0442\u0430\u0441\/Phone:\r\n(976) 89589811 - Maralgoo Ganbold \r\n(976) 89199853 - Myagmardorj Ulziijargal",
+            "externalWebsite": null
+        },
+        {
+            "id": "WelcomeBackJonkoping2020",
+            "name": "Welcome Back J\u00f6nk\u00f6ping 2020",
+            "city": "J\u00f6nk\u00f6ping",
+            "country": "SE",
+            "date": {
+                "from": "2020-09-26",
+                "till": "2020-09-27",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "333bf",
+                "333mbf",
+                "444",
+                "444bf",
+                "555bf",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Daniel Wallin",
+                    "email": "dwallin@worldcubeassociation.org"
+                },
+                {
+                    "name": "Viktor Zenk",
+                    "email": "vzenk@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Helmer Ewert",
+                    "email": "hewert@worldcubeassociation.org"
+                },
+                {
+                    "name": "Viktor Zenk",
+                    "email": "vzenk@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Kulturhuset](https:\/\/kulturhusetjonkoping.se\/)",
+                "address": "Svavelsticksgr\u00e4nd 7, 553 15 J\u00f6nk\u00f6ping",
+                "details": "The competition is in the attic, up the stairs to your left",
+                "coordinates": {
+                    "latitude": 57.785581,
+                    "longitude": 14.15618
+                }
+            },
+            "information": "V\u00e4lkomna tillbaka!\r\nF\u00f6r f\u00f6rsta g\u00e5ngen sedan i mars \u00e4r det nu m\u00f6jligt att arrangera en t\u00e4vling igen.\r\nDenna t\u00e4vling kommer att genomf\u00f6ras med en rad restriktioner f\u00f6r att f\u00f6rbygga smittorisken, l\u00e4s mer om detta p\u00e5 de \u00f6vriga flikarna.\r\n\r\n---\r\n\r\nWelcome back!\r\nFor the first time since March, we are now able to organize a competition once again.\r\nThis competition will be subject to several restrictions to prevent the risk of infection, please read more about this in the other tabs.",
+            "externalWebsite": null
+        },
+        {
+            "id": "FMC2020",
+            "name": "FMC 2020",
+            "city": "Multiple Cities",
+            "country": "XW",
+            "date": {
+                "from": "2020-06-13",
+                "till": "2020-06-14",
+                "numberOfDays": 2
+            },
+            "isCanceled": true,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+                    "email": "bdong@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ethan Pride",
+                    "email": "epride@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kit Clement",
+                    "email": "kclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+                    "email": "bdong@worldcubeassociation.org"
+                },
+                {
+                    "name": "Callum James Goodyear",
+                    "email": "cgoodyear@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ethan Pride",
+                    "email": "epride@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kit Clement",
+                    "email": "kclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Theo Daniel Gallegos Cuevas",
+                    "email": "theogallegos88@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Multiple Cities",
+                "address": "Multiple Locations",
+                "details": "See the locations tab for more information about venue locations",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            },
+            "information": "# The competition has been cancelled due to the COVID-19 outbreak.\r\nThe competition will be held in multiple locations, across the globe. Please pay attention to the **date and time zone** of your location!\r\n\r\nLocations may be added until the 13th of May 23:59UTC so if there isn't a location near you yet contact your local [Delegate](https:\/\/www.worldcubeassociation.org\/delegates).",
+            "externalWebsite": null
+        },
+        {
+            "id": "FMCEurope2020",
+            "name": "FMC Europe 2020",
+            "city": "Multiple cities (see website)",
+            "country": "XE",
+            "date": {
+                "from": "2020-03-22",
+                "till": "2020-03-22",
+                "numberOfDays": 1
+            },
+            "isCanceled": true,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Laura Ohrndorf",
+                    "email": "lohrndorf@worldcubeassociation.org"
+                },
+                {
+                    "name": "Linus Fr\u00e9sz",
+                    "email": "linuf95@gmail.com"
+                },
+                {
+                    "name": "S\u00e9bastien Auroux",
+                    "email": "sauroux@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Laura Ohrndorf",
+                    "email": "lohrndorf@worldcubeassociation.org"
+                },
+                {
+                    "name": "Linus Fr\u00e9sz",
+                    "email": "linuf95@gmail.com"
+                },
+                {
+                    "name": "S\u00e9bastien Auroux",
+                    "email": "sauroux@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Multiple venues; [Registered locations](https:\/\/fmc-europe2020.fewest-moves.com\/)",
+                "address": "Multiple locations throughout Europe (see competition website)",
+                "details": "",
+                "coordinates": {
+                    "latitude": 50.850339,
+                    "longitude": 4.35171
+                }
+            },
+            "information": "# The competition is cancelled due to the COVID-19 outbreak.\r\n### This includes all locations!\r\n\r\nThe competition will be held in multiple locations, throughout Europe. **Please pay attention to the time zone of your location!** For more details, check out the competition website!\r\n\r\nMore locations may be added until the 21st of February 2020, 23:59 UTC. If there is no location near you yet, make sure to regularly check our [website](https:\/\/fmc-europe2020.fewest-moves.com\/) for new locations!",
+            "externalWebsite": "https:\/\/fmc-europe2020.fewest-moves.com\/"
+        },
+        {
+            "id": "RodoOpen2020",
+            "name": "Rodo Open 2020",
+            "city": "Peso da R\u00e9gua",
+            "country": "PT",
+            "date": {
+                "from": "2020-03-21",
+                "till": "2020-03-21",
+                "numberOfDays": 1
+            },
+            "isCanceled": true,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ant\u00f3nio Gomes",
+                    "email": "cubizh@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Didier Batista Ferreira",
+                    "email": "didierbatista@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Escola Profissional de Desenvolvimento Rural do Rodo](https:\/\/www.epregua.pt)",
+                "address": "Quinta do Rodo, Rua de Lousada \u2013 Godim, Peso da R\u00e9gua, 5050-092 Peso da R\u00e9gua",
+                "details": "Cantina",
+                "coordinates": {
+                    "latitude": 41.177216,
+                    "longitude": -7.796323
+                }
+            },
+            "information": "# This competition is cancelled due to the COVID-19 outbreak. \r\n\r\n# Esta competi\u00e7\u00e3o foi cancelada devido ao surto de COVID-19.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "LuxembourgPiDay2020",
+            "name": "Luxembourg Pi Day 2020",
+            "city": "Esch-sur-Alzette",
+            "country": "LU",
+            "date": {
+                "from": "2020-03-14",
+                "till": "2020-03-14",
+                "numberOfDays": 1
+            },
+            "isCanceled": true,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andrea Thull",
+                    "email": "andreathull@gmail.com"
+                },
+                {
+                    "name": "Carlo Glod",
+                    "email": "carlo.glod@gmail.com"
+                },
+                {
+                    "name": "Joe Theis",
+                    "email": "joe@theis.lu"
+                },
+                {
+                    "name": "Philippe Schwartz",
+                    "email": "schwartz.philippe@hotmail.com"
+                },
+                {
+                    "name": "Sebastiano Tronto",
+                    "email": "stronto@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Maison du Savoir, Belval campus](https:\/\/wwwen.uni.lu\/contact\/campus_de_belval)",
+                "address": "2 Avenue de l'Universite, 4365 Esch-sur-Alzette, Luxembourg",
+                "details": "Main university building, 4th floor",
+                "coordinates": {
+                    "latitude": 49.504552,
+                    "longitude": 5.948429
+                }
+            },
+            "information": "# The competition is cancelled due to the COVID-19 outbreak.\r\n**English**\r\nWelcome to the second official competition in Luxembourg! If this is your first competition you can find some useful information on the \"Newcomer Information\" tab.\r\nThere is no registration fee for this competition, but if you want you can make a donation. The money collected this way will be used to help organize future competitions in Luxembourg. Please note that only online registration is is free. If you register on the spot the fee is 1\u20ac.\r\n\r\n**Deutsch**\r\nWillkommen zum zweiten offiziellen Wettbewerb in Luxemburg! Wenn dies dein erster Wettbewerb ist, findest du im Tab \"Newcomer Information\" n\u00fctzliche Informationen.\r\nEs gibt keine Anmeldegeb\u00fchr f\u00fcr diesen Wettbewerb, aber wenn du m\u00f6chtest, kannst du eine Spende machen. Das auf diese Weise gesammelte Geld wird f\u00fcr die Organisation zuk\u00fcnftiger Wettbewerbe in Luxemburg verwendet. Bitte beachte dass nur die Online Registration kostenlos ist. Wenn du dich vor Ort registrierst bezahlst du 1\u20ac.\r\n\r\n**Fran\u00e7ais**\r\nBienvenue \u00e0 la deuxi\u00e8me comp\u00e9tition du Luxembourg! Si c'est votre premi\u00e8re comp\u00e9tition, il y a des informations tr\u00e8s utiles dans l'onglet \"Newcomer Information\".\r\nIl n'y a pas de frais d'inscription pour cette competition, mais tu peux malgr\u00e9 tout faire un don. L'argent collect\u00e9 servira \u00e0 organiser des futur competitions. Veuillez noter que seule l\u2018inscription en ligne est gratuite.  L'inscription sur place sera \u00e0 1\u20ac.\r\n\r\n**L\u00ebtzebuergesch**\r\nW\u00ebllkomm zu der zweeter offizieller Comp\u00e9titioun zu L\u00ebtzebuerg! Wann d\u00ebst deng \u00e9ischt Comp\u00e9titioun ass, da f\u00ebnns du am Tab \"Newcomer Informations\" n\u00ebtzlech Informatiounen.\r\nEt kascht n\u00e4ischt matzemaachen, mee wanns du w\u00eblls, kanns du g\u00e4ren eng Spend maachen. D\u00ebs Suen ginn agesat fir weider Comp\u00e9titionen zu L\u00ebtzebuerg ze organis\u00e9ieren! N\u00ebmmen wanns du dech online registr\u00e9iers ass ett gratis. Wanns du dech um Event selwer umells, kascht ett d\u00ebch 1\u20ac.",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZhuyuangangOpen2020",
+            "name": "Zhuyuangang Open 2020",
+            "city": "Tainan",
+            "country": "TW",
+            "date": {
+                "from": "2020-02-29",
+                "till": "2020-03-01",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chia-Leo Lin (\u6797\u73c8\u6a02)",
+                    "email": "clin@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Shao-Yu Hu (\u80e1\u7d39\u5b87)",
+                    "email": "ricky9667@gmail.com"
+                },
+                {
+                    "name": "Yu-Kai Chen (\u9673\u5b87\u6977)",
+                    "email": "a0938939010@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Tainan Cultural and Creative Park",
+                "address": "No. 16, Sec. 2, Beimen Rd., East Dist., Tainan City, Taiwan",
+                "details": "Auditorium, 4F, follow the signs.",
+                "coordinates": {
+                    "latitude": 22.998984,
+                    "longitude": 120.212893
+                }
+            },
+            "information": "Please visit the competition website for more information.",
+            "externalWebsite": "https:\/\/cubing-tw.net\/event\/2020ZhuyuangangOpen"
+        },
+        {
+            "id": "MauritiusOpen2020",
+            "name": "Mauritius Open 2020",
+            "city": "Moka",
+            "country": "MU",
+            "date": {
+                "from": "2020-02-23",
+                "till": "2020-02-23",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Milind Bhoyroo",
+                    "email": "mbhoyroo@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Milind Bhoyroo",
+                    "email": "mbhoyroo@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Lyc\u00e9e des Mascareignes",
+                "address": "Lyc\u00e9e des Mascareignes, Helvetia, Saint Pierre",
+                "details": "The competition will happen in the Gymnasium, kindly follow the posters to reach the venue.",
+                "coordinates": {
+                    "latitude": -20.227087,
+                    "longitude": 57.524617
+                }
+            },
+            "information": "The competition will happen in the Gymnasium, kindly follow the posters to reach the venue.",
+            "externalWebsite": null
+        },
+        {
+            "id": "MoldovaOpen2020",
+            "name": "Moldova Open 2020",
+            "city": "Chi\u015fin\u0103u",
+            "country": "MD",
+            "date": {
+                "from": "2020-01-11",
+                "till": "2020-01-11",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "555",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Costea Livadari",
+                    "email": "livadari.costea@gmail.com"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Moldova State University](http:\/\/usm.md\/?lang=en)",
+                "address": "60 Alexei Mateevici Str., Chi\u015fin\u0103u, MD-2009",
+                "details": "Faculty of Mathematics and Computer Science, 4th Building, room Sala de Lectura, second floor.",
+                "coordinates": {
+                    "latitude": 47.018522,
+                    "longitude": 28.823824
+                }
+            },
+            "information": "This is the first WCA competition in Moldova since 2017. It is an open competition for all people of all ages and from all countries.\r\nWe hope many people from Moldova and other countries will participate.\r\n\r\nThe competition also counts as the national championship for Moldova.\r\nSo the best competitors from Moldova will be the national champions 2019 of Moldova.",
+            "externalWebsite": null
+        }
+    ]
+}

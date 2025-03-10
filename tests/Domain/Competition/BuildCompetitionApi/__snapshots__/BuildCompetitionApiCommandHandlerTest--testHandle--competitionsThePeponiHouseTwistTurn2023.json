@@ -1,0 +1,40 @@
+{
+    "id": "ThePeponiHouseTwistTurn2023",
+    "name": "The Peponi House Twist & Turn 2023",
+    "city": "Nairobi",
+    "country": "KE",
+    "date": {
+        "from": "2023-05-13",
+        "till": "2023-05-13",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "pyram"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Rayan Parmar",
+            "email": "rparmar@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Nikhath Zigmund",
+            "email": "nikhathakhtar@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Peponi House Preparatory School",
+        "address": "Peponi House Preparatory School, Farasi Lane, Nairobi, Kenya",
+        "details": "Main Hall",
+        "coordinates": {
+            "latitude": -1.241111,
+            "longitude": 36.760382
+        }
+    },
+    "information": "Welcome to the third WCA competition in Kenya! \r\nThis competition is specifically created for those who are aged 13 and under. Those who are aged 14 and above can participate... but will not qualify to get a prize on the podium.\r\n\r\nParticipants should bring some form of identification in order to confirm that they are aged 13 and below. A passport, or a copy of your birth cirtificate is a good example since it shows name, age, nationality and so on.  \r\n\r\nYou only need to be present at the venue during the events in which you plan to attend. However, you need to be present at the venue no later than 15 minutes before your first event starts so that you have enough time to complete the registration.",
+    "externalWebsite": null
+}

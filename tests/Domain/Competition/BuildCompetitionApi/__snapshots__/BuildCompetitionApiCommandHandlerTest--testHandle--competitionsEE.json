@@ -1,0 +1,60 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "VoruVark2019",
+            "name": "V\u00f5ru V\u00e4rk 2019",
+            "city": "V\u00f5ru",
+            "country": "EE",
+            "date": {
+                "from": "2019-04-06",
+                "till": "2019-04-06",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "clock",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Andreas Pung",
+                    "email": "apung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ivo Kruusam\u00e4gi",
+                    "email": "ikruusamagi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Remo Pihel",
+                    "email": "remopihel@gmail.com"
+                },
+                {
+                    "name": "Rio Truija",
+                    "email": "riotruija1@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[V\u00f5ru City Center School](http:\/\/www.vkk.edu.ee\/en\/)",
+                "address": "Vabaduse 12, V\u00f5ru, 65609 V\u00f5ru maakond, Estonia",
+                "details": "On the fourth floor, follow the signs.",
+                "coordinates": {
+                    "latitude": 57.84549,
+                    "longitude": 26.996713
+                }
+            },
+            "information": "* The main event of this competition is **2x2x2 Cube**.\r\n* This is the first competition in **V\u00f5ru**.\r\n![Eesti kuubik](https:\/\/i.imgur.com\/Cr7XSizt.png)\r\n\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

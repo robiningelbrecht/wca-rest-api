@@ -1,0 +1,58 @@
+{
+    "id": "OmanOpen2023",
+    "name": "Oman Open 2023",
+    "city": "Muscat",
+    "country": "OM",
+    "date": {
+        "from": "2023-03-11",
+        "till": "2023-03-11",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444",
+        "555"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Aysha Jamsheer",
+            "email": "ajamsheer@worldcubeassociation.org"
+        },
+        {
+            "name": "Baha Alshwaiki",
+            "email": "balshwaiki@worldcubeassociation.org"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Baha Alshwaiki",
+            "email": "balshwaiki@worldcubeassociation.org"
+        },
+        {
+            "name": "Farah Omar Alomar",
+            "email": "faroo7a_alomar@hotmail.com"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "[HORMUZ Grand Muscat hotel](https:\/\/www.radissonhotels.com\/en-us\/hotels\/radisson-collection-muscat)",
+        "address": "Al Matar St Muscat 111, 128, Oman",
+        "details": "room Oryx 1",
+        "coordinates": {
+            "latitude": 23.576812,
+            "longitude": 58.292062
+        }
+    },
+    "information": "This is the first WCA competition in Oman.\r\nThe competition is the national championship of Oman for the year 2023. \r\nThe competition is open to all persons from all countries.\r\n\r\nThere will be prizes and honours:\r\n- top 3 competitors with the nationality of Oman\r\n- competitors without the nationality of Oman, who finish in top 3 of an event\r\n\r\n",
+    "externalWebsite": null
+}

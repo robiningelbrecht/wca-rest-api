@@ -1,0 +1,1586 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 29
+    },
+    "total": 29,
+    "items": [
+        {
+            "id": "WinterSetifOpen2019",
+            "name": "Winter Setif Open 2019",
+            "city": "Setif",
+            "country": "DZ",
+            "date": {
+                "from": "2019-12-21",
+                "till": "2019-12-21",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "444",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Slimane Siroukane",
+                    "email": "ssiroukane@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Bouhafs Boukri",
+                    "email": "boukribouhafs05@gmail.com"
+                },
+                {
+                    "name": "Slimane Siroukane",
+                    "email": "ssiroukane@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "\u00c9cole Nationale des Sports Olympiques (ENSO)",
+                "address": " 59XC + RX Setif, Algeria",
+                "details": "",
+                "coordinates": {
+                    "latitude": 36.199562,
+                    "longitude": 5.372437
+                }
+            },
+            "information": "-- **EN** --\r\nThe competition is open to everyone.\r\nTime: 8:30 AM until 6:30 PM.\r\n\r\n-- **FR** --\r\nLa competition est ouverte \u00e0 tous le monde.\r\nHeure: de 8:30 AM \u00e0 6:30 PM.\r\n\r\n-- **AR** --\r\n\u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0629 \u0645\u0641\u062a\u0648\u062d\u0629 \u0644\u0644\u062c\u0645\u064a\u0639.\r\n\u0627\u0644\u0648\u0642\u062a: \u0645\u0646 8:30 \u0635\u0628\u0627\u062d\u0627 \u0625\u0644\u0649 6:30 \u0645\u0633\u0627\u0621.",
+            "externalWebsite": null
+        },
+        {
+            "id": "PakistanWinter2019",
+            "name": "Pakistan Winter 2019",
+            "city": "Islamabad",
+            "country": "PK",
+            "date": {
+                "from": "2019-12-21",
+                "till": "2019-12-21",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Abdullah Gulab",
+                    "email": "agulab@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Abdullah Gulab",
+                    "email": "agulab@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Air University",
+                "address": "Service Rd E-9 \/ E-8, E-9, Islamabad",
+                "details": "Main Auditorium",
+                "coordinates": {
+                    "latitude": 33.7138,
+                    "longitude": 73.0247
+                }
+            },
+            "information": "See tabs for more information about the competition.",
+            "externalWebsite": "http:\/\/cubingpakistan.com\/"
+        },
+        {
+            "id": "FMCAsia2019",
+            "name": "FMC Asia 2019",
+            "city": "Multiple cities (see website)",
+            "country": "XA",
+            "date": {
+                "from": "2019-12-07",
+                "till": "2019-12-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+                    "email": "bdong@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baocheng Wu (\u5434\u5b9d\u57ce)",
+                    "email": "bwu@worldcubeassociation.org"
+                },
+                {
+                    "name": "Chia-Leo Lin (\u6797\u73c8\u6a02)",
+                    "email": "clin@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ilkyoo Choi (\ucd5c\uc77c\uaddc)",
+                    "email": "ichoi@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ming Zheng (\u90d1\u9e23)",
+                    "email": "mzheng@worldcubeassociation.org"
+                },
+                {
+                    "name": "Myagmardorj Ulziijargal (\u04e8\u043b\u0437\u0438\u0439\u0436\u0430\u0440\u0433\u0430\u043b \u041c\u044f\u0433\u043c\u0430\u0440\u0434\u043e\u0440\u0436)",
+                    "email": "mulziijargal@worldcubeassociation.org"
+                },
+                {
+                    "name": "Shuhei Omura (\u5927\u6751\u5468\u5e73)",
+                    "email": "somura@worldcubeassociation.org"
+                },
+                {
+                    "name": "Somya Srivastava",
+                    "email": "ssrivastava@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tanai Chaikraveephand (\u0e18\u0e19\u0e31\u0e22 \u0e0a\u0e31\u0e22\u0e01\u0e23\u0e30\u0e27\u0e35\u0e1e\u0e31\u0e19\u0e18\u0e4c)",
+                    "email": "tchaikraveephand@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ujjawal Pabreja",
+                    "email": "upabreja@worldcubeassociation.org"
+                },
+                {
+                    "name": "Wilson Alvis (\u9648\u667a\u80dc)",
+                    "email": "walvis@worldcubeassociation.org"
+                },
+                {
+                    "name": "Xiaobo Jin (\u91d1\u6653\u6ce2)",
+                    "email": "xjin@worldcubeassociation.org"
+                },
+                {
+                    "name": "Zhou Yichen (\u5468\u5955\u81e3)",
+                    "email": "yzhou@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+                    "email": "bdong@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Multiple venues",
+                "address": "See locations",
+                "details": "See [locations](https:\/\/www.worldcubeassociation.org\/competitions\/FMCAsia2019#12753-locations)",
+                "coordinates": {
+                    "latitude": 39.900549,
+                    "longitude": 116.416645
+                }
+            },
+            "information": "**YOU MUST INCLUDE THE LOCATION YOU ARE ATTENDING IN YOUR REGISTRATION COMMENT.**\r\n\r\nThe competition will be held in multiple locations, Asia. Please pay attention to the **date and time zone** of your location!\r\n\r\nLocations may be added until the 9th of November 23:59 UTC so if there isn't a location near you yet contact your local [Delegate](https:\/\/www.worldcubeassociation.org\/delegates) in Asia.",
+            "externalWebsite": null
+        },
+        {
+            "id": "MaltaOpen2019",
+            "name": "Malta Open 2019",
+            "city": "Msida",
+            "country": "MT",
+            "date": {
+                "from": "2019-11-30",
+                "till": "2019-11-30",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "555",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "James Golding",
+                    "email": "jamesgolding1337@gmail.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[The University of Malta](https:\/\/www.um.edu.mt\/)",
+                "address": "Mathematics and Physics Building, University of Malta, Msida MSD 2080, Malta.",
+                "details": "Room MP401",
+                "coordinates": {
+                    "latitude": 35.903086,
+                    "longitude": 14.484349
+                }
+            },
+            "information": "This is the first WCA competition in Malta. It is an open competition for all people from all ages and all countries.\r\nWe hope many people from Malta and other countries will participate.\r\n\r\nThe competition also counts as the national championship for Malta.\r\nSo the best competitors from Malta will be the national champions 2019 of Malta.\r\n\r\nDoors are open from 8:30am.",
+            "externalWebsite": null
+        },
+        {
+            "id": "RamliMallOpen2019",
+            "name": "Ramli Mall Open 2019",
+            "city": "Aali",
+            "country": "BH",
+            "date": {
+                "from": "2019-11-23",
+                "till": "2019-11-23",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ebrahim Jamsheer",
+                    "email": "jamsheerebrahim@hotmail.com"
+                },
+                {
+                    "name": "Matteo Dummar",
+                    "email": "mdummar@worldcubeassociation.org"
+                },
+                {
+                    "name": "Pulkit Mehra",
+                    "email": "pulkitmehra18@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Ramli Mall",
+                "address": "Rd. No. 3025 Aali",
+                "details": "Ramli Mall (Main Stage, Basement)",
+                "coordinates": {
+                    "latitude": 26.16307,
+                    "longitude": 50.523056
+                }
+            },
+            "information": "**\u0639\u0631\u0628\u064a:**\r\n\u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649**\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u062e\u0631\u0649** \u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u062e\u0631\u0649\r\n\r\n**English:**\r\nPlease refer to the **More Info.** tab for more details.",
+            "externalWebsite": null
+        },
+        {
+            "id": "CambodiaCubingChampionship2019",
+            "name": "Cambodia Cubing Championship 2019",
+            "city": "Phnom Penh",
+            "country": "KH",
+            "date": {
+                "from": "2019-11-03",
+                "till": "2019-11-03",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "John Edison Ubaldo (\u1707\u1714\u170c\u1713\ufe00\u1708\u1714 \u1701\u1707\u1712\u1710\u1713\ufe00\u1708\u1714 \u1702\u170a\u170e\u1714\u1707\u1713\ufe00)",
+                    "email": "jubaldo@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mey Samorn",
+                    "email": "samornreality@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Cambodia-Japan Cooperation Center](http:\/\/www.cjcc.edu.kh\/site\/index.php\/en\/)",
+                "address": "Russian Confederation Blvd., Tuol Kork, Pnom Penh, Cambodia",
+                "details": "Angkor Kizuna Hall",
+                "coordinates": {
+                    "latitude": 11.568929,
+                    "longitude": 104.893694
+                }
+            },
+            "information": "This is the first-ever national cubing championship of Cambodia.\r\nWe also have a Facebook groups for our Cubing Area. [Khmer Top Cuber](https:\/\/www.facebook.com\/groups\/KhmerCuber\/). You can join the group to stay updated with upcoming competitions in the area.",
+            "externalWebsite": null
+        },
+        {
+            "id": "SarajevoOpen2019",
+            "name": "Sarajevo Open 2019",
+            "city": "Sarajevo",
+            "country": "BA",
+            "date": {
+                "from": "2019-10-19",
+                "till": "2019-10-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jernej Omulec",
+                    "email": "jomulec@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Janko Ga\u0161i\u0107",
+                    "email": "jankogasic@yahoo.com"
+                },
+                {
+                    "name": "Jernej Omulec",
+                    "email": "jomulec@worldcubeassociation.org"
+                },
+                {
+                    "name": "Marko Vukadinovi\u0107",
+                    "email": "markovukadinovic94@gmail.com"
+                },
+                {
+                    "name": "Neboj\u0161a \u0110uri\u0107",
+                    "email": "nebojsadjuric89@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Faculty of Science \/ Prirodno-matemati\u010dki fakultet",
+                "address": "Zmaja od Bosne 33-35",
+                "details": "Follow the signs ",
+                "coordinates": {
+                    "latitude": 43.854258,
+                    "longitude": 18.39461
+                }
+            },
+            "information": "Sarajevo Open 2019 is a speedcubing competition. Anyone can participate, who is familiar with the WCA Regulation, accepts it and meet the competition\u2019s criterias.\r\n\r\n\r\nSarajevo Open 2019 je speedcubing takmi\u010denje. Svako ko poznaje WCA pravila i ispunjava WCA zahtjeve mo\u017ee da u\u010destvuje na takmi\u010denju.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "SpeedcubingPaphos2019",
+            "name": "Speedcubing Paphos 2019",
+            "city": "Paphos",
+            "country": "CY",
+            "date": {
+                "from": "2019-09-21",
+                "till": "2019-09-21",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Michael Eleftheriades",
+                    "email": "eleftheriadesm@gmail.com"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                },
+                {
+                    "name": "Shamil Magomedov",
+                    "email": "smagomedov@worldcubeassociation.org"
+                },
+                {
+                    "name": "Theodosia Kyriakou",
+                    "email": "kyriakoutheodosia30@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[The International School of Paphos](http:\/\/www.paphosinternationalschool.com\/en\/)",
+                "address": " 100 Aristotelous Savva Avenue, Anavargos, Paphos, Cyprus",
+                "details": "B BLOCK EXAMINATIONS HALL",
+                "coordinates": {
+                    "latitude": 34.800227,
+                    "longitude": 32.450693
+                }
+            },
+            "information": " Please read important information on \"Registration requirements\".\r\n",
+            "externalWebsite": "http:\/\/cypruscubing.com"
+        },
+        {
+            "id": "YongjunJakartaSpeedcubing2019",
+            "name": "Yongjun Jakarta Speedcubing 2019",
+            "city": "Jakarta",
+            "country": "ID",
+            "date": {
+                "from": "2019-09-14",
+                "till": "2019-09-15",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cendy Cahyo Rahmat",
+                    "email": "crahmat@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Yusuf Abdul Qohhar",
+                    "email": "abdulqohharyusuf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Green Pramuka Square](http:\/\/www.greenpramukasquare.com\/)",
+                "address": "Jl. Rw. Jaya No.49, RT.16\/RW.9, Rawasari, Kec. Cemp. Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 13120",
+                "details": "Main Atrium",
+                "coordinates": {
+                    "latitude": -6.188854,
+                    "longitude": 106.873852
+                }
+            },
+            "information": "An official World Cube Association competition initiated by the [Nusantara Speedcubing Association](http:\/\/www.nsa.or.id\/) and Jakarta Speedcubing Community in collaboration with [Green Pramuka Square](https:\/\/www.instagram.com\/greenpramukasquarejakarta\/) and [YJ](https:\/\/www.facebook.com\/Yongjuncube\/) to accommodate people who love the cube.",
+            "externalWebsite": null
+        },
+        {
+            "id": "FMCNorthAmericaWest2019",
+            "name": "FMC North America West 2019",
+            "city": "Multiple Cities",
+            "country": "XN",
+            "date": {
+                "from": "2019-09-07",
+                "till": "2019-09-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Brandon Harnish",
+                    "email": "bharnish@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kevin Matthews",
+                    "email": "kmatthews@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kit Clement",
+                    "email": "kclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Lauren Clement",
+                    "email": "lclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Michael Young",
+                    "email": "myoung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ryan Jew",
+                    "email": "rjew@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andrew Nathenson",
+                    "email": "colorfulpockets01@gmail.com"
+                },
+                {
+                    "name": "Brandon Harnish",
+                    "email": "bharnish@worldcubeassociation.org"
+                },
+                {
+                    "name": "Elijah Brown",
+                    "email": "ebrown@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kevin Matthews",
+                    "email": "kmatthews@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kit Clement",
+                    "email": "kclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Lauren Clement",
+                    "email": "lclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Liew Yee Voon (\u5289\u501a\u6587)",
+                    "email": "opliew.vanguards@gmail.com"
+                },
+                {
+                    "name": "Michael Young",
+                    "email": "myoung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ryan Jew",
+                    "email": "rjew@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "See the locations tab for more information about venue locations",
+                "address": "Multiple Locations",
+                "details": "",
+                "coordinates": {
+                    "latitude": 45.507194,
+                    "longitude": -122.680292
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        },
+        {
+            "id": "XelaOpen2019",
+            "name": "Xela Open 2019",
+            "city": "Quetzaltenango",
+            "country": "GT",
+            "date": {
+                "from": "2019-09-07",
+                "till": "2019-09-08",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Luis David Hern\u00e1ndez Mej\u00eda",
+                    "email": "lmejia@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Jackie V\u00e1squez",
+                    "email": "kakaw08@hotmail.com"
+                },
+                {
+                    "name": "Pablo Say",
+                    "email": "rubiksxela@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Centro Cultural Casa NOJ",
+                "address": "7ma calle 12-12 zona 1, Quetzaltenango",
+                "details": "Sal\u00f3n Principal",
+                "coordinates": {
+                    "latitude": 14.83372,
+                    "longitude": -91.518972
+                }
+            },
+            "information": "Competencia que se desarrolla por quinta vez en Quetzaltenango. Con el objetivo principal de aumentar la comunidad en esta area del pais y asi promover mas el speedcubing. \r\n\r\n\r\nCompetition that takes place for the fifth time in Quetzaltenango. With the main objective of increasing the community in this area of the country and thus promote more speedcubing.\r\n\r\nEnglish\r\n\"Competing T-shirts for those who register on the same day will be given until stocks run out. \"\r\n\r\nEspa\u00f1ol\r\n\"Las camisetas que compiten para aquellos que se registren el mismo d\u00eda se dar\u00e1n hasta que las existencias se agoten\" ",
+            "externalWebsite": null
+        },
+        {
+            "id": "TajikistanOpen2019",
+            "name": "Tajikistan Open 2019",
+            "city": "Khujand",
+            "country": "TJ",
+            "date": {
+                "from": "2019-08-24",
+                "till": "2019-08-25",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Igor Aipkin",
+                    "email": "iaipkin@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Igor Aipkin",
+                    "email": "iaipkin@worldcubeassociation.org"
+                },
+                {
+                    "name": "Shukrullo Ibragimov",
+                    "email": "tajikman12345@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "American Space in Khujand",
+                "address": "Kalandarov str., 56",
+                "details": "Grey 1 floor building near \"Nuri Islom\" mosque",
+                "coordinates": {
+                    "latitude": 40.302775,
+                    "longitude": 69.627581
+                }
+            },
+            "information": "The competition is open to everyone.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "JordanOpen2019",
+            "name": "Jordan Open 2019",
+            "city": "Amman",
+            "country": "JO",
+            "date": {
+                "from": "2019-07-27",
+                "till": "2019-07-27",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "444",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baha Alshwaiki",
+                    "email": "balshwaiki@worldcubeassociation.org"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Fuad Ali",
+                    "email": "fuadrubiks@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Omareyah Schools. \u0627\u0644\u0645\u062f\u0627\u0631\u0633 \u0627\u0644\u0639\u0645\u0631\u064a\u0629 - \u062b\u0627\u0646\u0648\u064a\u0629 \u0627\u0644\u0628\u0646\u064a\u0646",
+                "address": "Omareyah School, Ayaman Ramdan St 3, Amman, Jordan",
+                "details": "School Theatre. \u0645\u0633\u0631\u062d \u0627\u0644\u0645\u062f\u0631\u0633\u0629",
+                "coordinates": {
+                    "latitude": 31.982482,
+                    "longitude": 35.889238
+                }
+            },
+            "information": "**\u0639\u0631\u0628\u064a:**\r\n\u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 **\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u062e\u0631\u0649** \u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u062e\u0631\u0649\r\n\r\n**English:**\r\nPlease refer to the **More Info.** tab for more details.",
+            "externalWebsite": null
+        },
+        {
+            "id": "MoroccoSummer2019",
+            "name": "Morocco Summer 2019",
+            "city": "Rabat",
+            "country": "MA",
+            "date": {
+                "from": "2019-07-07",
+                "till": "2019-07-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "minx"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Soufiane Lakhlifi",
+                    "email": "slakhlifi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mohamed Elkhatri",
+                    "email": "mohamed.elkhatri2002@gmail.com"
+                },
+                {
+                    "name": "Omar Ouadouha",
+                    "email": "omar.ouadouha1@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "\u00c9cole Nationale Sup\u00e9rieure des Mines de Rabat",
+                "address": "Ecole Nationale sup\u00e9rieure des Mines de Rabat, Rabat",
+                "details": "Salle des invit\u00e9s",
+                "coordinates": {
+                    "latitude": 34.000312,
+                    "longitude": -6.854812
+                }
+            },
+            "information": "L'inscription est ouverte \u00e0 tout le monde jusqu'\u00e0 l'atteinte de 50 comp\u00e9titeurs inscrits.\r\nThe competition is open to everyone until the 50 competitor limit is reached.\r\nTime: 8am until 7pm.",
+            "externalWebsite": null
+        },
+        {
+            "id": "PalestineOpen2019",
+            "name": "Palestine Open 2019",
+            "city": "Al-Beira",
+            "country": "PS",
+            "date": {
+                "from": "2019-07-06",
+                "till": "2019-07-07",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ilya Tsiareshka",
+                    "email": "itsiareshka@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ahmad Abu Hussein",
+                    "email": "amah22222@yahoo.com"
+                }
+            ],
+            "venue": {
+                "name": "Baladeya Al Bireh",
+                "address": "Baladeya Al Bireh, Al-Bireh,00970 Be'Erot, West Bank",
+                "details": "On the first floor far in the back",
+                "coordinates": {
+                    "latitude": 31.904212,
+                    "longitude": 35.212635
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        },
+        {
+            "id": "SmartCubersEgypt2019",
+            "name": "Smart Cubers Egypt 2019",
+            "city": "Hurghada",
+            "country": "EG",
+            "date": {
+                "from": "2019-06-22",
+                "till": "2019-06-22",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "444"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mohamed Salem Diab",
+                    "email": "mohamed_diaaab@yahoo.com"
+                }
+            ],
+            "venue": {
+                "name": "Long Beach Resort Hurghada",
+                "address": "Sahl Hashish Rd, Hurghada",
+                "details": "",
+                "coordinates": {
+                    "latitude": 27.081306,
+                    "longitude": 33.85925
+                }
+            },
+            "information": "Please read the \"More Info. \/ \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u062e\u0631\u0649\" tab.",
+            "externalWebsite": null
+        },
+        {
+            "id": "MadagascarCubingOpen2019",
+            "name": "Madagascar Cubing Open 2019",
+            "city": "Antananarivo",
+            "country": "MG",
+            "date": {
+                "from": "2019-06-01",
+                "till": "2019-06-01",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andy Rasoanarivo",
+                    "email": "okalouservices@gmail.com"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Malagasy Association of Cubers",
+                    "email": "mg.associationmac@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Skate Park ",
+                "address": "Skate Park Antanimena",
+                "details": "Inside the Skate Park",
+                "coordinates": {
+                    "latitude": -18.897946,
+                    "longitude": 47.52384
+                }
+            },
+            "information": "Madagascar will host for the first time a WCA competition !\r\n\r\nOnly Malagasy competitors are eligible for prizes and podiums.\r\n_____\r\nMadagascar accueillera pour la premi\u00e8re fois une comp\u00e9tition de la WCA !\r\n\r\nSeulement les comp\u00e9titeurs Malgaches sont eligibles pour les prix et podiums.",
+            "externalWebsite": null
+        },
+        {
+            "id": "NigeriaOpen2019",
+            "name": "Nigeria Open 2019",
+            "city": "Lagos",
+            "country": "NG",
+            "date": {
+                "from": "2019-05-25",
+                "till": "2019-05-26",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Soufiane Lakhlifi",
+                    "email": "slakhlifi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arinze Owoh",
+                    "email": "arinzeowoh@gmail.com"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kemi Awe",
+                    "email": "kawe@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Lyc\u00e9e Fran\u00e7ais Louis Pasteur](https:\/\/www.lflp-lagos.com)",
+                "address": "16 Younis Bashorun Street, Victoria Island, Lagos, Nigeria",
+                "details": "Room: Salle des Droits de l'Homme",
+                "coordinates": {
+                    "latitude": 6.426613,
+                    "longitude": 3.436617
+                }
+            },
+            "information": "You're asked to have read the [WCA regulations](https:\/\/www.worldcubeassociation.org\/regulations\/), the tutorial at the competition is here to remind them to you!\r\nIt is very important to attend to at least one of the tutorials so that you can understand how the competition goes and to avoid incidents!\r\n\r\nThe competition is open to all competitors, of all ages and all nationalities!",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZurichOpen2019",
+            "name": "Zurich Open 2019",
+            "city": "Uster",
+            "country": "CH",
+            "date": {
+                "from": "2019-05-18",
+                "till": "2019-05-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Oleg Gritsenko",
+                    "email": "ogritsenko@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Fabian L\u00f6hle",
+                    "email": "fabian.lakers@hotmail.com"
+                },
+                {
+                    "name": "Theo Mayer",
+                    "email": "theoderkaffe@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Musikcontainer Uster",
+                "address": "Asylstrasse 10, 8610 Uster",
+                "details": "",
+                "coordinates": {
+                    "latitude": 47.350221,
+                    "longitude": 8.723703
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZagrebCubeDay2019",
+            "name": "Zagreb Cube Day 2019",
+            "city": "Zagreb",
+            "country": "HR",
+            "date": {
+                "from": "2019-05-12",
+                "till": "2019-05-12",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "David Vujasi\u0107",
+                    "email": "dvujasic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Filip Vukovi\u0107",
+                    "email": "fvukovic@speedcubinghrvatska.hr"
+                },
+                {
+                    "name": "Toni Varga",
+                    "email": "toni.varga@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Prva Gimnazija Zagreb](https:\/\/www.prva.hr\/)",
+                "address": "Avenija Dubrovnik 36, 10010, Zagreb, Hrvatska",
+                "details": "Competition will be held in the main hall. \/ Natjecanje \u0107e biti odr\u017eano u glavnoj prostoriji \u0161kole. ",
+                "coordinates": {
+                    "latitude": 45.777462,
+                    "longitude": 15.992121
+                }
+            },
+            "information": "(HR)\r\n\r\nZagreb Cube Day 2019 je dvanaesto natjecanje po redu koje se odr\u017eava u Hrvatskoj od 2011. godine. Bilo tko mo\u017ee sudjelovati, bez obzira na nacionalnost i\r\nstarost, no svatko mora biti upoznat s WCA Pravilnikom.\r\n\r\nNatjecanje je pod organizacijom Udruge Speedcubing Hrvatska. Kotizacija pokriva tro\u0161ak organizacije i najma prostora. Mogu\u0107i vi\u0161ak kotizacije ide u svrhu razvitka Udruge Speedcubing Hrvatska.\r\n\r\n--------------\r\n\r\n(EN)\r\n\r\nZagreb Cube Day 2019 is the 12th speedcubing competition being held in Croatia since 2011. Anyone can participate, no matter which nationality or age they are, but they need to be familiar with the WCA Regulations.\r\n\r\nThis competition is being organized by the Speedcubing Association Croatia. Registration fee covers the cost of the organization and venue rental. Any extra money goes directly to support Speedcubing Association Croatia.",
+            "externalWebsite": null
+        },
+        {
+            "id": "YJPetersburgSpecial2019",
+            "name": "YJ Petersburg Special 2019",
+            "city": "Kolpino, Saint Petersburg",
+            "country": "RU",
+            "date": {
+                "from": "2019-04-20",
+                "till": "2019-04-21",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "444bf",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ilya Tsiareshka",
+                    "email": "itsiareshka@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "IPO \"Speedcubing Federation\" (\u041c\u041e\u041e \"\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f \u0421\u043f\u0438\u0434\u043a\u0443\u0431\u0438\u043d\u0433\u0430\")",
+                    "email": "info@cubingrf.org"
+                },
+                {
+                    "name": "Serafima Petrova (\u0421\u0435\u0440\u0430\u0444\u0438\u043c\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0430)",
+                    "email": "petrova.serafima@yandex.ru"
+                }
+            ],
+            "venue": {
+                "name": "[Center for Children Technical Creativity](http:\/\/\u0446\u0434\u0442\u0442.\u0440\u0444)",
+                "address": "196655, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0433. \u041a\u043e\u043b\u043f\u0438\u043d\u043e, \u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u0443\u043b., \u0434. 23, \u043b\u0438\u0442\u0435\u0440\u0430 \u0410",
+                "details": "On the first floor in the Assembly Hall",
+                "coordinates": {
+                    "latitude": 59.74044,
+                    "longitude": 30.609495
+                }
+            },
+            "information": "ATTENTION! Please read \"Registration requirements\".\r\nPlease see the [website](https:\/\/vk.com\/yj_special) for more information.\r\n***\r\n\u0412\u041d\u0418\u041c\u0410\u041d\u0418\u0415! \u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043d\u0430 \u0440\u0430\u0437\u0434\u0435\u043b \"\u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438\" \u0438 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0435\u0433\u043e \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0439\u0442\u0435!\r\n\u0414\u043b\u044f \u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0437\u0430\u0445\u043e\u0434\u0438\u0442\u0435 \u0432 \u043d\u0430\u0448\u0443 [\u0433\u0440\u0443\u043f\u043f\u0443 \u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435](https:\/\/vk.com\/yj_special).",
+            "externalWebsite": "https:\/\/vk.com\/yj_special"
+        },
+        {
+            "id": "VillaCarlosPazOtono2019",
+            "name": "Villa Carlos Paz Oto\u00f1o 2019",
+            "city": "Villa Carlos Paz, C\u00f3rdoba",
+            "country": "AR",
+            "date": {
+                "from": "2019-04-19",
+                "till": "2019-04-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cristian Ezequiel Vega",
+                    "email": "cvega@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Agust\u00edn Bernasconi",
+                    "email": "hammerwtf10@gmail.com"
+                },
+                {
+                    "name": "Genaro Sahib Leguizamon",
+                    "email": "genasahib01@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Iglesia Vida Con Proposito",
+                "address": "Gabriela Mistral 549, Chincheta, Villa Carlos Paz, C\u00f3rdoba",
+                "details": "",
+                "coordinates": {
+                    "latitude": -31.413974,
+                    "longitude": -64.477627
+                }
+            },
+            "information": "VCP Oto\u00f1o 2019 will be the second competition ever to be hosted in the province of C\u00f3rdoba, Argentina. It will last two days and it will feature thirteen WCA events.\r\n\r\nVCP Oto\u00f1o 2019 ser\u00e1 la segunda competencia realizada en la Provincia de C\u00f3rdoba, Argentina. Constar\u00e1 de dos d\u00edas y se podr\u00e1 competir en trece categor\u00edas distintas.",
+            "externalWebsite": null
+        },
+        {
+            "id": "GhanaOpen2019",
+            "name": "Ghana Open 2019",
+            "city": "Accra",
+            "country": "GH",
+            "date": {
+                "from": "2019-04-06",
+                "till": "2019-04-06",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Pooja Gokaldas",
+                    "email": "poojavgokaldas@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Al Rayan International School",
+                "address": "Boundary Rd",
+                "details": "Auditorium ",
+                "coordinates": {
+                    "latitude": 5.629556,
+                    "longitude": -0.160079
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        },
+        {
+            "id": "VoruVark2019",
+            "name": "V\u00f5ru V\u00e4rk 2019",
+            "city": "V\u00f5ru",
+            "country": "EE",
+            "date": {
+                "from": "2019-04-06",
+                "till": "2019-04-06",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "clock",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Andreas Pung",
+                    "email": "apung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ivo Kruusam\u00e4gi",
+                    "email": "ikruusamagi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Remo Pihel",
+                    "email": "remopihel@gmail.com"
+                },
+                {
+                    "name": "Rio Truija",
+                    "email": "riotruija1@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[V\u00f5ru City Center School](http:\/\/www.vkk.edu.ee\/en\/)",
+                "address": "Vabaduse 12, V\u00f5ru, 65609 V\u00f5ru maakond, Estonia",
+                "details": "On the fourth floor, follow the signs.",
+                "coordinates": {
+                    "latitude": 57.84549,
+                    "longitude": 26.996713
+                }
+            },
+            "information": "* The main event of this competition is **2x2x2 Cube**.\r\n* This is the first competition in **V\u00f5ru**.\r\n![Eesti kuubik](https:\/\/i.imgur.com\/Cr7XSizt.png)\r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "SerbianOpen2019",
+            "name": "Serbian Open 2019",
+            "city": "Belgrade",
+            "country": "RS",
+            "date": {
+                "from": "2019-03-02",
+                "till": "2019-03-03",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksa Ili\u0107",
+                    "email": "ilic.alexa99@gmail.com"
+                },
+                {
+                    "name": "Aleksa Radovanovi\u0107",
+                    "email": "aradovanovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Mathematical Grammar School](https:\/\/www.mg.edu.rs)",
+                "address": "Kraljice Natalije 37, Beograd 11000, Srbija",
+                "details": "Pratite znakove da do\u0111ete do hale. \/ Follow the signs to the venue. ",
+                "coordinates": {
+                    "latitude": 44.809148,
+                    "longitude": 20.4614
+                }
+            },
+            "information": "Serbian Open 2019 je speedcubing takmi\u010denje. Svako moze da se takmi\u010di, nezavisno od njihove nacionalnosti ili godina, ali moraju biti upoznati sa WCA Regulacijama. Ovo takmi\u010denje je priznato i kao Srpsko Nacionalno Prvenstvo.\r\n\r\n------------------------\r\n\r\nSerbian Open 2019 is a speedcubing competition. Anyone can participate, no matter which nationality or age they are, but they need to be familiar with the WCA Regulations. This competition is also recognized as a Serbian National Championship.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VossOpen2019",
+            "name": "Voss Open 2019",
+            "city": "Voss",
+            "country": "NO",
+            "date": {
+                "from": "2019-02-23",
+                "till": "2019-02-24",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ulrik Bredland",
+                    "email": "ubredland@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ivar Strangstadstuen",
+                    "email": "tre141592653589793238462643383@gmail.com"
+                },
+                {
+                    "name": "Jonatan Solheim",
+                    "email": "tilingen@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Voss Folkeh\u00f8gskule",
+                "address": "Eskelandsvegen 28, 5704 Voss",
+                "details": "Olavsalen",
+                "coordinates": {
+                    "latitude": 60.62553,
+                    "longitude": 6.390886
+                }
+            },
+            "information": "Everyone who can solve a cube are welcome to participate in this competition!\r\n\r\n-----\r\n\r\nAlle som kan l\u00f8se kube er velkomne til \u00e5 delta i denne konkurransen!",
+            "externalWebsite": "http:\/\/kubing.no\/events\/vo2019\/"
+        },
+        {
+            "id": "MontenegroOpen2019",
+            "name": "Montenegro Open 2019",
+            "city": "Podgorica",
+            "country": "ME",
+            "date": {
+                "from": "2019-02-09",
+                "till": "2019-02-10",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "David Pantovi\u0107",
+                    "email": "davidpantovic24@gmail.com"
+                },
+                {
+                    "name": "Reto Bubendorf",
+                    "email": "retobubendorf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "University of Montenegro",
+                "address": "Bulevar D\u017eord\u017ea Va\u0161ingtona, Podgorica",
+                "details": "on the second floor, follow the signs",
+                "coordinates": {
+                    "latitude": 42.443069,
+                    "longitude": 19.240667
+                }
+            },
+            "information": "For more information check out the tabs!\r\nZa vi\u0161e informacija pogledajte tabove!",
+            "externalWebsite": null
+        },
+        {
+            "id": "MacedoniaWinter2019",
+            "name": "Macedonia Winter 2019",
+            "city": "Skopje",
+            "country": "MK",
+            "date": {
+                "from": "2019-02-02",
+                "till": "2019-02-03",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Reto Bubendorf",
+                    "email": "retobubendorf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Hotel Aleksandar Palace, Skopje",
+                "address": "Prohor Pcinjski, Skopje 1000",
+                "details": "Congress hall (there will be signs on the venue)",
+                "coordinates": {
+                    "latitude": 42.010787,
+                    "longitude": 21.405594
+                }
+            },
+            "information": "For more information check out the tabs!",
+            "externalWebsite": null
+        },
+        {
+            "id": "LightsOfReykjavik2019",
+            "name": "Lights of Reykjavik 2019",
+            "city": "Hafnarfj\u00f6r\u00f0ur",
+            "country": "IS",
+            "date": {
+                "from": "2019-01-04",
+                "till": "2019-01-05",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Hari Anirudh",
+                    "email": "harisv.1994@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Danival Heide S\u00e6varsson",
+                    "email": "dsaevarsson@worldcubeassociation.org"
+                },
+                {
+                    "name": "P\u00e9tur \u00d3skarsson",
+                    "email": "petur@viator.is"
+                },
+                {
+                    "name": "R\u00fanar Gauti Gunnarsson",
+                    "email": "runarg2002@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Flensborgarsk\u00f3linn",
+                "address": "Hringbraut 10, 220, Hafnarfjordur, Iceland",
+                "details": "Follow the signs\/ fylgi\u00f0 merkingunum",
+                "coordinates": {
+                    "latitude": 64.065124,
+                    "longitude": -21.951281
+                }
+            },
+            "information": "**Walk in registrations will be allowed until we reach the limit of registration**\r\n\r\nSpace in the venue is limited, please let us know how many people will come with you.\r\nYou will have to pay the registration fees at the venue the day of the competition to participate: kr1500 (~11\u20ac)\r\n________\r\n\r\nPl\u00e1ss \u00e1 sta\u00f0num er takmarka\u00f0 svo endilega l\u00e1ti\u00f0 okkur vita hversu marga gesti \u00fei\u00f0 munu\u00f0 hafa me\u00f0 ykkur.\r\nM\u00f3tsgjald er 1500 kr\u00f3nur fyrir keppendur og ver\u00f0ur \u00fea\u00f0 greitt \u00e1 m\u00f3tsdag.\r\n________\r\n.",
+            "externalWebsite": null
+        }
+    ]
+}

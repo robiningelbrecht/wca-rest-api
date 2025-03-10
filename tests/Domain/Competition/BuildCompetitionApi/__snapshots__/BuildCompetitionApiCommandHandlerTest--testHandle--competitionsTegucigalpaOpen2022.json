@@ -1,0 +1,56 @@
+{
+    "id": "TegucigalpaOpen2022",
+    "name": "Tegucigalpa Open 2022",
+    "city": "Tegucigalpa",
+    "country": "HN",
+    "date": {
+        "from": "2022-06-26",
+        "till": "2022-06-26",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "444",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Luis David Hern\u00e1ndez Mej\u00eda",
+            "email": "lmejia@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Erick Y. Maldonado",
+            "email": "erickyahirm@yahoo.com"
+        },
+        {
+            "name": "Gabriel Alejandro Obando Gonzalez",
+            "email": "gabrielobando2001@gmail.com"
+        },
+        {
+            "name": "Luis David Hern\u00e1ndez Mej\u00eda",
+            "email": "lmejia@worldcubeassociation.org"
+        },
+        {
+            "name": "Mauricio Daniel Salgado Carrillo",
+            "email": "maurydaniel10@yahoo.com"
+        }
+    ],
+    "venue": {
+        "name": "Universidad Aut\u00f3noma de Honduras",
+        "address": "Justo al costado de la Vicerrectoria Academica",
+        "details": "Plaza Registro ",
+        "coordinates": {
+            "latitude": 14.083897,
+            "longitude": -87.16319
+        }
+    },
+    "information": "Tegucigalpa Open 2022 es el tan anhelado regreso de las competencias al pais, se contara con premios para los primeros lugares de cada categoria y sera un evento abierto a competidores de cualquier nacionalidad.\r\n\r\nTegucigalpa Open 2022 is the long-awaited return of competitions to the country, there will be prizes for the first places in each category and it will be an event open to competitors of any nationality.",
+    "externalWebsite": null
+}

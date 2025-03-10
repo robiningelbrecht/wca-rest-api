@@ -1,0 +1,2918 @@
+{
+    "rank\/world\/single\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "222",
+                "best": 71,
+                "rank": {
+                    "world": 90,
+                    "continent": 19,
+                    "country": 14
+                }
+            },
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "222",
+                "best": 288,
+                "rank": {
+                    "world": 13272,
+                    "continent": 3648,
+                    "country": 2721
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "222",
+                "best": 71,
+                "rank": {
+                    "world": 90,
+                    "continent": 19,
+                    "country": 14
+                }
+            }
+        ]
+    },
+    "rank\/US\/single\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "222",
+                "best": 288,
+                "rank": {
+                    "world": 13272,
+                    "continent": 3648,
+                    "country": 2721
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/single\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "222",
+                "best": 288,
+                "rank": {
+                    "world": 13272,
+                    "continent": 3648,
+                    "country": 2721
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "222",
+                "best": 71,
+                "rank": {
+                    "world": 90,
+                    "continent": 19,
+                    "country": 14
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/333bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333bf",
+                "best": 3437,
+                "rank": {
+                    "world": 331,
+                    "continent": 21,
+                    "country": 16
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/333bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333bf",
+                "best": 3437,
+                "rank": {
+                    "world": 331,
+                    "continent": 21,
+                    "country": 16
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/333bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333bf",
+                "best": 3437,
+                "rank": {
+                    "world": 331,
+                    "continent": 21,
+                    "country": 16
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "333",
+                "best": 313,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333",
+                "best": 416,
+                "rank": {
+                    "world": 12,
+                    "continent": 2,
+                    "country": 2
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333",
+                "best": 416,
+                "rank": {
+                    "world": 12,
+                    "continent": 2,
+                    "country": 2
+                }
+            }
+        ]
+    },
+    "rank\/US\/single\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "333",
+                "best": 313,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/single\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "333",
+                "best": 313,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333",
+                "best": 416,
+                "rank": {
+                    "world": 12,
+                    "continent": 2,
+                    "country": 2
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/333fm": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333fm",
+                "best": 24,
+                "rank": {
+                    "world": 222,
+                    "continent": 11,
+                    "country": 8
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/333fm": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333fm",
+                "best": 24,
+                "rank": {
+                    "world": 222,
+                    "continent": 11,
+                    "country": 8
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/333fm": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333fm",
+                "best": 24,
+                "rank": {
+                    "world": 222,
+                    "continent": 11,
+                    "country": 8
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/333mbf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333mbf",
+                "best": 880282100,
+                "rank": {
+                    "world": 328,
+                    "continent": 23,
+                    "country": 17
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/333mbf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333mbf",
+                "best": 880282100,
+                "rank": {
+                    "world": 328,
+                    "continent": 23,
+                    "country": 17
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/333mbf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333mbf",
+                "best": 880282100,
+                "rank": {
+                    "world": 328,
+                    "continent": 23,
+                    "country": 17
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "333oh",
+                "best": 620,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333oh",
+                "best": 688,
+                "rank": {
+                    "world": 4,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333oh",
+                "best": 688,
+                "rank": {
+                    "world": 4,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/single\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "333oh",
+                "best": 620,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/single\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "333oh",
+                "best": 620,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "333oh",
+                "best": 688,
+                "rank": {
+                    "world": 4,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/444bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "444bf",
+                "best": 21780,
+                "rank": {
+                    "world": 131,
+                    "continent": 7,
+                    "country": 6
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/444bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "444bf",
+                "best": 21780,
+                "rank": {
+                    "world": 131,
+                    "continent": 7,
+                    "country": 6
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/444bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "444bf",
+                "best": 21780,
+                "rank": {
+                    "world": 131,
+                    "continent": 7,
+                    "country": 6
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "444",
+                "best": 1679,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "444",
+                "best": 1798,
+                "rank": {
+                    "world": 3,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "444",
+                "best": 1798,
+                "rank": {
+                    "world": 3,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/single\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "444",
+                "best": 1679,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/single\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "444",
+                "best": 1679,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "444",
+                "best": 1798,
+                "rank": {
+                    "world": 3,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/555bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "555bf",
+                "best": 71600,
+                "rank": {
+                    "world": 164,
+                    "continent": 7,
+                    "country": 6
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/555bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "555bf",
+                "best": 71600,
+                "rank": {
+                    "world": 164,
+                    "continent": 7,
+                    "country": 6
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/555bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "555bf",
+                "best": 71600,
+                "rank": {
+                    "world": 164,
+                    "continent": 7,
+                    "country": 6
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "555",
+                "best": 3302,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "555",
+                "best": 3793,
+                "rank": {
+                    "world": 5,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "555",
+                "best": 3793,
+                "rank": {
+                    "world": 5,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/single\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "555",
+                "best": 3302,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/single\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "555",
+                "best": 3302,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "555",
+                "best": 3793,
+                "rank": {
+                    "world": 5,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "666",
+                "best": 5974,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "666",
+                "best": 7654,
+                "rank": {
+                    "world": 9,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "666",
+                "best": 7654,
+                "rank": {
+                    "world": 9,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/single\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "666",
+                "best": 5974,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/single\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "666",
+                "best": 5974,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "666",
+                "best": 7654,
+                "rank": {
+                    "world": 9,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "777",
+                "best": 9568,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "777",
+                "best": 11362,
+                "rank": {
+                    "world": 8,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "777",
+                "best": 11362,
+                "rank": {
+                    "world": 8,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/single\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "777",
+                "best": 9568,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/single\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "777",
+                "best": 9568,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "777",
+                "best": 11362,
+                "rank": {
+                    "world": 8,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/clock": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "clock",
+                "best": 881,
+                "rank": {
+                    "world": 1878,
+                    "continent": 102,
+                    "country": 64
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/clock": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "clock",
+                "best": 881,
+                "rank": {
+                    "world": 1878,
+                    "continent": 102,
+                    "country": 64
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/clock": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "clock",
+                "best": 881,
+                "rank": {
+                    "world": 1878,
+                    "continent": 102,
+                    "country": 64
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/magic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "magic",
+                "best": 130,
+                "rank": {
+                    "world": 823,
+                    "continent": 4,
+                    "country": 4
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/magic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "magic",
+                "best": 130,
+                "rank": {
+                    "world": 823,
+                    "continent": 4,
+                    "country": 4
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/magic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "magic",
+                "best": 130,
+                "rank": {
+                    "world": 823,
+                    "continent": 4,
+                    "country": 4
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/mmagic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "mmagic",
+                "best": 552,
+                "rank": {
+                    "world": 1619,
+                    "continent": 23,
+                    "country": 20
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/mmagic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "mmagic",
+                "best": 552,
+                "rank": {
+                    "world": 1619,
+                    "continent": 23,
+                    "country": 20
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/mmagic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "mmagic",
+                "best": 552,
+                "rank": {
+                    "world": 1619,
+                    "continent": 23,
+                    "country": 20
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/minx": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "minx",
+                "best": 3311,
+                "rank": {
+                    "world": 48,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/minx": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "minx",
+                "best": 3311,
+                "rank": {
+                    "world": 48,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/minx": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "minx",
+                "best": 3311,
+                "rank": {
+                    "world": 48,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/pyram": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "pyram",
+                "best": 227,
+                "rank": {
+                    "world": 906,
+                    "continent": 65,
+                    "country": 42
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/pyram": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "pyram",
+                "best": 227,
+                "rank": {
+                    "world": 906,
+                    "continent": 65,
+                    "country": 42
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/pyram": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "pyram",
+                "best": 227,
+                "rank": {
+                    "world": 906,
+                    "continent": 65,
+                    "country": 42
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/skewb": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "skewb",
+                "best": 220,
+                "rank": {
+                    "world": 567,
+                    "continent": 46,
+                    "country": 40
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/skewb": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "skewb",
+                "best": 220,
+                "rank": {
+                    "world": 567,
+                    "continent": 46,
+                    "country": 40
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/skewb": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "skewb",
+                "best": 220,
+                "rank": {
+                    "world": 567,
+                    "continent": 46,
+                    "country": 40
+                }
+            }
+        ]
+    },
+    "rank\/world\/single\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "sq1",
+                "best": 899,
+                "rank": {
+                    "world": 543,
+                    "continent": 35,
+                    "country": 25
+                }
+            },
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "sq1",
+                "best": 5269,
+                "rank": {
+                    "world": 12449,
+                    "continent": 4016,
+                    "country": 3163
+                }
+            }
+        ]
+    },
+    "rank\/AU\/single\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "sq1",
+                "best": 899,
+                "rank": {
+                    "world": 543,
+                    "continent": 35,
+                    "country": 25
+                }
+            }
+        ]
+    },
+    "rank\/US\/single\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "sq1",
+                "best": 5269,
+                "rank": {
+                    "world": 12449,
+                    "continent": 4016,
+                    "country": 3163
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/single\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2012PARK03",
+                "eventId": "sq1",
+                "best": 5269,
+                "rank": {
+                    "world": 12449,
+                    "continent": 4016,
+                    "country": 3163
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/single\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "single",
+                "personId": "2009ZEMD01",
+                "eventId": "sq1",
+                "best": 899,
+                "rank": {
+                    "world": 543,
+                    "continent": 35,
+                    "country": 25
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "222",
+                "best": 154,
+                "rank": {
+                    "world": 75,
+                    "continent": 3,
+                    "country": 2
+                }
+            },
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "222",
+                "best": 431,
+                "rank": {
+                    "world": 10018,
+                    "continent": 2803,
+                    "country": 2125
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "222",
+                "best": 154,
+                "rank": {
+                    "world": 75,
+                    "continent": 3,
+                    "country": 2
+                }
+            }
+        ]
+    },
+    "rank\/US\/average\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "222",
+                "best": 431,
+                "rank": {
+                    "world": 10018,
+                    "continent": 2803,
+                    "country": 2125
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/average\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "222",
+                "best": 431,
+                "rank": {
+                    "world": 10018,
+                    "continent": 2803,
+                    "country": 2125
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/222": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "222",
+                "best": 154,
+                "rank": {
+                    "world": 75,
+                    "continent": 3,
+                    "country": 2
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/333bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333bf",
+                "best": 4713,
+                "rank": {
+                    "world": 283,
+                    "continent": 19,
+                    "country": 14
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/333bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333bf",
+                "best": 4713,
+                "rank": {
+                    "world": 283,
+                    "continent": 19,
+                    "country": 14
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/333bf": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333bf",
+                "best": 4713,
+                "rank": {
+                    "world": 283,
+                    "continent": 19,
+                    "country": 14
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "333",
+                "best": 486,
+                "rank": {
+                    "world": 2,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333",
+                "best": 553,
+                "rank": {
+                    "world": 8,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333",
+                "best": 553,
+                "rank": {
+                    "world": 8,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/average\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "333",
+                "best": 486,
+                "rank": {
+                    "world": 2,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/average\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "333",
+                "best": 486,
+                "rank": {
+                    "world": 2,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/333": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333",
+                "best": 553,
+                "rank": {
+                    "world": 8,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/333fm": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333fm",
+                "best": 2733,
+                "rank": {
+                    "world": 141,
+                    "continent": 10,
+                    "country": 9
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/333fm": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333fm",
+                "best": 2733,
+                "rank": {
+                    "world": 141,
+                    "continent": 10,
+                    "country": 9
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/333fm": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333fm",
+                "best": 2733,
+                "rank": {
+                    "world": 141,
+                    "continent": 10,
+                    "country": 9
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "333oh",
+                "best": 876,
+                "rank": {
+                    "world": 2,
+                    "continent": 2,
+                    "country": 2
+                }
+            },
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333oh",
+                "best": 968,
+                "rank": {
+                    "world": 16,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333oh",
+                "best": 968,
+                "rank": {
+                    "world": 16,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/average\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "333oh",
+                "best": 876,
+                "rank": {
+                    "world": 2,
+                    "continent": 2,
+                    "country": 2
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/average\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "333oh",
+                "best": 876,
+                "rank": {
+                    "world": 2,
+                    "continent": 2,
+                    "country": 2
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/333oh": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "333oh",
+                "best": 968,
+                "rank": {
+                    "world": 16,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "444",
+                "best": 1938,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "444",
+                "best": 2157,
+                "rank": {
+                    "world": 3,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "444",
+                "best": 2157,
+                "rank": {
+                    "world": 3,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/average\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "444",
+                "best": 1938,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/average\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "444",
+                "best": 1938,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/444": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "444",
+                "best": 2157,
+                "rank": {
+                    "world": 3,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "555",
+                "best": 3700,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "555",
+                "best": 4209,
+                "rank": {
+                    "world": 5,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "555",
+                "best": 4209,
+                "rank": {
+                    "world": 5,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/average\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "555",
+                "best": 3700,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/average\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "555",
+                "best": 3700,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/555": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "555",
+                "best": 4209,
+                "rank": {
+                    "world": 5,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "666",
+                "best": 6856,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "666",
+                "best": 8190,
+                "rank": {
+                    "world": 7,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "666",
+                "best": 8190,
+                "rank": {
+                    "world": 7,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/average\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "666",
+                "best": 6856,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/average\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "666",
+                "best": 6856,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/666": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "666",
+                "best": 8190,
+                "rank": {
+                    "world": 7,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "777",
+                "best": 10212,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            },
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "777",
+                "best": 12063,
+                "rank": {
+                    "world": 9,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "777",
+                "best": 12063,
+                "rank": {
+                    "world": 9,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/US\/average\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "777",
+                "best": 10212,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/average\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "777",
+                "best": 10212,
+                "rank": {
+                    "world": 1,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/777": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "777",
+                "best": 12063,
+                "rank": {
+                    "world": 9,
+                    "continent": 1,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/clock": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "clock",
+                "best": 1180,
+                "rank": {
+                    "world": 2447,
+                    "continent": 123,
+                    "country": 80
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/clock": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "clock",
+                "best": 1180,
+                "rank": {
+                    "world": 2447,
+                    "continent": 123,
+                    "country": 80
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/clock": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "clock",
+                "best": 1180,
+                "rank": {
+                    "world": 2447,
+                    "continent": 123,
+                    "country": 80
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/magic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "magic",
+                "best": 139,
+                "rank": {
+                    "world": 430,
+                    "continent": 4,
+                    "country": 4
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/magic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "magic",
+                "best": 139,
+                "rank": {
+                    "world": 430,
+                    "continent": 4,
+                    "country": 4
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/magic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "magic",
+                "best": 139,
+                "rank": {
+                    "world": 430,
+                    "continent": 4,
+                    "country": 4
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/mmagic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "mmagic",
+                "best": 674,
+                "rank": {
+                    "world": 1608,
+                    "continent": 24,
+                    "country": 20
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/mmagic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "mmagic",
+                "best": 674,
+                "rank": {
+                    "world": 1608,
+                    "continent": 24,
+                    "country": 20
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/mmagic": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "mmagic",
+                "best": 674,
+                "rank": {
+                    "world": 1608,
+                    "continent": 24,
+                    "country": 20
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/minx": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "minx",
+                "best": 3665,
+                "rank": {
+                    "world": 42,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/minx": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "minx",
+                "best": 3665,
+                "rank": {
+                    "world": 42,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/minx": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "minx",
+                "best": 3665,
+                "rank": {
+                    "world": 42,
+                    "continent": 2,
+                    "country": 1
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/pyram": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "pyram",
+                "best": 420,
+                "rank": {
+                    "world": 1298,
+                    "continent": 77,
+                    "country": 54
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/pyram": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "pyram",
+                "best": 420,
+                "rank": {
+                    "world": 1298,
+                    "continent": 77,
+                    "country": 54
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/pyram": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "pyram",
+                "best": 420,
+                "rank": {
+                    "world": 1298,
+                    "continent": 77,
+                    "country": 54
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/skewb": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "skewb",
+                "best": 508,
+                "rank": {
+                    "world": 1696,
+                    "continent": 88,
+                    "country": 66
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/skewb": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "skewb",
+                "best": 508,
+                "rank": {
+                    "world": 1696,
+                    "continent": 88,
+                    "country": 66
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/skewb": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "skewb",
+                "best": 508,
+                "rank": {
+                    "world": 1696,
+                    "continent": 88,
+                    "country": 66
+                }
+            }
+        ]
+    },
+    "rank\/world\/average\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 2
+        },
+        "total": 2,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "sq1",
+                "best": 1258,
+                "rank": {
+                    "world": 567,
+                    "continent": 34,
+                    "country": 22
+                }
+            },
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "sq1",
+                "best": 7020,
+                "rank": {
+                    "world": 11064,
+                    "continent": 3554,
+                    "country": 2770
+                }
+            }
+        ]
+    },
+    "rank\/AU\/average\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "sq1",
+                "best": 1258,
+                "rank": {
+                    "world": 567,
+                    "continent": 34,
+                    "country": 22
+                }
+            }
+        ]
+    },
+    "rank\/US\/average\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "sq1",
+                "best": 7020,
+                "rank": {
+                    "world": 11064,
+                    "continent": 3554,
+                    "country": 2770
+                }
+            }
+        ]
+    },
+    "rank\/north-america\/average\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2012PARK03",
+                "eventId": "sq1",
+                "best": 7020,
+                "rank": {
+                    "world": 11064,
+                    "continent": 3554,
+                    "country": 2770
+                }
+            }
+        ]
+    },
+    "rank\/oceania\/average\/sq1": {
+        "pagination": {
+            "page": 1,
+            "size": 1
+        },
+        "total": 1,
+        "items": [
+            {
+                "rankType": "average",
+                "personId": "2009ZEMD01",
+                "eventId": "sq1",
+                "best": 1258,
+                "rank": {
+                    "world": 567,
+                    "continent": 34,
+                    "country": 22
+                }
+            }
+        ]
+    }
+}

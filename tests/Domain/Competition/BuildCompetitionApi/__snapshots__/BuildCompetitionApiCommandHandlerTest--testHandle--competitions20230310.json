@@ -1,0 +1,63 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "Q8speedcubinginKSE2023",
+            "name": "Q8speedcubing in K.S.E 2023",
+            "city": "Bneid Al-Gar",
+            "country": "KW",
+            "date": {
+                "from": "2023-03-10",
+                "till": "2023-03-11",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Zakarya Otair",
+                    "email": "zotair@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mohammad Almoumen",
+                    "email": "almoumn95@gmail.com"
+                },
+                {
+                    "name": "Saoud Abdulaziz Almutawa",
+                    "email": "almutawa002@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Kuwait Society of Engineers  ",
+                "address": "Soor St  Kuwait City, Kuwait",
+                "details": "Theater in the basement of the building .",
+                "coordinates": {
+                    "latitude": 29.38172,
+                    "longitude": 48.002043
+                }
+            },
+            "information": "\u0623\u0647\u0644\u0627 \u0628\u0643\u0645 \u0641\u064a \u0645\u0633\u0627\u0628\u0642\u0629 \r\nQ8speedcubing 2023.\r\n\u0627\u0644\u0639\u0646\u0648\u0627\u0646 :- \u0627\u0644\u0643\u0648\u064a\u062a - \u0628\u0646\u064a\u062f \u0627\u0644\u0642\u0627\u0631 - \u0634\u0627\u0631\u0639 \u0627\u0644\u0633\u0648\u0631 - \u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0645\u0647\u0646\u062f\u0633\u064a\u0646 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629 - \u0642\u0627\u0639\u0629 \u0627\u0644\u0633\u0631\u062f\u0627\u0628 \u0643\u0645\u0627 \u0647\u0648 \u0645\u0648\u0636\u062d \u0641\u064a \u0631\u0627\u0628\u0637 \u062e\u0631\u0627\u0626\u0637 \u062c\u0648\u062c\u0644 \r\n\r\nWelcome to Q8speedcubing in K.S.E 2023 \r\nKuwait - Bnied Al-Gar - Soor St. - Kuwait Soceity of Engineers as shown in the Google maps link .\r\nThe competition is in hall in the basment .\r\n![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHd3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8d2ceffa16f32641b740813db8e197348f3de2c\/Q8.png)![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDB3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1b63aa936b62d3e021c7dae0dfee8c7126069c8\/K.S.E.jpg)\r\n\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

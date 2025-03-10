@@ -1,0 +1,61 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "ZuneOpen2012",
+            "name": "Zune Open 2012",
+            "city": "Namur",
+            "country": "BE",
+            "date": {
+                "from": "2012-04-28",
+                "till": "2012-04-29",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Lars Vandenbergh",
+                    "email": "lars@cubezone.be"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Zo\u00e9 de Moffarts",
+                    "email": "zoe.demoffarts@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Le Chalet",
+                "address": "25 Rue du Cimeti\u00e8re, 5100 Jambes",
+                "details": "",
+                "coordinates": {
+                    "latitude": 50.456367,
+                    "longitude": 4.871877
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/dl.dropbox.com\/u\/23824956\/Zune%20Open%20website\/home.html"
+        }
+    ]
+}

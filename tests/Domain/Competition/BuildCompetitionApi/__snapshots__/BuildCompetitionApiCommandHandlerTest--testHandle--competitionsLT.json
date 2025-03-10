@@ -1,0 +1,67 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "VilniusWinterOpen2023",
+            "name": "Vilnius Winter Open 2023",
+            "city": "Vilnius",
+            "country": "LT",
+            "date": {
+                "from": "2023-01-14",
+                "till": "2023-01-15",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Kasparas Lienys",
+                    "email": "klienys@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Eimantas Vansevi\u010dius",
+                    "email": "eimantas.vansevicius@gmail.com"
+                },
+                {
+                    "name": "Kasparas Lienys",
+                    "email": "klienys@worldcubeassociation.org"
+                },
+                {
+                    "name": "\u017dygimantas E\u017eerskis",
+                    "email": "ezygis2008@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[\u017demynos progimnazija](https:\/\/zemynosprogimnazija.lt\/)",
+                "address": "\u017demynos gatv\u0117 14, Vilnius, Vilniaus miesto savivaldyb\u0117",
+                "details": "On the first floor, follow the signs",
+                "coordinates": {
+                    "latitude": 54.72848,
+                    "longitude": 25.232419
+                }
+            },
+            "information": "Dalyviai, dalyvaujantis tik vienoje rungtyje var\u017eybose dalyvauja nemokamai.\r\nReguliariai tikrinkite savo elektroninio pa\u0161to d\u0117\u017eut\u0119 d\u0117l patvirtinimo lai\u0161ko ir naujos informacijos d\u0117l var\u017eyb\u0173.\r\n\r\nCompetitors competing in only one event participate for free.\r\nRegularly check your email inbox for confirmation email and updates about the competition.\r\n\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

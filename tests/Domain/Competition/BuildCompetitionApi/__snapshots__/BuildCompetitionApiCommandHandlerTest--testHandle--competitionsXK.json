@@ -1,0 +1,61 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "KosovoOpen2023",
+            "name": "Kosovo Open 2023",
+            "city": "Prishtina",
+            "country": "XK",
+            "date": {
+                "from": "2023-06-25",
+                "till": "2023-06-25",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Samuel Mema",
+                    "email": "samuelmema33@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Lir Ukaj",
+                    "email": "hikmetukaj@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[International School of Prishtina](https:\/\/ispkosova.com\/)",
+                "address": "Preoc, Marigona Residence, International School of Prishtina \/ Gracanica 10000",
+                "details": "Sports hall",
+                "coordinates": {
+                    "latitude": 42.585061,
+                    "longitude": 21.106898
+                }
+            },
+            "information": "For more information check out the tabs!",
+            "externalWebsite": null
+        }
+    ]
+}

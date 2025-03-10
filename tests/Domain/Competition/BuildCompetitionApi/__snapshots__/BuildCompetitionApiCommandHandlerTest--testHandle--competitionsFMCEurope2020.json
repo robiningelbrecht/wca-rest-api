@@ -1,0 +1,54 @@
+{
+    "id": "FMCEurope2020",
+    "name": "FMC Europe 2020",
+    "city": "Multiple cities (see website)",
+    "country": "XE",
+    "date": {
+        "from": "2020-03-22",
+        "till": "2020-03-22",
+        "numberOfDays": 1
+    },
+    "isCanceled": true,
+    "events": [
+        "333fm"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Laura Ohrndorf",
+            "email": "lohrndorf@worldcubeassociation.org"
+        },
+        {
+            "name": "Linus Fr\u00e9sz",
+            "email": "linuf95@gmail.com"
+        },
+        {
+            "name": "S\u00e9bastien Auroux",
+            "email": "sauroux@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Laura Ohrndorf",
+            "email": "lohrndorf@worldcubeassociation.org"
+        },
+        {
+            "name": "Linus Fr\u00e9sz",
+            "email": "linuf95@gmail.com"
+        },
+        {
+            "name": "S\u00e9bastien Auroux",
+            "email": "sauroux@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "Multiple venues; [Registered locations](https:\/\/fmc-europe2020.fewest-moves.com\/)",
+        "address": "Multiple locations throughout Europe (see competition website)",
+        "details": "",
+        "coordinates": {
+            "latitude": 50.850339,
+            "longitude": 4.35171
+        }
+    },
+    "information": "# The competition is cancelled due to the COVID-19 outbreak.\r\n### This includes all locations!\r\n\r\nThe competition will be held in multiple locations, throughout Europe. **Please pay attention to the time zone of your location!** For more details, check out the competition website!\r\n\r\nMore locations may be added until the 21st of February 2020, 23:59 UTC. If there is no location near you yet, make sure to regularly check our [website](https:\/\/fmc-europe2020.fewest-moves.com\/) for new locations!",
+    "externalWebsite": "https:\/\/fmc-europe2020.fewest-moves.com\/"
+}

@@ -1,0 +1,51 @@
+{
+    "id": "VinderupOpen2016",
+    "name": "Vinderup Open 2016",
+    "city": "Vinderup",
+    "country": "DK",
+    "date": {
+        "from": "2016-10-08",
+        "till": "2016-10-09",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333mbf",
+        "333oh",
+        "444",
+        "444bf",
+        "555",
+        "555bf",
+        "666",
+        "777",
+        "minx",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Henrik Buus Aagaard",
+            "email": "haagaard@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Karina Grandjean Beck",
+            "email": "karinagrandjeanbeck@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[Vinderup Realskole](http:\/\/www.vinderup-real.dk\/)",
+        "address": "Vinderup Realskole, Sevelvej 42, 7830 Vinderup",
+        "details": "",
+        "coordinates": {
+            "latitude": 56.478631,
+            "longitude": 8.78436
+        }
+    },
+    "information": "Registration fee is 50dkr, it is possible to sleep at the venue (contact organiser)",
+    "externalWebsite": null
+}

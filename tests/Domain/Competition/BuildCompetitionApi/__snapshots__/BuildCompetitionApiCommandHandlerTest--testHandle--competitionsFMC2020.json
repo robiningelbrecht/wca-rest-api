@@ -1,0 +1,78 @@
+{
+    "id": "FMC2020",
+    "name": "FMC 2020",
+    "city": "Multiple Cities",
+    "country": "XW",
+    "date": {
+        "from": "2020-06-13",
+        "till": "2020-06-14",
+        "numberOfDays": 2
+    },
+    "isCanceled": true,
+    "events": [
+        "333fm"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Akash Rupela",
+            "email": "arupela@worldcubeassociation.org"
+        },
+        {
+            "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+            "email": "bdong@worldcubeassociation.org"
+        },
+        {
+            "name": "Ethan Pride",
+            "email": "epride@worldcubeassociation.org"
+        },
+        {
+            "name": "Kit Clement",
+            "email": "kclement@worldcubeassociation.org"
+        },
+        {
+            "name": "Philippe Virouleau",
+            "email": "pvirouleau@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Akash Rupela",
+            "email": "arupela@worldcubeassociation.org"
+        },
+        {
+            "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+            "email": "bdong@worldcubeassociation.org"
+        },
+        {
+            "name": "Callum James Goodyear",
+            "email": "cgoodyear@worldcubeassociation.org"
+        },
+        {
+            "name": "Ethan Pride",
+            "email": "epride@worldcubeassociation.org"
+        },
+        {
+            "name": "Kit Clement",
+            "email": "kclement@worldcubeassociation.org"
+        },
+        {
+            "name": "Philippe Virouleau",
+            "email": "pvirouleau@worldcubeassociation.org"
+        },
+        {
+            "name": "Theo Daniel Gallegos Cuevas",
+            "email": "theogallegos88@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Multiple Cities",
+        "address": "Multiple Locations",
+        "details": "See the locations tab for more information about venue locations",
+        "coordinates": {
+            "latitude": 0,
+            "longitude": 0
+        }
+    },
+    "information": "# The competition has been cancelled due to the COVID-19 outbreak.\r\nThe competition will be held in multiple locations, across the globe. Please pay attention to the **date and time zone** of your location!\r\n\r\nLocations may be added until the 13th of May 23:59UTC so if there isn't a location near you yet contact your local [Delegate](https:\/\/www.worldcubeassociation.org\/delegates).",
+    "externalWebsite": null
+}

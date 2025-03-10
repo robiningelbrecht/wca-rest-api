@@ -1,0 +1,4 @@
+[
+    "app:api:build",
+    "app:cache:clear"
+]

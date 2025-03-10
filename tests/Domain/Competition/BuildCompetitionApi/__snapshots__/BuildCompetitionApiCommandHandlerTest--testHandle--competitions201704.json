@@ -1,0 +1,65 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WirewoodPro2017",
+            "name": "Wirewood Pro 2017",
+            "city": "Montevideo",
+            "country": "UY",
+            "date": {
+                "from": "2017-04-30",
+                "till": "2017-04-30",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mateo Rodr\u00edguez",
+                    "email": "mrodriguez@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ricardo Piotti",
+                    "email": "rpiotti@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Francisco Alonso",
+                    "email": "franalonso2001@gmail.com"
+                },
+                {
+                    "name": "Lucas Molin\u00e9",
+                    "email": "lucas.moline03@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Wirewood City",
+                "address": "Bulevar Espa\u00f1a 2697 esquina ellauri",
+                "details": "En la entrada del local",
+                "coordinates": {
+                    "latitude": -34.913457,
+                    "longitude": -56.155052
+                }
+            },
+            "information": "El dinero para la inscripci\u00f3n se pagar\u00e1 el d\u00eda mismo de la competencia.",
+            "externalWebsite": null
+        }
+    ]
+}

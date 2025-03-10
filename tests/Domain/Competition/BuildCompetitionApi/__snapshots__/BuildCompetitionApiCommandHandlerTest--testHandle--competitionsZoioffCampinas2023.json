@@ -1,0 +1,45 @@
+{
+    "id": "ZoioffCampinas2023",
+    "name": "Zoioff Campinas 2023",
+    "city": "Campinas, S\u00e3o Paulo",
+    "country": "BR",
+    "date": {
+        "from": "2023-08-05",
+        "till": "2023-08-06",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "333bf",
+        "333mbf",
+        "444bf",
+        "555bf"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Enzo Mattos",
+            "email": "emattos@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Marcos Ferreira Semolini",
+            "email": "marcos.semolini@gmail.com"
+        },
+        {
+            "name": "Robinson Semolini",
+            "email": "robinsonsemolini@uol.com.br"
+        }
+    ],
+    "venue": {
+        "name": "[Salas Prontas](http:\/\/salasprontas.com.br\/)",
+        "address": "R. Dr. Teodoro Langard, 126 - Bonfim, Campinas - SP, 13070-760",
+        "details": "",
+        "coordinates": {
+            "latitude": -22.899199,
+            "longitude": -47.080183
+        }
+    },
+    "information": "## Portugu\u00eas\r\n\r\n**Note que este campeonato possui APENAS modalidades vendadas.**\r\n\r\n* O pagamento da inscri\u00e7\u00e3o deve ser feito antecipadamente, todas as instru\u00e7\u00f5es se encontram na aba de *inscrever-se* do campeonato.\r\n* A inscri\u00e7\u00e3o **N\u00c3O** ser\u00e1 aceita at\u00e9 que o pagamento e o comprovante sejam enviados. Sem isso sua inscri\u00e7\u00e3o n\u00e3o ser\u00e1 aprovada e voc\u00ea n\u00e3o poder\u00e1 competir.\r\n\r\n***A inscri\u00e7\u00e3o s\u00f3 ser\u00e1 efetivada no site da WCA ap\u00f3s a confirma\u00e7\u00e3o do pagamento. Assim, as inscri\u00e7\u00f5es estar\u00e3o limitadas aos 16 primeiros pagantes. Caso o n\u00famero de inscritos exceda este limite, ser\u00e1 usada uma lista de espera de acordo com a ordem do pagamento.***\r\n\r\n--------------------\r\n\r\n## English\r\n\r\n**Please note that this competition ONLY has blindfolded events**\r\n\r\n* The payment of the registration fee must be made in advance. All the relevant instructions can be found under the *register* tab.\r\n* The registration **WILL NOT** be accepted until the payment is done and the receipt is sent. Otherwise, your registration will not be accepted and you will not be allowed to competed at the day of the competition.\r\n\r\n***Registration will only be confirmed at the WCA website after payment confirmation. Thus, registrations will be limited to the first 16 payers. If the number of registrations exceeds this limit, a waiting list will be put in place ordered by de date of payment.***",
+    "externalWebsite": null
+}

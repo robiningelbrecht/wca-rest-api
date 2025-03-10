@@ -1,0 +1,51 @@
+{
+    "id": "WelcomeBackIran2022",
+    "name": "Welcome Back Iran 2022",
+    "city": "Tehran",
+    "country": "IR",
+    "date": {
+        "from": "2022-02-18",
+        "till": "2022-02-18",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333mbf",
+        "333oh",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Amir Hossein Nafisi (\u0627\u0645\u06cc\u0631 \u062d\u0633\u06cc\u0646 \u0646\u0641\u06cc\u0633\u06cc)",
+            "email": "amirnafisicube@gmail.com"
+        },
+        {
+            "name": "Saeed Mostafavi Layegh (\u0633\u0639\u06cc\u062f \u0645\u0635\u0637\u0641\u0648\u06cc \u0644\u0627\u06cc\u0642)",
+            "email": "slayegh@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Benyamin Seddiqi (\u0628\u0646\u06cc\u0627\u0645\u06cc\u0646 \u0635\u062f\u06cc\u0642\u06cc)",
+            "email": "benyaminseddighi00@gmail.com"
+        },
+        {
+            "name": "Farid Fakhrian (\u0641\u0631\u06cc\u062f \u0641\u062e\u0631\u06cc\u0627\u0646)",
+            "email": "farbodksh@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Between Boostan1 and Boostan3 street -Boostan street-Bagheri Municipality",
+        "address": "between Boostan1 and Boostan3 street -Boostan street-Bagheri Municipality",
+        "details": "",
+        "coordinates": {
+            "latitude": 35.759511,
+            "longitude": 51.202135
+        }
+    },
+    "information": "",
+    "externalWebsite": null
+}

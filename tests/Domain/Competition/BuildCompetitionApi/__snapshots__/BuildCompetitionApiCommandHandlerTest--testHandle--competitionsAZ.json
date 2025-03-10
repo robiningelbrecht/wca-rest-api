@@ -1,0 +1,53 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "YayYarislarilBalakan2022",
+            "name": "Yay Yar\u0131\u015flar\u0131 - Balak\u0259n 2022",
+            "city": "Balak\u0259n",
+            "country": "AZ",
+            "date": {
+                "from": "2022-06-15",
+                "till": "2022-06-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "444",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Javid Nabizade",
+                    "email": "jnabizade@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Javid Nabizade",
+                    "email": "jnabizade@worldcubeassociation.org"
+                },
+                {
+                    "name": "Nigar Muzaffarova",
+                    "email": "nigar.muzaffars@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Balak\u0259n G\u0259ncl\u0259r Evi",
+                "address": "Heyd\u0259r \u018fliyev, 143, Balak\u0259n",
+                "details": "Second Floor",
+                "coordinates": {
+                    "latitude": 41.702951,
+                    "longitude": 46.427324
+                }
+            },
+            "information": "Yay Yar\u0131\u015flar\u0131 2022 [Az\u0259rbaycan Kub Assosiasiyas\u0131](https:\/\/www.facebook.com\/officialACA\/) t\u0259r\u0259find\u0259n t\u0259\u015fkil olunur.\r\n\r\nYay Yar\u0131\u015flar\u0131 2022 competitions are organized by [Azerbaijan Cube Association](https:\/\/www.facebook.com\/officialACA\/).",
+            "externalWebsite": null
+        }
+    ]
+}

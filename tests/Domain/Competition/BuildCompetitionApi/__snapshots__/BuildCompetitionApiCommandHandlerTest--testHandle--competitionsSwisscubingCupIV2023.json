@@ -1,0 +1,54 @@
+{
+    "id": "SwisscubingCupIV2023",
+    "name": "Swisscubing Cup IV 2023",
+    "city": "Vaduz (LI)",
+    "country": "LI",
+    "date": {
+        "from": "2023-06-24",
+        "till": "2023-06-25",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "444bf",
+        "555",
+        "minx",
+        "pyram"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Ioannis Papadopoulos",
+            "email": "ipapadopoulos@worldcubeassociation.org"
+        },
+        {
+            "name": "Mattia Pasquini",
+            "email": "mpasquini@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Stefan Loosli",
+            "email": "stee.loosli@gmail.com"
+        },
+        {
+            "name": "Swisscubing",
+            "email": "board@swisscubing.ch"
+        }
+    ],
+    "venue": {
+        "name": "[Sp\u00f6rry Halle](https:\/\/www.vaduzer-saal.li\/spoerry-areal\/mehrzweckhalle)",
+        "address": "R\u00fcfestrasse 6, 9490 Vaduz, Liechtenstein",
+        "details": "Mehrzweckhalle",
+        "coordinates": {
+            "latitude": 47.150173,
+            "longitude": 9.516305
+        }
+    },
+    "information": "Swisscubing Cup IV ist Teil des Swisscubing Cup 2023. Dieser besteht aus 6 Competitions \u00fcber das ganze Jahr verteilt. Um mehr dar\u00fcber zu erfahren, besuche https:\/\/swisscubing.ch\/swisscubing-cup-2023\/.\r\nTeilnehmer die sich registrieren aber nicht bezahlen, m\u00fcssen die Teilnahmegeb\u00fchr bei ihrer n\u00e4chsten Competition in der Schweiz bezahlen.\r\n______________________________________________________________________________________________\r\n\r\nSwisscubing Cup IV is part of the Swisscubing Cup 2023, made of 6 competitions during the whole year. Check out on https:\/\/swisscubing.ch\/swisscubing-cup-2023\/ for the details of the other editions.\r\nA competitor who registers and doesn't show up at the competition will have to pay that registration fee at his next competition in Switzerland.",
+    "externalWebsite": null
+}

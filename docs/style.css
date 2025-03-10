@@ -1,0 +1,205 @@
+:root {
+    --white: #fafafa;
+    --grey: #464958;
+    --dark-grey: #3f3f46;
+    --dark-blue: #343747;
+    --blue: #292b37;
+    --very-dark-blue: #18181b;
+    --light-grey: #a1a1aa;
+    --orange: #ffa625;
+    --red: #ef4444;
+    --green: #1ebc86;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a,
+a:hover,
+a:visited{
+    color: #0ea5e9 !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+a:hover{
+    text-decoration: underline !important;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    background: transparent;
+    z-index: 10;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+nav .toggle_button {
+    align-items: center;
+    border-radius: 50%;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    transition: background 200ms;
+    width: 40px;
+    background: 0 0;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+    font-family: inherit;
+    padding: 0;
+}
+
+[data-theme=dark] body {
+    background-color: var(--dark-blue);
+}
+
+[data-theme=dark] div.api-content + div {
+    background: var(--blue) !important;
+}
+[data-theme=dark] div.api-content div[data-section-id] > div[data-section-id^="operation"] > div:nth-child(2) {
+    background: var(--blue) !important;
+}
+[data-theme=dark] div[data-section-id^="tag"] > div:nth-child(2) > div > div:nth-child(2){
+    background: var(--blue) !important;
+}
+[data-theme=dark] div.menu-content{
+    background: var(--blue) !important;
+}
+[data-theme=dark] .react-tabs__tab-panel,
+[data-theme=dark] div[data-section-id^="tag"] > div:nth-child(2) > div > div:nth-child(2) > div{
+    background: rgb(19, 20, 26) !important;
+}
+
+nav .toggle_button .lightToggleIcon {
+    color: var(--orange);
+}
+
+nav .toggle_button .darkToggleIcon {
+    color: var(--white);
+}
+
+[data-theme=dark] nav .toggle_button .lightToggleIcon,
+[data-theme=light] nav .toggle_button .darkToggleIcon {
+    display: none;
+}
+
+:not(pre, div) > code {
+    font-family: "PT Mono", monospace !important;
+    display: inline-block !important;
+    padding: 0 4px !important;
+    vertical-align: baseline !important;
+    border-radius: 4px !important;
+}
+
+[data-theme=dark] :not(pre, div) > code {
+    box-shadow: inset 0 0 0 1px var(--grey) !important;
+    color: rgb(235, 235, 237) !important;
+    background-color: rgb(60, 63, 79) !important;
+}
+
+[data-theme=dark] pre{
+    background-color: rgb(24, 24, 27) !important;
+}
+
+[data-theme=dark] blockquote {
+    color: var(--white) !important;
+}
+
+[data-theme=dark] h1,
+[data-theme=dark] h2,
+[data-theme=dark] h3,
+[data-theme=dark] div.api-content,
+[data-theme=dark] span.property-name,
+[data-theme=dark] .react-tabs__tab--selected,
+[data-theme=dark] div[tabindex][role="button"] > div > span{
+    color: var(--white) !important;
+}
+
+[data-theme=dark] div[tabindex][role="button"] > div{
+    color: #71717a;
+}
+
+[data-theme=dark] div.api-content h5{
+    color: var(--light-grey) !important;
+}
+[data-theme=dark] div.api-content table tr td > div{
+    background-color: var(--dark-blue) !important;
+}
+
+[data-theme=dark] div.api-content table tr td > div div:nth-child(2) > span:nth-child(2){
+    box-shadow: inset 0 0 0 1px var(--grey) !important;
+    display: inline-block !important;
+    padding: 0 4px !important;
+    vertical-align: baseline !important;
+    border-radius: 4px !important;
+    color: var(--white);
+}
+
+[data-theme=dark] .react-tabs__tab--selected {
+    border: none !important;
+    background-color: var(--grey) !important;
+}
+
+[data-theme=dark] div[tabindex][role="button"] > div{
+    background-color: var(--very-dark-blue) !important;
+}
+
+[data-theme=dark] div[data-section-id] > div[data-section-id] > div:nth-child(2) button:focus{
+    border-color: var(--light-grey) !important;
+}
+[data-theme=dark] div[data-section-id] > div[data-section-id] > div:nth-child(2) button {
+    background: rgb(19, 20, 26) !important;
+}
+[data-theme=dark] div[data-section-id] > div[data-section-id] div[aria-hidden]{
+    background-color: #27272a !important;
+}
+[data-theme=dark] ul.react-tabs__tab-list li.react-tabs__tab[aria-selected="false"]{
+    background: rgb(19, 20, 26) !important;
+}
+
+[data-theme=dark] div.menu-content ul li label{
+    color: var(--light-grey) !important;
+    background: var(--blue) !important;
+}
+[data-theme=dark] div.menu-content ul li label.active,
+[data-theme=dark] div.menu-content ul li label:not([type="group"]):hover{
+    color: var(--white) !important;
+    background-color: #1e2028 !important;
+}
+[data-theme=dark] div.menu-content ul li label svg polygon{
+    fill: var(--light-grey) !important;
+}
+[data-theme=dark] div.menu-content a[target]{
+    color: var(--light-grey) !important;
+    background: var(--blue) !important;
+    border-top: 1px solid rgb(19, 20, 26);
+}
+[data-theme=dark] div.api-info p a{
+    color: var(--light-grey) !important;
+    border-color: var(--light-grey) !important;
+}
+
+[data-theme=dark] span[type=get]{
+    background-color: var(--green) !important;
+}
+[data-theme=dark] div[data-section-id] > div[data-section-id] > div:nth-child(1) button strong{
+    color: var(--green) !important;
+}
+[data-theme=dark] div[data-section-id] > div[data-section-id] > div:nth-child(1) button svg polygon{
+    fill: var(--green) !important;
+}
+
+[data-theme=dark]  div[data-section-id] > div[data-section-id] > div:nth-child(1) h3 + div > button  {
+    background-color: rgba(34,197,94,0.1);
+}

@@ -1,0 +1,73 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WelcomeBackNepal2022",
+            "name": "Welcome Back Nepal 2022",
+            "city": "Kathmandu",
+            "country": "NP",
+            "date": {
+                "from": "2022-06-17",
+                "till": "2022-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aayas Dhoj Joshi",
+                    "email": "ajoshi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Abi Shrestha",
+                    "email": "abi.stha.129@gmail.com"
+                },
+                {
+                    "name": "Ankit Sanjel",
+                    "email": "sanjelankit@gmail.com"
+                },
+                {
+                    "name": "Anup Adhikari",
+                    "email": "christ.anup103@gmail.com"
+                },
+                {
+                    "name": "Saiman Adhikari",
+                    "email": "saiman.adhikari1@gmail.com"
+                },
+                {
+                    "name": "Salon Ngakhushi",
+                    "email": "salonngakhushi@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "St. Xavier's College",
+                "address": "Maitighar, Kathmandu",
+                "details": "Fourth Floor, A-Levels Building",
+                "coordinates": {
+                    "latitude": 27.69171,
+                    "longitude": 85.320493
+                }
+            },
+            "information": "The first WCA competition in Nepal in two years!\r\n\r\n**Note:** due to the COVID-19 pandemic, there are extra registration and entry requirements for this competition. Please make sure that you read and understand the [registration process](https:\/\/www.worldcubeassociation.org\/competitions\/WelcomeBackNepal2022#18025-registration-process-and-fees) and [COVID-19 safety protocols](https:\/\/www.worldcubeassociation.org\/competitions\/WelcomeBackNepal2022#18030-covid-19-safety-protocols)!",
+            "externalWebsite": null
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "ZreceOpen2023",
+    "name": "Zre\u010de Open 2023",
+    "city": "Zre\u010de",
+    "country": "SI",
+    "date": {
+        "from": "2023-06-17",
+        "till": "2023-06-18",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "444",
+        "555",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Jernej Omulec",
+            "email": "jomulec@worldcubeassociation.org"
+        },
+        {
+            "name": "Petra Kobal Vogrinec",
+            "email": "pvogrinec@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Rubik Klub Slovenija",
+            "email": "wca.slovenia@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[Osnovna \u0161ola Zre\u010de](https:\/\/www.oszrece.net\/)",
+        "address": "\u0160olska cesta 3, 3214 Zre\u010de, Slovenia",
+        "details": "Competition will be held in a gym",
+        "coordinates": {
+            "latitude": 46.373161,
+            "longitude": 15.390019
+        }
+    },
+    "information": "*[English]*\r\n\r\nThis competition is being organized by the Rubik klub Slovenija.\r\nIf you need any additional information, or if you would like to change your registration, please write an e-mail to the **wca.slovenia@gmail.com**.\r\n\r\nFor more information, please check the tabs!\r\n\r\n*[Sloven\u0161\u010dina]*\r\n\r\nTekmovanje organizira Rubik klub Slovenija.\r\n\u010ce potrebujete dodatne informacije ali \u010de bi \u017eeleli spremeniti svojo prijavo, nam pi\u0161ite na **wca.slovenia@gmail.com**.\r\n\r\nZa ve\u010d informacij preverite zavihke!",
+    "externalWebsite": null
+}

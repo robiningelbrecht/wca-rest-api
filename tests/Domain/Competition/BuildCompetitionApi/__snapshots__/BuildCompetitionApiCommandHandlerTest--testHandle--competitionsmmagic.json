@@ -1,0 +1,319 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 6
+    },
+    "total": 6,
+    "items": [
+        {
+            "id": "ZuneOpen2012",
+            "name": "Zune Open 2012",
+            "city": "Namur",
+            "country": "BE",
+            "date": {
+                "from": "2012-04-28",
+                "till": "2012-04-29",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Lars Vandenbergh",
+                    "email": "lars@cubezone.be"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Zo\u00e9 de Moffarts",
+                    "email": "zoe.demoffarts@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Le Chalet",
+                "address": "25 Rue du Cimeti\u00e8re, 5100 Jambes",
+                "details": "",
+                "coordinates": {
+                    "latitude": 50.456367,
+                    "longitude": 4.871877
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/dl.dropbox.com\/u\/23824956\/Zune%20Open%20website\/home.html"
+        },
+        {
+            "id": "WC2011",
+            "name": "World Rubik's Cube Championship 2011",
+            "city": "Bangkok",
+            "country": "TH",
+            "date": {
+                "from": "2011-10-14",
+                "till": "2011-10-16",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chatchawan Jaruwattanakun (\u0e0a\u0e31\u0e0a\u0e27\u0e32\u0e25\u0e22\u0e4c \u0e08\u0e32\u0e23\u0e38\u0e27\u0e31\u0e12\u0e19\u0e01\u0e38\u0e25)",
+                    "email": "cjaruwattanakun@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Baiyoke Sky hotel](http:\/\/baiyokesky.baiyokehotel.com\/)",
+                "address": "222 Rajprarop Rd, Rajthevee, Bangkok 10400, Thailand",
+                "details": "",
+                "coordinates": {
+                    "latitude": 13.723418,
+                    "longitude": 100.476231
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/www.thailandcube.com\/wc2011"
+        },
+        {
+            "id": "WAMozart2010",
+            "name": "Abierto W. A. Mozart 2010",
+            "city": "Santiago",
+            "country": "CL",
+            "date": {
+                "from": "2010-12-11",
+                "till": "2010-12-11",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "magic",
+                "mmagic",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Sebasti\u00e1n Pino Castillo",
+                    "email": "sebastian.pino.c@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Jaime Pinto",
+                    "email": "wrt+2009pint01@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Colegio W. A. Mozart](http:\/\/www.colegiomozart.cl\/)",
+                "address": "Javiera Carrera Sur #564, La Reina",
+                "details": "Casino 2\u00ba Piso",
+                "coordinates": {
+                    "latitude": -33.458591,
+                    "longitude": -70.566717
+                }
+            },
+            "information": "La cuota de inscripci\u00f3n es de $1.500. Fecha l\u00edmite de registo es el 20 de Nov a las 23:59hrs.\r\nSe celebrar\u00e1n eventos no-oficiales: 2x2 one-handed, 2x2 blindfolded y Floppy Cube.",
+            "externalWebsite": "http:\/\/www.armaelcubo.com\/inicio\/index.php?option=com_content&view=article&id=44%3Amozart2010&catid=35%3Amozart2010&Itemid=1"
+        },
+        {
+            "id": "WC2009",
+            "name": "World Rubik's Cube Championship 2009",
+            "city": "D\u00fcsseldorf",
+            "country": "DE",
+            "date": {
+                "from": "2009-10-09",
+                "till": "2009-10-11",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Masayuki Akimoto (\u79cb\u5143\u6b63\u884c)",
+                    "email": "masayuki@akimoto3.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+                    "email": "tyson.mao@gmail.com"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Burg-W\u00e4chter Castello](http:\/\/www.burg-waechter-castello.de)",
+                "address": "Karl-Hohmann-Stra\u00dfe 1, D\u00fcsseldorf",
+                "details": "",
+                "coordinates": {
+                    "latitude": 51.174745,
+                    "longitude": 6.864554
+                }
+            },
+            "information": "5th World Rubik's Cube Championship",
+            "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2009"
+        },
+        {
+            "id": "MacauOpen2009",
+            "name": "Macau Rubik's Open 2009",
+            "city": "Macau",
+            "country": "MO",
+            "date": {
+                "from": "2009-08-15",
+                "till": "2009-08-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "magic",
+                "mmagic"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chan Tak Chuen (\u9673\u5fb7\u6cc9)",
+                    "email": "tchan@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Macau Fisherman\u00b4s Wharf](http:\/\/www.fishermanswharf.com.mo)",
+                "address": "Avenida da Amizade e Avenida Dr.Sun Yat-Sen",
+                "details": "",
+                "coordinates": {
+                    "latitude": 22.195203,
+                    "longitude": 113.55483
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/hkcubeunion.net\/mo09"
+        },
+        {
+            "id": "WC2007",
+            "name": "World Rubik's Cube Championship 2007",
+            "city": "Budapest",
+            "country": "HU",
+            "date": {
+                "from": "2007-10-05",
+                "till": "2007-10-07",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333mbo",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Gilles Roux",
+                    "email": "grrroux@free.fr"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+                    "email": "tyson.mao@gmail.com"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Novotel Budapest Congress](http:\/\/www.novotel.com\/novotel\/fichehotel\/gb\/nov\/0511\/fiche_hotel.shtml)",
+                "address": "Alkotas utca 63-67, 1123 Budapest",
+                "details": "Patria theatre",
+                "coordinates": {
+                    "latitude": 47.489049,
+                    "longitude": 19.024155
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2007"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "PragueOpen2023",
+    "name": "Prague Open 2023",
+    "city": "Prague",
+    "country": "CZ",
+    "date": {
+        "from": "2023-06-17",
+        "till": "2023-06-18",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "555",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Emma Beranov\u00e1",
+            "email": "eberanova@worldcubeassociation.org"
+        },
+        {
+            "name": "Jan Fon\u0161",
+            "email": "honzafons@seznam.cz"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Arsenij Kuprin",
+            "email": "kuprin.ars@gmail.com"
+        },
+        {
+            "name": "Emma Beranov\u00e1",
+            "email": "eberanova@worldcubeassociation.org"
+        },
+        {
+            "name": "Tom\u00e1\u0161 Nguyen",
+            "email": "tomas.nguyen159@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Z\u00e1kladn\u00ed \u0161kola a Mate\u0159sk\u00e1 \u0161kola \u010cerven\u00fd Vrch",
+        "address": "Al\u017e\u00edrsk\u00e1 26\/680,  Praha 6 - Vokovice",
+        "details": "J\u00eddelna",
+        "coordinates": {
+            "latitude": 50.095384,
+            "longitude": 14.353753
+        }
+    },
+    "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHM1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc33ae9e439080ea857be81b152f0c14a55fe718\/prague.png)\r\nPlease read carefully all the tabs! \r\n\r\nPros\u00edme, p\u0159e\u010dt\u011bte si pe\u010dliv\u011b v\u0161echny z\u00e1lo\u017eky!",
+    "externalWebsite": null
+}

@@ -1,0 +1,59 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "MacedoniaWinter2019",
+            "name": "Macedonia Winter 2019",
+            "city": "Skopje",
+            "country": "MK",
+            "date": {
+                "from": "2019-02-02",
+                "till": "2019-02-03",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Reto Bubendorf",
+                    "email": "retobubendorf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Hotel Aleksandar Palace, Skopje",
+                "address": "Prohor Pcinjski, Skopje 1000",
+                "details": "Congress hall (there will be signs on the venue)",
+                "coordinates": {
+                    "latitude": 42.010787,
+                    "longitude": 21.405594
+                }
+            },
+            "information": "For more information check out the tabs!",
+            "externalWebsite": null
+        }
+    ]
+}

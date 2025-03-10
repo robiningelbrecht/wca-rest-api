@@ -1,0 +1,276 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 5
+    },
+    "total": 5,
+    "items": [
+        {
+            "id": "VinderupOpen2016",
+            "name": "Vinderup Open 2016",
+            "city": "Vinderup",
+            "country": "DK",
+            "date": {
+                "from": "2016-10-08",
+                "till": "2016-10-09",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Henrik Buus Aagaard",
+                    "email": "haagaard@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Karina Grandjean Beck",
+                    "email": "karinagrandjeanbeck@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Vinderup Realskole](http:\/\/www.vinderup-real.dk\/)",
+                "address": "Vinderup Realskole, Sevelvej 42, 7830 Vinderup",
+                "details": "",
+                "coordinates": {
+                    "latitude": 56.478631,
+                    "longitude": 8.78436
+                }
+            },
+            "information": "Registration fee is 50dkr, it is possible to sleep at the venue (contact organiser)",
+            "externalWebsite": null
+        },
+        {
+            "id": "TheMostSerene2016",
+            "name": "The Most Serene Competition 2016",
+            "city": "Dogana",
+            "country": "SM",
+            "date": {
+                "from": "2016-08-27",
+                "till": "2016-08-27",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Lorenzo Vigani Poli",
+                    "email": "lpoli@worldcubeassociation.org"
+                },
+                {
+                    "name": "Matteo Colombo",
+                    "email": "matte.colo@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Filippo Brancaleoni",
+                    "email": "f.brancaleoni@protonmail.com"
+                },
+                {
+                    "name": "Tommaso Zoffoli",
+                    "email": "tommasozoffoli@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Centro Atlante San Marino](http:\/\/www.centroatlante.com\/)",
+                "address": "Via Tre Settembre, 17, 47891 Dogana, San Marino",
+                "details": "",
+                "coordinates": {
+                    "latitude": 43.977274,
+                    "longitude": 12.486523
+                }
+            },
+            "information": "Competitors limit is 40.\r\nRegistration fee is 5\u20ac, free for citizens of San Marino.",
+            "externalWebsite": "http:\/\/cubingitaly.org\/rsm2016"
+        },
+        {
+            "id": "CubanOpen2016",
+            "name": "Cuban Open 2016",
+            "city": "Habana",
+            "country": "CU",
+            "date": {
+                "from": "2016-04-09",
+                "till": "2016-04-09",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andy Valdes",
+                    "email": "andyvaldes1991@gmail.com"
+                },
+                {
+                    "name": "Hanneke Rijks",
+                    "email": "hannekerijks@hotmail.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Casa Valdes",
+                "address": "Zona 8 Alamar, La Habana",
+                "details": "Edif. D-49 Apto.12",
+                "coordinates": {
+                    "latitude": 23.081275,
+                    "longitude": -82.302783
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/speedcubing.com\/events\/CubanOpen2016"
+        },
+        {
+            "id": "ZaragozaOpen2016",
+            "name": "Zaragoza Open 2016",
+            "city": "Zaragoza",
+            "country": "ES",
+            "date": {
+                "from": "2016-02-06",
+                "till": "2016-02-07",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Alexander Olleta del Molino",
+                    "email": "alexodm.wca@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Sandra Novales Pel\u00e1ez",
+                    "email": "sandranp2000@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Centro civ\u00edco Santa Isabel](https:\/\/www.zaragoza.es\/ciudad\/centros\/detalle_Centro?id=3134)",
+                "address": "Avda. Santa Isabel, 100 - 50016 Zaragoza",
+                "details": "",
+                "coordinates": {
+                    "latitude": 41.666759,
+                    "longitude": -0.830636
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/asociacionrubik.es\/c\/ZaragozaOpen2016"
+        },
+        {
+            "id": "FMCLatinAmerica2016",
+            "name": "FMC Latin America 2016",
+            "city": "Multiple cities (see website)",
+            "country": "XS",
+            "date": {
+                "from": "2016-01-31",
+                "till": "2016-01-31",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Adri\u00e1n Ram\u00edrez",
+                    "email": "aramirez@worldcubeassociation.org"
+                },
+                {
+                    "name": "Nestor Sanchez",
+                    "email": "nestorsanchez3d@gmail.com"
+                },
+                {
+                    "name": "Oscar Alberto Ceballos Contreras",
+                    "email": "oscaralbertoceballos@gmail.com"
+                },
+                {
+                    "name": "Pedro Santos Guimar\u00e3es",
+                    "email": "pguimaraes@worldcubeassociation.org"
+                },
+                {
+                    "name": "Rafael de Andrade Cinoto",
+                    "email": "rcinoto@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ricardo Piotti",
+                    "email": "rpiotti@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Adri\u00e1n Ram\u00edrez",
+                    "email": "aramirez@worldcubeassociation.org"
+                },
+                {
+                    "name": "Luis J. I\u00e1\u00f1ez",
+                    "email": "luisjianez@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Multiple venues; [Registered locations](http:\/\/fmcla.cubecomps.com\/2016\/locations)",
+                "address": "(see website)",
+                "details": "",
+                "coordinates": {
+                    "latitude": -12.239264,
+                    "longitude": -64.632102
+                }
+            },
+            "information": "This competition will be held in multiple countries from Latin America. For more information visit the competition website.",
+            "externalWebsite": "http:\/\/fmcla.cubecomps.com"
+        }
+    ]
+}

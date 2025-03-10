@@ -1,0 +1,57 @@
+{
+    "id": "MoldovaOpen2020",
+    "name": "Moldova Open 2020",
+    "city": "Chi\u015fin\u0103u",
+    "country": "MD",
+    "date": {
+        "from": "2020-01-11",
+        "till": "2020-01-11",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "444",
+        "555",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Mihai C\u0103p\u0103\u0163inescu",
+            "email": "mcapatinescu@worldcubeassociation.org"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Costea Livadari",
+            "email": "livadari.costea@gmail.com"
+        },
+        {
+            "name": "Mihai C\u0103p\u0103\u0163inescu",
+            "email": "mcapatinescu@worldcubeassociation.org"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "[Moldova State University](http:\/\/usm.md\/?lang=en)",
+        "address": "60 Alexei Mateevici Str., Chi\u015fin\u0103u, MD-2009",
+        "details": "Faculty of Mathematics and Computer Science, 4th Building, room Sala de Lectura, second floor.",
+        "coordinates": {
+            "latitude": 47.018522,
+            "longitude": 28.823824
+        }
+    },
+    "information": "This is the first WCA competition in Moldova since 2017. It is an open competition for all people of all ages and from all countries.\r\nWe hope many people from Moldova and other countries will participate.\r\n\r\nThe competition also counts as the national championship for Moldova.\r\nSo the best competitors from Moldova will be the national champions 2019 of Moldova.",
+    "externalWebsite": null,
+    "region": "md"
+}

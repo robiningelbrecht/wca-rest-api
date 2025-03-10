@@ -1,0 +1,54 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "SundaySilenceSingapore2022",
+            "name": "Sunday Silence Singapore 2022",
+            "city": "Singapore",
+            "country": "SG",
+            "date": {
+                "from": "2022-07-24",
+                "till": "2022-07-24",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm",
+                "333mbf",
+                "444bf",
+                "555bf"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Zhou Yichen (\u5468\u5955\u81e3)",
+                    "email": "yzhou@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Carmen Teo Bin Jie (\u5f20\u658c\u5a55)",
+                    "email": "carmmteo@gmail.com"
+                },
+                {
+                    "name": "Wong Chong Wen (\u9ec4\u5d07\u6587)",
+                    "email": "wongchongwench@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Umazing Events @ TripleOne Somerset",
+                "address": "111 Somerset Road, Singapore 238164",
+                "details": "[#11-22 TripleOne Somerset]()",
+                "coordinates": {
+                    "latitude": 1.300197,
+                    "longitude": 103.837349
+                }
+            },
+            "information": "While guests are permitted,  we recommend that any accompanying guests should wait in TripleOne Somerset Mall so as to not distract the competitors.  Guests who remain in the venue must remain silent when events are ongoing. Guests and\/or competitors that are disruptive may be asked to leave the venue.",
+            "externalWebsite": "https:\/\/sites.google.com\/view\/sunday-silence-singapore"
+        }
+    ]
+}

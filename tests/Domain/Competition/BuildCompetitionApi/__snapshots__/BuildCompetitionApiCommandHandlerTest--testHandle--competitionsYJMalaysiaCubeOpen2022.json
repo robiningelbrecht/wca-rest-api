@@ -1,0 +1,70 @@
+{
+    "id": "YJMalaysiaCubeOpen2022",
+    "name": "YJ Malaysia Cube Open 2022",
+    "city": "Petaling Jaya",
+    "country": "MY",
+    "date": {
+        "from": "2022-09-02",
+        "till": "2022-09-04",
+        "numberOfDays": 3
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333fm",
+        "333mbf",
+        "333oh",
+        "444",
+        "444bf",
+        "555",
+        "555bf",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Hoe Zi Yang",
+            "email": "zhoe@worldcubeassociation.org"
+        },
+        {
+            "name": "Leow Yi Jun (\u5ed6\u827a\u756f)",
+            "email": "yleow@worldcubeassociation.org"
+        },
+        {
+            "name": "Wang Junwen (\u738b\u4fca\u6587)",
+            "email": "jwang@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Darren Siew Ee Yaang (\u856d\u5955\u6698)",
+            "email": "darrensieweeyaang@gmail.com"
+        },
+        {
+            "name": "Eason Siew Ee Son (\u856d\u5955\u6668)",
+            "email": "siew.eason@gmail.com"
+        },
+        {
+            "name": "Manfred Siew Ee Sheng (\u856d\u5955\u665f)",
+            "email": "manfred.cubing@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Citta Mall",
+        "address": "1, Jalan PJU 1a\/48, Pusat Perdagangan Dana 1, 47301 Petaling Jaya, Selangor",
+        "details": "(S-20 to S-23) The Space, Second Floor",
+        "coordinates": {
+            "latitude": 3.112712,
+            "longitude": 101.580553
+        }
+    },
+    "information": "For more information, visit [YJ Malaysia Cube Open 2022 Website](https:\/\/www.mycubeassociation.com\/mco2022)\r\n\r\n**Kindly read through all tabs on this page as they contain very useful information.**",
+    "externalWebsite": null
+}

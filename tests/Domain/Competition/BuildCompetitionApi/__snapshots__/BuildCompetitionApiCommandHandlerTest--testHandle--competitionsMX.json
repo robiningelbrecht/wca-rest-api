@@ -1,0 +1,57 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "ZaragozaOpen2023",
+            "name": "Zaragoza Open 2023",
+            "city": "Puebla",
+            "country": "MX",
+            "date": {
+                "from": "2023-06-03",
+                "till": "2023-06-04",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "555",
+                "777",
+                "clock",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jaime Tadeo Perez Cardona",
+                    "email": "jcardona@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "C\u00e9sar Mora Escobar",
+                    "email": "punkdark98@gmail.com"
+                },
+                {
+                    "name": "Miguel \u00c1ngel Cruz Hern\u00e1ndez",
+                    "email": "buuelqbero@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "BUAP: Preparatoria 2 de Octubre 1968",
+                "address": "Calle Benito Ju\u00e1rez 51-B, Reserva Territorial Atlixc\u00e1yotl, Concepci\u00f3n Guadalupe, 72450 Puebla, Pue.",
+                "details": "Cancha Techada de la preparatoria",
+                "coordinates": {
+                    "latitude": 19.025587,
+                    "longitude": -98.230439
+                }
+            },
+            "information": "Estamos muy emocionados de anunciar *Zaragoza Open 2023*  \u00a1El primer competencia oficial del 2023 en nuestra ciudad! \r\nEsta competencia es posible gracias al apoyo de la **Preparatoria 2 de Octubre 1968** y el **Puebla Rubik's Team.**\r\n\r\nEsta competencia es reconocida como una competencia oficial de la WCA. Por lo tanto, todos los competidores deben estar familiarizados y entender [el reglamento de la WCA](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/spanish-american\/#2a) antes de la competencia. \r\n\r\n![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGM0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1f46347f050fc703991f2bc01a4b8c12a067f23\/zara4.png)\r\n\r\n\r\nWe are so happy to annunce *Zaragoza Open 2023*  The first official competition of this year in our city!.\r\nThis competition is possible due to support of **Preparatoria 2 de Octubre 1968** and **Puebla Rubik's Team**.\r\n\r\nThis competition is recognized as an official World Cube Association competition. Therefore, all competitors must be familiar with the [WCA regulations](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/spanish-american\/#2a)\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

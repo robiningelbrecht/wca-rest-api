@@ -1,0 +1,59 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "VossOpen2019",
+            "name": "Voss Open 2019",
+            "city": "Voss",
+            "country": "NO",
+            "date": {
+                "from": "2019-02-23",
+                "till": "2019-02-24",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ulrik Bredland",
+                    "email": "ubredland@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ivar Strangstadstuen",
+                    "email": "tre141592653589793238462643383@gmail.com"
+                },
+                {
+                    "name": "Jonatan Solheim",
+                    "email": "tilingen@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Voss Folkeh\u00f8gskule",
+                "address": "Eskelandsvegen 28, 5704 Voss",
+                "details": "Olavsalen",
+                "coordinates": {
+                    "latitude": 60.62553,
+                    "longitude": 6.390886
+                }
+            },
+            "information": "Everyone who can solve a cube are welcome to participate in this competition!\r\n\r\n-----\r\n\r\nAlle som kan l\u00f8se kube er velkomne til \u00e5 delta i denne konkurransen!",
+            "externalWebsite": "http:\/\/kubing.no\/events\/vo2019\/"
+        }
+    ]
+}

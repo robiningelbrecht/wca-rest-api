@@ -1,0 +1,54 @@
+{
+    "id": "ZaragozaOpen2016",
+    "name": "Zaragoza Open 2016",
+    "city": "Zaragoza",
+    "country": "ES",
+    "date": {
+        "from": "2016-02-06",
+        "till": "2016-02-07",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333fm",
+        "333ft",
+        "333mbf",
+        "333oh",
+        "444",
+        "444bf",
+        "555",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Alexander Olleta del Molino",
+            "email": "alexodm.wca@gmail.com"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Sandra Novales Pel\u00e1ez",
+            "email": "sandranp2000@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[Centro civ\u00edco Santa Isabel](https:\/\/www.zaragoza.es\/ciudad\/centros\/detalle_Centro?id=3134)",
+        "address": "Avda. Santa Isabel, 100 - 50016 Zaragoza",
+        "details": "",
+        "coordinates": {
+            "latitude": 41.666759,
+            "longitude": -0.830636
+        }
+    },
+    "information": "",
+    "externalWebsite": "http:\/\/asociacionrubik.es\/c\/ZaragozaOpen2016"
+}

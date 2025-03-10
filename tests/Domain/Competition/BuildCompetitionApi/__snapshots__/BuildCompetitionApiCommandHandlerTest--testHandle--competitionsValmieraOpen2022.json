@@ -1,0 +1,48 @@
+{
+    "id": "ValmieraOpen2022",
+    "name": "Valmiera Open 2022",
+    "city": "Valmiera",
+    "country": "LV",
+    "date": {
+        "from": "2022-07-30",
+        "till": "2022-07-30",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444",
+        "555",
+        "clock",
+        "pyram"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "J\u0101nis Zirnis",
+            "email": "jzirnis@worldcubeassociation.org"
+        },
+        {
+            "name": "Vladislavs Baranovs",
+            "email": "vladislavs.baranovs@gmail.com"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Marks Cimermanis",
+            "email": "marks.cimermanis@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[Vidzemes augstskola in\u017eenierzin\u0101t\u0146u fakult\u0101te, T106](https:\/\/va.lv\/lv) ",
+        "address": "Valmiera T\u0113rbatas iela 10",
+        "details": "Go to the main entrance and follow the signs. Main entrance is from the garden side",
+        "coordinates": {
+            "latitude": 57.541644,
+            "longitude": 25.428157
+        }
+    },
+    "information": "Pirm\u0101s \u0101trkubo\u0161anas sacens\u012bbas Valmier\u0101. N\u0101c un sacenties ar citiem, un labi pavad\u012bts laiks garant\u0113ts!\r\n\r\n---\r\n\r\nFirst speedcubing competition to be held in the city of Valmiera. Come and compete with others and have a great time!",
+    "externalWebsite": null
+}

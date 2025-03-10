@@ -1,0 +1,55 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WellingtonWinter2018",
+            "name": "Wellington Winter 2018",
+            "city": "Wellington",
+            "country": "NZ",
+            "date": {
+                "from": "2018-07-21",
+                "till": "2018-07-21",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Alex Asbery",
+                    "email": "aasbery@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Joshua Brungar",
+                    "email": "joshua@jbrungar.com"
+                }
+            ],
+            "venue": {
+                "name": "[ASB Sports Centre](http:\/\/wellington.govt.nz\/recreation\/get-active-indoors\/asb-sports-centre)",
+                "address": "72 Kemp St, Kilbirnie, Wellington 6022, New Zealand",
+                "details": "Matairangi Room",
+                "coordinates": {
+                    "latitude": -41.317968,
+                    "longitude": 174.801457
+                }
+            },
+            "information": "Wellington Winter 2018 is an official World Cube Association (WCA) sanctioned speedcubing competition. Speedcubing is solving the Rubik's Cube or other similar puzzles as quickly as possible. The competition is open to all competitors regardless of experience and skill, but certain event-based time limits will be in place so as to make sure we can stay on schedule and get through the day on time. No prior experience in WCA competitions is necessary, but competitors should be familiar with the WCA regulations.",
+            "externalWebsite": "https:\/\/www.speedcubing.nz\/event\/wellington-winter-2018"
+        }
+    ]
+}

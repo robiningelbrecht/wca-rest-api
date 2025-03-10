@@ -1,0 +1,51 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WinterCubeAnniversary2015",
+            "name": "Winter Cube Anniversary 2015",
+            "city": "Busan",
+            "country": "KR",
+            "date": {
+                "from": "2015-02-07",
+                "till": "2015-02-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "333bf",
+                "333oh",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ilkyoo Choi (\ucd5c\uc77c\uaddc)",
+                    "email": "ichoi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Korea Cube Culture United",
+                    "email": "koreacubecultureunited@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Busan Citizen's Hall](http:\/\/citizenhall.bisco.or.kr\/)",
+                "address": "16, Jaseong-ro 133beon-gil, Dong-gu",
+                "details": "3rd floor",
+                "coordinates": {
+                    "latitude": 35.138896,
+                    "longitude": 129.065221
+                }
+            },
+            "information": "5000 WON for first event, 1000 WON for each additional event. 1000 WON discount for participants with previous competition's lanyard. Registration closes at 11:59PM on February 2nd, 2015.",
+            "externalWebsite": "http:\/\/jinas23.cafe24.com\/xe\/notice\/6801"
+        }
+    ]
+}

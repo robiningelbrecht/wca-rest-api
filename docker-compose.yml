@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  mysql:
+    container_name: wca-rest-api-mysql
+    image: mysql:8.0
+    command: --sort_buffer_size=512K
+    volumes:
+      - ./docker/mysql/mysql.databases.sql:/docker-entrypoint-initdb.d/01-databases.sql
+    ports:
+      - 3307:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+
+  php-cli:
+    build: ./docker/php-cli
+    container_name: wca-rest-api-php-cli
+    volumes:
+      - ./:/var/www/
+    working_dir: /var/www
+

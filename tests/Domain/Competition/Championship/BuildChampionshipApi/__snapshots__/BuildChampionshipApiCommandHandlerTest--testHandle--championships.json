@@ -1,0 +1,930 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 15
+    },
+    "total": 15,
+    "items": [
+        {
+            "id": "VietnamChampionship2023",
+            "name": "Vietnam Championship 2023",
+            "city": "Ho Chi Minh City",
+            "country": "VN",
+            "date": {
+                "from": "2023-07-14",
+                "till": "2023-07-16",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ivan Lew Yi Wen (\u5218\u4e49\u6587)",
+                    "email": "iwen@worldcubeassociation.org"
+                },
+                {
+                    "name": "L\u00ea Tr\u1ea7n \u0110\u0103ng Qu\u1ef3nh",
+                    "email": "dangquynh1220@gmail.com"
+                },
+                {
+                    "name": "Leow Yi Jun (\u5ed6\u827a\u756f)",
+                    "email": "yleow@worldcubeassociation.org"
+                },
+                {
+                    "name": "Wang Junwen (\u738b\u4fca\u6587)",
+                    "email": "jwang@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Hi\u1ec7p h\u1ed9i Rubik Vi\u1ec7t Nam",
+                    "email": "vncubeassociation@gmail.com"
+                },
+                {
+                    "name": "Toan Do Cong",
+                    "email": "tdo@worldcubeassociation.org"
+                },
+                {
+                    "name": "Zyorubik",
+                    "email": "zyorubik@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Nh\u00e0 Thi\u1ebfu Nhi Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh (City Children's House)",
+                "address": "169 \u0110\u01b0\u1eddng Nam K\u1ef3 Kh\u1edfi Ngh\u0129a, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000",
+                "details": "H\u1ed9i tr\u01b0\u1eddng Nh\u00e0 Thi\u1ebfu Nhi Th\u00e0nh Ph\u1ed1 (The stage of the City Children's House)",
+                "coordinates": {
+                    "latitude": 10.783664,
+                    "longitude": 106.68864
+                }
+            },
+            "information": "Gi\u1ea3i \u0111\u1ea5u V\u00f4 \u0111\u1ecbch Vi\u1ec7t Nam v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c b\u1ed9 m\u00f4n, \u0111\u01b0\u1ee3c t\u1ed5 ch\u1ee9c trong ba ng\u00e0y. C\u00e1c b\u1ea1n c\u00f3 th\u1ec3 truy c\u1eadp v\u00e0o tab \"Schedule\" \u0111\u1ec3 xem th\u00eam th\u00f4ng tin. \r\n\r\n---\r\nThe Vietnam Championship 2023 is a multi-event competition spanning 3 days. Please check \"Schedule\" tab for more information.\r\n\r\n**Please note**\r\nCompetitors of all nationalities are welcome,\r\n\r\nThere will be **2 types of winner** in this competition:\r\n**Open Category** - Top 3 winners of the competition regardless of nationality \r\n**Vietnamese Category** - Top 3 Vietnamese winners of the competition\r\n",
+            "externalWebsite": null,
+            "region": "vn"
+        },
+        {
+            "id": "OmanOpen2023",
+            "name": "Oman Open 2023",
+            "city": "Muscat",
+            "country": "OM",
+            "date": {
+                "from": "2023-03-11",
+                "till": "2023-03-11",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baha Alshwaiki",
+                    "email": "balshwaiki@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Baha Alshwaiki",
+                    "email": "balshwaiki@worldcubeassociation.org"
+                },
+                {
+                    "name": "Farah Omar Alomar",
+                    "email": "faroo7a_alomar@hotmail.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[HORMUZ Grand Muscat hotel](https:\/\/www.radissonhotels.com\/en-us\/hotels\/radisson-collection-muscat)",
+                "address": "Al Matar St Muscat 111, 128, Oman",
+                "details": "room Oryx 1",
+                "coordinates": {
+                    "latitude": 23.576812,
+                    "longitude": 58.292062
+                }
+            },
+            "information": "This is the first WCA competition in Oman.\r\nThe competition is the national championship of Oman for the year 2023. \r\nThe competition is open to all persons from all countries.\r\n\r\nThere will be prizes and honours:\r\n- top 3 competitors with the nationality of Oman\r\n- competitors without the nationality of Oman, who finish in top 3 of an event\r\n\r\n",
+            "externalWebsite": null,
+            "region": "om"
+        },
+        {
+            "id": "WCAAfricanChampionship2022",
+            "name": "Rubik's WCA African Championship 2022",
+            "city": "Cape Town",
+            "country": "ZA",
+            "date": {
+                "from": "2022-10-07",
+                "till": "2022-10-09",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Brendan James Gray",
+                    "email": "bgray@worldcubeassociation.org"
+                },
+                {
+                    "name": "Brent Boswell",
+                    "email": "bboswell@worldcubeassociation.org"
+                },
+                {
+                    "name": "Duncan Hobbs",
+                    "email": "dhobbs@worldcubeassociation.org"
+                },
+                {
+                    "name": "Maverick Pearson",
+                    "email": "mpearson@worldcubeassociation.org"
+                },
+                {
+                    "name": "Timothy Lawrance",
+                    "email": "tlawrance@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Donovan Pretorius",
+                    "email": "donovanp007@gmail.com"
+                },
+                {
+                    "name": "Jonathan Ontong",
+                    "email": "jsontong.jo@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "GrandWest Casino and Entertainment World",
+                "address": "1 Jakes Gerwel Drive, Goodwood, Cape Town, 7460",
+                "details": "GrandWest Sun Exhibits Hall",
+                "coordinates": {
+                    "latitude": -33.917704,
+                    "longitude": 18.547872
+                }
+            },
+            "information": "![](https:\/\/i.imgur.com\/YoWZNDt.png)\r\n\r\n**COVID-19 Safety Measures**\r\nAll registrants will be required to adhere to all COVID-19 health and safety measures while at the competition venue.\r\n\r\n**Volunteering**\r\nWe will need your help as volunteers to support with the running and judging of the day. If you would like to volunteer to help staff at the competition, please contact the [organisers](https:\/\/africanchamps.thecubinghub.com\/google-forms\/). Groups will be assigned so that volunteer duties don't clash with your competing.\r\n\r\n**Notice of Filming and Photography**\r\nAttendees of Rubik's WCA African Championship 2022 consent to their images being used by the World Cube Association and its partners in their marketing and social media platforms.\r\n\r\n",
+            "externalWebsite": "https:\/\/africanchamps.thecubinghub.com",
+            "region": "africa"
+        },
+        {
+            "id": "WelcomeBackMongoliaChampions2020",
+            "name": "Welcome Back Mongolia Championship 2020",
+            "city": "Ulaanbaatar",
+            "country": "MN",
+            "date": {
+                "from": "2020-12-19",
+                "till": "2020-12-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": true,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Myagmardorj Ulziijargal (\u04e8\u043b\u0437\u0438\u0439\u0436\u0430\u0440\u0433\u0430\u043b \u041c\u044f\u0433\u043c\u0430\u0440\u0434\u043e\u0440\u0436)",
+                    "email": "mulziijargal@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Maralgoo Ganbold (\u0413\u0430\u043d\u0431\u043e\u043b\u0434 \u041c\u0430\u0440\u0430\u043b\u0433\u043e\u043e)",
+                    "email": "maralhello@gmail.com"
+                },
+                {
+                    "name": "Sergelenbat Nymdorj",
+                    "email": "bukgan.tamir@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Mongolia-Japan Center",
+                "address": "Mongolia-Japan Center, Baga toiruu-1, Ulaanbaatar, Mongolia",
+                "details": "Conference hall, 1st floor",
+                "coordinates": {
+                    "latitude": 47.923036,
+                    "longitude": 106.920334
+                }
+            },
+            "information": "#### \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u043d\u044d\u044d\u043b\u043b\u0442\u044d\u0439 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\r\nThis competition is the official Championship of Mongolia.\r\nOnly Mongolian citizens are eligible to win prizes and titles.\r\nThe competition remains open for all nationalities to compete.\r\n\r\n**COVID-19 \u0446\u0430\u0440 \u0442\u0430\u0445\u043b\u044b\u043d \u0443\u043b\u043c\u0430\u0430\u0441 \u0446\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0431\u0430\u0439\u0441\u0430\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u0442\u044d\u043c\u0446\u044d\u044d\u043d \u201cWelcome Back Mongolia Championship 2020\u201d \u0433\u044d\u0441\u044d\u043d \u043d\u044d\u0440\u0442\u044d\u0439\u0433\u044d\u044d\u0440 \u0434\u0430\u0445\u0438\u043d \u0437\u0430\u0440\u043b\u0430\u0433\u0434\u0430\u0436 \u0431\u0430\u0439\u043d\u0430.\r\n\u0425\u044d\u0440\u0432\u044d\u044d \u0442\u0430 \u0446\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0431\u0430\u0439\u0441\u0430\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0423\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u0441\u044d\u043d \u0431\u043e\u043b \u044d\u043d\u044d \u0443\u0434\u0430\u0430\u0433\u0438\u0439\u043d \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 50%-\u0438\u0439\u043d \u0445\u04e9\u043d\u0433\u04e9\u043b\u04e9\u043b\u0442\u0442\u044d\u0439 \u043e\u0440\u043e\u043b\u0446\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0442\u043e\u0439.**\r\n\r\n**\u0413\u044d\u0445\u0434\u044d\u044d \u0442\u0430 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434\u044d\u044d \u0434\u0430\u0445\u0438\u043d \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u044d\u0445 \u0451\u0441\u0442\u043e\u0439 \u0433\u044d\u0434\u0433\u0438\u0439\u0433 \u0430\u043d\u0445\u0430\u0430\u0440\u043d\u0430 \u0443\u0443!**\r\n\r\n**\u0425\u044d\u0440\u0432\u044d\u044d \u0442\u0430 \u044d\u043d\u044d \u0443\u0434\u0430\u0430\u0433\u0438\u0439\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u043e\u0440\u043e\u043b\u0446\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0433\u04af\u0439 \u0431\u043e\u043b\u0441\u043e\u043d \u0442\u043e\u0445\u0438\u043e\u043b\u0434\u043e\u043b\u0434 \u0442\u0430\u043d\u044b \u0442\u04e9\u043b\u0441\u04e9\u043d \u0445\u0443\u0440\u0430\u0430\u043c\u0436\u043d\u044b \u043c\u04e9\u043d\u0433\u0438\u0439\u0433 \u0431\u0443\u0446\u0430\u0430\u043d \u043e\u043b\u0433\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0433\u04af\u0439. \u0425\u0430\u0440\u0438\u043d \u0442\u0430\u043d\u044c\u0434 \u04af\u043d\u044d \u0431\u04af\u0445\u0438\u0439 \u0434\u0443\u0440\u0441\u0433\u0430\u043b\u044b\u043d \u0437\u04af\u0439\u043b\u0441 \u0431\u044d\u043b\u044d\u0433\u043b\u044d\u0445 \u0431\u043e\u043b\u043d\u043e.**\r\n\r\n**\u0411\u0438\u0434\u043d\u0438\u0439 \u043d\u04e9\u0445\u0446\u04e9\u043b \u0431\u0430\u0439\u0434\u043b\u044b\u0433 \u043e\u0439\u043b\u0433\u043e\u0436 \u0445\u04af\u043b\u044d\u044d\u0446\u0442\u044d\u0439 \u0445\u0430\u043d\u0434\u0430\u043d\u0430 \u0443\u0443.**\r\n\r\n\r\n**The official Mongolia Championship, which was canceled due to the COVID-19 epidemic, is being re-announced under the name \"Welcome Back Mongolia Championship 2020\".**\r\n**If you have registered for the canceled Mongolia Championship, you can participate in this competiton with a 50% discount.**\r\n\r\n**Please note, however, that you must re-register for the competition!**\r\n\r\n**If you are unable to participate in this Mongolia Championship, your fee will not be refunded. But you will get valuable souvenirs.**\r\n\r\n**Please understand our situation and be patient.**\r\n\r\n[\u0422\u044d\u043c\u0446\u044d\u044d\u043d\u0442\u044d\u0439 \u0445\u043e\u043b\u0431\u043e\u043e\u0442\u043e\u0439 \u043c\u044d\u0434\u044d\u044d\u043b\u044d\u043b\/ Information of Mongolian competitions](https:\/\/www.facebook.com\/Mongoliacubecompetition\/)\r\n[\u0422\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u044d\u0445 \u0437\u0430\u0430\u0432\u0430\u0440\/ Instruction of registration](https:\/\/www.facebook.com\/media\/set\/?set=ms.c.eJxFj1EOAzAIQm~_0FMVW73~_xZSWjvy9PQBw2OJnoYQ0~%3BEAC6NqLDICriDPuB38lG~%3BUEsGcsAF~_QYKCOdkbwt9YyW4drY19jH4MhIZ~%3BSd3s7gEvAJtQPPSNV6aYbe9y8sZcQXMQs64A~-~-.bps.a.1748149085227952&type=1&__tn__=HH-R)\r\n\r\n\u0425\u043e\u043b\u0431\u043e\u043e \u0431\u0430\u0440\u0438\u0445\/Contact:\r\nFacebook: [Myagmardorj Ulziijargal](https:\/\/www.facebook.com\/Myagmardorj.Ulziijargal)\r\n\r\n\u0423\u0442\u0430\u0441\/Phone:\r\n(976) 89589811 - Maralgoo Ganbold \r\n(976) 89199853 - Myagmardorj Ulziijargal",
+            "externalWebsite": null,
+            "region": "mn"
+        },
+        {
+            "id": "MoldovaOpen2020",
+            "name": "Moldova Open 2020",
+            "city": "Chi\u015fin\u0103u",
+            "country": "MD",
+            "date": {
+                "from": "2020-01-11",
+                "till": "2020-01-11",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "555",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Costea Livadari",
+                    "email": "livadari.costea@gmail.com"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Moldova State University](http:\/\/usm.md\/?lang=en)",
+                "address": "60 Alexei Mateevici Str., Chi\u015fin\u0103u, MD-2009",
+                "details": "Faculty of Mathematics and Computer Science, 4th Building, room Sala de Lectura, second floor.",
+                "coordinates": {
+                    "latitude": 47.018522,
+                    "longitude": 28.823824
+                }
+            },
+            "information": "This is the first WCA competition in Moldova since 2017. It is an open competition for all people of all ages and from all countries.\r\nWe hope many people from Moldova and other countries will participate.\r\n\r\nThe competition also counts as the national championship for Moldova.\r\nSo the best competitors from Moldova will be the national champions 2019 of Moldova.",
+            "externalWebsite": null,
+            "region": "md"
+        },
+        {
+            "id": "MaltaOpen2019",
+            "name": "Malta Open 2019",
+            "city": "Msida",
+            "country": "MT",
+            "date": {
+                "from": "2019-11-30",
+                "till": "2019-11-30",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "555",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "James Golding",
+                    "email": "jamesgolding1337@gmail.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[The University of Malta](https:\/\/www.um.edu.mt\/)",
+                "address": "Mathematics and Physics Building, University of Malta, Msida MSD 2080, Malta.",
+                "details": "Room MP401",
+                "coordinates": {
+                    "latitude": 35.903086,
+                    "longitude": 14.484349
+                }
+            },
+            "information": "This is the first WCA competition in Malta. It is an open competition for all people from all ages and all countries.\r\nWe hope many people from Malta and other countries will participate.\r\n\r\nThe competition also counts as the national championship for Malta.\r\nSo the best competitors from Malta will be the national champions 2019 of Malta.\r\n\r\nDoors are open from 8:30am.",
+            "externalWebsite": null,
+            "region": "mt"
+        },
+        {
+            "id": "CambodiaCubingChampionship2019",
+            "name": "Cambodia Cubing Championship 2019",
+            "city": "Phnom Penh",
+            "country": "KH",
+            "date": {
+                "from": "2019-11-03",
+                "till": "2019-11-03",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "John Edison Ubaldo (\u1707\u1714\u170c\u1713\ufe00\u1708\u1714 \u1701\u1707\u1712\u1710\u1713\ufe00\u1708\u1714 \u1702\u170a\u170e\u1714\u1707\u1713\ufe00)",
+                    "email": "jubaldo@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mey Samorn",
+                    "email": "samornreality@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Cambodia-Japan Cooperation Center](http:\/\/www.cjcc.edu.kh\/site\/index.php\/en\/)",
+                "address": "Russian Confederation Blvd., Tuol Kork, Pnom Penh, Cambodia",
+                "details": "Angkor Kizuna Hall",
+                "coordinates": {
+                    "latitude": 11.568929,
+                    "longitude": 104.893694
+                }
+            },
+            "information": "This is the first-ever national cubing championship of Cambodia.\r\nWe also have a Facebook groups for our Cubing Area. [Khmer Top Cuber](https:\/\/www.facebook.com\/groups\/KhmerCuber\/). You can join the group to stay updated with upcoming competitions in the area.",
+            "externalWebsite": null,
+            "region": "kh"
+        },
+        {
+            "id": "MadagascarCubingOpen2019",
+            "name": "Madagascar Cubing Open 2019",
+            "city": "Antananarivo",
+            "country": "MG",
+            "date": {
+                "from": "2019-06-01",
+                "till": "2019-06-01",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andy Rasoanarivo",
+                    "email": "okalouservices@gmail.com"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Malagasy Association of Cubers",
+                    "email": "mg.associationmac@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Skate Park ",
+                "address": "Skate Park Antanimena",
+                "details": "Inside the Skate Park",
+                "coordinates": {
+                    "latitude": -18.897946,
+                    "longitude": 47.52384
+                }
+            },
+            "information": "Madagascar will host for the first time a WCA competition !\r\n\r\nOnly Malagasy competitors are eligible for prizes and podiums.\r\n_____\r\nMadagascar accueillera pour la premi\u00e8re fois une comp\u00e9tition de la WCA !\r\n\r\nSeulement les comp\u00e9titeurs Malgaches sont eligibles pour les prix et podiums.",
+            "externalWebsite": null,
+            "region": "mg"
+        },
+        {
+            "id": "SerbianOpen2019",
+            "name": "Serbian Open 2019",
+            "city": "Belgrade",
+            "country": "RS",
+            "date": {
+                "from": "2019-03-02",
+                "till": "2019-03-03",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksa Ili\u0107",
+                    "email": "ilic.alexa99@gmail.com"
+                },
+                {
+                    "name": "Aleksa Radovanovi\u0107",
+                    "email": "aradovanovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Mathematical Grammar School](https:\/\/www.mg.edu.rs)",
+                "address": "Kraljice Natalije 37, Beograd 11000, Srbija",
+                "details": "Pratite znakove da do\u0111ete do hale. \/ Follow the signs to the venue. ",
+                "coordinates": {
+                    "latitude": 44.809148,
+                    "longitude": 20.4614
+                }
+            },
+            "information": "Serbian Open 2019 je speedcubing takmi\u010denje. Svako moze da se takmi\u010di, nezavisno od njihove nacionalnosti ili godina, ali moraju biti upoznati sa WCA Regulacijama. Ovo takmi\u010denje je priznato i kao Srpsko Nacionalno Prvenstvo.\r\n\r\n------------------------\r\n\r\nSerbian Open 2019 is a speedcubing competition. Anyone can participate, no matter which nationality or age they are, but they need to be familiar with the WCA Regulations. This competition is also recognized as a Serbian National Championship.",
+            "externalWebsite": null,
+            "region": "rs"
+        },
+        {
+            "id": "UzbekistanOpen2018",
+            "name": "Uzbekistan Open 2018",
+            "city": "Tashkent",
+            "country": "UZ",
+            "date": {
+                "from": "2018-08-18",
+                "till": "2018-08-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Igor Aipkin",
+                    "email": "iaipkin@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Atlas",
+                "address": "Atlas, Tashkent city, Chilanzar district, Katartal str., 28",
+                "details": "4th Floor",
+                "coordinates": {
+                    "latitude": 41.281733,
+                    "longitude": 69.201847
+                }
+            },
+            "information": "The competition is open to all but only citizens of Uzbekistan can win prizes.\r\n\r\n\u0423\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u043d\u0438\u0438 \u043c\u043e\u0433\u0443\u0442 \u0432\u0441\u0435, \u043d\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0435 \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d\u0430 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0440\u0438\u0437\u044b.\r\n\r\nMusobaqada har qanday ishtirokchi qatnasha oladi, sovg'alar faqat O'zbekiston fuqarolari uchun beriladi.",
+            "externalWebsite": null,
+            "region": "uz"
+        },
+        {
+            "id": "WC2017",
+            "name": "World Rubik's Cube Championship 2017",
+            "city": "Paris",
+            "country": "FR",
+            "date": {
+                "from": "2017-07-13",
+                "till": "2017-07-16",
+                "numberOfDays": 4
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Hippolyte Moreau",
+                    "email": "hmoreau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jean-Louis Mathieu",
+                    "email": "rubikfr88@gmail.com"
+                },
+                {
+                    "name": "Philippe Lucien",
+                    "email": "plucien@worldcubeassociation.org"
+                },
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Antoine Piau",
+                    "email": "apiau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Hippolyte Moreau",
+                    "email": "hmoreau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jean-Louis Mathieu",
+                    "email": "rubikfr88@gmail.com"
+                },
+                {
+                    "name": "Lina Tissier",
+                    "email": "ltissier@worldcubeassociation.org"
+                },
+                {
+                    "name": "Philippe Lucien",
+                    "email": "plucien@worldcubeassociation.org"
+                },
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sylviane Mathieu",
+                    "email": "layanne88@yahoo.fr"
+                }
+            ],
+            "venue": {
+                "name": "[Les Docks de Paris - Dock Pullman](https:\/\/www.eurosites.fr\/location-salle\/eurosites-dock-paris)",
+                "address": "Les Docks De Paris, 50 avenue du Pr\u00e9sident Wilson - 93200 La Plaine Saint-Denis France",
+                "details": "Salle Pullman",
+                "coordinates": {
+                    "latitude": 48.903322,
+                    "longitude": 2.36544
+                }
+            },
+            "information": "Please check out the website to find out about competition's details.",
+            "externalWebsite": "http:\/\/www.rubiksworldparis2017.com",
+            "region": "world"
+        },
+        {
+            "id": "WC2011",
+            "name": "World Rubik's Cube Championship 2011",
+            "city": "Bangkok",
+            "country": "TH",
+            "date": {
+                "from": "2011-10-14",
+                "till": "2011-10-16",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chatchawan Jaruwattanakun (\u0e0a\u0e31\u0e0a\u0e27\u0e32\u0e25\u0e22\u0e4c \u0e08\u0e32\u0e23\u0e38\u0e27\u0e31\u0e12\u0e19\u0e01\u0e38\u0e25)",
+                    "email": "cjaruwattanakun@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Baiyoke Sky hotel](http:\/\/baiyokesky.baiyokehotel.com\/)",
+                "address": "222 Rajprarop Rd, Rajthevee, Bangkok 10400, Thailand",
+                "details": "",
+                "coordinates": {
+                    "latitude": 13.723418,
+                    "longitude": 100.476231
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/www.thailandcube.com\/wc2011",
+            "region": "world"
+        },
+        {
+            "id": "WC2009",
+            "name": "World Rubik's Cube Championship 2009",
+            "city": "D\u00fcsseldorf",
+            "country": "DE",
+            "date": {
+                "from": "2009-10-09",
+                "till": "2009-10-11",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Masayuki Akimoto (\u79cb\u5143\u6b63\u884c)",
+                    "email": "masayuki@akimoto3.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+                    "email": "tyson.mao@gmail.com"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Burg-W\u00e4chter Castello](http:\/\/www.burg-waechter-castello.de)",
+                "address": "Karl-Hohmann-Stra\u00dfe 1, D\u00fcsseldorf",
+                "details": "",
+                "coordinates": {
+                    "latitude": 51.174745,
+                    "longitude": 6.864554
+                }
+            },
+            "information": "5th World Rubik's Cube Championship",
+            "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2009",
+            "region": "world"
+        },
+        {
+            "id": "WC2007",
+            "name": "World Rubik's Cube Championship 2007",
+            "city": "Budapest",
+            "country": "HU",
+            "date": {
+                "from": "2007-10-05",
+                "till": "2007-10-07",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333mbo",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Gilles Roux",
+                    "email": "grrroux@free.fr"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+                    "email": "tyson.mao@gmail.com"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Novotel Budapest Congress](http:\/\/www.novotel.com\/novotel\/fichehotel\/gb\/nov\/0511\/fiche_hotel.shtml)",
+                "address": "Alkotas utca 63-67, 1123 Budapest",
+                "details": "Patria theatre",
+                "coordinates": {
+                    "latitude": 47.489049,
+                    "longitude": 19.024155
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2007",
+            "region": "hu"
+        },
+        {
+            "id": "WC2007",
+            "name": "World Rubik's Cube Championship 2007",
+            "city": "Budapest",
+            "country": "HU",
+            "date": {
+                "from": "2007-10-05",
+                "till": "2007-10-07",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333mbo",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Gilles Roux",
+                    "email": "grrroux@free.fr"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+                    "email": "tyson.mao@gmail.com"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Novotel Budapest Congress](http:\/\/www.novotel.com\/novotel\/fichehotel\/gb\/nov\/0511\/fiche_hotel.shtml)",
+                "address": "Alkotas utca 63-67, 1123 Budapest",
+                "details": "Patria theatre",
+                "coordinates": {
+                    "latitude": 47.489049,
+                    "longitude": 19.024155
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2007",
+            "region": "world"
+        }
+    ]
+}

@@ -1,0 +1,295 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 5
+    },
+    "total": 5,
+    "items": [
+        {
+            "id": "YJFestBelarus2018",
+            "name": "YJ Fest Belarus 2018",
+            "city": "Minsk",
+            "country": "BY",
+            "date": {
+                "from": "2018-08-25",
+                "till": "2018-08-26",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "clock",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ilya Tsiareshka",
+                    "email": "itsiareshka@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ivan Terekh",
+                    "email": "zere_v@mail.ru"
+                },
+                {
+                    "name": "Nikita Loika",
+                    "email": "nik200896@gmail.com"
+                },
+                {
+                    "name": "Olga Sarigoz",
+                    "email": "sarigozby@gmail.com"
+                },
+                {
+                    "name": "Roman Strakhov",
+                    "email": "fpmk2@ya.ru"
+                }
+            ],
+            "venue": {
+                "name": "[Palace of Children and Youth](http:\/\/mgddm.by\/)",
+                "address": "Starovilenskiy trakt 41",
+                "details": "In the Mramorny hall on the first floor",
+                "coordinates": {
+                    "latitude": 53.924809,
+                    "longitude": 27.543818
+                }
+            },
+            "information": "Registration will start on 15th July and will finish on 17th August.\r\nRegistration fee and other details please see on the website.\r\n\r\n\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043d\u0430\u0447\u043d\u0451\u0442\u0441\u044f 15 \u0438\u044e\u043b\u044f \u0432 18:00 \u0438 \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u0442\u0441\u044f 17 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 \u0432 23:59.\r\n\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0438 \u0434\u0440\u0443\u0433\u0443\u044e \u0432\u0430\u0436\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0432 \u0433\u0440\u0443\u043f\u043f\u0435 \u0432\u043e \u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435.",
+            "externalWebsite": "https:\/\/vk.com\/yjfestbelarus"
+        },
+        {
+            "id": "PchelkaOpen2018",
+            "name": "Pchelka Open 2018",
+            "city": "Chopon-Ata, Issyk Kul",
+            "country": "KG",
+            "date": {
+                "from": "2018-08-22",
+                "till": "2018-08-23",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Nadira Haroon",
+                    "email": "nad_ira25@yahoo.com"
+                },
+                {
+                    "name": "Nazira Shayimkulova",
+                    "email": "pchelka.kg@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Children's Camp Barchyn",
+                "address": "Children's Camp Barchyn, Chon-Sary-Oy, Chopon-Ata, Issyk Kul, Kyrgyzstan",
+                "details": "",
+                "coordinates": {
+                    "latitude": 42.609102,
+                    "longitude": 76.915328
+                }
+            },
+            "information": "There is a competitor limit of 150 competitors. If you register and later decide to not attend the competition, please inform the organizers so another competitor can get a seat.\r\n\u041b\u0438\u043c\u0438\u0442 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 150 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.\u0415\u0441\u043b\u0438 \u0432\u044b \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442\u0435\u0441\u044c, \u0430 \u0437\u0430\u0442\u0435\u043c \u0440\u0435\u0448\u0438\u0442\u0435 \u043d\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0435, \u0441\u043e\u043e\u0431\u0449\u0438\u0442\u0435 \u043e\u0431 \u044d\u0442\u043e\u043c \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0442\u043e\u0440\u0430\u043c.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VillavicencioOpenII2018",
+            "name": "Villavicencio Open II 2018",
+            "city": "Villavicencio",
+            "country": "CO",
+            "date": {
+                "from": "2018-08-18",
+                "till": "2018-08-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333oh",
+                "minx",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jos\u00e9 Leonardo Chaparro Prieto",
+                    "email": "jprieto@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Jos\u00e9 Leonardo Chaparro Prieto",
+                    "email": "jprieto@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Polideportivo Garc\u00eda Boh\u00f3rquez",
+                "address": "Calle 19 #37I-54",
+                "details": "",
+                "coordinates": {
+                    "latitude": 4.135106,
+                    "longitude": -73.63503
+                }
+            },
+            "information": "Limite de 50 competidores.\r\nCosto: $20.000 COP todos los eventos.\r\n\r\nCompetitor limit: 50.\r\nCost: $20.000COP (7USD aprox) for all events.",
+            "externalWebsite": null
+        },
+        {
+            "id": "UzbekistanOpen2018",
+            "name": "Uzbekistan Open 2018",
+            "city": "Tashkent",
+            "country": "UZ",
+            "date": {
+                "from": "2018-08-18",
+                "till": "2018-08-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Igor Aipkin",
+                    "email": "iaipkin@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Atlas",
+                "address": "Atlas, Tashkent city, Chilanzar district, Katartal str., 28",
+                "details": "4th Floor",
+                "coordinates": {
+                    "latitude": 41.281733,
+                    "longitude": 69.201847
+                }
+            },
+            "information": "The competition is open to all but only citizens of Uzbekistan can win prizes.\r\n\r\n\u0423\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u043d\u0438\u0438 \u043c\u043e\u0433\u0443\u0442 \u0432\u0441\u0435, \u043d\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0435 \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d\u0430 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0440\u0438\u0437\u044b.\r\n\r\nMusobaqada har qanday ishtirokchi qatnasha oladi, sovg'alar faqat O'zbekiston fuqarolari uchun beriladi.",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZwolleOpen2018",
+            "name": "Zwolle Open 2018",
+            "city": "Zwolle",
+            "country": "NL",
+            "date": {
+                "from": "2018-08-17",
+                "till": "2018-08-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333fm",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mattheo de Wit",
+                    "email": "mattheodw@gmail.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sandra de Geeter",
+                    "email": "sandra@kubuswedstrijden.nl"
+                },
+                {
+                    "name": "Yorick Brommer",
+                    "email": "brommer.scoot@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[SIO Zwolle](http:\/\/www.siozwolle.nl)",
+                "address": "Thorbeckelaan 2, 8014 AZ Zwolle",
+                "details": "Zaal 7",
+                "coordinates": {
+                    "latitude": 52.488607,
+                    "longitude": 6.107875
+                }
+            },
+            "information": "",
+            "externalWebsite": "https:\/\/www.kubuswedstrijden.nl\/zwolle-open-2018\/"
+        }
+    ]
+}

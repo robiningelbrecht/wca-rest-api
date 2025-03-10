@@ -1,0 +1,49 @@
+{
+    "id": "MaltaOpen2019",
+    "name": "Malta Open 2019",
+    "city": "Msida",
+    "country": "MT",
+    "date": {
+        "from": "2019-11-30",
+        "till": "2019-11-30",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "444",
+        "555",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "James Golding",
+            "email": "jamesgolding1337@gmail.com"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "[The University of Malta](https:\/\/www.um.edu.mt\/)",
+        "address": "Mathematics and Physics Building, University of Malta, Msida MSD 2080, Malta.",
+        "details": "Room MP401",
+        "coordinates": {
+            "latitude": 35.903086,
+            "longitude": 14.484349
+        }
+    },
+    "information": "This is the first WCA competition in Malta. It is an open competition for all people from all ages and all countries.\r\nWe hope many people from Malta and other countries will participate.\r\n\r\nThe competition also counts as the national championship for Malta.\r\nSo the best competitors from Malta will be the national champions 2019 of Malta.\r\n\r\nDoors are open from 8:30am.",
+    "externalWebsite": null,
+    "region": "mt"
+}

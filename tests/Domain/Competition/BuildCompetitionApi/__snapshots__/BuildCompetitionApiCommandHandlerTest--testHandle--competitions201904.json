@@ -1,0 +1,210 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 4
+    },
+    "total": 4,
+    "items": [
+        {
+            "id": "YJPetersburgSpecial2019",
+            "name": "YJ Petersburg Special 2019",
+            "city": "Kolpino, Saint Petersburg",
+            "country": "RU",
+            "date": {
+                "from": "2019-04-20",
+                "till": "2019-04-21",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "444bf",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ilya Tsiareshka",
+                    "email": "itsiareshka@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "IPO \"Speedcubing Federation\" (\u041c\u041e\u041e \"\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f \u0421\u043f\u0438\u0434\u043a\u0443\u0431\u0438\u043d\u0433\u0430\")",
+                    "email": "info@cubingrf.org"
+                },
+                {
+                    "name": "Serafima Petrova (\u0421\u0435\u0440\u0430\u0444\u0438\u043c\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0430)",
+                    "email": "petrova.serafima@yandex.ru"
+                }
+            ],
+            "venue": {
+                "name": "[Center for Children Technical Creativity](http:\/\/\u0446\u0434\u0442\u0442.\u0440\u0444)",
+                "address": "196655, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0433. \u041a\u043e\u043b\u043f\u0438\u043d\u043e, \u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u0443\u043b., \u0434. 23, \u043b\u0438\u0442\u0435\u0440\u0430 \u0410",
+                "details": "On the first floor in the Assembly Hall",
+                "coordinates": {
+                    "latitude": 59.74044,
+                    "longitude": 30.609495
+                }
+            },
+            "information": "ATTENTION! Please read \"Registration requirements\".\r\nPlease see the [website](https:\/\/vk.com\/yj_special) for more information.\r\n***\r\n\u0412\u041d\u0418\u041c\u0410\u041d\u0418\u0415! \u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043d\u0430 \u0440\u0430\u0437\u0434\u0435\u043b \"\u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438\" \u0438 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0435\u0433\u043e \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0439\u0442\u0435!\r\n\u0414\u043b\u044f \u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0437\u0430\u0445\u043e\u0434\u0438\u0442\u0435 \u0432 \u043d\u0430\u0448\u0443 [\u0433\u0440\u0443\u043f\u043f\u0443 \u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435](https:\/\/vk.com\/yj_special).",
+            "externalWebsite": "https:\/\/vk.com\/yj_special"
+        },
+        {
+            "id": "VillaCarlosPazOtono2019",
+            "name": "Villa Carlos Paz Oto\u00f1o 2019",
+            "city": "Villa Carlos Paz, C\u00f3rdoba",
+            "country": "AR",
+            "date": {
+                "from": "2019-04-19",
+                "till": "2019-04-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cristian Ezequiel Vega",
+                    "email": "cvega@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Agust\u00edn Bernasconi",
+                    "email": "hammerwtf10@gmail.com"
+                },
+                {
+                    "name": "Genaro Sahib Leguizamon",
+                    "email": "genasahib01@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Iglesia Vida Con Proposito",
+                "address": "Gabriela Mistral 549, Chincheta, Villa Carlos Paz, C\u00f3rdoba",
+                "details": "",
+                "coordinates": {
+                    "latitude": -31.413974,
+                    "longitude": -64.477627
+                }
+            },
+            "information": "VCP Oto\u00f1o 2019 will be the second competition ever to be hosted in the province of C\u00f3rdoba, Argentina. It will last two days and it will feature thirteen WCA events.\r\n\r\nVCP Oto\u00f1o 2019 ser\u00e1 la segunda competencia realizada en la Provincia de C\u00f3rdoba, Argentina. Constar\u00e1 de dos d\u00edas y se podr\u00e1 competir en trece categor\u00edas distintas.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VoruVark2019",
+            "name": "V\u00f5ru V\u00e4rk 2019",
+            "city": "V\u00f5ru",
+            "country": "EE",
+            "date": {
+                "from": "2019-04-06",
+                "till": "2019-04-06",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "clock",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Andreas Pung",
+                    "email": "apung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ivo Kruusam\u00e4gi",
+                    "email": "ikruusamagi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Remo Pihel",
+                    "email": "remopihel@gmail.com"
+                },
+                {
+                    "name": "Rio Truija",
+                    "email": "riotruija1@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[V\u00f5ru City Center School](http:\/\/www.vkk.edu.ee\/en\/)",
+                "address": "Vabaduse 12, V\u00f5ru, 65609 V\u00f5ru maakond, Estonia",
+                "details": "On the fourth floor, follow the signs.",
+                "coordinates": {
+                    "latitude": 57.84549,
+                    "longitude": 26.996713
+                }
+            },
+            "information": "* The main event of this competition is **2x2x2 Cube**.\r\n* This is the first competition in **V\u00f5ru**.\r\n![Eesti kuubik](https:\/\/i.imgur.com\/Cr7XSizt.png)\r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "GhanaOpen2019",
+            "name": "Ghana Open 2019",
+            "city": "Accra",
+            "country": "GH",
+            "date": {
+                "from": "2019-04-06",
+                "till": "2019-04-06",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Pooja Gokaldas",
+                    "email": "poojavgokaldas@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Al Rayan International School",
+                "address": "Boundary Rd",
+                "details": "Auditorium ",
+                "coordinates": {
+                    "latitude": 5.629556,
+                    "longitude": -0.160079
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        }
+    ]
+}

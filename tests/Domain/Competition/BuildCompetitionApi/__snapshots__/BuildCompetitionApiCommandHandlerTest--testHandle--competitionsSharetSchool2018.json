@@ -1,0 +1,43 @@
+{
+    "id": "SharetSchool2018",
+    "name": "Sharet School 2018",
+    "city": "Netanya",
+    "country": "IL",
+    "date": {
+        "from": "2018-03-25",
+        "till": "2018-03-25",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Amit Sheffer",
+            "email": "asheffer@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Amit Sheffer",
+            "email": "asheffer@worldcubeassociation.org"
+        },
+        {
+            "name": "Paola Levy",
+            "email": "paulatelem@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "School Gym",
+        "address": "Sharet school, Zilber 14, Netanya",
+        "details": "",
+        "coordinates": {
+            "latitude": 32.342809,
+            "longitude": 34.865815
+        }
+    },
+    "information": "Competition limited to 120 persons.\r\n\r\n* \u05d0\u05dd \u05d9\u05e9 \u05d1\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea\u05db\u05dd \u05dc\u05d4\u05d1\u05d9\u05d0 \u05d8\u05d9\u05d9\u05de\u05e8\u05d9\u05dd \u05e8\u05e9\u05de\u05d9\u05d9\u05dd \u05dc\u05ea\u05d7\u05e8\u05d5\u05ea, \u05e0\u05d5\u05d3\u05d4 \u05dc\u05db\u05dd \u05e2\u05dc \u05d4\u05e2\u05d6\u05e8\u05d4\r\n* If you can provide an official timer, we will appreciate your help.",
+    "externalWebsite": null
+}

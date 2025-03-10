@@ -1,0 +1,11 @@
+[
+    "App\\Domain\\Competition\\BuildCompetitionApi\\BuildCompetitionApi",
+    "App\\Domain\\Competition\\Championship\\BuildChampionshipApi\\BuildChampionshipApi",
+    "App\\Domain\\Continent\\BuildContinentApi\\BuildContinentApi",
+    "App\\Domain\\Continent\\Country\\BuildCountryApi\\BuildCountryApi",
+    "App\\Domain\\Event\\BuildEventApi\\BuildEventApi",
+    "App\\Domain\\Person\\BuildPersonApi\\BuildPersonApi",
+    "App\\Domain\\Rank\\BuildRankApi\\BuildRankApi",
+    "App\\Domain\\Result\\BuildResultApi\\BuildResultApi",
+    "App\\Domain\\Version\\UpdateApiVersion\\UpdateApiVersion"
+]

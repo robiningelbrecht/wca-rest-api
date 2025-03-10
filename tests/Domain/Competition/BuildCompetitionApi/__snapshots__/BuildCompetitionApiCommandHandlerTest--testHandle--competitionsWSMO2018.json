@@ -1,0 +1,66 @@
+{
+    "id": "WSMO2018",
+    "name": "Weston-super-Mare Open 2018",
+    "city": "Weston-super-Mare, Somerset",
+    "country": "GB",
+    "date": {
+        "from": "2018-11-24",
+        "till": "2018-11-25",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333mbf",
+        "333oh",
+        "444",
+        "555",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "pyram",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Daniel Sheppard",
+            "email": "danielkcsheppard@gmail.com"
+        },
+        {
+            "name": "James Molloy",
+            "email": "jmolloy@worldcubeassociation.org"
+        },
+        {
+            "name": "Sam Spendla",
+            "email": "sspendla@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "AJ Nicholls",
+            "email": "shakyhands.aj@gmail.com"
+        },
+        {
+            "name": "Bertie Longden",
+            "email": "blongden@worldcubeassociation.org"
+        },
+        {
+            "name": "Chris Wright",
+            "email": "cwwright.uk@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[Grand Pier](https:\/\/www.grandpier.co.uk\/)",
+        "address": "179 Seafront Promenade, Weston-super-Mare BS23 1SE, UK",
+        "details": "Regency Suite, Top Floor",
+        "coordinates": {
+            "latitude": 51.347803,
+            "longitude": -2.986299
+        }
+    },
+    "information": "Please make sure to read all the information in the tabs above.",
+    "externalWebsite": null
+}

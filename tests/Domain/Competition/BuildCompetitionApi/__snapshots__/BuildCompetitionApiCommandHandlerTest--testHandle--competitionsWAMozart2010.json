@@ -1,0 +1,42 @@
+{
+    "id": "WAMozart2010",
+    "name": "Abierto W. A. Mozart 2010",
+    "city": "Santiago",
+    "country": "CL",
+    "date": {
+        "from": "2010-12-11",
+        "till": "2010-12-11",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "magic",
+        "mmagic",
+        "pyram"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Sebasti\u00e1n Pino Castillo",
+            "email": "sebastian.pino.c@gmail.com"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Jaime Pinto",
+            "email": "wrt+2009pint01@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "[Colegio W. A. Mozart](http:\/\/www.colegiomozart.cl\/)",
+        "address": "Javiera Carrera Sur #564, La Reina",
+        "details": "Casino 2\u00ba Piso",
+        "coordinates": {
+            "latitude": -33.458591,
+            "longitude": -70.566717
+        }
+    },
+    "information": "La cuota de inscripci\u00f3n es de $1.500. Fecha l\u00edmite de registo es el 20 de Nov a las 23:59hrs.\r\nSe celebrar\u00e1n eventos no-oficiales: 2x2 one-handed, 2x2 blindfolded y Floppy Cube.",
+    "externalWebsite": "http:\/\/www.armaelcubo.com\/inicio\/index.php?option=com_content&view=article&id=44%3Amozart2010&catid=35%3Amozart2010&Itemid=1"
+}

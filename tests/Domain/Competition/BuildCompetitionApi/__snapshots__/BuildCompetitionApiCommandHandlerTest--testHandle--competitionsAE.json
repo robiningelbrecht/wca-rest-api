@@ -1,0 +1,52 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WellspringOpen2017",
+            "name": "Wellspring Open 2017",
+            "city": "Ras Al Khaimah",
+            "country": "AE",
+            "date": {
+                "from": "2017-12-02",
+                "till": "2017-12-02",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Lester Santos",
+                    "email": "lsantos@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Lester Santos",
+                    "email": "lsantos@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Ras Al Khaimah Academy",
+                "address": "34B St - Ras al Khaimah, United Arab Emirates",
+                "details": "Auditorium, Ras Al Khaimah Academy",
+                "coordinates": {
+                    "latitude": 25.770243,
+                    "longitude": 55.931557
+                }
+            },
+            "information": "REMINDER:\r\nFOR COUNTRY SELECTION, FOR UAE VISA RESIDENCE, KINDLY USE HOME COUNTRY AS YOUR\r\nCOUNTRY. DON'T USE OR REGISTER UNDER UNITED ARAB EMIRATES IF YOU ARE FROM OTHER\r\nCOUNTRIES, REGISTER THE COUNTRY MENTIONED IN YOUR PASSPORT. ONLY UAE LOCALS\r\nWILL BE ALLOWED TO USE THE UAE AS THEIR COUNTRY.\r\nE.g. If you're from INDIA please do not select UNITED ARAB EMIRATES",
+            "externalWebsite": null
+        }
+    ]
+}

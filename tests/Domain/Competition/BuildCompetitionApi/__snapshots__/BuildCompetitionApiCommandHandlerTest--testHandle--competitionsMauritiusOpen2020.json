@@ -1,0 +1,42 @@
+{
+    "id": "MauritiusOpen2020",
+    "name": "Mauritius Open 2020",
+    "city": "Moka",
+    "country": "MU",
+    "date": {
+        "from": "2020-02-23",
+        "till": "2020-02-23",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444",
+        "pyram"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Milind Bhoyroo",
+            "email": "mbhoyroo@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Milind Bhoyroo",
+            "email": "mbhoyroo@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "Lyc\u00e9e des Mascareignes",
+        "address": "Lyc\u00e9e des Mascareignes, Helvetia, Saint Pierre",
+        "details": "The competition will happen in the Gymnasium, kindly follow the posters to reach the venue.",
+        "coordinates": {
+            "latitude": -20.227087,
+            "longitude": 57.524617
+        }
+    },
+    "information": "The competition will happen in the Gymnasium, kindly follow the posters to reach the venue.",
+    "externalWebsite": null
+}

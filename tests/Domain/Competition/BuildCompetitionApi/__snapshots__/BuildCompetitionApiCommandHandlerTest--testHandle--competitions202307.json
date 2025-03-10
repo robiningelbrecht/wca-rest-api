@@ -1,0 +1,249 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 4
+    },
+    "total": 4,
+    "items": [
+        {
+            "id": "WillimiehenKuutiopaivat2023",
+            "name": "Willimiehen Kuutiop\u00e4iv\u00e4t 2023",
+            "city": "Lappeenranta",
+            "country": "FI",
+            "date": {
+                "from": "2023-07-22",
+                "till": "2023-07-23",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "J\u0101nis Zirnis",
+                    "email": "jzirnis@worldcubeassociation.org"
+                },
+                {
+                    "name": "Niko Ronkainen",
+                    "email": "nronkainen@worldcubeassociation.org"
+                },
+                {
+                    "name": "Olli Vikstedt",
+                    "email": "ovikstedt@worldcubeassociation.org"
+                },
+                {
+                    "name": "Timo Norrkniivil\u00e4",
+                    "email": "tnorrkniivila@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Erkka Niiva",
+                    "email": "erkka.niiva@hotmail.com"
+                },
+                {
+                    "name": "Niko Ronkainen",
+                    "email": "nronkainen@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Tiril\u00e4n Ty\u00f6v\u00e4entalo",
+                "address": "Onninkatu 6, 53500 Lappeenranta",
+                "details": "",
+                "coordinates": {
+                    "latitude": 61.057895,
+                    "longitude": 28.237335
+                }
+            },
+            "information": "Please read through the [regulations](https:\/\/www.worldcubeassociation.org\/regulations\/) before the competition.\r\nThe schedule may be subject to change, so if you're leaving the venue during the day, make sure to return at least 30 minutes before your scheduled events.\r\n\r\n\r\nLue s\u00e4\u00e4nn\u00f6t ([englanniksi](https:\/\/www.worldcubeassociation.org\/regulations\/), [suomeksi](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/finnish\/)) ennen kilpailua.\r\nAikataulu voi muuttua, joten jos poistut kisapaikalta p\u00e4iv\u00e4n aikana, palaa v\u00e4hint\u00e4\u00e4n 30 minuuttia ennen lajejasi.",
+            "externalWebsite": null
+        },
+        {
+            "id": "UTNIbarraOpen2023",
+            "name": "UTN Ibarra Open 2023",
+            "city": "Ibarra",
+            "country": "EC",
+            "date": {
+                "from": "2023-07-15",
+                "till": "2023-07-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jorge Contento",
+                    "email": "jcontento@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Luis Fernando Ald\u00e1s Cuestas",
+                    "email": "ferchoaldas@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Universidad T\u00e9cnica del Norte.",
+                "address": "Av. 17 de Julio 5-21 y Gral. Jos\u00e9 Mar\u00eda C\u00f3rdova - Sector El Olivo",
+                "details": "Polideportivo de Universidad.",
+                "coordinates": {
+                    "latitude": 0.358563,
+                    "longitude": -78.112524
+                }
+            },
+            "information": "Informaci\u00f3n detallada en las dem\u00e1s pesta\u00f1as.\r\n\r\nPlease check the tabs for detailed information.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VoulaSummerOpen2023",
+            "name": "Voula Summer Open 2023",
+            "city": "Voula - Athens",
+            "country": "GR",
+            "date": {
+                "from": "2023-07-15",
+                "till": "2023-07-16",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333fm",
+                "333oh",
+                "444",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ioannis Papadopoulos",
+                    "email": "ipapadopoulos@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kostas Papadopoulos",
+                    "email": "kwpaptypetomaniac97@gmail.com"
+                },
+                {
+                    "name": "Michael Eleftheriades",
+                    "email": "eleftheriadesm@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Christos Dimizas",
+                    "email": "cdimizas@otenet.gr"
+                }
+            ],
+            "venue": {
+                "name": "\"\u0399\u03c9\u03bd\u03af\u03b1\" \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \/ \"Ionia\" Caltural Center",
+                "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c5 \u039a\u03b1\u03c1\u03b1\u03bc\u03b1\u03bd\u03bb\u03ae 113, \u0392\u03bf\u03cd\u03bb\u03b1 166 73",
+                "details": "Culture Centre",
+                "coordinates": {
+                    "latitude": 37.836297,
+                    "longitude": 23.766522
+                }
+            },
+            "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUUvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--25a11a161841639a3cff2ecfb046c27deb82697e\/Cubestore_VSO23_post.jpg)\r\n\r\n\u03a4\u03bf Voula Summer Open 2023 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf 3o\u03c2 WCA \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf 2023. \u0395\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c0\u03b5\u03c1\u03ae\u03c6\u03b1\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03bc\u03b1\u03c2 \u03c6\u03ad\u03c4\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03bf\u03c5\u03bc\u03b5 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03ba\u03ac. \u03a3\u03c4\u03b7 \u03c3\u03b5\u03b9\u03c1\u03ac \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03ce\u03bd \"Road to Greek Nationals\" \u03b5\u03c3\u03c4\u03b9\u03ac\u03b6\u03bf\u03c5\u03bc\u03b5 \u03c3\u03b5 \u03ba\u03ac\u03b8\u03b5 \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03c3\u03b5 2 events \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c0\u03bf\u03bb\u03cd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ac \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \u03a3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03b8\u03ad\u03bb\u03bf\u03c5\u03bc\u03b5 \u03bd\u03b1 \u03c6\u03ad\u03c1\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03bf \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03cc \u03ba\u03bf\u03b9\u03bd\u03cc \u03c4\u03b1 \u03b1\u03b3\u03c9\u03bd\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 One Handed\/\u039b\u03cd\u03c3\u03b7 \u03bc\u03b5 \u03ad\u03bd\u03b1 \u03c7\u03ad\u03c1\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 Fewest Move Challenge (FMC)\/\u0394\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03af\u03b1 \u03bb\u03cd\u03c3\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c0\u03b9\u03bf \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2. \u039f \u03c3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03bc\u03b1\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b5\u03be\u03b1\u03c7\u03b8\u03b5\u03af \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b5\u03b8\u03bd\u03b9\u03ba\u03cc \u03c0\u03c1\u03c9\u03c4\u03ac\u03b8\u03bb\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c4\u03c1\u03ad\u03c7\u03bf\u03bd\u03c4\u03bf\u03c2 \u03ad\u03c4\u03bf\u03c5\u03c2. \u039c\u03ad\u03c7\u03c1\u03b9 \u03c4\u03cc\u03c4\u03b5, \u03cc\u03bb\u03b1 \u03c4\u03b1 WCA events \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9\u03ba\u03b5\u03af\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2. \u03a0\u03ac\u03c1\u03c4\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03cd\u03b2\u03bf\u03c5\u03c2 \u03c3\u03b1\u03c2, \u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5, \u03b4\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03bd\u03cc\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03bb\u03ac\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b3\u03b9\u03bf\u03c1\u03c4\u03ae \u03c4\u03bf\u03c5 cubing!\r\n\r\n\u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bbo\u03cd\u03bc\u03b5 \u03b4\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b9\u03c2 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03c1\u03b5\u03af\u03c4\u03b5 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2. \r\n\r\n\u03a3\u03b7\u03bc\u03b5\u03af\u03c9\u03c3\u03b7: \u0393\u03b9\u03b1 \u03bd\u03b1 \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u03bc\u03af\u03b1 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03c9\u03b8\u03b5\u03af \u03c4\u03bf registration \u03c3\u03c4\u03bf \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03b7\u03bd WCA **KAI** \u03bd\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ae \u03c4\u03bf\u03c5 \u03b1\u03bd\u03c4\u03b9\u03c4\u03af\u03bc\u03bf\u03c5 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03ae\u03c2 \u03bc\u03b5 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b1\u03c2 \u03ba\u03ac\u03c1\u03c4\u03b1\u03c2 \u03bc\u03ad\u03c3\u03c9 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ce\u03bd stripe \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03b7 WCA, \u03cc\u03c0\u03c9\u03c2 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b5\u03c2 \u03b4\u03af\u03c0\u03bb\u03b1. \r\n\r\n[\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c3\u03c4\u03b7 WCA, \u03c3\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03ba\u03b1\u03b9 \u03c0\u03bf\u03bb\u03bb\u03ac \u03b1\u03ba\u03cc\u03bc\u03b1. \u039f\u03b4\u03b7\u03b3\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03c9\u03c4\u03ac\u03c1\u03b7\u03b4\u03b5\u03c2.](https:\/\/youtu.be\/RS768gK0Vrg)\r\n\r\nThe Voula Open 2023 is the third competition this year in Greece. We are proud of our progress and we strongly continue our effort. Grab your cubes, get ready, read the rules, and come to the cubing celebration!\r\nDuring  each \"Road to Greek finals\" competition, we focus on 2 events that are not yet very well known in Greece. In this competition we are aiming to bring the events One Handed and Fewest Move Challenge (FMC) closer to the competitors. The goal is to make the first Greek National Championship towards the end of this year. By then, all WCA events will be familiar to the competitors.\r\n\r\nGrab your cubes, study the regulations and attend the greek feast of cubing!\r\n\r\nPlease read the following tabs very carefully!\r\n\r\nNote: For a registration to be considered valid, the competitor should both register though the WCA site **AND** pay the registration fee as described in the nexts tabs.\r\nPlease read the following tabs in detail to find all the necessary information.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VietnamChampionship2023",
+            "name": "Vietnam Championship 2023",
+            "city": "Ho Chi Minh City",
+            "country": "VN",
+            "date": {
+                "from": "2023-07-14",
+                "till": "2023-07-16",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ivan Lew Yi Wen (\u5218\u4e49\u6587)",
+                    "email": "iwen@worldcubeassociation.org"
+                },
+                {
+                    "name": "L\u00ea Tr\u1ea7n \u0110\u0103ng Qu\u1ef3nh",
+                    "email": "dangquynh1220@gmail.com"
+                },
+                {
+                    "name": "Leow Yi Jun (\u5ed6\u827a\u756f)",
+                    "email": "yleow@worldcubeassociation.org"
+                },
+                {
+                    "name": "Wang Junwen (\u738b\u4fca\u6587)",
+                    "email": "jwang@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Hi\u1ec7p h\u1ed9i Rubik Vi\u1ec7t Nam",
+                    "email": "vncubeassociation@gmail.com"
+                },
+                {
+                    "name": "Toan Do Cong",
+                    "email": "tdo@worldcubeassociation.org"
+                },
+                {
+                    "name": "Zyorubik",
+                    "email": "zyorubik@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Nh\u00e0 Thi\u1ebfu Nhi Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh (City Children's House)",
+                "address": "169 \u0110\u01b0\u1eddng Nam K\u1ef3 Kh\u1edfi Ngh\u0129a, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000",
+                "details": "H\u1ed9i tr\u01b0\u1eddng Nh\u00e0 Thi\u1ebfu Nhi Th\u00e0nh Ph\u1ed1 (The stage of the City Children's House)",
+                "coordinates": {
+                    "latitude": 10.783664,
+                    "longitude": 106.68864
+                }
+            },
+            "information": "Gi\u1ea3i \u0111\u1ea5u V\u00f4 \u0111\u1ecbch Vi\u1ec7t Nam v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c b\u1ed9 m\u00f4n, \u0111\u01b0\u1ee3c t\u1ed5 ch\u1ee9c trong ba ng\u00e0y. C\u00e1c b\u1ea1n c\u00f3 th\u1ec3 truy c\u1eadp v\u00e0o tab \"Schedule\" \u0111\u1ec3 xem th\u00eam th\u00f4ng tin. \r\n\r\n---\r\nThe Vietnam Championship 2023 is a multi-event competition spanning 3 days. Please check \"Schedule\" tab for more information.\r\n\r\n**Please note**\r\nCompetitors of all nationalities are welcome,\r\n\r\nThere will be **2 types of winner** in this competition:\r\n**Open Category** - Top 3 winners of the competition regardless of nationality \r\n**Vietnamese Category** - Top 3 Vietnamese winners of the competition\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

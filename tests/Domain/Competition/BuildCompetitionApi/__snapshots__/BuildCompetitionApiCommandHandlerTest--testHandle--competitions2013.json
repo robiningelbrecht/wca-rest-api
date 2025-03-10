@@ -1,0 +1,100 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 2
+    },
+    "total": 2,
+    "items": [
+        {
+            "id": "ValceaRubikOpen2013",
+            "name": "Valcea Rubik Open 2013",
+            "city": "Ramnicu Valcea",
+            "country": "RO",
+            "date": {
+                "from": "2013-11-09",
+                "till": "2013-11-09",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Radu F\u0103ciu",
+                    "email": "radufaciu@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "M\u0103d\u0103lin Constantin Stoenete",
+                    "email": "wrt+2012stoe01@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sorin Ve\u0219temean",
+                    "email": "newmagicfilms@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[River Plaza Mall](http:\/\/www.riverplaza.ro\/)",
+                "address": "Calea lui Traian nr. 125",
+                "details": "Etajul 1",
+                "coordinates": {
+                    "latitude": 45.099911,
+                    "longitude": 24.361817
+                }
+            },
+            "information": "Prima competitie de cub Rubik din Ramnicu Valcea. Va fi o competitie de o singura zi si speram la cat mai multi participanti pentru a repeta si in alti ani acest eveniment.",
+            "externalWebsite": "http:\/\/www.speedcubing.ro\/p-55\/valcea-rubik-open"
+        },
+        {
+            "id": "VenezuelaOpen2013",
+            "name": "Venezuela Open 2013",
+            "city": "M\u00e9rida",
+            "country": "VE",
+            "date": {
+                "from": "2013-09-29",
+                "till": "2013-09-29",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Wilson Jos\u00e9 Duarte Espitia",
+                    "email": "wilsonjose.duarte@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Oscar Alberto Ceballos Contreras",
+                    "email": "oscaralbertoceballos@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Hotel Caribay](http:\/\/www.hotelcaribay.com)",
+                "address": "Av. 2 Lora con Viaducto Miranda, M\u00e9rida Venezuela",
+                "details": "Sal\u00f3n Zuhe",
+                "coordinates": {
+                    "latitude": 8.589428,
+                    "longitude": -71.156306
+                }
+            },
+            "information": "Primer Torneo Oficial Venezolano.  [P\u00e1gina de Registro al Venezuela Open 2013](http:\/\/www.cubingsouthamerica.com\/VenezuelaOpen\/register.php)",
+            "externalWebsite": "http:\/\/www.cubingsouthamerica.com\/VenezuelaOpen"
+        }
+    ]
+}

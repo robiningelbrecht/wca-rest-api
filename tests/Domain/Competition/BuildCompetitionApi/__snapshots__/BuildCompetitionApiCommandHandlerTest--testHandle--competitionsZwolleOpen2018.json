@@ -1,0 +1,63 @@
+{
+    "id": "ZwolleOpen2018",
+    "name": "Zwolle Open 2018",
+    "city": "Zwolle",
+    "country": "NL",
+    "date": {
+        "from": "2018-08-17",
+        "till": "2018-08-18",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333fm",
+        "333ft",
+        "333oh",
+        "444",
+        "555",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Mattheo de Wit",
+            "email": "mattheodw@gmail.com"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        },
+        {
+            "name": "Sandra de Geeter",
+            "email": "sandra@kubuswedstrijden.nl"
+        },
+        {
+            "name": "Yorick Brommer",
+            "email": "brommer.scoot@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[SIO Zwolle](http:\/\/www.siozwolle.nl)",
+        "address": "Thorbeckelaan 2, 8014 AZ Zwolle",
+        "details": "Zaal 7",
+        "coordinates": {
+            "latitude": 52.488607,
+            "longitude": 6.107875
+        }
+    },
+    "information": "",
+    "externalWebsite": "https:\/\/www.kubuswedstrijden.nl\/zwolle-open-2018\/"
+}

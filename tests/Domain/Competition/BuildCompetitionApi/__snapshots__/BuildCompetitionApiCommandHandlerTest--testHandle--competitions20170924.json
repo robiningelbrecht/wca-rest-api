@@ -1,0 +1,65 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "VeronaOpen2017",
+            "name": "Verona Open 2017",
+            "city": "Verona",
+            "country": "IT",
+            "date": {
+                "from": "2017-09-24",
+                "till": "2017-09-24",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Lorenzo Vigani Poli",
+                    "email": "lpoli@worldcubeassociation.org"
+                },
+                {
+                    "name": "Matteo Provasi",
+                    "email": "mprovasi@worldcubeassociation.org"
+                },
+                {
+                    "name": "Simone Cantarelli",
+                    "email": "scantarelli@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Cubing Italy",
+                    "email": "board@cubingitaly.org"
+                },
+                {
+                    "name": "Giovanni Bezzetto",
+                    "email": "giovanni.bezzetto@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Corte Molon](http:\/\/www.cortemolonverona.it)",
+                "address": "Via della Diga 17, 37124 Verona",
+                "details": "",
+                "coordinates": {
+                    "latitude": 45.46125,
+                    "longitude": 10.956092
+                }
+            },
+            "information": "There is a limit of 60 competitors.\r\n\r\nAt a certain point we'll send an email to confirm your participation; competitors who don't confirm within the date specified in that email will be deleted. \r\nRemember to check your inbox 1-2 weeks before the competiton.\r\n\r\n[![Image description](http:\/\/i.imgur.com\/yztC4Jt.png) Clicka qui per il sito web in italiano](https:\/\/cubingitaly.org\/verona-17)",
+            "externalWebsite": "https:\/\/cubingitaly.org\/verona-17"
+        }
+    ]
+}

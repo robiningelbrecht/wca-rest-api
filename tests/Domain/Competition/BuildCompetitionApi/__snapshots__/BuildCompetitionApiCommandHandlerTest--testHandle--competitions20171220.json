@@ -1,0 +1,60 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "TunisiaWinterOpenDay2017",
+            "name": "Tunisia Winter Open Day 2017",
+            "city": "Sousse",
+            "country": "TN",
+            "date": {
+                "from": "2017-12-20",
+                "till": "2017-12-20",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mohamed Ali Bizid",
+                    "email": "mbizid@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Raouf Thabet",
+                    "email": "raoufh.thabet@laposte.net"
+                }
+            ],
+            "venue": {
+                "name": "Hotel Marhaba Palace Sousse",
+                "address": "BP N120\u060c Hammam Sousse 4089, Tunisie",
+                "details": "Look for the conference room inside the hotel",
+                "coordinates": {
+                    "latitude": 35.89654,
+                    "longitude": 10.593775
+                }
+            },
+            "information": "Tunisia Winter Open 2017 is open for participants from all countries, everyone is welcome.\r\nCompetition fee is 20DT per participant\r\nMedals and Gifts will be awarded to the winners in each category.\r\nIt should be known that only competitors who do check-in into the hotel can benefit from the lunch.",
+            "externalWebsite": null
+        }
+    ]
+}

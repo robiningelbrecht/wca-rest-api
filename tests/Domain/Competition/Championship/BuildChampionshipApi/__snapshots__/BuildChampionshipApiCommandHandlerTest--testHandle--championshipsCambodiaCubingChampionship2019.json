@@ -1,0 +1,45 @@
+{
+    "id": "CambodiaCubingChampionship2019",
+    "name": "Cambodia Cubing Championship 2019",
+    "city": "Phnom Penh",
+    "country": "KH",
+    "date": {
+        "from": "2019-11-03",
+        "till": "2019-11-03",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "John Edison Ubaldo (\u1707\u1714\u170c\u1713\ufe00\u1708\u1714 \u1701\u1707\u1712\u1710\u1713\ufe00\u1708\u1714 \u1702\u170a\u170e\u1714\u1707\u1713\ufe00)",
+            "email": "jubaldo@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Mey Samorn",
+            "email": "samornreality@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[Cambodia-Japan Cooperation Center](http:\/\/www.cjcc.edu.kh\/site\/index.php\/en\/)",
+        "address": "Russian Confederation Blvd., Tuol Kork, Pnom Penh, Cambodia",
+        "details": "Angkor Kizuna Hall",
+        "coordinates": {
+            "latitude": 11.568929,
+            "longitude": 104.893694
+        }
+    },
+    "information": "This is the first-ever national cubing championship of Cambodia.\r\nWe also have a Facebook groups for our Cubing Area. [Khmer Top Cuber](https:\/\/www.facebook.com\/groups\/KhmerCuber\/). You can join the group to stay updated with upcoming competitions in the area.",
+    "externalWebsite": null,
+    "region": "kh"
+}

@@ -1,0 +1,61 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "ZhuyuangangOpen2020",
+            "name": "Zhuyuangang Open 2020",
+            "city": "Tainan",
+            "country": "TW",
+            "date": {
+                "from": "2020-02-29",
+                "till": "2020-03-01",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chia-Leo Lin (\u6797\u73c8\u6a02)",
+                    "email": "clin@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Shao-Yu Hu (\u80e1\u7d39\u5b87)",
+                    "email": "ricky9667@gmail.com"
+                },
+                {
+                    "name": "Yu-Kai Chen (\u9673\u5b87\u6977)",
+                    "email": "a0938939010@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Tainan Cultural and Creative Park",
+                "address": "No. 16, Sec. 2, Beimen Rd., East Dist., Tainan City, Taiwan",
+                "details": "Auditorium, 4F, follow the signs.",
+                "coordinates": {
+                    "latitude": 22.998984,
+                    "longitude": 120.212893
+                }
+            },
+            "information": "Please visit the competition website for more information.",
+            "externalWebsite": "https:\/\/cubing-tw.net\/event\/2020ZhuyuangangOpen"
+        }
+    ]
+}

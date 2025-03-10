@@ -1,0 +1,229 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 4
+    },
+    "total": 4,
+    "items": [
+        {
+            "id": "TegucigalpaOpen2022",
+            "name": "Tegucigalpa Open 2022",
+            "city": "Tegucigalpa",
+            "country": "HN",
+            "date": {
+                "from": "2022-06-26",
+                "till": "2022-06-26",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Luis David Hern\u00e1ndez Mej\u00eda",
+                    "email": "lmejia@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Erick Y. Maldonado",
+                    "email": "erickyahirm@yahoo.com"
+                },
+                {
+                    "name": "Gabriel Alejandro Obando Gonzalez",
+                    "email": "gabrielobando2001@gmail.com"
+                },
+                {
+                    "name": "Luis David Hern\u00e1ndez Mej\u00eda",
+                    "email": "lmejia@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mauricio Daniel Salgado Carrillo",
+                    "email": "maurydaniel10@yahoo.com"
+                }
+            ],
+            "venue": {
+                "name": "Universidad Aut\u00f3noma de Honduras",
+                "address": "Justo al costado de la Vicerrectoria Academica",
+                "details": "Plaza Registro ",
+                "coordinates": {
+                    "latitude": 14.083897,
+                    "longitude": -87.16319
+                }
+            },
+            "information": "Tegucigalpa Open 2022 es el tan anhelado regreso de las competencias al pais, se contara con premios para los primeros lugares de cada categoria y sera un evento abierto a competidores de cualquier nacionalidad.\r\n\r\nTegucigalpa Open 2022 is the long-awaited return of competitions to the country, there will be prizes for the first places in each category and it will be an event open to competitors of any nationality.",
+            "externalWebsite": null
+        },
+        {
+            "id": "AlbanianOpen2022",
+            "name": "Albanian Open 2022",
+            "city": "Tirana",
+            "country": "AL",
+            "date": {
+                "from": "2022-06-25",
+                "till": "2022-06-25",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "555",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Samuel Mema",
+                    "email": "samuelmema33@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Samuel Mema",
+                    "email": "samuelmema33@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[POLIS University](http:\/\/www.universitetipolis.edu.al\/)",
+                "address": "Rruga Bylis 12, Autostrada Tiran\u00eb-Durr\u00ebs, Km 5, Kashar, SH2, Tiran\u00eb 1051",
+                "details": "Room C1",
+                "coordinates": {
+                    "latitude": 41.352688,
+                    "longitude": 19.75051
+                }
+            },
+            "information": "Third WCA competition in Albania.\r\n\r\nAdditional [Covid safety measures](https:\/\/www.worldcubeassociation.org\/competitions\/AlbanianOpen2022#-safety-protocol) will be applicable.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "WelcomeBackNepal2022",
+            "name": "Welcome Back Nepal 2022",
+            "city": "Kathmandu",
+            "country": "NP",
+            "date": {
+                "from": "2022-06-17",
+                "till": "2022-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aayas Dhoj Joshi",
+                    "email": "ajoshi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Abi Shrestha",
+                    "email": "abi.stha.129@gmail.com"
+                },
+                {
+                    "name": "Ankit Sanjel",
+                    "email": "sanjelankit@gmail.com"
+                },
+                {
+                    "name": "Anup Adhikari",
+                    "email": "christ.anup103@gmail.com"
+                },
+                {
+                    "name": "Saiman Adhikari",
+                    "email": "saiman.adhikari1@gmail.com"
+                },
+                {
+                    "name": "Salon Ngakhushi",
+                    "email": "salonngakhushi@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "St. Xavier's College",
+                "address": "Maitighar, Kathmandu",
+                "details": "Fourth Floor, A-Levels Building",
+                "coordinates": {
+                    "latitude": 27.69171,
+                    "longitude": 85.320493
+                }
+            },
+            "information": "The first WCA competition in Nepal in two years!\r\n\r\n**Note:** due to the COVID-19 pandemic, there are extra registration and entry requirements for this competition. Please make sure that you read and understand the [registration process](https:\/\/www.worldcubeassociation.org\/competitions\/WelcomeBackNepal2022#18025-registration-process-and-fees) and [COVID-19 safety protocols](https:\/\/www.worldcubeassociation.org\/competitions\/WelcomeBackNepal2022#18030-covid-19-safety-protocols)!",
+            "externalWebsite": null
+        },
+        {
+            "id": "YayYarislarilBalakan2022",
+            "name": "Yay Yar\u0131\u015flar\u0131 - Balak\u0259n 2022",
+            "city": "Balak\u0259n",
+            "country": "AZ",
+            "date": {
+                "from": "2022-06-15",
+                "till": "2022-06-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "444",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Javid Nabizade",
+                    "email": "jnabizade@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Javid Nabizade",
+                    "email": "jnabizade@worldcubeassociation.org"
+                },
+                {
+                    "name": "Nigar Muzaffarova",
+                    "email": "nigar.muzaffars@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Balak\u0259n G\u0259ncl\u0259r Evi",
+                "address": "Heyd\u0259r \u018fliyev, 143, Balak\u0259n",
+                "details": "Second Floor",
+                "coordinates": {
+                    "latitude": 41.702951,
+                    "longitude": 46.427324
+                }
+            },
+            "information": "Yay Yar\u0131\u015flar\u0131 2022 [Az\u0259rbaycan Kub Assosiasiyas\u0131](https:\/\/www.facebook.com\/officialACA\/) t\u0259r\u0259find\u0259n t\u0259\u015fkil olunur.\r\n\r\nYay Yar\u0131\u015flar\u0131 2022 competitions are organized by [Azerbaijan Cube Association](https:\/\/www.facebook.com\/officialACA\/).",
+            "externalWebsite": null
+        }
+    ]
+}

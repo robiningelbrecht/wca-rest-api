@@ -1,0 +1,44 @@
+{
+    "id": "VillavicencioOpenII2018",
+    "name": "Villavicencio Open II 2018",
+    "city": "Villavicencio",
+    "country": "CO",
+    "date": {
+        "from": "2018-08-18",
+        "till": "2018-08-19",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333fm",
+        "333oh",
+        "minx",
+        "pyram"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Jos\u00e9 Leonardo Chaparro Prieto",
+            "email": "jprieto@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Jos\u00e9 Leonardo Chaparro Prieto",
+            "email": "jprieto@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "Polideportivo Garc\u00eda Boh\u00f3rquez",
+        "address": "Calle 19 #37I-54",
+        "details": "",
+        "coordinates": {
+            "latitude": 4.135106,
+            "longitude": -73.63503
+        }
+    },
+    "information": "Limite de 50 competidores.\r\nCosto: $20.000 COP todos los eventos.\r\n\r\nCompetitor limit: 50.\r\nCost: $20.000COP (7USD aprox) for all events.",
+    "externalWebsite": null
+}

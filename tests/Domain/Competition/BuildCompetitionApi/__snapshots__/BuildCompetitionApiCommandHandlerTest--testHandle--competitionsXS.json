@@ -1,0 +1,71 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "FMCLatinAmerica2016",
+            "name": "FMC Latin America 2016",
+            "city": "Multiple cities (see website)",
+            "country": "XS",
+            "date": {
+                "from": "2016-01-31",
+                "till": "2016-01-31",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Adri\u00e1n Ram\u00edrez",
+                    "email": "aramirez@worldcubeassociation.org"
+                },
+                {
+                    "name": "Nestor Sanchez",
+                    "email": "nestorsanchez3d@gmail.com"
+                },
+                {
+                    "name": "Oscar Alberto Ceballos Contreras",
+                    "email": "oscaralbertoceballos@gmail.com"
+                },
+                {
+                    "name": "Pedro Santos Guimar\u00e3es",
+                    "email": "pguimaraes@worldcubeassociation.org"
+                },
+                {
+                    "name": "Rafael de Andrade Cinoto",
+                    "email": "rcinoto@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ricardo Piotti",
+                    "email": "rpiotti@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Adri\u00e1n Ram\u00edrez",
+                    "email": "aramirez@worldcubeassociation.org"
+                },
+                {
+                    "name": "Luis J. I\u00e1\u00f1ez",
+                    "email": "luisjianez@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Multiple venues; [Registered locations](http:\/\/fmcla.cubecomps.com\/2016\/locations)",
+                "address": "(see website)",
+                "details": "",
+                "coordinates": {
+                    "latitude": -12.239264,
+                    "longitude": -64.632102
+                }
+            },
+            "information": "This competition will be held in multiple countries from Latin America. For more information visit the competition website.",
+            "externalWebsite": "http:\/\/fmcla.cubecomps.com"
+        }
+    ]
+}

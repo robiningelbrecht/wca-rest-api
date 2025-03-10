@@ -1,0 +1,72 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "LightsOfReykjavik2019",
+            "name": "Lights of Reykjavik 2019",
+            "city": "Hafnarfj\u00f6r\u00f0ur",
+            "country": "IS",
+            "date": {
+                "from": "2019-01-04",
+                "till": "2019-01-05",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Hari Anirudh",
+                    "email": "harisv.1994@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Danival Heide S\u00e6varsson",
+                    "email": "dsaevarsson@worldcubeassociation.org"
+                },
+                {
+                    "name": "P\u00e9tur \u00d3skarsson",
+                    "email": "petur@viator.is"
+                },
+                {
+                    "name": "R\u00fanar Gauti Gunnarsson",
+                    "email": "runarg2002@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Flensborgarsk\u00f3linn",
+                "address": "Hringbraut 10, 220, Hafnarfjordur, Iceland",
+                "details": "Follow the signs\/ fylgi\u00f0 merkingunum",
+                "coordinates": {
+                    "latitude": 64.065124,
+                    "longitude": -21.951281
+                }
+            },
+            "information": "**Walk in registrations will be allowed until we reach the limit of registration**\r\n\r\nSpace in the venue is limited, please let us know how many people will come with you.\r\nYou will have to pay the registration fees at the venue the day of the competition to participate: kr1500 (~11\u20ac)\r\n________\r\n\r\nPl\u00e1ss \u00e1 sta\u00f0num er takmarka\u00f0 svo endilega l\u00e1ti\u00f0 okkur vita hversu marga gesti \u00fei\u00f0 munu\u00f0 hafa me\u00f0 ykkur.\r\nM\u00f3tsgjald er 1500 kr\u00f3nur fyrir keppendur og ver\u00f0ur \u00fea\u00f0 greitt \u00e1 m\u00f3tsdag.\r\n________\r\n.",
+            "externalWebsite": null
+        }
+    ]
+}

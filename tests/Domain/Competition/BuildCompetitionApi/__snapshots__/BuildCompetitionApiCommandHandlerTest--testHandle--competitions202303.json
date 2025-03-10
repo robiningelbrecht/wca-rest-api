@@ -1,0 +1,409 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 5
+    },
+    "total": 5,
+    "items": [
+        {
+            "id": "FMCLatinAmerica2023",
+            "name": "FMC Latin America 2023",
+            "city": "Multiple Cities",
+            "country": "XM",
+            "date": {
+                "from": "2023-03-25",
+                "till": "2023-03-25",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Andr\u00e9s Hisashi Suzuki Cabrera",
+                    "email": "asuzuki@worldcubeassociation.org"
+                },
+                {
+                    "name": "Areli Rub\u00ed Gordillo Mart\u00ednez",
+                    "email": "amartinez@worldcubeassociation.org"
+                },
+                {
+                    "name": "Carlos Ricardo Chin Dzul",
+                    "email": "cdzul@worldcubeassociation.org"
+                },
+                {
+                    "name": "Cristian Ezequiel Vega",
+                    "email": "cvega@worldcubeassociation.org"
+                },
+                {
+                    "name": "Dennis Rosero",
+                    "email": "drosero@worldcubeassociation.org"
+                },
+                {
+                    "name": "Egdar Castillo",
+                    "email": "ecastillo@worldcubeassociation.org"
+                },
+                {
+                    "name": "Elias Miguel Acosta Acosta",
+                    "email": "eacosta@worldcubeassociation.org"
+                },
+                {
+                    "name": "Enrymar Cisneros",
+                    "email": "ecisneros@worldcubeassociation.org"
+                },
+                {
+                    "name": "Felipe Andres Rojas Garces",
+                    "email": "fgarces@worldcubeassociation.org"
+                },
+                {
+                    "name": "Gennaro Monetti",
+                    "email": "gmonetti@worldcubeassociation.org"
+                },
+                {
+                    "name": "Giovane Rubin Fioravanti",
+                    "email": "gigio.rubin@hotmail.com"
+                },
+                {
+                    "name": "Guido Dipietro",
+                    "email": "gdipietro@worldcubeassociation.org"
+                },
+                {
+                    "name": "Guilherme Santana Campos",
+                    "email": "gcampos@worldcubeassociation.org"
+                },
+                {
+                    "name": "Gustavo Riveiro",
+                    "email": "griveiro@worldcubeassociation.org"
+                },
+                {
+                    "name": "Helar Gomez Chalco",
+                    "email": "hchalco@worldcubeassociation.org"
+                },
+                {
+                    "name": "Heron Sato",
+                    "email": "hsato@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jo\u00e3o Vin\u00edcius de A. Santos",
+                    "email": "jvinicius@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jorge Miguel Trigo",
+                    "email": "jtrigo@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jos\u00e9 Antonio Gaete Rozas-Pe\u00f1a",
+                    "email": "jgaete@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jos\u00e9 Leonardo Chaparro Prieto",
+                    "email": "jprieto@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kalani Oliveira",
+                    "email": "koliveira@worldcubeassociation.org"
+                },
+                {
+                    "name": "Luan Ferreira",
+                    "email": "lferreira@worldcubeassociation.org"
+                },
+                {
+                    "name": "Marlon de V. Marques",
+                    "email": "mmarques@worldcubeassociation.org"
+                },
+                {
+                    "name": "Michel Andre Gonzaga Quijano",
+                    "email": "mquijano@worldcubeassociation.org"
+                },
+                {
+                    "name": "Nat\u00e1n Riggenbach",
+                    "email": "nriggenbach@worldcubeassociation.org"
+                },
+                {
+                    "name": "Pedro Miranda Moreira",
+                    "email": "pmiranda@worldcubeassociation.org"
+                },
+                {
+                    "name": "Rocio Rodriguez Rivera",
+                    "email": "rocio.94@live.com"
+                },
+                {
+                    "name": "Rodrigo Ugarte",
+                    "email": "rugarte@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sergio Andres Guillen Ibarra",
+                    "email": "sibarra@worldcubeassociation.org"
+                },
+                {
+                    "name": "Xavier Antonio Balderrama",
+                    "email": "xbalderrama@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Agrupaci\u00f3n Speedcubing Argentina",
+                    "email": "speedcube.arg@gmail.com"
+                },
+                {
+                    "name": "Asociacion Boliviana de SpeedCubing",
+                    "email": "boliviacubing@gmail.com"
+                },
+                {
+                    "name": "Asociaci\u00f3n Uruguaya de Speedcubing",
+                    "email": "aus-competitions@googlegroups.com"
+                },
+                {
+                    "name": "Associa\u00e7\u00e3o Brasiliense de Cubo M\u00e1gico",
+                    "email": "contato@abracm.org.br"
+                },
+                {
+                    "name": "Club de SpeedCubing Paraguay",
+                    "email": "speedcubingpy@gmail.com"
+                },
+                {
+                    "name": "Speedcubing Chile",
+                    "email": "aspeedcubingchile@gmail.com"
+                },
+                {
+                    "name": "Speedcubing Colombia",
+                    "email": "eduardoroserovillena@gmail.com"
+                },
+                {
+                    "name": "SpeedCubing Venezuela",
+                    "email": "speedcubingvenezuela@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Multiple Cities",
+                "address": "Multiple Locations",
+                "details": "See the locations tab for more information about venue locations",
+                "coordinates": {
+                    "latitude": -15.797515,
+                    "longitude": -47.891887
+                }
+            },
+            "information": "*English:*\r\n\r\nThis competition will hold **only 3x3x3 Fewest Moves event**, and it will be held in multiple locations, across Latin America. Please pay attention to the **date and time zone** of your [location](https:\/\/www.worldcubeassociation.org\/competitions\/FMCLatinAmerica2023#24247-locations-lugares)!\r\n\r\nLocations may be added until the 25th of February 23:59UTC so if there isn't a location near you yet contact your local [Delegate](https:\/\/www.worldcubeassociation.org\/delegates) in Latin America.\r\n\r\n---\r\n\r\n*Espa\u00f1ol:*\r\n\r\nEsta competencia tendr\u00e1 **solo el evento 3x3x3 Menos Movimientos**, y se llevar\u00e1 a cabo en m\u00faltiples ubicaciones en Am\u00e9rica Latina. \u00a1Preste atenci\u00f3n a la **fecha y zona horaria** de su [ubicaci\u00f3n](https:\/\/www.worldcubeassociation.org\/competitions\/FMCLatinAmerica2023#24247-locations-lugares)!\r\n\r\nSe pueden agregar ubicaciones hasta el 25 de febrero a las 23:59 UTC, por lo que si a\u00fan no hay una ubicaci\u00f3n cerca de usted, comun\u00edquese con su [Delegado](https:\/\/www.worldcubeassociation.org\/delegates) local en Am\u00e9rica Latina.\r\n\r\n---\r\n\r\n*Portugu\u00eas:*\r\n\r\nEsta competi\u00e7\u00e3o contar\u00e1 **apenas com a modalidade 3x3x3 Menos Movimentos** e ser\u00e1 realizada em v\u00e1rios locais da Am\u00e9rica Latina. Preste aten\u00e7\u00e3o \u00e0 **data e fuso hor\u00e1rio** da sua [localidade](https:\/\/www.worldcubeassociation.org\/competitions\/FMCLatinAmerica2023#24247-locations-lugares)!\r\n\r\nOs locais podem ser adicionados at\u00e9 25 de fevereiro \u00e0s 23h59 UTC, portanto, se ainda n\u00e3o houver um local pr\u00f3ximo a voc\u00ea, entre em contato com o [Delegado](https:\/\/www.worldcubeassociation.org\/delegates) local na Am\u00e9rica Latina.",
+            "externalWebsite": null
+        },
+        {
+            "id": "YouBetterBelizeIt2023",
+            "name": "You Better Belize It 2023",
+            "city": "Punta Gorda, BZE",
+            "country": "BZ",
+            "date": {
+                "from": "2023-03-18",
+                "till": "2023-03-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Anthony Brooks",
+                    "email": "abrooks@worldcubeassociation.org"
+                },
+                {
+                    "name": "Marvin Solano",
+                    "email": "msolano@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Kristin Wiley",
+                    "email": "cubedcommunities@gmail.com"
+                },
+                {
+                    "name": "Pablo Say",
+                    "email": "rubiksxela@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[TCC Toledo Community College Auditorium](https:\/\/tcc.edu.bz\/)",
+                "address": "TCC (Toledo Community College Auditorium - 454V+3CM, Punta Gorda, BZE",
+                "details": "Auditorium",
+                "coordinates": {
+                    "latitude": 16.105212,
+                    "longitude": -88.806453
+                }
+            },
+            "information": "**English**\r\n\r\nThis competition is recognized as an official World Cube Association competition. This is the first competition in Belize.\r\nThe competition is open to all competitors of all nationalities. Registration is available on the WCA website. No experience in WCA competitions is necessary, but competitors should be familiar with the WCA [Regulations](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\nThe competition is free to spectators and guests.\r\n\r\n**Spanish**\r\n\r\nEsta competencia es reconocida como una competencia official de la World Cube Association. Esta es la primera competencia oficial en Belice.\r\nLa competencia es abierta a competidores de cualquier nacionalidad, El registro esta habilitado desde la p\u00e1gina oficial de la WCA. No es necesario tener experiencia, pero los competidores deben estar conocer los [Reglamentos](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\nEl acceso a invitados y espectadores ser\u00e1 gratuita.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "TurnininTermonfeckinSun2023",
+            "name": "Turnin' in Termonfeckin Sunday 2023",
+            "city": "Termonfeckin, Drogheda, Louth",
+            "country": "IE",
+            "date": {
+                "from": "2023-03-12",
+                "till": "2023-03-12",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Maria Beausang",
+                    "email": "mbeausang@worldcubeassociation.org"
+                },
+                {
+                    "name": "Simon Kelly",
+                    "email": "skelly@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Maria Beausang",
+                    "email": "mbeausang@worldcubeassociation.org"
+                },
+                {
+                    "name": "Speedcubing Ireland",
+                    "email": "speedcubingireland@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "St Fechins GAA Club",
+                "address": "Pairc Naomh Feich\u00edn, Termonfeckin, Drogheda, Co. Louth",
+                "details": "",
+                "coordinates": {
+                    "latitude": 53.736092,
+                    "longitude": -6.301848
+                }
+            },
+            "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--96b6278788e78960bf29ec7536273758105149bb\/Bordered%20Logo.png)\r\n\r\nhttps:\/\/speedcubingireland.com\/\r\nAdd us on [Facebook](https:\/\/www.facebook.com\/speedcubingireland\/) and [Instagram](https:\/\/www.instagram.com\/speedcubingireland\/?hl=en)! Join our [Discord Server](https:\/\/discord.gg\/ddFb3WeTx8)!\r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "OmanOpen2023",
+            "name": "Oman Open 2023",
+            "city": "Muscat",
+            "country": "OM",
+            "date": {
+                "from": "2023-03-11",
+                "till": "2023-03-11",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baha Alshwaiki",
+                    "email": "balshwaiki@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Baha Alshwaiki",
+                    "email": "balshwaiki@worldcubeassociation.org"
+                },
+                {
+                    "name": "Farah Omar Alomar",
+                    "email": "faroo7a_alomar@hotmail.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[HORMUZ Grand Muscat hotel](https:\/\/www.radissonhotels.com\/en-us\/hotels\/radisson-collection-muscat)",
+                "address": "Al Matar St Muscat 111, 128, Oman",
+                "details": "room Oryx 1",
+                "coordinates": {
+                    "latitude": 23.576812,
+                    "longitude": 58.292062
+                }
+            },
+            "information": "This is the first WCA competition in Oman.\r\nThe competition is the national championship of Oman for the year 2023. \r\nThe competition is open to all persons from all countries.\r\n\r\nThere will be prizes and honours:\r\n- top 3 competitors with the nationality of Oman\r\n- competitors without the nationality of Oman, who finish in top 3 of an event\r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "Q8speedcubinginKSE2023",
+            "name": "Q8speedcubing in K.S.E 2023",
+            "city": "Bneid Al-Gar",
+            "country": "KW",
+            "date": {
+                "from": "2023-03-10",
+                "till": "2023-03-11",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Zakarya Otair",
+                    "email": "zotair@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mohammad Almoumen",
+                    "email": "almoumn95@gmail.com"
+                },
+                {
+                    "name": "Saoud Abdulaziz Almutawa",
+                    "email": "almutawa002@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Kuwait Society of Engineers  ",
+                "address": "Soor St  Kuwait City, Kuwait",
+                "details": "Theater in the basement of the building .",
+                "coordinates": {
+                    "latitude": 29.38172,
+                    "longitude": 48.002043
+                }
+            },
+            "information": "\u0623\u0647\u0644\u0627 \u0628\u0643\u0645 \u0641\u064a \u0645\u0633\u0627\u0628\u0642\u0629 \r\nQ8speedcubing 2023.\r\n\u0627\u0644\u0639\u0646\u0648\u0627\u0646 :- \u0627\u0644\u0643\u0648\u064a\u062a - \u0628\u0646\u064a\u062f \u0627\u0644\u0642\u0627\u0631 - \u0634\u0627\u0631\u0639 \u0627\u0644\u0633\u0648\u0631 - \u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0645\u0647\u0646\u062f\u0633\u064a\u0646 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629 - \u0642\u0627\u0639\u0629 \u0627\u0644\u0633\u0631\u062f\u0627\u0628 \u0643\u0645\u0627 \u0647\u0648 \u0645\u0648\u0636\u062d \u0641\u064a \u0631\u0627\u0628\u0637 \u062e\u0631\u0627\u0626\u0637 \u062c\u0648\u062c\u0644 \r\n\r\nWelcome to Q8speedcubing in K.S.E 2023 \r\nKuwait - Bnied Al-Gar - Soor St. - Kuwait Soceity of Engineers as shown in the Google maps link .\r\nThe competition is in hall in the basment .\r\n![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHd3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8d2ceffa16f32641b740813db8e197348f3de2c\/Q8.png)![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDB3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1b63aa936b62d3e021c7dae0dfee8c7126069c8\/K.S.E.jpg)\r\n\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

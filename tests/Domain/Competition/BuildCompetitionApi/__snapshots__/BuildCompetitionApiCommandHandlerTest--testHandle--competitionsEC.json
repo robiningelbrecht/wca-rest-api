@@ -1,0 +1,54 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "UTNIbarraOpen2023",
+            "name": "UTN Ibarra Open 2023",
+            "city": "Ibarra",
+            "country": "EC",
+            "date": {
+                "from": "2023-07-15",
+                "till": "2023-07-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jorge Contento",
+                    "email": "jcontento@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Luis Fernando Ald\u00e1s Cuestas",
+                    "email": "ferchoaldas@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Universidad T\u00e9cnica del Norte.",
+                "address": "Av. 17 de Julio 5-21 y Gral. Jos\u00e9 Mar\u00eda C\u00f3rdova - Sector El Olivo",
+                "details": "Polideportivo de Universidad.",
+                "coordinates": {
+                    "latitude": 0.358563,
+                    "longitude": -78.112524
+                }
+            },
+            "information": "Informaci\u00f3n detallada en las dem\u00e1s pesta\u00f1as.\r\n\r\nPlease check the tabs for detailed information.",
+            "externalWebsite": null
+        }
+    ]
+}

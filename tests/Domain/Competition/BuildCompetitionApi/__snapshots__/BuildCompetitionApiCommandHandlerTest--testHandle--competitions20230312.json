@@ -1,0 +1,62 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "TurnininTermonfeckinSun2023",
+            "name": "Turnin' in Termonfeckin Sunday 2023",
+            "city": "Termonfeckin, Drogheda, Louth",
+            "country": "IE",
+            "date": {
+                "from": "2023-03-12",
+                "till": "2023-03-12",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Maria Beausang",
+                    "email": "mbeausang@worldcubeassociation.org"
+                },
+                {
+                    "name": "Simon Kelly",
+                    "email": "skelly@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Maria Beausang",
+                    "email": "mbeausang@worldcubeassociation.org"
+                },
+                {
+                    "name": "Speedcubing Ireland",
+                    "email": "speedcubingireland@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "St Fechins GAA Club",
+                "address": "Pairc Naomh Feich\u00edn, Termonfeckin, Drogheda, Co. Louth",
+                "details": "",
+                "coordinates": {
+                    "latitude": 53.736092,
+                    "longitude": -6.301848
+                }
+            },
+            "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--96b6278788e78960bf29ec7536273758105149bb\/Bordered%20Logo.png)\r\n\r\nhttps:\/\/speedcubingireland.com\/\r\nAdd us on [Facebook](https:\/\/www.facebook.com\/speedcubingireland\/) and [Instagram](https:\/\/www.instagram.com\/speedcubingireland\/?hl=en)! Join our [Discord Server](https:\/\/discord.gg\/ddFb3WeTx8)!\r\n\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

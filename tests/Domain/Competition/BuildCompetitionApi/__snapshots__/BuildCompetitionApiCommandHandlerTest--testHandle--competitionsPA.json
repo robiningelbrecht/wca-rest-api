@@ -1,0 +1,54 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "UNACHIOpen2022",
+            "name": "UNACHI Open 2022",
+            "city": "David, Chiriqu\u00ed",
+            "country": "PA",
+            "date": {
+                "from": "2022-10-14",
+                "till": "2022-10-14",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Egdar Castillo",
+                    "email": "ecastillo@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Egdar Castillo",
+                    "email": "ecastillo@worldcubeassociation.org"
+                },
+                {
+                    "name": "Egdar Rolando Castillo",
+                    "email": "speedcubech@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Universidad Aut\u00f3noma de Chiriqu\u00ed",
+                "address": "Calle de la Unachi, David, Panam\u00e1",
+                "details": "Cafeter\u00eda de Ciencias",
+                "coordinates": {
+                    "latitude": 8.433292,
+                    "longitude": -82.451545
+                }
+            },
+            "information": "**Espa\u00f1ol**\r\n\u2022\t\u201cUNACHI Open 2022\u201d ser\u00e1 la quinta competencia oficial en Chiriqu\u00ed.\r\n\u2022\tBuscamos seguir impulsando el speedcubing en Panam\u00e1, dando la bienvenida a nuevos competidores.\r\n\u2022\tEl uso de la mascarilla es obligatorio en todo momento dentro de la competencia.\r\n\u2022\tLos resultados preliminares, y los clasificados a rondas posteriores, se podr\u00e1n ver casi en tiempo real en WCA Live.\r\n\r\n**English**\r\n\u2022 \"UNACHI Open 2022\" will be the fifth official competition in Chiriqu\u00ed.\r\n\u2022 We seek to continue promoting speedcubing in Panama, welcoming new competitors.\r\n\u2022 The use of the mask is mandatory at all times inside the venue.\r\n\u2022 Preliminary results, and those qualified for subsequent rounds, can be viewed in near real-time on WCA Live.\r\n![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4810b4c2ee0b16d132e23257cdbd01f3e4201b9c\/UNACHI%20OPEN.png)",
+            "externalWebsite": null
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "YorkCubeDay2021",
+            "name": "York Cube Day 2021",
+            "city": "York, Western Australia",
+            "country": "AU",
+            "date": {
+                "from": "2021-01-10",
+                "till": "2021-01-10",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Charlie van Ooran",
+                    "email": "cooran@worldcubeassociation.org"
+                },
+                {
+                    "name": "Edward Hollingdale",
+                    "email": "ehollingdale@worldcubeassociation.org"
+                },
+                {
+                    "name": "Zak Kenny",
+                    "email": "zkenny@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Charlie van Ooran",
+                    "email": "cooran@worldcubeassociation.org"
+                },
+                {
+                    "name": "Melanie Charlesworth",
+                    "email": "markandmel@supanet.com"
+                },
+                {
+                    "name": "Speedcubing Australia",
+                    "email": "support@speedcubing.org.au"
+                },
+                {
+                    "name": "Zak Kenny",
+                    "email": "zkenny@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[York Town Hall](https:\/\/www.york.wa.gov.au\/community\/facilities\/town-hall.aspx)",
+                "address": "81 Avon Terrace, York WA 6302",
+                "details": "",
+                "coordinates": {
+                    "latitude": -31.891406,
+                    "longitude": 116.768151
+                }
+            },
+            "information": "![](https:\/\/i.imgur.com\/ZIPeEfV.png)\r\n\r\nThe delegates\/organiser of the competition will not allow anyone to enter the venue if they are showing signs of illness and are not responsible for any illness you may contract from the competition.\r\n\r\nPlease take the time to read all the FAQ tabs, even if you have previously competed before, as there may be some restrictions that you may be unaware of.\r\n\r\n**Contact us**\r\nWe are on [Facebook](https:\/\/www.facebook.com\/SpeedcubingAustralia\/) and [Instagram](https:\/\/www.instagram.com\/speedcubingau\/)!\r\n\r\n[Speedcubing Australia Website](https:\/\/speedcubing.org.au)",
+            "externalWebsite": null
+        }
+    ]
+}

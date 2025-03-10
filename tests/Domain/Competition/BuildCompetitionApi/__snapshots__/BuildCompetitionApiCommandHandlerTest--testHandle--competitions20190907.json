@@ -1,0 +1,153 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 2
+    },
+    "total": 2,
+    "items": [
+        {
+            "id": "XelaOpen2019",
+            "name": "Xela Open 2019",
+            "city": "Quetzaltenango",
+            "country": "GT",
+            "date": {
+                "from": "2019-09-07",
+                "till": "2019-09-08",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Luis David Hern\u00e1ndez Mej\u00eda",
+                    "email": "lmejia@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Jackie V\u00e1squez",
+                    "email": "kakaw08@hotmail.com"
+                },
+                {
+                    "name": "Pablo Say",
+                    "email": "rubiksxela@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Centro Cultural Casa NOJ",
+                "address": "7ma calle 12-12 zona 1, Quetzaltenango",
+                "details": "Sal\u00f3n Principal",
+                "coordinates": {
+                    "latitude": 14.83372,
+                    "longitude": -91.518972
+                }
+            },
+            "information": "Competencia que se desarrolla por quinta vez en Quetzaltenango. Con el objetivo principal de aumentar la comunidad en esta area del pais y asi promover mas el speedcubing. \r\n\r\n\r\nCompetition that takes place for the fifth time in Quetzaltenango. With the main objective of increasing the community in this area of the country and thus promote more speedcubing.\r\n\r\nEnglish\r\n\"Competing T-shirts for those who register on the same day will be given until stocks run out. \"\r\n\r\nEspa\u00f1ol\r\n\"Las camisetas que compiten para aquellos que se registren el mismo d\u00eda se dar\u00e1n hasta que las existencias se agoten\" ",
+            "externalWebsite": null
+        },
+        {
+            "id": "FMCNorthAmericaWest2019",
+            "name": "FMC North America West 2019",
+            "city": "Multiple Cities",
+            "country": "XN",
+            "date": {
+                "from": "2019-09-07",
+                "till": "2019-09-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Brandon Harnish",
+                    "email": "bharnish@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kevin Matthews",
+                    "email": "kmatthews@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kit Clement",
+                    "email": "kclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Lauren Clement",
+                    "email": "lclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Michael Young",
+                    "email": "myoung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ryan Jew",
+                    "email": "rjew@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andrew Nathenson",
+                    "email": "colorfulpockets01@gmail.com"
+                },
+                {
+                    "name": "Brandon Harnish",
+                    "email": "bharnish@worldcubeassociation.org"
+                },
+                {
+                    "name": "Elijah Brown",
+                    "email": "ebrown@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kevin Matthews",
+                    "email": "kmatthews@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kit Clement",
+                    "email": "kclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Lauren Clement",
+                    "email": "lclement@worldcubeassociation.org"
+                },
+                {
+                    "name": "Liew Yee Voon (\u5289\u501a\u6587)",
+                    "email": "opliew.vanguards@gmail.com"
+                },
+                {
+                    "name": "Michael Young",
+                    "email": "myoung@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ryan Jew",
+                    "email": "rjew@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "See the locations tab for more information about venue locations",
+                "address": "Multiple Locations",
+                "details": "",
+                "coordinates": {
+                    "latitude": 45.507194,
+                    "longitude": -122.680292
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        }
+    ]
+}

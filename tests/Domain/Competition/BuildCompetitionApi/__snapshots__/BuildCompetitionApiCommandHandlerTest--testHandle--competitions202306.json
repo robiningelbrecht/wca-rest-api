@@ -1,0 +1,492 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 9
+    },
+    "total": 9,
+    "items": [
+        {
+            "id": "KosovoOpen2023",
+            "name": "Kosovo Open 2023",
+            "city": "Prishtina",
+            "country": "XK",
+            "date": {
+                "from": "2023-06-25",
+                "till": "2023-06-25",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Samuel Mema",
+                    "email": "samuelmema33@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Lir Ukaj",
+                    "email": "hikmetukaj@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[International School of Prishtina](https:\/\/ispkosova.com\/)",
+                "address": "Preoc, Marigona Residence, International School of Prishtina \/ Gracanica 10000",
+                "details": "Sports hall",
+                "coordinates": {
+                    "latitude": 42.585061,
+                    "longitude": 21.106898
+                }
+            },
+            "information": "For more information check out the tabs!",
+            "externalWebsite": null
+        },
+        {
+            "id": "SwisscubingCupIV2023",
+            "name": "Swisscubing Cup IV 2023",
+            "city": "Vaduz (LI)",
+            "country": "LI",
+            "date": {
+                "from": "2023-06-24",
+                "till": "2023-06-25",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "minx",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ioannis Papadopoulos",
+                    "email": "ipapadopoulos@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mattia Pasquini",
+                    "email": "mpasquini@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Stefan Loosli",
+                    "email": "stee.loosli@gmail.com"
+                },
+                {
+                    "name": "Swisscubing",
+                    "email": "board@swisscubing.ch"
+                }
+            ],
+            "venue": {
+                "name": "[Sp\u00f6rry Halle](https:\/\/www.vaduzer-saal.li\/spoerry-areal\/mehrzweckhalle)",
+                "address": "R\u00fcfestrasse 6, 9490 Vaduz, Liechtenstein",
+                "details": "Mehrzweckhalle",
+                "coordinates": {
+                    "latitude": 47.150173,
+                    "longitude": 9.516305
+                }
+            },
+            "information": "Swisscubing Cup IV ist Teil des Swisscubing Cup 2023. Dieser besteht aus 6 Competitions \u00fcber das ganze Jahr verteilt. Um mehr dar\u00fcber zu erfahren, besuche https:\/\/swisscubing.ch\/swisscubing-cup-2023\/.\r\nTeilnehmer die sich registrieren aber nicht bezahlen, m\u00fcssen die Teilnahmegeb\u00fchr bei ihrer n\u00e4chsten Competition in der Schweiz bezahlen.\r\n______________________________________________________________________________________________\r\n\r\nSwisscubing Cup IV is part of the Swisscubing Cup 2023, made of 6 competitions during the whole year. Check out on https:\/\/swisscubing.ch\/swisscubing-cup-2023\/ for the details of the other editions.\r\nA competitor who registers and doesn't show up at the competition will have to pay that registration fee at his next competition in Switzerland.",
+            "externalWebsite": null
+        },
+        {
+            "id": "WinnipegOpen2023",
+            "name": "Winnipeg Open 2023",
+            "city": "Winnipeg, Manitoba",
+            "country": "CA",
+            "date": {
+                "from": "2023-06-17",
+                "till": "2023-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "777",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Alexander Mutch",
+                    "email": "amutch@worldcubeassociation.org"
+                },
+                {
+                    "name": "Carter Bitz",
+                    "email": "cbitz@worldcubeassociation.org"
+                },
+                {
+                    "name": "Carter Kucala",
+                    "email": "ckucala@worldcubeassociation.org"
+                },
+                {
+                    "name": "Simon Kellum",
+                    "email": "skellum@worldcubeassociation.org"
+                },
+                {
+                    "name": "Walker Welch",
+                    "email": "wwelch@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Alberta Cubers",
+                    "email": "albertacubers@gmail.com"
+                },
+                {
+                    "name": "Alexander Mutch",
+                    "email": "amutch@worldcubeassociation.org"
+                },
+                {
+                    "name": "Laura Plourde",
+                    "email": "lauraplourde@outlook.com"
+                },
+                {
+                    "name": "Walker Welch",
+                    "email": "wwelch@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Crescentwood Site - Corydon Community Centre](https:\/\/corydoncc.com\/facilities\/crescentwood-facilities\/)",
+                "address": "1170 Corydon Ave, Winnipeg, MB R3M 0Z1, Canada",
+                "details": "Saturday: Multi-Purpose Room, Sunday: Crescentwood Gym",
+                "coordinates": {
+                    "latitude": 49.864835,
+                    "longitude": -97.170405
+                }
+            },
+            "information": "# FMC Canada 2023\r\n\r\nFMC Canada 2023 is also being held before Winnipeg Open 2023 at the same venue. You are welcome to register for one or both competitions, but please note that you need to *register for FMC Canada 2023 separately*.",
+            "externalWebsite": null
+        },
+        {
+            "id": "PragueOpen2023",
+            "name": "Prague Open 2023",
+            "city": "Prague",
+            "country": "CZ",
+            "date": {
+                "from": "2023-06-17",
+                "till": "2023-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Emma Beranov\u00e1",
+                    "email": "eberanova@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jan Fon\u0161",
+                    "email": "honzafons@seznam.cz"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arsenij Kuprin",
+                    "email": "kuprin.ars@gmail.com"
+                },
+                {
+                    "name": "Emma Beranov\u00e1",
+                    "email": "eberanova@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tom\u00e1\u0161 Nguyen",
+                    "email": "tomas.nguyen159@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Z\u00e1kladn\u00ed \u0161kola a Mate\u0159sk\u00e1 \u0161kola \u010cerven\u00fd Vrch",
+                "address": "Al\u017e\u00edrsk\u00e1 26\/680,  Praha 6 - Vokovice",
+                "details": "J\u00eddelna",
+                "coordinates": {
+                    "latitude": 50.095384,
+                    "longitude": 14.353753
+                }
+            },
+            "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHM1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc33ae9e439080ea857be81b152f0c14a55fe718\/prague.png)\r\nPlease read carefully all the tabs! \r\n\r\nPros\u00edme, p\u0159e\u010dt\u011bte si pe\u010dliv\u011b v\u0161echny z\u00e1lo\u017eky!",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZreceOpen2023",
+            "name": "Zre\u010de Open 2023",
+            "city": "Zre\u010de",
+            "country": "SI",
+            "date": {
+                "from": "2023-06-17",
+                "till": "2023-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jernej Omulec",
+                    "email": "jomulec@worldcubeassociation.org"
+                },
+                {
+                    "name": "Petra Kobal Vogrinec",
+                    "email": "pvogrinec@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Rubik Klub Slovenija",
+                    "email": "wca.slovenia@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Osnovna \u0161ola Zre\u010de](https:\/\/www.oszrece.net\/)",
+                "address": "\u0160olska cesta 3, 3214 Zre\u010de, Slovenia",
+                "details": "Competition will be held in a gym",
+                "coordinates": {
+                    "latitude": 46.373161,
+                    "longitude": 15.390019
+                }
+            },
+            "information": "*[English]*\r\n\r\nThis competition is being organized by the Rubik klub Slovenija.\r\nIf you need any additional information, or if you would like to change your registration, please write an e-mail to the **wca.slovenia@gmail.com**.\r\n\r\nFor more information, please check the tabs!\r\n\r\n*[Sloven\u0161\u010dina]*\r\n\r\nTekmovanje organizira Rubik klub Slovenija.\r\n\u010ce potrebujete dodatne informacije ali \u010de bi \u017eeleli spremeniti svojo prijavo, nam pi\u0161ite na **wca.slovenia@gmail.com**.\r\n\r\nZa ve\u010d informacij preverite zavihke!",
+            "externalWebsite": null
+        },
+        {
+            "id": "SaramadaCubingBangladesh2023",
+            "name": "Saramada Cubing Bangladesh 2023",
+            "city": "Dhaka",
+            "country": "BD",
+            "date": {
+                "from": "2023-06-16",
+                "till": "2023-06-16",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "333fm",
+                "333oh"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Arnab Banik",
+                    "email": "abanik@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arnab Banik",
+                    "email": "abanik@worldcubeassociation.org"
+                },
+                {
+                    "name": "Farhanul Haque Khan",
+                    "email": "illusionkillerfahim@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[CubeNation HQ] (https:\/\/www.facebook.com\/cubenationbd\/)",
+                "address": "CubeNation, House #91-93, Road #W2 ,Block-C, Eastern Housing, Pallabi, Dhaka 1216",
+                "details": "1st Floor, 1A",
+                "coordinates": {
+                    "latitude": 23.822167,
+                    "longitude": 90.352555
+                }
+            },
+            "information": "\r\n\r\n1. Competitors and guests MUST NOT attend this competition if they have any COVID-19 symptoms or have been in contact with someone who is COVID-19 positive.\r\n2. Please be aware that there are qualification criteria in place for participating in this competition. \r\n3. All the necessary information is given the Tabs, please have a look.\r\n4. Please follow the [Saramada Cubing Bangladesh 2023 ](http:\/\/facebook.com\/SCBd23), all the updates will be posted there. \r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "TbilisiSummerOpen2023",
+            "name": "Tbilisi Summer Open 2023",
+            "city": "Tbilisi",
+            "country": "GE",
+            "date": {
+                "from": "2023-06-11",
+                "till": "2023-06-11",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Conan Mo",
+                    "email": "conan@speedcubing.org.au"
+                },
+                {
+                    "name": "Vako Marchilashvili (\u10d5\u10d0\u10d9\u10dd \u10db\u10d0\u10e0\u10e9\u10d8\u10da\u10d0\u10e8\u10d5\u10d8\u10da\u10d8)",
+                    "email": "vmarchilashvili@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Vako Marchilashvili (\u10d5\u10d0\u10d9\u10dd \u10db\u10d0\u10e0\u10e9\u10d8\u10da\u10d0\u10e8\u10d5\u10d8\u10da\u10d8)",
+                    "email": "vmarchilashvili@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Institute of Cybernetic (\u10d9\u10d8\u10d1\u10d4\u10e0\u10dc\u10d4\u10e2\u10d8\u10d9\u10d8\u10e1 \u10d8\u10dc\u10e1\u10e2\u10d8\u10e2\u10e3\u10e2\u10d8)",
+                "address": "Institute of Cybernetic (\u10d9\u10d8\u10d1\u10d4\u10e0\u10dc\u10d4\u10e2\u10d8\u10d9\u10d8\u10e1 \u10d8\u10dc\u10e1\u10e2\u10d8\u10e2\u10e3\u10e2\u10d8)",
+                "details": "2 Floor , ( \u10db\u10d4\u10dd\u10e0\u10d4 \u10e1\u10d0\u10e0\u10d7\u10e3\u10da\u10d8  )",
+                "coordinates": {
+                    "latitude": 41.723067,
+                    "longitude": 44.715356
+                }
+            },
+            "information": "[GE]\r\n\u10d2\u10d7\u10ee\u10dd\u10d5\u10d7, \u10e1\u10d0\u10ee\u10d4\u10da\u10d8 \u10d3\u10d0 \u10d2\u10d5\u10d0\u10e0\u10d8 \u10e8\u10d4\u10d0\u10d5\u10e1\u10dd\u10d7 \u10d6\u10e3\u10e1\u10e2\u10d0\u10d3 \u10d8\u10e1\u10d4 \u10e0\u10dd\u10d2\u10dd\u10e0\u10ea \u10db\u10dd\u10ea\u10d4\u10db\u10e3\u10da\u10d8\u10d0 \u10d7\u10e5\u10d5\u10d4\u10dc\u10e1 \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d3\u10d0\u10db\u10d0\u10d3\u10d0\u10e1\u10e2\u10e3\u10e0\u10d4\u10d1\u10d4\u10da \u10e1\u10d0\u10d1\u10e3\u10d7\u10e8\u10d8. \u10d8\u10dc\u10d2\u10da\u10d8\u10e1\u10e3\u10e0\u10d0\u10d3 \u10e8\u10d4\u10d5\u10e1\u10d4\u10d1\u10d8\u10e1\u10d0\u10e1, \u10e1\u10d0\u10ee\u10d4\u10da\u10d8\u10e1 \u10d3\u10d0 \u10d2\u10d5\u10d0\u10e0\u10d8\u10e1 \u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d8 \u10d0\u10e1\u10dd \u10e9\u10d0\u10ec\u10d4\u10e0\u10d4\u10d7 \u10d3\u10d8\u10d3\u10d8 \u10d0\u10e1\u10dd\u10d4\u10d1\u10d8\u10d7. \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d3\u10d0\u10db\u10d0\u10d3\u10d0\u10e1\u10e2\u10e3\u10e0\u10d4\u10d1\u10d4\u10da\u10d8 \u10e1\u10d0\u10d1\u10e3\u10d7\u10d8 \u10d7\u10d0\u10dc \u10d8\u10e5\u10dd\u10dc\u10d8\u10d4\u10d7 \u10e8\u10d4\u10ef\u10d8\u10d1\u10e0\u10d6\u10d4 \u10d2\u10d0\u10db\u10dd\u10ea\u10ee\u10d0\u10d3\u10d4\u10d1\u10d8\u10e1\u10d0\u10e1.\r\n\u10e1\u10e2\u10e3\u10db\u10e0\u10d8\u10e1 \u10e0\u10d0\u10dd\u10d3\u10d4\u10dc\u10dd\u10d1\u10d0 \u10e8\u10d4\u10d6\u10e6\u10e3\u10d3\u10e3\u10da\u10d8\u10d0 (1 \u10db\u10dd\u10dc\u10d0\u10ec\u10d8\u10da\u10d4\u10e1 \u10e8\u10d4\u10e1\u10d0\u10eb\u10da\u10d4\u10d1\u10d4\u10da\u10d8\u10d0 \u10d7\u10d0\u10dc \u10d0\u10ee\u10da\u10d3\u10d4\u10e1 \u10db\u10d0\u10e5\u10e1\u10d8\u10db\u10e3\u10db 1 \u10d2\u10e3\u10da\u10e8\u10d4\u10db\u10d0\u10e2\u10d9\u10d8\u10d5\u10d0\u10e0\u10d8) - \u10d2\u10e3\u10da\u10e8\u10d4\u10db\u10d0\u10e2\u10d9\u10d8\u10d5\u10e0\u10d8\u10e1 \u10d3\u10d0\u10e1\u10ec\u10e0\u10d4\u10d1\u10d0 \u10e3\u10e4\u10d0\u10e1\u10dd\u10d0\r\n\u10d5\u10d8\u10dc\u10ea \u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d0\u10d3 \u10d8\u10e6\u10d4\u10d1\u10d7 \u10db\u10dd\u10dc\u10d0\u10ec\u10d8\u10da\u10d4\u10dd\u10d1\u10d0\u10e1 \u10d0\u10e3\u10ea\u10d8\u10da\u10d4\u10d1\u10da\u10d0\u10d3 \u10d7\u10d0\u10dc \u10d8\u10e5\u10dd\u10dc\u10d8\u10d4\u10d7 \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d0\u10dc \u10d3\u10d0\u10d1\u10d0\u10d3\u10d4\u10d1\u10d8\u10e1 \u10db\u10dd\u10ec\u10db\u10dd\u10d1\u10d0 \r\n\r\n[EN]\r\nPlease enter your name and surname during registration as it is writter on your ID.\r\nThe First letters are capital letters.\r\nDont forget to have an ID card with you when you come to the competition\r\nHere is Guest limitation (1 guest for each competitor) - its free to attend Guest\r\nFirst Timer competitors must have ID Card or birthday Certificate ",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZaragozaOpen2023",
+            "name": "Zaragoza Open 2023",
+            "city": "Puebla",
+            "country": "MX",
+            "date": {
+                "from": "2023-06-03",
+                "till": "2023-06-04",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "555",
+                "777",
+                "clock",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jaime Tadeo Perez Cardona",
+                    "email": "jcardona@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "C\u00e9sar Mora Escobar",
+                    "email": "punkdark98@gmail.com"
+                },
+                {
+                    "name": "Miguel \u00c1ngel Cruz Hern\u00e1ndez",
+                    "email": "buuelqbero@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "BUAP: Preparatoria 2 de Octubre 1968",
+                "address": "Calle Benito Ju\u00e1rez 51-B, Reserva Territorial Atlixc\u00e1yotl, Concepci\u00f3n Guadalupe, 72450 Puebla, Pue.",
+                "details": "Cancha Techada de la preparatoria",
+                "coordinates": {
+                    "latitude": 19.025587,
+                    "longitude": -98.230439
+                }
+            },
+            "information": "Estamos muy emocionados de anunciar *Zaragoza Open 2023*  \u00a1El primer competencia oficial del 2023 en nuestra ciudad! \r\nEsta competencia es posible gracias al apoyo de la **Preparatoria 2 de Octubre 1968** y el **Puebla Rubik's Team.**\r\n\r\nEsta competencia es reconocida como una competencia oficial de la WCA. Por lo tanto, todos los competidores deben estar familiarizados y entender [el reglamento de la WCA](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/spanish-american\/#2a) antes de la competencia. \r\n\r\n![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGM0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1f46347f050fc703991f2bc01a4b8c12a067f23\/zara4.png)\r\n\r\n\r\nWe are so happy to annunce *Zaragoza Open 2023*  The first official competition of this year in our city!.\r\nThis competition is possible due to support of **Preparatoria 2 de Octubre 1968** and **Puebla Rubik's Team**.\r\n\r\nThis competition is recognized as an official World Cube Association competition. Therefore, all competitors must be familiar with the [WCA regulations](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/spanish-american\/#2a)\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZmigrodOpen2023",
+            "name": "\u017bmigr\u00f3d Open 2023",
+            "city": "\u017bmigr\u00f3d",
+            "country": "PL",
+            "date": {
+                "from": "2023-06-03",
+                "till": "2023-06-04",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jakub Hamka\u0142o",
+                    "email": "jhamkalo@worldcubeassociation.org"
+                },
+                {
+                    "name": "Karol Zakrzewski",
+                    "email": "kzakrzewski@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Karol Zakrzewski",
+                    "email": "kzakrzewski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Roksana Porucznik",
+                    "email": "alex620362@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego w \u017bmigrodzie](https:\/\/spzmigrod.superszkolna.pl\/)",
+                "address": "Sienkiewicza 6, 55-140 \u017bmigr\u00f3d",
+                "details": "Sports hall",
+                "coordinates": {
+                    "latitude": 51.46725,
+                    "longitude": 16.902428
+                }
+            },
+            "information": "Zapraszamy na pierwsze zawody WCA w \u017bmigrodzie! \r\nWydarzenie odb\u0119dzie si\u0119 pod honorowym patronatem Burmistrza gminy \u017bmigr\u00f3d - Roberta Lewandowskiego!\r\n\r\n----\r\nWe invite you to the first WCA competition in \u017bmigr\u00f3d!\r\nThe competitions will be held under the honorary patronage of the Mayor of the \u017bmigr\u00f3d city - Robert Lewandowski!\r\n\r\n![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1kxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--992cfb3a1c02ac70d6ab3df6cffe3a0c87912c63\/zmigrod_mainpage.png)",
+            "externalWebsite": null
+        }
+    ]
+}

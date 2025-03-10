@@ -1,0 +1,47 @@
+{
+    "id": "MoroccoSummer2019",
+    "name": "Morocco Summer 2019",
+    "city": "Rabat",
+    "country": "MA",
+    "date": {
+        "from": "2019-07-07",
+        "till": "2019-07-07",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "minx"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Soufiane Lakhlifi",
+            "email": "slakhlifi@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Mohamed Elkhatri",
+            "email": "mohamed.elkhatri2002@gmail.com"
+        },
+        {
+            "name": "Omar Ouadouha",
+            "email": "omar.ouadouha1@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "\u00c9cole Nationale Sup\u00e9rieure des Mines de Rabat",
+        "address": "Ecole Nationale sup\u00e9rieure des Mines de Rabat, Rabat",
+        "details": "Salle des invit\u00e9s",
+        "coordinates": {
+            "latitude": 34.000312,
+            "longitude": -6.854812
+        }
+    },
+    "information": "L'inscription est ouverte \u00e0 tout le monde jusqu'\u00e0 l'atteinte de 50 comp\u00e9titeurs inscrits.\r\nThe competition is open to everyone until the 50 competitor limit is reached.\r\nTime: 8am until 7pm.",
+    "externalWebsite": null
+}

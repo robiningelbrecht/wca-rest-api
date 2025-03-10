@@ -1,0 +1,56 @@
+{
+    "id": "WelcomeBackJonkoping2020",
+    "name": "Welcome Back J\u00f6nk\u00f6ping 2020",
+    "city": "J\u00f6nk\u00f6ping",
+    "country": "SE",
+    "date": {
+        "from": "2020-09-26",
+        "till": "2020-09-27",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "333",
+        "333bf",
+        "333mbf",
+        "444",
+        "444bf",
+        "555bf",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Daniel Wallin",
+            "email": "dwallin@worldcubeassociation.org"
+        },
+        {
+            "name": "Viktor Zenk",
+            "email": "vzenk@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Helmer Ewert",
+            "email": "hewert@worldcubeassociation.org"
+        },
+        {
+            "name": "Viktor Zenk",
+            "email": "vzenk@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "[Kulturhuset](https:\/\/kulturhusetjonkoping.se\/)",
+        "address": "Svavelsticksgr\u00e4nd 7, 553 15 J\u00f6nk\u00f6ping",
+        "details": "The competition is in the attic, up the stairs to your left",
+        "coordinates": {
+            "latitude": 57.785581,
+            "longitude": 14.15618
+        }
+    },
+    "information": "V\u00e4lkomna tillbaka!\r\nF\u00f6r f\u00f6rsta g\u00e5ngen sedan i mars \u00e4r det nu m\u00f6jligt att arrangera en t\u00e4vling igen.\r\nDenna t\u00e4vling kommer att genomf\u00f6ras med en rad restriktioner f\u00f6r att f\u00f6rbygga smittorisken, l\u00e4s mer om detta p\u00e5 de \u00f6vriga flikarna.\r\n\r\n---\r\n\r\nWelcome back!\r\nFor the first time since March, we are now able to organize a competition once again.\r\nThis competition will be subject to several restrictions to prevent the risk of infection, please read more about this in the other tabs.",
+    "externalWebsite": null
+}

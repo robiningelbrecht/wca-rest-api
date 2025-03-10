@@ -1,0 +1,100 @@
+name: Build API
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '30 11 * * *'
+jobs:
+  build-api:
+    name: Build API
+    runs-on: ubuntu-latest
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_DATABASE: wca
+          MYSQL_ROOT_PASSWORD: root
+        ports:
+          - 3306:3306
+
+    steps:
+      # https://github.com/marketplace/actions/setup-php-action
+      - name: Setup PHP 8.2
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          extensions: intl
+
+      # https://github.com/marketplace/actions/checkout
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Copy .env file
+        run: cp .env.github-actions .env
+
+      - name: Wait for services to boot
+        run: sleep 10
+
+      - name: Install dependencies
+        run: composer install --prefer-dist
+
+      - name: Build the new api
+        run: |
+          set -e
+          
+          # Check if there's a new version
+          NEW_VERSION=$(curl -s -L https://www.worldcubeassociation.org/api/v0/export/public)
+          CURRENT_VERSION=$(curl -s -L https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/version.json)
+          
+          echo $NEW_VERSION
+          echo $CURRENT_VERSION
+          
+          if [ "$NEW_VERSION" != "$CURRENT_VERSION" ]; then
+            # Download and unzip WCA export.
+            rm -Rf wca-export
+            mkdir wca-export
+            
+            echo "Downloading WCA export..."
+            curl https://www.worldcubeassociation.org/export/results/WCA_export.sql.zip -L --output "wca-export/export.zip"
+            
+            echo "Unzipping WCA export..."
+            unzip wca-export/export.zip -d wca-export
+            
+            # Import SQL file into db.
+            echo "Importing WCA export to database..."
+            # We need to remove the first line from the import file, because it causes MySQL to crash during import
+            tail -n +2 wca-export/WCA_export.sql > wca-export/tmp.sql && mv wca-export/tmp.sql wca-export/WCA_export.sql
+            # Now import
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca < wca-export/WCA_export.sql
+            
+            # Add indexes for faster processing
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON Persons (id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON Results (personId)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competitionId_index ON Results (competitionId)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON Results (eventId)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competitionId_index ON championships (competition_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON RanksSingle (personId)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON RanksSingle (eventId)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON RanksAverage (personId)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON RanksAverage (eventId)"
+            
+            # Build API.
+            bin/console app:api:build "continent,country,event,competition,championship,person,rank,result,version"
+          else
+             echo "No new version detected, exiting, bye."
+          fi
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'robiningelbrecht'
+          git config --global user.email 'robiningelbrecht@users.noreply.github.com'
+          git add .
+          git status
+          git diff --staged --quiet || git commit -m"New API build"
+          git push
+      - name: ntfy.sh
+        uses: robiningelbrecht/ntfy-action@v1.0.0
+        if: always()
+        with:
+            url: ${{ secrets.NTFY_URL }}
+            topic: ${{ secrets.NTFY_TOPIC }}
+            icon: 'https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png'
+            job_status: ${{ job.status }}

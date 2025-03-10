@@ -1,0 +1,1209 @@
+openapi: 3.0.2
+info:
+  title: Unofficial World Cube Association API
+  description: |
+    # Introduction
+    
+    Welcome to the **unofficial** World Cube Association (WCA) Public API documentation! Here, you'll find all the information you need to integrate this API seamlessly into your projects. Access competition data, results, competitor profiles, rankings, and more.
+
+    **Note:** This API is served through static JSON files on *GitHub*, which means the structure of the endpoints has limitations. The reason for doing so is:
+
+    * The data doesn't change that much, max once a day
+    * Static file-based API is (or should be) very fast
+    * I don't want to pay for any hosting because it could get very expensive, very fast
+    
+    The API is updated once a day so rankings and results are not real-time.
+    
+    > This information is based on competition results owned and maintained by the
+    > World Cube Association, published at https://www.worldcubeassociation.org/export/results
+    > as of <!--START_SECTION:version-date-->March 08, 2025<!--END_SECTION:version-date-->.
+    
+    I'm in no way affiliated with or part of the official WCA software team.
+    
+    ## Overviews
+    
+    Every list of items is structured in the same way and contains 3 properties:
+    
+    * `pagination` - Contains page info for the current request
+    * `total` - Indicates the total number of items available for this model
+    * `ìtems` - The list of items for the current page
+    
+    ```json
+    {
+      "pagination": {
+        "page": 1,
+        "size": 1000
+      },
+      "total": 3465,
+      "items": []
+    }
+    ```
+    
+    ## Pagination
+    
+    Each page contains a specific number of items (max 1000), allowing you to retrieve data incrementally. By using pagination, 
+    you can request and display only the necessary data at a given time, 
+    which enhances performance and reduces resource consumption. 
+    
+    To determine the total number of pages, 
+    you'll need to divide the total number of items by the page size (which is hardcoded to 1000).
+    
+    To navigate through the pages, you can adjust the page parameter in subsequent requests. 
+    For example, to retrieve the second page of data, you would set `competitions-page-2.json`.
+  x-logo:
+    url: './logo-docs.png'
+    altText: Logo
+  contact:
+    email: ingelbrecht_robin@hotmail.com
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.1
+externalDocs:
+  description: The source code of the API
+  url: https://github.com/robiningelbrecht/wca-rest-api
+servers:
+  - url: https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master
+x-tagGroups:
+  - name: API
+    tags:
+      - general
+      - competition
+      - championship
+      - person
+      - rank
+      - result
+  - name: Models
+    tags:
+      - continent_model
+      - country_model
+      - event_model
+      - competition_model
+      - championship_model
+      - person_model
+      - rank_model
+      - result_model
+tags:
+  - name: general
+    description: |
+      The general endpoints are mainly here to determine the identifiers you can use for subsequent requests.
+      For example: If you need to provide an `{event}` in a request, you can use `api/events.json` 
+      to determine the list of allowed values. Same goes for `{continent}` and `{country}`.
+  - name: competition
+    description: |
+      The competition API calls offer access to various endpoints that provide comprehensive information about competitions.
+  - name: championship
+    description: |
+      The championship API calls offer access to various endpoints that provide comprehensive information about competitions.
+      These are very similar to the competition API calls because championships are glorified competitions 😉.
+  - name: person
+    description: |
+      The person API calls contain comprehensive data about people. Among some basic info, the ranking and results are included as well.
+  - name: rank
+    description: |
+      The rank API calls only contain the first 1000 places. If you want to fetch a rank of a specific person,
+      use the `api/persons/{id}` API call.
+  - name: result
+    description: |
+      The result API calls are centered around fetching detailed results per competition.
+  - name: continent_model
+    x-displayName: Continent
+    description: |
+      <SchemaDefinition schemaRef="#/components/schemas/Continent" />
+  - name: country_model
+    x-displayName: Country
+    description: |
+      <SchemaDefinition schemaRef="#/components/schemas/Country" />
+  - name: event_model
+    x-displayName: Event
+    description: |
+      <SchemaDefinition schemaRef="#/components/schemas/Event" />
+  - name: competition_model
+    x-displayName: Competition
+    description: |
+      <SchemaDefinition schemaRef="#/components/schemas/Competition" />
+  - name: championship_model
+    x-displayName: Championship
+    description: |
+      <SchemaDefinition schemaRef="#/components/schemas/Championship" />
+  - name: person_model
+    x-displayName: Person
+    description: |
+      <SchemaDefinition schemaRef="#/components/schemas/Person" />
+  - name: rank_model
+    x-displayName: Rank
+    description: |
+      <SchemaDefinition schemaRef="#/components/schemas/Rank" />
+  - name: result_model
+    x-displayName: Result
+    description: |
+      <SchemaDefinition schemaRef="#/components/schemas/Result" />
+paths:
+  /api/continents.json:
+    get:
+      tags:
+        - general
+      summary: continents
+      description: |
+        This API call provides a list of continents used by the WCA, including their names and unique identifiers.
+      operationId: getContinents
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Continents'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/continents.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/continents.json');
+            echo $response->getBody()->getContent();
+  /api/countries.json:
+    get:
+      tags:
+        - general
+      summary: countries
+      description: This API call provides a list of countries used by the WCA, including their names and ISO2 codes.
+      operationId: getCountries
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Countries'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/countries.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/countries.json');
+            echo $response->getBody()->getContent();
+  /api/events.json:
+    get:
+      tags:
+        - general
+      summary: events
+      description: This API call provides a list of events types used by the WCA.
+      operationId: getEvents
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Events'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/events.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/events.json');
+            echo $response->getBody()->getContent();
+  /api/competitions{-page-[0-9]}.json:
+    get:
+      tags:
+        - competition
+      summary: competitions
+      description: ''
+      operationId: getCompetitions
+      parameters:
+        - name: -page-[0-9]
+          in: path
+          description: Page that needs to be fetched
+          required: true
+          schema:
+            type: string
+            example: '-page-1'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Competitions'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions.json'
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions-page-2.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions.json');
+            echo $response->getBody()->getContent();
+  /api/competitions/{country}.json:
+    get:
+      tags:
+        - competition
+      summary: competitions by country
+      description: ''
+      operationId: getCompetitionsByCountry
+      parameters:
+        - name: country
+          in: path
+          description: The country to filter the competitions on. For a list of valid countries, check `/api/countries.json`
+          required: true
+          schema:
+            type: string
+            example: BE
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Competitions'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/BE.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/BE.json');
+            echo $response->getBody()->getContent();
+  /api/competitions/{year}.json:
+    get:
+      tags:
+        - competition
+      summary: competitions by year
+      description: ''
+      operationId: getCompetitionsByYear
+      parameters:
+        - name: year
+          in: path
+          description: The year to filter the competitions on.
+          required: true
+          schema:
+            type: integer
+            example: '2023'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Competitions'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/2023.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/2023.json');
+            echo $response->getBody()->getContent();
+  /api/competitions/{year}/{month}.json:
+    get:
+      tags:
+        - competition
+      summary: competitions by year and month
+      description: ''
+      operationId: getCompetitionsByYearAndMonth
+      parameters:
+        - name: year
+          in: path
+          description: The year to filter the competitions on.
+          required: true
+          schema:
+            type: integer
+            example: '2023'
+        - name: month
+          in: path
+          description: The month to filter the competitions on. A string "between" "01" -> "12"
+          required: true
+          schema:
+            type: string
+            example:
+              - '01'
+              - '02'
+              - '03'
+              - '04'
+              - '05'
+              - '06'
+              - '07'
+              - '08'
+              - '09'
+              - '10'
+              - '11'
+              - '12'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Competitions'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/2023/08.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/2023/08.json');
+            echo $response->getBody()->getContent();
+  /api/competitions/{year}/{month}/{day}.json:
+    get:
+      tags:
+        - competition
+      summary: competitions by year, month and day
+      description: ''
+      operationId: getCompetitionsByYearAndMonthAndDay
+      parameters:
+        - name: year
+          in: path
+          description: The year to filter the competitions on.
+          required: true
+          schema:
+            type: integer
+            example: '2023'
+        - name: month
+          in: path
+          description: The month to filter the competitions on. A string "between" "01" -> "12"
+          required: true
+          schema:
+            type: string
+            example:
+              - '01'
+              - '02'
+              - '03'
+              - '04'
+              - '05'
+              - '06'
+              - '07'
+              - '08'
+              - '09'
+              - '10'
+              - '11'
+              - '12'
+        - name: day
+          in: path
+          description: The day to filter the competitions on. A string "between" "01" -> "31"
+          required: true
+          schema:
+            type: string
+            example:
+              - '01'
+              - '15'
+              - '31'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Competitions'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/2023/08/13.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/2023/09/13.json');
+            echo $response->getBody()->getContent();
+  /api/competitions/{event}{-page-[0-9]}.json:
+    get:
+      tags:
+        - competition
+      summary: competitions by event
+      description: ''
+      operationId: getCompetitionsByEvent
+      parameters:
+        - name: event
+          in: path
+          description: The event to filter the competitions on. For a list of valid events, check `/api/events.json`
+          required: true
+          schema:
+            type: string
+            example: '333'
+        - name: -page-[0-9]
+          in: path
+          description: Page that needs to be fetched
+          required: true
+          schema:
+            type: string
+            example: '-page-1'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Competitions'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/333.json'
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/333-page-2.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/333.json');
+            echo $response->getBody()->getContent();
+  /api/competitions/{id}.json:
+    get:
+      tags:
+        - competition
+      summary: competition by id
+      description: ''
+      operationId: getCompetitionById
+      parameters:
+        - name: id
+          in: path
+          description: Id of the competition to fetch
+          required: true
+          schema:
+            type: string
+            example: BrizZonSylwesterOpen2022
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Competition'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/BrizZonSylwesterOpen2022.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/competitions/BrizZonSylwesterOpen2022.json');
+            echo $response->getBody()->getContent();
+  /api/championships{-page-[0-9]}.json:
+    get:
+      tags:
+        - championship
+      summary: championships
+      description: ''
+      operationId: getChampionships
+      parameters:
+        - name: -page-[0-9]
+          in: path
+          description: Page that needs to be fetched
+          required: true
+          schema:
+            type: string
+            example: '-page-1'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Championships'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/championships.json'
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/championships-page-1.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/championships.json');
+            echo $response->getBody()->getContent();
+  /api/championships/{type}.json:
+    get:
+      tags:
+        - championship
+      summary: championships by type
+      description: ''
+      operationId: getChampionshipsByType
+      parameters:
+        - name: type
+          in: path
+          description: The type to filter the championships on. Can be "world" or one of the ids in `api/continents.json` or `api/countries.json`
+          required: true
+          schema:
+            type: string
+            example: 'world'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Championships'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/championships/world.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/championships/world.json');
+            echo $response->getBody()->getContent();
+  /api/championships/{id}.json:
+    get:
+      tags:
+        - championship
+      summary: championship by id
+      description: ''
+      operationId: getChampionshipById
+      parameters:
+        - name: id
+          in: path
+          description: Id of the championship to fetch
+          required: true
+          schema:
+            type: string
+            example: WC2023
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Championship'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/championships/WC2023.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/championships/WC2023.json');
+            echo $response->getBody()->getContent();
+  /api/persons{-page-[0-9]}.json:
+    get:
+      tags:
+        - person
+      summary: persons
+      description: ''
+      operationId: getPersons
+      parameters:
+        - name: -page-[0-9]
+          in: path
+          description: Page that needs to be fetched
+          required: true
+          schema:
+            type: string
+            example: '-page-1'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Persons'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/persons.json'
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/persons-page-2.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/persons.json');
+            echo $response->getBody()->getContent();
+  /api/persons/{id}.json:
+    get:
+      tags:
+        - person
+      summary: person by id
+      description: ''
+      operationId: getPersonById
+      parameters:
+        - name: id
+          in: path
+          description: Id of the person to fetch
+          required: true
+          schema:
+            type: string
+            example: 2005AUST01
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Person'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/persons/2012PARK03.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/persons/2012PARK03.json');
+            echo $response->getBody()->getContent();
+  /api/rank/{region}/{type}/{event}.json:
+    get:
+      tags:
+        - rank
+      summary: ranking by region, type and event
+      description: ''
+      operationId: getRank
+      parameters:
+        - name: region
+          in: path
+          description: The region to filter the rankings on. Can be "world" or one of the ids in `api/continents.json` or `api/countries.json`
+          required: true
+          schema:
+            type: string
+            example: 'world'
+        - name: type
+          in: path
+          description: The type to filter the rankings on
+          required: true
+          schema:
+            type: string
+            example: 'single'
+            enum:
+              - single
+              - average
+        - name: event
+          in: path
+          description: The event to filter the rankings on. For a list of valid events, check `/api/events.json`
+          required: true
+          schema:
+            type: string
+            example: '333'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Ranks'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/rank/world/single/333.json'
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/rank/BE/average/222.json'
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/rank/europe/single/444.json''
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/rank/world/single/333.json');
+            echo $response->getBody()->getContent();
+  /api/results/{competition}.json:
+    get:
+      tags:
+        - result
+      summary: results by competition
+      description: ''
+      operationId: getResultsByCompetition
+      parameters:
+        - name: competition
+          in: path
+          description: The competition to filter the results on
+          required: true
+          schema:
+            type: string
+            example: 'BrizZonSylwesterOpen2023'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Results'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/results/BrizZonSylwesterOpen2022.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/results/BrizZonSylwesterOpen2022.json');
+            echo $response->getBody()->getContent();
+  /api/results/{competition}/{event}.json:
+    get:
+      tags:
+        - result
+      summary: results by competition and event
+      description: ''
+      operationId: getResultsByCompetitionAndEvent
+      parameters:
+        - name: competition
+          in: path
+          description: The competition to filter the results on
+          required: true
+          schema:
+            type: string
+            example: 'BrizZonSylwesterOpen2022'
+        - name: event
+          in: path
+          description: The event to filter the results on
+          required: true
+          schema:
+            type: string
+            example: '333'
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Results'
+      x-code-samples:
+        - lang: 'cURL'
+          source: |
+            curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/results/BrizZonSylwesterOpen2023/333.json'
+        - lang: PHP - Guzzle
+          source: |
+            $response = (new Client())->request('GET', 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/results/BrizZonSylwesterOpen2023/333.json');
+            echo $response->getBody()->getContent();
+components:
+  schemas:
+    Continent:
+      type: object
+      properties:
+        id:
+          type: string
+          example: europe
+        name:
+          type: string
+          example: Europe
+    Country:
+      type: object
+      properties:
+        iso2Code:
+          type: string
+          example: BE
+        name:
+          type: string
+          example: Belgium
+    Event:
+      type: object
+      properties:
+        id:
+          type: string
+          example: '333'
+        name:
+          type: string
+          example: 3x3x3 Cube
+        format:
+          type: string
+          example: time
+          enum:
+            - time
+            - number
+            - multi
+    Competition:
+      type: object
+      properties:
+        id:
+          type: string
+          example: BrizZonSylwesterOpen2023
+        name:
+          type: string
+          example: BrizZon Sylwester Open 2023
+        city:
+          type: string
+          example: Poznań
+        country:
+          type: string
+          example: PL
+        date:
+          type: object
+          properties:
+            from:
+              type: string
+              format: date
+            till:
+              type: string
+              format: date
+            numberOfDays:
+              type: integer
+              format: int64
+              example: 1
+        isCanceled:
+          type: boolean
+          example: false
+        events:
+          type: array
+          items:
+            type: string
+            example: '333'
+        wcaDelegates:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+                example: John Doe
+              email:
+                type: string
+                example: john-doe@worldcubeassociation.org
+        organisers:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+                example: John Doe
+              email:
+                type: string
+                example: john-doe@worldcubeassociation.org
+        venue:
+          type: object
+          properties:
+            name:
+              type: string
+              example: Klub BrizZon
+            address:
+              type: string
+              example: ul. Karpia 10, 61-619 Poznań
+            details:
+              type: string
+            coordinates:
+              type: object
+              properties:
+                latitude:
+                  type: number
+                  example: 52.444748
+                longitude:
+                  type: number
+                  example: 16.948881
+        information:
+          type: string
+        externalWebsite:
+          type: string
+    Championship:
+      allOf:
+        - $ref: '#/components/schemas/Competition'
+        - type: object
+          properties:
+            region:
+              type: string
+              example: world
+    Person:
+      type: object
+      properties:
+        id:
+          type: string
+          example: 2005AUST01
+        name:
+          type: string
+          example: John Doe
+        slug:
+          type: string
+          example: john-doe
+        country:
+          type: string
+          example: US
+        numberOfCompetitions:
+          type: integer
+          format: int64
+          example: 1
+        competitionIds:
+          type: array
+          items:
+            type: string
+            example: CaltechDallas2005
+        numberOfChampionships:
+          type: integer
+          format: int64
+          example: 1
+        championshipIds:
+          type: array
+          items:
+            type: string
+            example: WC2011
+        rank:
+          type: object
+          properties:
+            singles:
+              type: array
+              items:
+                type: object
+                properties:
+                  eventId:
+                    type: string
+                    example: '333'
+                  best:
+                    type: integer
+                    format: int64
+                    example: 7158
+                  rank:
+                    type: object
+                    properties:
+                      world:
+                        type: integer
+                        format: int64
+                        example: 179062
+                      continent:
+                        type: integer
+                        format: int64
+                        example: 46433
+                      country:
+                        type: integer
+                        format: int64
+                        example: 35643
+            averages:
+              type: array
+              items:
+                type: object
+                properties:
+                  eventId:
+                    type: string
+                    example: '333'
+                  best:
+                    type: integer
+                    format: int64
+                    example: 8078
+                  rank:
+                    type: object
+                    properties:
+                      world:
+                        type: integer
+                        format: int64
+                        example: 173100
+                      continent:
+                        type: integer
+                        format: int64
+                        example: 46433
+                      country:
+                        type: integer
+                        format: int64
+                        example: 35643
+        medals:
+          type: object
+          properties:
+            bronze:
+              type: integer
+              format: int64
+              example: 10
+            silver:
+              type: integer
+              format: int64
+              example: 3
+            gold:
+              type: integer
+              format: int64
+              example: 23
+        records:
+          type: object
+          properties:
+            single:
+              type: object
+              properties:
+                'WR':
+                  type: integer
+                  format: int64
+                  example: 3
+                'CR':
+                  type: integer
+                  format: int64
+                  example: 0
+                'NR':
+                  type: integer
+                  format: int64
+                  example: 2
+            average:
+              type: object
+              properties:
+                'WR':
+                  type: integer
+                  format: int64
+                  example: 3
+                'CR':
+                  type: integer
+                  format: int64
+                  example: 0
+                'NR':
+                  type: integer
+                  format: int64
+                  example: 2
+        results:
+          type: object
+          properties:
+            CaltechDallas2005:
+              type: object
+              properties:
+                '333':
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      round:
+                        type: string
+                        example: First round
+                      position:
+                        type: integer
+                        format: int64
+                        example: 26
+                      best:
+                        type: integer
+                        format: int64
+                        example: 7158
+                      average:
+                        type: integer
+                        format: int64
+                        example: 8078
+                      format:
+                        type: string
+                        example: Average of 5
+                      solves:
+                        type: array
+                        items:
+                          type: integer
+                          format: int64
+                          example:
+                            - 7158
+                            - 9055
+                            - 7710
+                            - 8768
+                            - 7757
+    Rank:
+      type: object
+      properties:
+        rankType:
+          type: string
+          example: single
+          enum:
+            - single
+            - average
+        personId:
+          type: string
+          example: 2005AUST01
+        eventId:
+          type: string
+          example: '333'
+        best:
+          type: integer
+          format: int64
+          example: 7158
+        rank:
+          type: object
+          properties:
+            world:
+              type: integer
+              format: int64
+              example: 179062
+            continent:
+              type: integer
+              format: int64
+              example: 46433
+            country:
+              type: integer
+              format: int64
+              example: 35643
+    Result:
+      type: object
+      properties:
+        competitionId:
+          type: string
+          example: BrizZonSylwesterOpen2022
+        personId:
+          type: string
+          example: 2005AUST01
+        round:
+          type: string
+          example: First round
+        position:
+          type: integer
+          format: int64
+          example: 26
+        best:
+          type: integer
+          format: int64
+          example: 7158
+        average:
+          type: integer
+          format: int64
+          example: 8078
+        format:
+          type: string
+          example: Average of 5
+        solves:
+          type: array
+          items:
+            type: integer
+            format: int64
+            example:
+              7158
+              9055
+              7710
+              8768
+              7757
+    Continents:
+      allOf:
+        - $ref: '#/components/schemas/Overview'
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: '#/components/schemas/Continent'
+    Countries:
+      allOf:
+        - $ref: '#/components/schemas/Overview'
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: '#/components/schemas/Country'
+    Events:
+      allOf:
+        - $ref: '#/components/schemas/Overview'
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: '#/components/schemas/Event'
+    Competitions:
+      allOf:
+        - $ref: '#/components/schemas/Overview'
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: '#/components/schemas/Competition'
+    Championships:
+      allOf:
+        - $ref: '#/components/schemas/Overview'
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: '#/components/schemas/Championship'
+    Persons:
+      allOf:
+        - $ref: '#/components/schemas/Overview'
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: '#/components/schemas/Person'
+    Ranks:
+      allOf:
+        - $ref: '#/components/schemas/Overview'
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: '#/components/schemas/Rank'
+    Results:
+      allOf:
+        - $ref: '#/components/schemas/Overview'
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: '#/components/schemas/Result'
+    Overview:
+      type: object
+      properties:
+        pagination:
+          type: object
+          properties:
+            page:
+              type: integer
+              format: int64
+              example: 1
+            size:
+              type: integer
+              format: int64
+              example: 1000
+        total:
+          type: integer
+          format: int64
+          example: 10

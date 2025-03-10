@@ -1,0 +1,69 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "SarajevoOpen2019",
+            "name": "Sarajevo Open 2019",
+            "city": "Sarajevo",
+            "country": "BA",
+            "date": {
+                "from": "2019-10-19",
+                "till": "2019-10-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jernej Omulec",
+                    "email": "jomulec@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Janko Ga\u0161i\u0107",
+                    "email": "jankogasic@yahoo.com"
+                },
+                {
+                    "name": "Jernej Omulec",
+                    "email": "jomulec@worldcubeassociation.org"
+                },
+                {
+                    "name": "Marko Vukadinovi\u0107",
+                    "email": "markovukadinovic94@gmail.com"
+                },
+                {
+                    "name": "Neboj\u0161a \u0110uri\u0107",
+                    "email": "nebojsadjuric89@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Faculty of Science \/ Prirodno-matemati\u010dki fakultet",
+                "address": "Zmaja od Bosne 33-35",
+                "details": "Follow the signs ",
+                "coordinates": {
+                    "latitude": 43.854258,
+                    "longitude": 18.39461
+                }
+            },
+            "information": "Sarajevo Open 2019 is a speedcubing competition. Anyone can participate, who is familiar with the WCA Regulation, accepts it and meet the competition\u2019s criterias.\r\n\r\n\r\nSarajevo Open 2019 je speedcubing takmi\u010denje. Svako ko poznaje WCA pravila i ispunjava WCA zahtjeve mo\u017ee da u\u010destvuje na takmi\u010denju.\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

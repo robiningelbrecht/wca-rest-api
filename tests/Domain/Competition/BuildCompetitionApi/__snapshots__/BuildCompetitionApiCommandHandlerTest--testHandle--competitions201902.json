@@ -1,0 +1,160 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 3
+    },
+    "total": 3,
+    "items": [
+        {
+            "id": "VossOpen2019",
+            "name": "Voss Open 2019",
+            "city": "Voss",
+            "country": "NO",
+            "date": {
+                "from": "2019-02-23",
+                "till": "2019-02-24",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ulrik Bredland",
+                    "email": "ubredland@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ivar Strangstadstuen",
+                    "email": "tre141592653589793238462643383@gmail.com"
+                },
+                {
+                    "name": "Jonatan Solheim",
+                    "email": "tilingen@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Voss Folkeh\u00f8gskule",
+                "address": "Eskelandsvegen 28, 5704 Voss",
+                "details": "Olavsalen",
+                "coordinates": {
+                    "latitude": 60.62553,
+                    "longitude": 6.390886
+                }
+            },
+            "information": "Everyone who can solve a cube are welcome to participate in this competition!\r\n\r\n-----\r\n\r\nAlle som kan l\u00f8se kube er velkomne til \u00e5 delta i denne konkurransen!",
+            "externalWebsite": "http:\/\/kubing.no\/events\/vo2019\/"
+        },
+        {
+            "id": "MontenegroOpen2019",
+            "name": "Montenegro Open 2019",
+            "city": "Podgorica",
+            "country": "ME",
+            "date": {
+                "from": "2019-02-09",
+                "till": "2019-02-10",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "David Pantovi\u0107",
+                    "email": "davidpantovic24@gmail.com"
+                },
+                {
+                    "name": "Reto Bubendorf",
+                    "email": "retobubendorf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "University of Montenegro",
+                "address": "Bulevar D\u017eord\u017ea Va\u0161ingtona, Podgorica",
+                "details": "on the second floor, follow the signs",
+                "coordinates": {
+                    "latitude": 42.443069,
+                    "longitude": 19.240667
+                }
+            },
+            "information": "For more information check out the tabs!\r\nZa vi\u0161e informacija pogledajte tabove!",
+            "externalWebsite": null
+        },
+        {
+            "id": "MacedoniaWinter2019",
+            "name": "Macedonia Winter 2019",
+            "city": "Skopje",
+            "country": "MK",
+            "date": {
+                "from": "2019-02-02",
+                "till": "2019-02-03",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Reto Bubendorf",
+                    "email": "retobubendorf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Hotel Aleksandar Palace, Skopje",
+                "address": "Prohor Pcinjski, Skopje 1000",
+                "details": "Congress hall (there will be signs on the venue)",
+                "coordinates": {
+                    "latitude": 42.010787,
+                    "longitude": 21.405594
+                }
+            },
+            "information": "For more information check out the tabs!",
+            "externalWebsite": null
+        }
+    ]
+}

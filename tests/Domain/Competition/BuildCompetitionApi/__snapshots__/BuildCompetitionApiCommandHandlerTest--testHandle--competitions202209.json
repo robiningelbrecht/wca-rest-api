@@ -1,0 +1,125 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 2
+    },
+    "total": 2,
+    "items": [
+        {
+            "id": "CubingReturnsToColombo2022",
+            "name": "Cubing Returns To Colombo 2022",
+            "city": "Colombo",
+            "country": "LK",
+            "date": {
+                "from": "2022-09-24",
+                "till": "2022-09-25",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "444",
+                "666",
+                "clock",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Sachin Arvind",
+                    "email": "sarvind@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Kalindu Sachintha Wijesundara",
+                    "email": "kalindu.sachintha@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Mahanama College",
+                "address": "Mahanama College, R. A. D. Mel Mawatha, Colombo 3, Sri Lanka",
+                "details": "Auditorium",
+                "coordinates": {
+                    "latitude": 6.906181,
+                    "longitude": 79.854769
+                }
+            },
+            "information": "* Make sure you will be available at the venue at least 15 minutes before your event starts. You won't be allowed to participate in an event if you reach late. You can refer \"Schedule\" tab to see the starting time of each event.\r\n* If you're participating in a WCA competition for the first time or not aware of competition rules, make sure that you attend the tutorial session at 10:15 a.m on Day 2 (25-Sep-2022)\r\n* If you're participating in a WCA competition for the first time, please bring your ID card as well. (NIC\/Passport\/Postal ID\/Driving License)\r\n* All participants are expected to volunteer for the event when they are not participating. The roles could be of a judge, runner, or a scrambler, depending upon the situation.\r\n\r\nCOVID-19 Specific Information:\r\n\r\n* Following all local goverment health guidelines is mandatory while attending the competition. \r\n* We strongly recommend limiting the number of guests you bring for the safety of all attendees. The maximum number of guests that is preferred to accompay a competitor would be limited to TWO.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "YJMalaysiaCubeOpen2022",
+            "name": "YJ Malaysia Cube Open 2022",
+            "city": "Petaling Jaya",
+            "country": "MY",
+            "date": {
+                "from": "2022-09-02",
+                "till": "2022-09-04",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Hoe Zi Yang",
+                    "email": "zhoe@worldcubeassociation.org"
+                },
+                {
+                    "name": "Leow Yi Jun (\u5ed6\u827a\u756f)",
+                    "email": "yleow@worldcubeassociation.org"
+                },
+                {
+                    "name": "Wang Junwen (\u738b\u4fca\u6587)",
+                    "email": "jwang@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Darren Siew Ee Yaang (\u856d\u5955\u6698)",
+                    "email": "darrensieweeyaang@gmail.com"
+                },
+                {
+                    "name": "Eason Siew Ee Son (\u856d\u5955\u6668)",
+                    "email": "siew.eason@gmail.com"
+                },
+                {
+                    "name": "Manfred Siew Ee Sheng (\u856d\u5955\u665f)",
+                    "email": "manfred.cubing@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Citta Mall",
+                "address": "1, Jalan PJU 1a\/48, Pusat Perdagangan Dana 1, 47301 Petaling Jaya, Selangor",
+                "details": "(S-20 to S-23) The Space, Second Floor",
+                "coordinates": {
+                    "latitude": 3.112712,
+                    "longitude": 101.580553
+                }
+            },
+            "information": "For more information, visit [YJ Malaysia Cube Open 2022 Website](https:\/\/www.mycubeassociation.com\/mco2022)\r\n\r\n**Kindly read through all tabs on this page as they contain very useful information.**",
+            "externalWebsite": null
+        }
+    ]
+}

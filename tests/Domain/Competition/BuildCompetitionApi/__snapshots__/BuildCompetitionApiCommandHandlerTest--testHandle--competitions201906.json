@@ -1,0 +1,103 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 2
+    },
+    "total": 2,
+    "items": [
+        {
+            "id": "SmartCubersEgypt2019",
+            "name": "Smart Cubers Egypt 2019",
+            "city": "Hurghada",
+            "country": "EG",
+            "date": {
+                "from": "2019-06-22",
+                "till": "2019-06-22",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "444"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mohamed Salem Diab",
+                    "email": "mohamed_diaaab@yahoo.com"
+                }
+            ],
+            "venue": {
+                "name": "Long Beach Resort Hurghada",
+                "address": "Sahl Hashish Rd, Hurghada",
+                "details": "",
+                "coordinates": {
+                    "latitude": 27.081306,
+                    "longitude": 33.85925
+                }
+            },
+            "information": "Please read the \"More Info. \/ \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u062e\u0631\u0649\" tab.",
+            "externalWebsite": null
+        },
+        {
+            "id": "MadagascarCubingOpen2019",
+            "name": "Madagascar Cubing Open 2019",
+            "city": "Antananarivo",
+            "country": "MG",
+            "date": {
+                "from": "2019-06-01",
+                "till": "2019-06-01",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andy Rasoanarivo",
+                    "email": "okalouservices@gmail.com"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Malagasy Association of Cubers",
+                    "email": "mg.associationmac@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Skate Park ",
+                "address": "Skate Park Antanimena",
+                "details": "Inside the Skate Park",
+                "coordinates": {
+                    "latitude": -18.897946,
+                    "longitude": 47.52384
+                }
+            },
+            "information": "Madagascar will host for the first time a WCA competition !\r\n\r\nOnly Malagasy competitors are eligible for prizes and podiums.\r\n_____\r\nMadagascar accueillera pour la premi\u00e8re fois une comp\u00e9tition de la WCA !\r\n\r\nSeulement les comp\u00e9titeurs Malgaches sont eligibles pour les prix et podiums.",
+            "externalWebsite": null
+        }
+    ]
+}

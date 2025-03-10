@@ -1,0 +1,53 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "SaramadaCubingBangladesh2023",
+            "name": "Saramada Cubing Bangladesh 2023",
+            "city": "Dhaka",
+            "country": "BD",
+            "date": {
+                "from": "2023-06-16",
+                "till": "2023-06-16",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "333fm",
+                "333oh"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Arnab Banik",
+                    "email": "abanik@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arnab Banik",
+                    "email": "abanik@worldcubeassociation.org"
+                },
+                {
+                    "name": "Farhanul Haque Khan",
+                    "email": "illusionkillerfahim@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[CubeNation HQ] (https:\/\/www.facebook.com\/cubenationbd\/)",
+                "address": "CubeNation, House #91-93, Road #W2 ,Block-C, Eastern Housing, Pallabi, Dhaka 1216",
+                "details": "1st Floor, 1A",
+                "coordinates": {
+                    "latitude": 23.822167,
+                    "longitude": 90.352555
+                }
+            },
+            "information": "\r\n\r\n1. Competitors and guests MUST NOT attend this competition if they have any COVID-19 symptoms or have been in contact with someone who is COVID-19 positive.\r\n2. Please be aware that there are qualification criteria in place for participating in this competition. \r\n3. All the necessary information is given the Tabs, please have a look.\r\n4. Please follow the [Saramada Cubing Bangladesh 2023 ](http:\/\/facebook.com\/SCBd23), all the updates will be posted there. \r\n\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

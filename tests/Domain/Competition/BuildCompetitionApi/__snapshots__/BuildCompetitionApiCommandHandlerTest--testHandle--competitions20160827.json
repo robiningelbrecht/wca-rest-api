@@ -1,0 +1,60 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "TheMostSerene2016",
+            "name": "The Most Serene Competition 2016",
+            "city": "Dogana",
+            "country": "SM",
+            "date": {
+                "from": "2016-08-27",
+                "till": "2016-08-27",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Lorenzo Vigani Poli",
+                    "email": "lpoli@worldcubeassociation.org"
+                },
+                {
+                    "name": "Matteo Colombo",
+                    "email": "matte.colo@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Filippo Brancaleoni",
+                    "email": "f.brancaleoni@protonmail.com"
+                },
+                {
+                    "name": "Tommaso Zoffoli",
+                    "email": "tommasozoffoli@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Centro Atlante San Marino](http:\/\/www.centroatlante.com\/)",
+                "address": "Via Tre Settembre, 17, 47891 Dogana, San Marino",
+                "details": "",
+                "coordinates": {
+                    "latitude": 43.977274,
+                    "longitude": 12.486523
+                }
+            },
+            "information": "Competitors limit is 40.\r\nRegistration fee is 5\u20ac, free for citizens of San Marino.",
+            "externalWebsite": "http:\/\/cubingitaly.org\/rsm2016"
+        }
+    ]
+}

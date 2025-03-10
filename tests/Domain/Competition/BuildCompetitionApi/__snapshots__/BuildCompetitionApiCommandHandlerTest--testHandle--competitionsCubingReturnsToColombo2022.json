@@ -1,0 +1,46 @@
+{
+    "id": "CubingReturnsToColombo2022",
+    "name": "Cubing Returns To Colombo 2022",
+    "city": "Colombo",
+    "country": "LK",
+    "date": {
+        "from": "2022-09-24",
+        "till": "2022-09-25",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333fm",
+        "444",
+        "666",
+        "clock",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Sachin Arvind",
+            "email": "sarvind@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Kalindu Sachintha Wijesundara",
+            "email": "kalindu.sachintha@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Mahanama College",
+        "address": "Mahanama College, R. A. D. Mel Mawatha, Colombo 3, Sri Lanka",
+        "details": "Auditorium",
+        "coordinates": {
+            "latitude": 6.906181,
+            "longitude": 79.854769
+        }
+    },
+    "information": "* Make sure you will be available at the venue at least 15 minutes before your event starts. You won't be allowed to participate in an event if you reach late. You can refer \"Schedule\" tab to see the starting time of each event.\r\n* If you're participating in a WCA competition for the first time or not aware of competition rules, make sure that you attend the tutorial session at 10:15 a.m on Day 2 (25-Sep-2022)\r\n* If you're participating in a WCA competition for the first time, please bring your ID card as well. (NIC\/Passport\/Postal ID\/Driving License)\r\n* All participants are expected to volunteer for the event when they are not participating. The roles could be of a judge, runner, or a scrambler, depending upon the situation.\r\n\r\nCOVID-19 Specific Information:\r\n\r\n* Following all local goverment health guidelines is mandatory while attending the competition. \r\n* We strongly recommend limiting the number of guests you bring for the safety of all attendees. The maximum number of guests that is preferred to accompay a competitor would be limited to TWO.\r\n",
+    "externalWebsite": null
+}

@@ -1,0 +1,3246 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 57
+    },
+    "total": 57,
+    "items": [
+        {
+            "id": "VoulaSummerOpen2023",
+            "name": "Voula Summer Open 2023",
+            "city": "Voula - Athens",
+            "country": "GR",
+            "date": {
+                "from": "2023-07-15",
+                "till": "2023-07-16",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333fm",
+                "333oh",
+                "444",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ioannis Papadopoulos",
+                    "email": "ipapadopoulos@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kostas Papadopoulos",
+                    "email": "kwpaptypetomaniac97@gmail.com"
+                },
+                {
+                    "name": "Michael Eleftheriades",
+                    "email": "eleftheriadesm@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Christos Dimizas",
+                    "email": "cdimizas@otenet.gr"
+                }
+            ],
+            "venue": {
+                "name": "\"\u0399\u03c9\u03bd\u03af\u03b1\" \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \/ \"Ionia\" Caltural Center",
+                "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c5 \u039a\u03b1\u03c1\u03b1\u03bc\u03b1\u03bd\u03bb\u03ae 113, \u0392\u03bf\u03cd\u03bb\u03b1 166 73",
+                "details": "Culture Centre",
+                "coordinates": {
+                    "latitude": 37.836297,
+                    "longitude": 23.766522
+                }
+            },
+            "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUUvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--25a11a161841639a3cff2ecfb046c27deb82697e\/Cubestore_VSO23_post.jpg)\r\n\r\n\u03a4\u03bf Voula Summer Open 2023 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf 3o\u03c2 WCA \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf 2023. \u0395\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c0\u03b5\u03c1\u03ae\u03c6\u03b1\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03bc\u03b1\u03c2 \u03c6\u03ad\u03c4\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03bf\u03c5\u03bc\u03b5 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03ba\u03ac. \u03a3\u03c4\u03b7 \u03c3\u03b5\u03b9\u03c1\u03ac \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03ce\u03bd \"Road to Greek Nationals\" \u03b5\u03c3\u03c4\u03b9\u03ac\u03b6\u03bf\u03c5\u03bc\u03b5 \u03c3\u03b5 \u03ba\u03ac\u03b8\u03b5 \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03c3\u03b5 2 events \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c0\u03bf\u03bb\u03cd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ac \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \u03a3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03b8\u03ad\u03bb\u03bf\u03c5\u03bc\u03b5 \u03bd\u03b1 \u03c6\u03ad\u03c1\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03bf \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03cc \u03ba\u03bf\u03b9\u03bd\u03cc \u03c4\u03b1 \u03b1\u03b3\u03c9\u03bd\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 One Handed\/\u039b\u03cd\u03c3\u03b7 \u03bc\u03b5 \u03ad\u03bd\u03b1 \u03c7\u03ad\u03c1\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 Fewest Move Challenge (FMC)\/\u0394\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03af\u03b1 \u03bb\u03cd\u03c3\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c0\u03b9\u03bf \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2. \u039f \u03c3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03bc\u03b1\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b5\u03be\u03b1\u03c7\u03b8\u03b5\u03af \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b5\u03b8\u03bd\u03b9\u03ba\u03cc \u03c0\u03c1\u03c9\u03c4\u03ac\u03b8\u03bb\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c4\u03c1\u03ad\u03c7\u03bf\u03bd\u03c4\u03bf\u03c2 \u03ad\u03c4\u03bf\u03c5\u03c2. \u039c\u03ad\u03c7\u03c1\u03b9 \u03c4\u03cc\u03c4\u03b5, \u03cc\u03bb\u03b1 \u03c4\u03b1 WCA events \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9\u03ba\u03b5\u03af\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2. \u03a0\u03ac\u03c1\u03c4\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03cd\u03b2\u03bf\u03c5\u03c2 \u03c3\u03b1\u03c2, \u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5, \u03b4\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03bd\u03cc\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03bb\u03ac\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b3\u03b9\u03bf\u03c1\u03c4\u03ae \u03c4\u03bf\u03c5 cubing!\r\n\r\n\u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bbo\u03cd\u03bc\u03b5 \u03b4\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b9\u03c2 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03c1\u03b5\u03af\u03c4\u03b5 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2. \r\n\r\n\u03a3\u03b7\u03bc\u03b5\u03af\u03c9\u03c3\u03b7: \u0393\u03b9\u03b1 \u03bd\u03b1 \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u03bc\u03af\u03b1 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03c9\u03b8\u03b5\u03af \u03c4\u03bf registration \u03c3\u03c4\u03bf \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03b7\u03bd WCA **KAI** \u03bd\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ae \u03c4\u03bf\u03c5 \u03b1\u03bd\u03c4\u03b9\u03c4\u03af\u03bc\u03bf\u03c5 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03ae\u03c2 \u03bc\u03b5 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b1\u03c2 \u03ba\u03ac\u03c1\u03c4\u03b1\u03c2 \u03bc\u03ad\u03c3\u03c9 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ce\u03bd stripe \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03b7 WCA, \u03cc\u03c0\u03c9\u03c2 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b5\u03c2 \u03b4\u03af\u03c0\u03bb\u03b1. \r\n\r\n[\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c3\u03c4\u03b7 WCA, \u03c3\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03ba\u03b1\u03b9 \u03c0\u03bf\u03bb\u03bb\u03ac \u03b1\u03ba\u03cc\u03bc\u03b1. \u039f\u03b4\u03b7\u03b3\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03c9\u03c4\u03ac\u03c1\u03b7\u03b4\u03b5\u03c2.](https:\/\/youtu.be\/RS768gK0Vrg)\r\n\r\nThe Voula Open 2023 is the third competition this year in Greece. We are proud of our progress and we strongly continue our effort. Grab your cubes, get ready, read the rules, and come to the cubing celebration!\r\nDuring  each \"Road to Greek finals\" competition, we focus on 2 events that are not yet very well known in Greece. In this competition we are aiming to bring the events One Handed and Fewest Move Challenge (FMC) closer to the competitors. The goal is to make the first Greek National Championship towards the end of this year. By then, all WCA events will be familiar to the competitors.\r\n\r\nGrab your cubes, study the regulations and attend the greek feast of cubing!\r\n\r\nPlease read the following tabs very carefully!\r\n\r\nNote: For a registration to be considered valid, the competitor should both register though the WCA site **AND** pay the registration fee as described in the nexts tabs.\r\nPlease read the following tabs in detail to find all the necessary information.",
+            "externalWebsite": null
+        },
+        {
+            "id": "UTNIbarraOpen2023",
+            "name": "UTN Ibarra Open 2023",
+            "city": "Ibarra",
+            "country": "EC",
+            "date": {
+                "from": "2023-07-15",
+                "till": "2023-07-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jorge Contento",
+                    "email": "jcontento@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Luis Fernando Ald\u00e1s Cuestas",
+                    "email": "ferchoaldas@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Universidad T\u00e9cnica del Norte.",
+                "address": "Av. 17 de Julio 5-21 y Gral. Jos\u00e9 Mar\u00eda C\u00f3rdova - Sector El Olivo",
+                "details": "Polideportivo de Universidad.",
+                "coordinates": {
+                    "latitude": 0.358563,
+                    "longitude": -78.112524
+                }
+            },
+            "information": "Informaci\u00f3n detallada en las dem\u00e1s pesta\u00f1as.\r\n\r\nPlease check the tabs for detailed information.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VietnamChampionship2023",
+            "name": "Vietnam Championship 2023",
+            "city": "Ho Chi Minh City",
+            "country": "VN",
+            "date": {
+                "from": "2023-07-14",
+                "till": "2023-07-16",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ivan Lew Yi Wen (\u5218\u4e49\u6587)",
+                    "email": "iwen@worldcubeassociation.org"
+                },
+                {
+                    "name": "L\u00ea Tr\u1ea7n \u0110\u0103ng Qu\u1ef3nh",
+                    "email": "dangquynh1220@gmail.com"
+                },
+                {
+                    "name": "Leow Yi Jun (\u5ed6\u827a\u756f)",
+                    "email": "yleow@worldcubeassociation.org"
+                },
+                {
+                    "name": "Wang Junwen (\u738b\u4fca\u6587)",
+                    "email": "jwang@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Hi\u1ec7p h\u1ed9i Rubik Vi\u1ec7t Nam",
+                    "email": "vncubeassociation@gmail.com"
+                },
+                {
+                    "name": "Toan Do Cong",
+                    "email": "tdo@worldcubeassociation.org"
+                },
+                {
+                    "name": "Zyorubik",
+                    "email": "zyorubik@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Nh\u00e0 Thi\u1ebfu Nhi Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh (City Children's House)",
+                "address": "169 \u0110\u01b0\u1eddng Nam K\u1ef3 Kh\u1edfi Ngh\u0129a, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000",
+                "details": "H\u1ed9i tr\u01b0\u1eddng Nh\u00e0 Thi\u1ebfu Nhi Th\u00e0nh Ph\u1ed1 (The stage of the City Children's House)",
+                "coordinates": {
+                    "latitude": 10.783664,
+                    "longitude": 106.68864
+                }
+            },
+            "information": "Gi\u1ea3i \u0111\u1ea5u V\u00f4 \u0111\u1ecbch Vi\u1ec7t Nam v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c b\u1ed9 m\u00f4n, \u0111\u01b0\u1ee3c t\u1ed5 ch\u1ee9c trong ba ng\u00e0y. C\u00e1c b\u1ea1n c\u00f3 th\u1ec3 truy c\u1eadp v\u00e0o tab \"Schedule\" \u0111\u1ec3 xem th\u00eam th\u00f4ng tin. \r\n\r\n---\r\nThe Vietnam Championship 2023 is a multi-event competition spanning 3 days. Please check \"Schedule\" tab for more information.\r\n\r\n**Please note**\r\nCompetitors of all nationalities are welcome,\r\n\r\nThere will be **2 types of winner** in this competition:\r\n**Open Category** - Top 3 winners of the competition regardless of nationality \r\n**Vietnamese Category** - Top 3 Vietnamese winners of the competition\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "SwisscubingCupIV2023",
+            "name": "Swisscubing Cup IV 2023",
+            "city": "Vaduz (LI)",
+            "country": "LI",
+            "date": {
+                "from": "2023-06-24",
+                "till": "2023-06-25",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "minx",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ioannis Papadopoulos",
+                    "email": "ipapadopoulos@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mattia Pasquini",
+                    "email": "mpasquini@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Stefan Loosli",
+                    "email": "stee.loosli@gmail.com"
+                },
+                {
+                    "name": "Swisscubing",
+                    "email": "board@swisscubing.ch"
+                }
+            ],
+            "venue": {
+                "name": "[Sp\u00f6rry Halle](https:\/\/www.vaduzer-saal.li\/spoerry-areal\/mehrzweckhalle)",
+                "address": "R\u00fcfestrasse 6, 9490 Vaduz, Liechtenstein",
+                "details": "Mehrzweckhalle",
+                "coordinates": {
+                    "latitude": 47.150173,
+                    "longitude": 9.516305
+                }
+            },
+            "information": "Swisscubing Cup IV ist Teil des Swisscubing Cup 2023. Dieser besteht aus 6 Competitions \u00fcber das ganze Jahr verteilt. Um mehr dar\u00fcber zu erfahren, besuche https:\/\/swisscubing.ch\/swisscubing-cup-2023\/.\r\nTeilnehmer die sich registrieren aber nicht bezahlen, m\u00fcssen die Teilnahmegeb\u00fchr bei ihrer n\u00e4chsten Competition in der Schweiz bezahlen.\r\n______________________________________________________________________________________________\r\n\r\nSwisscubing Cup IV is part of the Swisscubing Cup 2023, made of 6 competitions during the whole year. Check out on https:\/\/swisscubing.ch\/swisscubing-cup-2023\/ for the details of the other editions.\r\nA competitor who registers and doesn't show up at the competition will have to pay that registration fee at his next competition in Switzerland.",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZreceOpen2023",
+            "name": "Zre\u010de Open 2023",
+            "city": "Zre\u010de",
+            "country": "SI",
+            "date": {
+                "from": "2023-06-17",
+                "till": "2023-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jernej Omulec",
+                    "email": "jomulec@worldcubeassociation.org"
+                },
+                {
+                    "name": "Petra Kobal Vogrinec",
+                    "email": "pvogrinec@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Rubik Klub Slovenija",
+                    "email": "wca.slovenia@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Osnovna \u0161ola Zre\u010de](https:\/\/www.oszrece.net\/)",
+                "address": "\u0160olska cesta 3, 3214 Zre\u010de, Slovenia",
+                "details": "Competition will be held in a gym",
+                "coordinates": {
+                    "latitude": 46.373161,
+                    "longitude": 15.390019
+                }
+            },
+            "information": "*[English]*\r\n\r\nThis competition is being organized by the Rubik klub Slovenija.\r\nIf you need any additional information, or if you would like to change your registration, please write an e-mail to the **wca.slovenia@gmail.com**.\r\n\r\nFor more information, please check the tabs!\r\n\r\n*[Sloven\u0161\u010dina]*\r\n\r\nTekmovanje organizira Rubik klub Slovenija.\r\n\u010ce potrebujete dodatne informacije ali \u010de bi \u017eeleli spremeniti svojo prijavo, nam pi\u0161ite na **wca.slovenia@gmail.com**.\r\n\r\nZa ve\u010d informacij preverite zavihke!",
+            "externalWebsite": null
+        },
+        {
+            "id": "WinnipegOpen2023",
+            "name": "Winnipeg Open 2023",
+            "city": "Winnipeg, Manitoba",
+            "country": "CA",
+            "date": {
+                "from": "2023-06-17",
+                "till": "2023-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "777",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Alexander Mutch",
+                    "email": "amutch@worldcubeassociation.org"
+                },
+                {
+                    "name": "Carter Bitz",
+                    "email": "cbitz@worldcubeassociation.org"
+                },
+                {
+                    "name": "Carter Kucala",
+                    "email": "ckucala@worldcubeassociation.org"
+                },
+                {
+                    "name": "Simon Kellum",
+                    "email": "skellum@worldcubeassociation.org"
+                },
+                {
+                    "name": "Walker Welch",
+                    "email": "wwelch@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Alberta Cubers",
+                    "email": "albertacubers@gmail.com"
+                },
+                {
+                    "name": "Alexander Mutch",
+                    "email": "amutch@worldcubeassociation.org"
+                },
+                {
+                    "name": "Laura Plourde",
+                    "email": "lauraplourde@outlook.com"
+                },
+                {
+                    "name": "Walker Welch",
+                    "email": "wwelch@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Crescentwood Site - Corydon Community Centre](https:\/\/corydoncc.com\/facilities\/crescentwood-facilities\/)",
+                "address": "1170 Corydon Ave, Winnipeg, MB R3M 0Z1, Canada",
+                "details": "Saturday: Multi-Purpose Room, Sunday: Crescentwood Gym",
+                "coordinates": {
+                    "latitude": 49.864835,
+                    "longitude": -97.170405
+                }
+            },
+            "information": "# FMC Canada 2023\r\n\r\nFMC Canada 2023 is also being held before Winnipeg Open 2023 at the same venue. You are welcome to register for one or both competitions, but please note that you need to *register for FMC Canada 2023 separately*.",
+            "externalWebsite": null
+        },
+        {
+            "id": "PragueOpen2023",
+            "name": "Prague Open 2023",
+            "city": "Prague",
+            "country": "CZ",
+            "date": {
+                "from": "2023-06-17",
+                "till": "2023-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Emma Beranov\u00e1",
+                    "email": "eberanova@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jan Fon\u0161",
+                    "email": "honzafons@seznam.cz"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arsenij Kuprin",
+                    "email": "kuprin.ars@gmail.com"
+                },
+                {
+                    "name": "Emma Beranov\u00e1",
+                    "email": "eberanova@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tom\u00e1\u0161 Nguyen",
+                    "email": "tomas.nguyen159@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Z\u00e1kladn\u00ed \u0161kola a Mate\u0159sk\u00e1 \u0161kola \u010cerven\u00fd Vrch",
+                "address": "Al\u017e\u00edrsk\u00e1 26\/680,  Praha 6 - Vokovice",
+                "details": "J\u00eddelna",
+                "coordinates": {
+                    "latitude": 50.095384,
+                    "longitude": 14.353753
+                }
+            },
+            "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHM1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc33ae9e439080ea857be81b152f0c14a55fe718\/prague.png)\r\nPlease read carefully all the tabs! \r\n\r\nPros\u00edme, p\u0159e\u010dt\u011bte si pe\u010dliv\u011b v\u0161echny z\u00e1lo\u017eky!",
+            "externalWebsite": null
+        },
+        {
+            "id": "TbilisiSummerOpen2023",
+            "name": "Tbilisi Summer Open 2023",
+            "city": "Tbilisi",
+            "country": "GE",
+            "date": {
+                "from": "2023-06-11",
+                "till": "2023-06-11",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Conan Mo",
+                    "email": "conan@speedcubing.org.au"
+                },
+                {
+                    "name": "Vako Marchilashvili (\u10d5\u10d0\u10d9\u10dd \u10db\u10d0\u10e0\u10e9\u10d8\u10da\u10d0\u10e8\u10d5\u10d8\u10da\u10d8)",
+                    "email": "vmarchilashvili@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Vako Marchilashvili (\u10d5\u10d0\u10d9\u10dd \u10db\u10d0\u10e0\u10e9\u10d8\u10da\u10d0\u10e8\u10d5\u10d8\u10da\u10d8)",
+                    "email": "vmarchilashvili@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Institute of Cybernetic (\u10d9\u10d8\u10d1\u10d4\u10e0\u10dc\u10d4\u10e2\u10d8\u10d9\u10d8\u10e1 \u10d8\u10dc\u10e1\u10e2\u10d8\u10e2\u10e3\u10e2\u10d8)",
+                "address": "Institute of Cybernetic (\u10d9\u10d8\u10d1\u10d4\u10e0\u10dc\u10d4\u10e2\u10d8\u10d9\u10d8\u10e1 \u10d8\u10dc\u10e1\u10e2\u10d8\u10e2\u10e3\u10e2\u10d8)",
+                "details": "2 Floor , ( \u10db\u10d4\u10dd\u10e0\u10d4 \u10e1\u10d0\u10e0\u10d7\u10e3\u10da\u10d8  )",
+                "coordinates": {
+                    "latitude": 41.723067,
+                    "longitude": 44.715356
+                }
+            },
+            "information": "[GE]\r\n\u10d2\u10d7\u10ee\u10dd\u10d5\u10d7, \u10e1\u10d0\u10ee\u10d4\u10da\u10d8 \u10d3\u10d0 \u10d2\u10d5\u10d0\u10e0\u10d8 \u10e8\u10d4\u10d0\u10d5\u10e1\u10dd\u10d7 \u10d6\u10e3\u10e1\u10e2\u10d0\u10d3 \u10d8\u10e1\u10d4 \u10e0\u10dd\u10d2\u10dd\u10e0\u10ea \u10db\u10dd\u10ea\u10d4\u10db\u10e3\u10da\u10d8\u10d0 \u10d7\u10e5\u10d5\u10d4\u10dc\u10e1 \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d3\u10d0\u10db\u10d0\u10d3\u10d0\u10e1\u10e2\u10e3\u10e0\u10d4\u10d1\u10d4\u10da \u10e1\u10d0\u10d1\u10e3\u10d7\u10e8\u10d8. \u10d8\u10dc\u10d2\u10da\u10d8\u10e1\u10e3\u10e0\u10d0\u10d3 \u10e8\u10d4\u10d5\u10e1\u10d4\u10d1\u10d8\u10e1\u10d0\u10e1, \u10e1\u10d0\u10ee\u10d4\u10da\u10d8\u10e1 \u10d3\u10d0 \u10d2\u10d5\u10d0\u10e0\u10d8\u10e1 \u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d8 \u10d0\u10e1\u10dd \u10e9\u10d0\u10ec\u10d4\u10e0\u10d4\u10d7 \u10d3\u10d8\u10d3\u10d8 \u10d0\u10e1\u10dd\u10d4\u10d1\u10d8\u10d7. \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d3\u10d0\u10db\u10d0\u10d3\u10d0\u10e1\u10e2\u10e3\u10e0\u10d4\u10d1\u10d4\u10da\u10d8 \u10e1\u10d0\u10d1\u10e3\u10d7\u10d8 \u10d7\u10d0\u10dc \u10d8\u10e5\u10dd\u10dc\u10d8\u10d4\u10d7 \u10e8\u10d4\u10ef\u10d8\u10d1\u10e0\u10d6\u10d4 \u10d2\u10d0\u10db\u10dd\u10ea\u10ee\u10d0\u10d3\u10d4\u10d1\u10d8\u10e1\u10d0\u10e1.\r\n\u10e1\u10e2\u10e3\u10db\u10e0\u10d8\u10e1 \u10e0\u10d0\u10dd\u10d3\u10d4\u10dc\u10dd\u10d1\u10d0 \u10e8\u10d4\u10d6\u10e6\u10e3\u10d3\u10e3\u10da\u10d8\u10d0 (1 \u10db\u10dd\u10dc\u10d0\u10ec\u10d8\u10da\u10d4\u10e1 \u10e8\u10d4\u10e1\u10d0\u10eb\u10da\u10d4\u10d1\u10d4\u10da\u10d8\u10d0 \u10d7\u10d0\u10dc \u10d0\u10ee\u10da\u10d3\u10d4\u10e1 \u10db\u10d0\u10e5\u10e1\u10d8\u10db\u10e3\u10db 1 \u10d2\u10e3\u10da\u10e8\u10d4\u10db\u10d0\u10e2\u10d9\u10d8\u10d5\u10d0\u10e0\u10d8) - \u10d2\u10e3\u10da\u10e8\u10d4\u10db\u10d0\u10e2\u10d9\u10d8\u10d5\u10e0\u10d8\u10e1 \u10d3\u10d0\u10e1\u10ec\u10e0\u10d4\u10d1\u10d0 \u10e3\u10e4\u10d0\u10e1\u10dd\u10d0\r\n\u10d5\u10d8\u10dc\u10ea \u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d0\u10d3 \u10d8\u10e6\u10d4\u10d1\u10d7 \u10db\u10dd\u10dc\u10d0\u10ec\u10d8\u10da\u10d4\u10dd\u10d1\u10d0\u10e1 \u10d0\u10e3\u10ea\u10d8\u10da\u10d4\u10d1\u10da\u10d0\u10d3 \u10d7\u10d0\u10dc \u10d8\u10e5\u10dd\u10dc\u10d8\u10d4\u10d7 \u10de\u10d8\u10e0\u10d0\u10d3\u10dd\u10d1\u10d8\u10e1 \u10d0\u10dc \u10d3\u10d0\u10d1\u10d0\u10d3\u10d4\u10d1\u10d8\u10e1 \u10db\u10dd\u10ec\u10db\u10dd\u10d1\u10d0 \r\n\r\n[EN]\r\nPlease enter your name and surname during registration as it is writter on your ID.\r\nThe First letters are capital letters.\r\nDont forget to have an ID card with you when you come to the competition\r\nHere is Guest limitation (1 guest for each competitor) - its free to attend Guest\r\nFirst Timer competitors must have ID Card or birthday Certificate ",
+            "externalWebsite": null
+        },
+        {
+            "id": "WestVisayasChampionship2023",
+            "name": "West Visayas Championship 2023",
+            "city": "Bacolod City, Negros Occidental",
+            "country": "PH",
+            "date": {
+                "from": "2023-05-27",
+                "till": "2023-05-28",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Kirby Jay Caragan",
+                    "email": "kcaragan@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ace Djun T. Aguirre Jr.",
+                    "email": "centrum1975@yahoo.com"
+                },
+                {
+                    "name": "Bea Alexandra Marie Flores",
+                    "email": "beaalexandramarie@gmail.com"
+                },
+                {
+                    "name": "Daniel Hussain Mohammadi",
+                    "email": "grazemohammadi@gmail.com"
+                },
+                {
+                    "name": "Savion Matula",
+                    "email": "savion37matula@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[SM City Bacolod](https:\/\/www.google.com\/maps\/place\/SM+City+Bacolod+Northwing\/@10.6722984,122.9420563,777m\/data=!3m2!1e3!4b1!4m5!3m4!1s0x33aed04d351d1a59:0x9e05cac55ef55144!8m2!3d10.6722931!4d122.944245)",
+                "address": "Rizal St, Reclamation Area, Bacolod City ",
+                "details": "3rd Floor, North Wing",
+                "coordinates": {
+                    "latitude": 10.670139,
+                    "longitude": 122.943856
+                }
+            },
+            "information": "#### The biggest WCA sanctioned competition in Western Visayas is here!\r\n\r\n\r\nAll necessary information about the competition can be found in the following tabs above.\r\n\r\nCompetitor or guardian must agree that NSOC, PCA, and WCA shall not be liable for any personal injury, property damage, heartbreak, or loss resulting from your participation of this event.\r\n\r\nPlease be familiar with the **[WCA rules and regulations](https:\/\/www.worldcubeassociation.org\/regulations\/)** before participating in this event.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "WienerFruhling2023",
+            "name": "Wiener Fr\u00fchling 2023",
+            "city": "Vienna",
+            "country": "AT",
+            "date": {
+                "from": "2023-05-20",
+                "till": "2023-05-21",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Bence Bar\u00e1t",
+                    "email": "bbarat@worldcubeassociation.org"
+                },
+                {
+                    "name": "Emma Beranov\u00e1",
+                    "email": "eberanova@worldcubeassociation.org"
+                },
+                {
+                    "name": "Viktor Kalmar",
+                    "email": "viktorcube@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "D\u00e1niel Varga",
+                    "email": "daniel.varga@icloud.com"
+                },
+                {
+                    "name": "David Dinh",
+                    "email": "dinhdhdavid@gmail.com"
+                },
+                {
+                    "name": "Felix Strasser",
+                    "email": "felix.strasser@hotmail.com"
+                },
+                {
+                    "name": "Florian Truckenthanner",
+                    "email": "vossytv@gmail.com"
+                },
+                {
+                    "name": "Pranjal Khan",
+                    "email": "pranjal.khan@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Gro\u00dfer Saal - Pfarre Akkonplatz](https:\/\/www.akkonplatz.at\/index.php\/de\/raeume-nutzen\/grossersaal)",
+                "address": "Oeverseestra\u00dfe 2c, 1150 Wien, Austria",
+                "details": "Folgen Sie den Schildern, um den Veranstaltungsort zu betreten. \/ Follow the signs to enter the venue.",
+                "coordinates": {
+                    "latitude": 48.202129,
+                    "longitude": 16.316067
+                }
+            },
+            "information": "##### *English version is below*\r\n\r\n#### **Deutsch:**\r\n\r\nWir freuen uns sehr euch \"Wiener Fr\u00fchling 2023\" als ein offizielles WCA Turnier ank\u00fcndigen zu k\u00f6nnen. \r\n\r\nDie Speedcubing Competition wird organisiert von Pranjal Khan, Florian Truckenthanner, David Dinh, D\u00e1niel Varga und Felix Strasser und wird delegiert von Bence Bar\u00e1t, Emma Beranov\u00e1 und Viktor Kalmar. Erneut findet das Turnier im gro\u00dfen Saal der Akkonplatz Pfarre statt. Die Resultate dieser Competition werden zu den offiziellen WCA World Rankings hinzugef\u00fcgt.\r\n\r\nJeder ist bei diesem Turnier gerne willkommen, unabh\u00e4ngig von der Erfahrung, Alter oder sonstigen F\u00e4higkeiten. Manche Events haben ein spezifisches Zeitlimit, damit wir sicherstellen k\u00f6nnen den ganzen Tag \u00fcber im Zeitplan zu bleiben. Es d\u00fcrfen Puzzles jeder Marke verwendet werden solange sie den WCA Richtlinien entsprechen. Es sind alle Herzlich willkommen!\r\n\r\nWir freuen uns besonders auf neue Speedcuber aus \u00d6sterreich!\r\n\r\n-----\r\n\r\n#### **English:**\r\n\r\nWe are happy to announce \"Wiener Fr\u00fchling 2023\" as an official WCA Competition. \r\n\r\nThe speedcubing competition is organised by Pranjal Khan, Florian Truckenthanner, David Dinh, D\u00e1niel Varga, Felix Strasser and is delegated by Bence Bar\u00e1t, Emma Beranov\u00e1 and Viktor Kalmar. The results of the competition will be added to the official WCA World Rankings.\r\n\r\nThe competition is open to all competitors regardless of experience and skill, but certain event-based time limits will be in place to make sure we can stay on schedule and get through the day on time. No prior experience in WCA competitions is necessary, but competitors must be familiar with the WCA Regulations. Any puzzle brand may be used during the competition, as long as it complies with the WCA regulations.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VIDCubing2023",
+            "name": "VID Cubing 2023",
+            "city": "Hatillo 3, San Jose",
+            "country": "CR",
+            "date": {
+                "from": "2023-04-29",
+                "till": "2023-04-29",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Marvin Solano",
+                    "email": "msolano@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Norman L\u00f3pez Delgado",
+                    "email": "norman.lopez.delgado@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[VID](https:\/\/www.instagram.com\/vid_ibecr\/)",
+                "address": "Hatillo 3, contiguo al Liceo Edgar Cervantes",
+                "details": "Sal\u00f3n Principal",
+                "coordinates": {
+                    "latitude": 9.917322,
+                    "longitude": -84.100223
+                }
+            },
+            "information": "**VID Cubing 2023** \r\n\r\nEs la segunda competencia del nuevo a\u00f1o 2023.\r\n\r\nEsta competencia es reconocida como una competencia official de la World Cube Association.\r\nLa competencia es abierta a competidores de cualquier nacionalidad, el registro esta habilitado desde la p\u00e1gina oficial de la WCA. No es necesario tener experiencia, pero los competidores deben estar conocer los Reglamentos\r\nEl acceso a invitados y espectadores ser\u00e1 gratuita.\r\n_____\r\n**English version**\r\n\r\n**VID Cubing 2023**\r\n\r\nIs a second competition of the new year 2023. \r\n\r\nThis competition is recognized as an official World Cube Association competition.\r\nThe competition is open to all competitors of all nationalities. Registration is available on the WCA website. No experience in WCA competitions is necessary, but competitors should be familiar with the WCA Regulations\r\nThe competition is free to spectators and guests.\r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "UCOMParaguay2023",
+            "name": "UCOM Paraguay 2023",
+            "city": "Asunci\u00f3n",
+            "country": "PY",
+            "date": {
+                "from": "2023-04-15",
+                "till": "2023-04-16",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Elias Miguel Acosta Acosta",
+                    "email": "eacosta@worldcubeassociation.org"
+                },
+                {
+                    "name": "Gustavo Riveiro",
+                    "email": "griveiro@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Griselda Mendieta",
+                    "email": "grisel94@gmail.com"
+                },
+                {
+                    "name": "Gustavo Riveiro",
+                    "email": "griveiro@worldcubeassociation.org"
+                },
+                {
+                    "name": "Hermes L\u00f3pez",
+                    "email": "samulopez424@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Universidad Comunera] (https:\/\/ucom.edu.py)",
+                "address": "Monse\u00f1or Bogar\u00edn 284 esq. Dr. Juan Eulogio Estigarribia",
+                "details": "Sal\u00f3n Auditorio",
+                "coordinates": {
+                    "latitude": -25.294426,
+                    "longitude": -57.583583
+                }
+            },
+            "information": "**\u00a1Form\u00e1 parte de este nuevo torneo!**\r\nRecord\u00e1 que para participar es obligatorio estar familiarizado con el [Reglamento de la WCA](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/spanish-american\/)\r\n\r\n\u00a1Te necesitamos para seguir fortaleciendo nuestra comunidad! Involucrate con las diferentes tareas que nos ayudan a un torneo exitoso y agradable para todos, ya sea como juez, runner, scrambler, etc. Te dejamos links para m\u00e1s informaci\u00f3n a continuaci\u00f3n:\r\n\r\n *[Reglas basicas sobre c\u00f3mo competir](https:\/\/www.youtube.com\/watch?v=8O_iWRGq4K8)\r\n *[Manual WCA para competidores](https:\/\/www.worldcubeassociation.org\/edudoc\/competitor-tutorial\/es\/tutorial.pdf)\r\n *[Manual WCA para jueces](https:\/\/www.worldcubeassociation.org\/edudoc\/judge-tutorial\/judge-tutorial-es.pdf)\r\n\r\nTe esperamos :)\r\n\r\n**Be part of this new tournament!**\r\nRemember that to participate it is mandatory to be familiar with the [\"WCA Regulations\"](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\n\r\nWe need you to continue strengthening our community! Get involved with the different tasks that help us to have a successful and enjoyable tournament for everyone, be it as a judge, runner, scrambler, etc. We leave you links for more information below:\r\n\r\n *[Basics rules to compete](https:\/\/www.youtube.com\/watch?v=dPL3eV-A0ww)\r\n *[WCA competitor tutorial](https:\/\/www.worldcubeassociation.org\/edudoc\/competitor-tutorial\/tutorial.pdf)\r\n *[WCA judging tutorial](https:\/\/www.worldcubeassociation.org\/edudoc\/judge-tutorial\/judge-tutorial.pdf)\r\n\r\nSee you there :)\r\n\r\nCLUB DE SPEEDCUBING PARAGUAY\r\nEmail: speedcubingpy@gmail.com\r\nFacebook: [\/cscpy](https:\/\/web.facebook.com\/cscpy\/)\r\nInstagram: [@cscpy](https:\/\/www.instagram.com\/cscpy\/)",
+            "externalWebsite": null
+        },
+        {
+            "id": "YouBetterBelizeIt2023",
+            "name": "You Better Belize It 2023",
+            "city": "Punta Gorda, BZE",
+            "country": "BZ",
+            "date": {
+                "from": "2023-03-18",
+                "till": "2023-03-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Anthony Brooks",
+                    "email": "abrooks@worldcubeassociation.org"
+                },
+                {
+                    "name": "Marvin Solano",
+                    "email": "msolano@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Kristin Wiley",
+                    "email": "cubedcommunities@gmail.com"
+                },
+                {
+                    "name": "Pablo Say",
+                    "email": "rubiksxela@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[TCC Toledo Community College Auditorium](https:\/\/tcc.edu.bz\/)",
+                "address": "TCC (Toledo Community College Auditorium - 454V+3CM, Punta Gorda, BZE",
+                "details": "Auditorium",
+                "coordinates": {
+                    "latitude": 16.105212,
+                    "longitude": -88.806453
+                }
+            },
+            "information": "**English**\r\n\r\nThis competition is recognized as an official World Cube Association competition. This is the first competition in Belize.\r\nThe competition is open to all competitors of all nationalities. Registration is available on the WCA website. No experience in WCA competitions is necessary, but competitors should be familiar with the WCA [Regulations](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\nThe competition is free to spectators and guests.\r\n\r\n**Spanish**\r\n\r\nEsta competencia es reconocida como una competencia official de la World Cube Association. Esta es la primera competencia oficial en Belice.\r\nLa competencia es abierta a competidores de cualquier nacionalidad, El registro esta habilitado desde la p\u00e1gina oficial de la WCA. No es necesario tener experiencia, pero los competidores deben estar conocer los [Reglamentos](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\nEl acceso a invitados y espectadores ser\u00e1 gratuita.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "TurnininTermonfeckinSun2023",
+            "name": "Turnin' in Termonfeckin Sunday 2023",
+            "city": "Termonfeckin, Drogheda, Louth",
+            "country": "IE",
+            "date": {
+                "from": "2023-03-12",
+                "till": "2023-03-12",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Maria Beausang",
+                    "email": "mbeausang@worldcubeassociation.org"
+                },
+                {
+                    "name": "Simon Kelly",
+                    "email": "skelly@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Maria Beausang",
+                    "email": "mbeausang@worldcubeassociation.org"
+                },
+                {
+                    "name": "Speedcubing Ireland",
+                    "email": "speedcubingireland@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "St Fechins GAA Club",
+                "address": "Pairc Naomh Feich\u00edn, Termonfeckin, Drogheda, Co. Louth",
+                "details": "",
+                "coordinates": {
+                    "latitude": 53.736092,
+                    "longitude": -6.301848
+                }
+            },
+            "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--96b6278788e78960bf29ec7536273758105149bb\/Bordered%20Logo.png)\r\n\r\nhttps:\/\/speedcubingireland.com\/\r\nAdd us on [Facebook](https:\/\/www.facebook.com\/speedcubingireland\/) and [Instagram](https:\/\/www.instagram.com\/speedcubingireland\/?hl=en)! Join our [Discord Server](https:\/\/discord.gg\/ddFb3WeTx8)!\r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "Q8speedcubinginKSE2023",
+            "name": "Q8speedcubing in K.S.E 2023",
+            "city": "Bneid Al-Gar",
+            "country": "KW",
+            "date": {
+                "from": "2023-03-10",
+                "till": "2023-03-11",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Zakarya Otair",
+                    "email": "zotair@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mohammad Almoumen",
+                    "email": "almoumn95@gmail.com"
+                },
+                {
+                    "name": "Saoud Abdulaziz Almutawa",
+                    "email": "almutawa002@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Kuwait Society of Engineers  ",
+                "address": "Soor St  Kuwait City, Kuwait",
+                "details": "Theater in the basement of the building .",
+                "coordinates": {
+                    "latitude": 29.38172,
+                    "longitude": 48.002043
+                }
+            },
+            "information": "\u0623\u0647\u0644\u0627 \u0628\u0643\u0645 \u0641\u064a \u0645\u0633\u0627\u0628\u0642\u0629 \r\nQ8speedcubing 2023.\r\n\u0627\u0644\u0639\u0646\u0648\u0627\u0646 :- \u0627\u0644\u0643\u0648\u064a\u062a - \u0628\u0646\u064a\u062f \u0627\u0644\u0642\u0627\u0631 - \u0634\u0627\u0631\u0639 \u0627\u0644\u0633\u0648\u0631 - \u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0645\u0647\u0646\u062f\u0633\u064a\u0646 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629 - \u0642\u0627\u0639\u0629 \u0627\u0644\u0633\u0631\u062f\u0627\u0628 \u0643\u0645\u0627 \u0647\u0648 \u0645\u0648\u0636\u062d \u0641\u064a \u0631\u0627\u0628\u0637 \u062e\u0631\u0627\u0626\u0637 \u062c\u0648\u062c\u0644 \r\n\r\nWelcome to Q8speedcubing in K.S.E 2023 \r\nKuwait - Bnied Al-Gar - Soor St. - Kuwait Soceity of Engineers as shown in the Google maps link .\r\nThe competition is in hall in the basment .\r\n![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHd3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8d2ceffa16f32641b740813db8e197348f3de2c\/Q8.png)![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDB3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1b63aa936b62d3e021c7dae0dfee8c7126069c8\/K.S.E.jpg)\r\n\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "WCAAfricanChampionship2022",
+            "name": "Rubik's WCA African Championship 2022",
+            "city": "Cape Town",
+            "country": "ZA",
+            "date": {
+                "from": "2022-10-07",
+                "till": "2022-10-09",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Brendan James Gray",
+                    "email": "bgray@worldcubeassociation.org"
+                },
+                {
+                    "name": "Brent Boswell",
+                    "email": "bboswell@worldcubeassociation.org"
+                },
+                {
+                    "name": "Duncan Hobbs",
+                    "email": "dhobbs@worldcubeassociation.org"
+                },
+                {
+                    "name": "Maverick Pearson",
+                    "email": "mpearson@worldcubeassociation.org"
+                },
+                {
+                    "name": "Timothy Lawrance",
+                    "email": "tlawrance@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Donovan Pretorius",
+                    "email": "donovanp007@gmail.com"
+                },
+                {
+                    "name": "Jonathan Ontong",
+                    "email": "jsontong.jo@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "GrandWest Casino and Entertainment World",
+                "address": "1 Jakes Gerwel Drive, Goodwood, Cape Town, 7460",
+                "details": "GrandWest Sun Exhibits Hall",
+                "coordinates": {
+                    "latitude": -33.917704,
+                    "longitude": 18.547872
+                }
+            },
+            "information": "![](https:\/\/i.imgur.com\/YoWZNDt.png)\r\n\r\n**COVID-19 Safety Measures**\r\nAll registrants will be required to adhere to all COVID-19 health and safety measures while at the competition venue.\r\n\r\n**Volunteering**\r\nWe will need your help as volunteers to support with the running and judging of the day. If you would like to volunteer to help staff at the competition, please contact the [organisers](https:\/\/africanchamps.thecubinghub.com\/google-forms\/). Groups will be assigned so that volunteer duties don't clash with your competing.\r\n\r\n**Notice of Filming and Photography**\r\nAttendees of Rubik's WCA African Championship 2022 consent to their images being used by the World Cube Association and its partners in their marketing and social media platforms.\r\n\r\n",
+            "externalWebsite": "https:\/\/africanchamps.thecubinghub.com"
+        },
+        {
+            "id": "YJMalaysiaCubeOpen2022",
+            "name": "YJ Malaysia Cube Open 2022",
+            "city": "Petaling Jaya",
+            "country": "MY",
+            "date": {
+                "from": "2022-09-02",
+                "till": "2022-09-04",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Hoe Zi Yang",
+                    "email": "zhoe@worldcubeassociation.org"
+                },
+                {
+                    "name": "Leow Yi Jun (\u5ed6\u827a\u756f)",
+                    "email": "yleow@worldcubeassociation.org"
+                },
+                {
+                    "name": "Wang Junwen (\u738b\u4fca\u6587)",
+                    "email": "jwang@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Darren Siew Ee Yaang (\u856d\u5955\u6698)",
+                    "email": "darrensieweeyaang@gmail.com"
+                },
+                {
+                    "name": "Eason Siew Ee Son (\u856d\u5955\u6668)",
+                    "email": "siew.eason@gmail.com"
+                },
+                {
+                    "name": "Manfred Siew Ee Sheng (\u856d\u5955\u665f)",
+                    "email": "manfred.cubing@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Citta Mall",
+                "address": "1, Jalan PJU 1a\/48, Pusat Perdagangan Dana 1, 47301 Petaling Jaya, Selangor",
+                "details": "(S-20 to S-23) The Space, Second Floor",
+                "coordinates": {
+                    "latitude": 3.112712,
+                    "longitude": 101.580553
+                }
+            },
+            "information": "For more information, visit [YJ Malaysia Cube Open 2022 Website](https:\/\/www.mycubeassociation.com\/mco2022)\r\n\r\n**Kindly read through all tabs on this page as they contain very useful information.**",
+            "externalWebsite": null
+        },
+        {
+            "id": "SpeedcubingSlovakia2022",
+            "name": "Speedcubing Slovakia 2022",
+            "city": "Bratislava",
+            "country": "SK",
+            "date": {
+                "from": "2022-08-13",
+                "till": "2022-08-14",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Hubert Hanusiak",
+                    "email": "hhanusiak@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Adam Brestovansk\u00fd",
+                    "email": "brestovanskyadam20@gmail.com"
+                },
+                {
+                    "name": "Marek Majerik",
+                    "email": "marecek.majerik@gmail.com"
+                },
+                {
+                    "name": "\u0160imon Borovsk\u00fd",
+                    "email": "sborovsky@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Budova Vedeck\u00e9ho parku UK v Bratislave](https:\/\/cusp.uniba.sk\/o-vedeckom-parku\/)",
+                "address": "Ilkovi\u010dova 8, 841 04 Karlova Ves, Slovakia",
+                "details": "First floor",
+                "coordinates": {
+                    "latitude": 48.149525,
+                    "longitude": 17.07337
+                }
+            },
+            "information": "![](https:\/\/i.imgur.com\/CDJ3dyD.png)\r\n\r\nPrv\u00e1 s\u00fa\u0165a\u017e na Slovensku od za\u010diatku pand\u00e9mie. V\u0161etci s\u00fa v\u00edtan\u00ed :D\r\n\r\n---\r\nFirst competition in Slovakia since the pandemic started. Everyone is welcome :D",
+            "externalWebsite": null
+        },
+        {
+            "id": "WelcomeBackNepal2022",
+            "name": "Welcome Back Nepal 2022",
+            "city": "Kathmandu",
+            "country": "NP",
+            "date": {
+                "from": "2022-06-17",
+                "till": "2022-06-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aayas Dhoj Joshi",
+                    "email": "ajoshi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Abi Shrestha",
+                    "email": "abi.stha.129@gmail.com"
+                },
+                {
+                    "name": "Ankit Sanjel",
+                    "email": "sanjelankit@gmail.com"
+                },
+                {
+                    "name": "Anup Adhikari",
+                    "email": "christ.anup103@gmail.com"
+                },
+                {
+                    "name": "Saiman Adhikari",
+                    "email": "saiman.adhikari1@gmail.com"
+                },
+                {
+                    "name": "Salon Ngakhushi",
+                    "email": "salonngakhushi@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "St. Xavier's College",
+                "address": "Maitighar, Kathmandu",
+                "details": "Fourth Floor, A-Levels Building",
+                "coordinates": {
+                    "latitude": 27.69171,
+                    "longitude": 85.320493
+                }
+            },
+            "information": "The first WCA competition in Nepal in two years!\r\n\r\n**Note:** due to the COVID-19 pandemic, there are extra registration and entry requirements for this competition. Please make sure that you read and understand the [registration process](https:\/\/www.worldcubeassociation.org\/competitions\/WelcomeBackNepal2022#18025-registration-process-and-fees) and [COVID-19 safety protocols](https:\/\/www.worldcubeassociation.org\/competitions\/WelcomeBackNepal2022#18030-covid-19-safety-protocols)!",
+            "externalWebsite": null
+        },
+        {
+            "id": "WelcomeBackMongoliaChampions2020",
+            "name": "Welcome Back Mongolia Championship 2020",
+            "city": "Ulaanbaatar",
+            "country": "MN",
+            "date": {
+                "from": "2020-12-19",
+                "till": "2020-12-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": true,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Myagmardorj Ulziijargal (\u04e8\u043b\u0437\u0438\u0439\u0436\u0430\u0440\u0433\u0430\u043b \u041c\u044f\u0433\u043c\u0430\u0440\u0434\u043e\u0440\u0436)",
+                    "email": "mulziijargal@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Maralgoo Ganbold (\u0413\u0430\u043d\u0431\u043e\u043b\u0434 \u041c\u0430\u0440\u0430\u043b\u0433\u043e\u043e)",
+                    "email": "maralhello@gmail.com"
+                },
+                {
+                    "name": "Sergelenbat Nymdorj",
+                    "email": "bukgan.tamir@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Mongolia-Japan Center",
+                "address": "Mongolia-Japan Center, Baga toiruu-1, Ulaanbaatar, Mongolia",
+                "details": "Conference hall, 1st floor",
+                "coordinates": {
+                    "latitude": 47.923036,
+                    "longitude": 106.920334
+                }
+            },
+            "information": "#### \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u043d\u044d\u044d\u043b\u043b\u0442\u044d\u0439 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\r\nThis competition is the official Championship of Mongolia.\r\nOnly Mongolian citizens are eligible to win prizes and titles.\r\nThe competition remains open for all nationalities to compete.\r\n\r\n**COVID-19 \u0446\u0430\u0440 \u0442\u0430\u0445\u043b\u044b\u043d \u0443\u043b\u043c\u0430\u0430\u0441 \u0446\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0431\u0430\u0439\u0441\u0430\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u0442\u044d\u043c\u0446\u044d\u044d\u043d \u201cWelcome Back Mongolia Championship 2020\u201d \u0433\u044d\u0441\u044d\u043d \u043d\u044d\u0440\u0442\u044d\u0439\u0433\u044d\u044d\u0440 \u0434\u0430\u0445\u0438\u043d \u0437\u0430\u0440\u043b\u0430\u0433\u0434\u0430\u0436 \u0431\u0430\u0439\u043d\u0430.\r\n\u0425\u044d\u0440\u0432\u044d\u044d \u0442\u0430 \u0446\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0431\u0430\u0439\u0441\u0430\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0423\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u0441\u044d\u043d \u0431\u043e\u043b \u044d\u043d\u044d \u0443\u0434\u0430\u0430\u0433\u0438\u0439\u043d \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 50%-\u0438\u0439\u043d \u0445\u04e9\u043d\u0433\u04e9\u043b\u04e9\u043b\u0442\u0442\u044d\u0439 \u043e\u0440\u043e\u043b\u0446\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0442\u043e\u0439.**\r\n\r\n**\u0413\u044d\u0445\u0434\u044d\u044d \u0442\u0430 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434\u044d\u044d \u0434\u0430\u0445\u0438\u043d \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u044d\u0445 \u0451\u0441\u0442\u043e\u0439 \u0433\u044d\u0434\u0433\u0438\u0439\u0433 \u0430\u043d\u0445\u0430\u0430\u0440\u043d\u0430 \u0443\u0443!**\r\n\r\n**\u0425\u044d\u0440\u0432\u044d\u044d \u0442\u0430 \u044d\u043d\u044d \u0443\u0434\u0430\u0430\u0433\u0438\u0439\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u043e\u0440\u043e\u043b\u0446\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0433\u04af\u0439 \u0431\u043e\u043b\u0441\u043e\u043d \u0442\u043e\u0445\u0438\u043e\u043b\u0434\u043e\u043b\u0434 \u0442\u0430\u043d\u044b \u0442\u04e9\u043b\u0441\u04e9\u043d \u0445\u0443\u0440\u0430\u0430\u043c\u0436\u043d\u044b \u043c\u04e9\u043d\u0433\u0438\u0439\u0433 \u0431\u0443\u0446\u0430\u0430\u043d \u043e\u043b\u0433\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0433\u04af\u0439. \u0425\u0430\u0440\u0438\u043d \u0442\u0430\u043d\u044c\u0434 \u04af\u043d\u044d \u0431\u04af\u0445\u0438\u0439 \u0434\u0443\u0440\u0441\u0433\u0430\u043b\u044b\u043d \u0437\u04af\u0439\u043b\u0441 \u0431\u044d\u043b\u044d\u0433\u043b\u044d\u0445 \u0431\u043e\u043b\u043d\u043e.**\r\n\r\n**\u0411\u0438\u0434\u043d\u0438\u0439 \u043d\u04e9\u0445\u0446\u04e9\u043b \u0431\u0430\u0439\u0434\u043b\u044b\u0433 \u043e\u0439\u043b\u0433\u043e\u0436 \u0445\u04af\u043b\u044d\u044d\u0446\u0442\u044d\u0439 \u0445\u0430\u043d\u0434\u0430\u043d\u0430 \u0443\u0443.**\r\n\r\n\r\n**The official Mongolia Championship, which was canceled due to the COVID-19 epidemic, is being re-announced under the name \"Welcome Back Mongolia Championship 2020\".**\r\n**If you have registered for the canceled Mongolia Championship, you can participate in this competiton with a 50% discount.**\r\n\r\n**Please note, however, that you must re-register for the competition!**\r\n\r\n**If you are unable to participate in this Mongolia Championship, your fee will not be refunded. But you will get valuable souvenirs.**\r\n\r\n**Please understand our situation and be patient.**\r\n\r\n[\u0422\u044d\u043c\u0446\u044d\u044d\u043d\u0442\u044d\u0439 \u0445\u043e\u043b\u0431\u043e\u043e\u0442\u043e\u0439 \u043c\u044d\u0434\u044d\u044d\u043b\u044d\u043b\/ Information of Mongolian competitions](https:\/\/www.facebook.com\/Mongoliacubecompetition\/)\r\n[\u0422\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u044d\u0445 \u0437\u0430\u0430\u0432\u0430\u0440\/ Instruction of registration](https:\/\/www.facebook.com\/media\/set\/?set=ms.c.eJxFj1EOAzAIQm~_0FMVW73~_xZSWjvy9PQBw2OJnoYQ0~%3BEAC6NqLDICriDPuB38lG~%3BUEsGcsAF~_QYKCOdkbwt9YyW4drY19jH4MhIZ~%3BSd3s7gEvAJtQPPSNV6aYbe9y8sZcQXMQs64A~-~-.bps.a.1748149085227952&type=1&__tn__=HH-R)\r\n\r\n\u0425\u043e\u043b\u0431\u043e\u043e \u0431\u0430\u0440\u0438\u0445\/Contact:\r\nFacebook: [Myagmardorj Ulziijargal](https:\/\/www.facebook.com\/Myagmardorj.Ulziijargal)\r\n\r\n\u0423\u0442\u0430\u0441\/Phone:\r\n(976) 89589811 - Maralgoo Ganbold \r\n(976) 89199853 - Myagmardorj Ulziijargal",
+            "externalWebsite": null
+        },
+        {
+            "id": "WelcomeBackJonkoping2020",
+            "name": "Welcome Back J\u00f6nk\u00f6ping 2020",
+            "city": "J\u00f6nk\u00f6ping",
+            "country": "SE",
+            "date": {
+                "from": "2020-09-26",
+                "till": "2020-09-27",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "333bf",
+                "333mbf",
+                "444",
+                "444bf",
+                "555bf",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Daniel Wallin",
+                    "email": "dwallin@worldcubeassociation.org"
+                },
+                {
+                    "name": "Viktor Zenk",
+                    "email": "vzenk@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Helmer Ewert",
+                    "email": "hewert@worldcubeassociation.org"
+                },
+                {
+                    "name": "Viktor Zenk",
+                    "email": "vzenk@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Kulturhuset](https:\/\/kulturhusetjonkoping.se\/)",
+                "address": "Svavelsticksgr\u00e4nd 7, 553 15 J\u00f6nk\u00f6ping",
+                "details": "The competition is in the attic, up the stairs to your left",
+                "coordinates": {
+                    "latitude": 57.785581,
+                    "longitude": 14.15618
+                }
+            },
+            "information": "V\u00e4lkomna tillbaka!\r\nF\u00f6r f\u00f6rsta g\u00e5ngen sedan i mars \u00e4r det nu m\u00f6jligt att arrangera en t\u00e4vling igen.\r\nDenna t\u00e4vling kommer att genomf\u00f6ras med en rad restriktioner f\u00f6r att f\u00f6rbygga smittorisken, l\u00e4s mer om detta p\u00e5 de \u00f6vriga flikarna.\r\n\r\n---\r\n\r\nWelcome back!\r\nFor the first time since March, we are now able to organize a competition once again.\r\nThis competition will be subject to several restrictions to prevent the risk of infection, please read more about this in the other tabs.",
+            "externalWebsite": null
+        },
+        {
+            "id": "LuxembourgPiDay2020",
+            "name": "Luxembourg Pi Day 2020",
+            "city": "Esch-sur-Alzette",
+            "country": "LU",
+            "date": {
+                "from": "2020-03-14",
+                "till": "2020-03-14",
+                "numberOfDays": 1
+            },
+            "isCanceled": true,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Andrea Thull",
+                    "email": "andreathull@gmail.com"
+                },
+                {
+                    "name": "Carlo Glod",
+                    "email": "carlo.glod@gmail.com"
+                },
+                {
+                    "name": "Joe Theis",
+                    "email": "joe@theis.lu"
+                },
+                {
+                    "name": "Philippe Schwartz",
+                    "email": "schwartz.philippe@hotmail.com"
+                },
+                {
+                    "name": "Sebastiano Tronto",
+                    "email": "stronto@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Maison du Savoir, Belval campus](https:\/\/wwwen.uni.lu\/contact\/campus_de_belval)",
+                "address": "2 Avenue de l'Universite, 4365 Esch-sur-Alzette, Luxembourg",
+                "details": "Main university building, 4th floor",
+                "coordinates": {
+                    "latitude": 49.504552,
+                    "longitude": 5.948429
+                }
+            },
+            "information": "# The competition is cancelled due to the COVID-19 outbreak.\r\n**English**\r\nWelcome to the second official competition in Luxembourg! If this is your first competition you can find some useful information on the \"Newcomer Information\" tab.\r\nThere is no registration fee for this competition, but if you want you can make a donation. The money collected this way will be used to help organize future competitions in Luxembourg. Please note that only online registration is is free. If you register on the spot the fee is 1\u20ac.\r\n\r\n**Deutsch**\r\nWillkommen zum zweiten offiziellen Wettbewerb in Luxemburg! Wenn dies dein erster Wettbewerb ist, findest du im Tab \"Newcomer Information\" n\u00fctzliche Informationen.\r\nEs gibt keine Anmeldegeb\u00fchr f\u00fcr diesen Wettbewerb, aber wenn du m\u00f6chtest, kannst du eine Spende machen. Das auf diese Weise gesammelte Geld wird f\u00fcr die Organisation zuk\u00fcnftiger Wettbewerbe in Luxemburg verwendet. Bitte beachte dass nur die Online Registration kostenlos ist. Wenn du dich vor Ort registrierst bezahlst du 1\u20ac.\r\n\r\n**Fran\u00e7ais**\r\nBienvenue \u00e0 la deuxi\u00e8me comp\u00e9tition du Luxembourg! Si c'est votre premi\u00e8re comp\u00e9tition, il y a des informations tr\u00e8s utiles dans l'onglet \"Newcomer Information\".\r\nIl n'y a pas de frais d'inscription pour cette competition, mais tu peux malgr\u00e9 tout faire un don. L'argent collect\u00e9 servira \u00e0 organiser des futur competitions. Veuillez noter que seule l\u2018inscription en ligne est gratuite.  L'inscription sur place sera \u00e0 1\u20ac.\r\n\r\n**L\u00ebtzebuergesch**\r\nW\u00ebllkomm zu der zweeter offizieller Comp\u00e9titioun zu L\u00ebtzebuerg! Wann d\u00ebst deng \u00e9ischt Comp\u00e9titioun ass, da f\u00ebnns du am Tab \"Newcomer Informations\" n\u00ebtzlech Informatiounen.\r\nEt kascht n\u00e4ischt matzemaachen, mee wanns du w\u00eblls, kanns du g\u00e4ren eng Spend maachen. D\u00ebs Suen ginn agesat fir weider Comp\u00e9titionen zu L\u00ebtzebuerg ze organis\u00e9ieren! N\u00ebmmen wanns du dech online registr\u00e9iers ass ett gratis. Wanns du dech um Event selwer umells, kascht ett d\u00ebch 1\u20ac.",
+            "externalWebsite": null
+        },
+        {
+            "id": "SarajevoOpen2019",
+            "name": "Sarajevo Open 2019",
+            "city": "Sarajevo",
+            "country": "BA",
+            "date": {
+                "from": "2019-10-19",
+                "till": "2019-10-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jernej Omulec",
+                    "email": "jomulec@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Janko Ga\u0161i\u0107",
+                    "email": "jankogasic@yahoo.com"
+                },
+                {
+                    "name": "Jernej Omulec",
+                    "email": "jomulec@worldcubeassociation.org"
+                },
+                {
+                    "name": "Marko Vukadinovi\u0107",
+                    "email": "markovukadinovic94@gmail.com"
+                },
+                {
+                    "name": "Neboj\u0161a \u0110uri\u0107",
+                    "email": "nebojsadjuric89@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Faculty of Science \/ Prirodno-matemati\u010dki fakultet",
+                "address": "Zmaja od Bosne 33-35",
+                "details": "Follow the signs ",
+                "coordinates": {
+                    "latitude": 43.854258,
+                    "longitude": 18.39461
+                }
+            },
+            "information": "Sarajevo Open 2019 is a speedcubing competition. Anyone can participate, who is familiar with the WCA Regulation, accepts it and meet the competition\u2019s criterias.\r\n\r\n\r\nSarajevo Open 2019 je speedcubing takmi\u010denje. Svako ko poznaje WCA pravila i ispunjava WCA zahtjeve mo\u017ee da u\u010destvuje na takmi\u010denju.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "XelaOpen2019",
+            "name": "Xela Open 2019",
+            "city": "Quetzaltenango",
+            "country": "GT",
+            "date": {
+                "from": "2019-09-07",
+                "till": "2019-09-08",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Luis David Hern\u00e1ndez Mej\u00eda",
+                    "email": "lmejia@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Jackie V\u00e1squez",
+                    "email": "kakaw08@hotmail.com"
+                },
+                {
+                    "name": "Pablo Say",
+                    "email": "rubiksxela@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Centro Cultural Casa NOJ",
+                "address": "7ma calle 12-12 zona 1, Quetzaltenango",
+                "details": "Sal\u00f3n Principal",
+                "coordinates": {
+                    "latitude": 14.83372,
+                    "longitude": -91.518972
+                }
+            },
+            "information": "Competencia que se desarrolla por quinta vez en Quetzaltenango. Con el objetivo principal de aumentar la comunidad en esta area del pais y asi promover mas el speedcubing. \r\n\r\n\r\nCompetition that takes place for the fifth time in Quetzaltenango. With the main objective of increasing the community in this area of the country and thus promote more speedcubing.\r\n\r\nEnglish\r\n\"Competing T-shirts for those who register on the same day will be given until stocks run out. \"\r\n\r\nEspa\u00f1ol\r\n\"Las camisetas que compiten para aquellos que se registren el mismo d\u00eda se dar\u00e1n hasta que las existencias se agoten\" ",
+            "externalWebsite": null
+        },
+        {
+            "id": "TajikistanOpen2019",
+            "name": "Tajikistan Open 2019",
+            "city": "Khujand",
+            "country": "TJ",
+            "date": {
+                "from": "2019-08-24",
+                "till": "2019-08-25",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Igor Aipkin",
+                    "email": "iaipkin@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Igor Aipkin",
+                    "email": "iaipkin@worldcubeassociation.org"
+                },
+                {
+                    "name": "Shukrullo Ibragimov",
+                    "email": "tajikman12345@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "American Space in Khujand",
+                "address": "Kalandarov str., 56",
+                "details": "Grey 1 floor building near \"Nuri Islom\" mosque",
+                "coordinates": {
+                    "latitude": 40.302775,
+                    "longitude": 69.627581
+                }
+            },
+            "information": "The competition is open to everyone.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "MoroccoSummer2019",
+            "name": "Morocco Summer 2019",
+            "city": "Rabat",
+            "country": "MA",
+            "date": {
+                "from": "2019-07-07",
+                "till": "2019-07-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "minx"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Soufiane Lakhlifi",
+                    "email": "slakhlifi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mohamed Elkhatri",
+                    "email": "mohamed.elkhatri2002@gmail.com"
+                },
+                {
+                    "name": "Omar Ouadouha",
+                    "email": "omar.ouadouha1@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "\u00c9cole Nationale Sup\u00e9rieure des Mines de Rabat",
+                "address": "Ecole Nationale sup\u00e9rieure des Mines de Rabat, Rabat",
+                "details": "Salle des invit\u00e9s",
+                "coordinates": {
+                    "latitude": 34.000312,
+                    "longitude": -6.854812
+                }
+            },
+            "information": "L'inscription est ouverte \u00e0 tout le monde jusqu'\u00e0 l'atteinte de 50 comp\u00e9titeurs inscrits.\r\nThe competition is open to everyone until the 50 competitor limit is reached.\r\nTime: 8am until 7pm.",
+            "externalWebsite": null
+        },
+        {
+            "id": "PalestineOpen2019",
+            "name": "Palestine Open 2019",
+            "city": "Al-Beira",
+            "country": "PS",
+            "date": {
+                "from": "2019-07-06",
+                "till": "2019-07-07",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ilya Tsiareshka",
+                    "email": "itsiareshka@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ahmad Abu Hussein",
+                    "email": "amah22222@yahoo.com"
+                }
+            ],
+            "venue": {
+                "name": "Baladeya Al Bireh",
+                "address": "Baladeya Al Bireh, Al-Bireh,00970 Be'Erot, West Bank",
+                "details": "On the first floor far in the back",
+                "coordinates": {
+                    "latitude": 31.904212,
+                    "longitude": 35.212635
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        },
+        {
+            "id": "NigeriaOpen2019",
+            "name": "Nigeria Open 2019",
+            "city": "Lagos",
+            "country": "NG",
+            "date": {
+                "from": "2019-05-25",
+                "till": "2019-05-26",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Soufiane Lakhlifi",
+                    "email": "slakhlifi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arinze Owoh",
+                    "email": "arinzeowoh@gmail.com"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kemi Awe",
+                    "email": "kawe@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Lyc\u00e9e Fran\u00e7ais Louis Pasteur](https:\/\/www.lflp-lagos.com)",
+                "address": "16 Younis Bashorun Street, Victoria Island, Lagos, Nigeria",
+                "details": "Room: Salle des Droits de l'Homme",
+                "coordinates": {
+                    "latitude": 6.426613,
+                    "longitude": 3.436617
+                }
+            },
+            "information": "You're asked to have read the [WCA regulations](https:\/\/www.worldcubeassociation.org\/regulations\/), the tutorial at the competition is here to remind them to you!\r\nIt is very important to attend to at least one of the tutorials so that you can understand how the competition goes and to avoid incidents!\r\n\r\nThe competition is open to all competitors, of all ages and all nationalities!",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZurichOpen2019",
+            "name": "Zurich Open 2019",
+            "city": "Uster",
+            "country": "CH",
+            "date": {
+                "from": "2019-05-18",
+                "till": "2019-05-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Oleg Gritsenko",
+                    "email": "ogritsenko@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Fabian L\u00f6hle",
+                    "email": "fabian.lakers@hotmail.com"
+                },
+                {
+                    "name": "Theo Mayer",
+                    "email": "theoderkaffe@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Musikcontainer Uster",
+                "address": "Asylstrasse 10, 8610 Uster",
+                "details": "",
+                "coordinates": {
+                    "latitude": 47.350221,
+                    "longitude": 8.723703
+                }
+            },
+            "information": "",
+            "externalWebsite": null
+        },
+        {
+            "id": "VillaCarlosPazOtono2019",
+            "name": "Villa Carlos Paz Oto\u00f1o 2019",
+            "city": "Villa Carlos Paz, C\u00f3rdoba",
+            "country": "AR",
+            "date": {
+                "from": "2019-04-19",
+                "till": "2019-04-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cristian Ezequiel Vega",
+                    "email": "cvega@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Agust\u00edn Bernasconi",
+                    "email": "hammerwtf10@gmail.com"
+                },
+                {
+                    "name": "Genaro Sahib Leguizamon",
+                    "email": "genasahib01@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Iglesia Vida Con Proposito",
+                "address": "Gabriela Mistral 549, Chincheta, Villa Carlos Paz, C\u00f3rdoba",
+                "details": "",
+                "coordinates": {
+                    "latitude": -31.413974,
+                    "longitude": -64.477627
+                }
+            },
+            "information": "VCP Oto\u00f1o 2019 will be the second competition ever to be hosted in the province of C\u00f3rdoba, Argentina. It will last two days and it will feature thirteen WCA events.\r\n\r\nVCP Oto\u00f1o 2019 ser\u00e1 la segunda competencia realizada en la Provincia de C\u00f3rdoba, Argentina. Constar\u00e1 de dos d\u00edas y se podr\u00e1 competir en trece categor\u00edas distintas.",
+            "externalWebsite": null
+        },
+        {
+            "id": "SerbianOpen2019",
+            "name": "Serbian Open 2019",
+            "city": "Belgrade",
+            "country": "RS",
+            "date": {
+                "from": "2019-03-02",
+                "till": "2019-03-03",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksa Ili\u0107",
+                    "email": "ilic.alexa99@gmail.com"
+                },
+                {
+                    "name": "Aleksa Radovanovi\u0107",
+                    "email": "aradovanovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Dominik Vidakovi\u0107",
+                    "email": "dvidakovic@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Mathematical Grammar School](https:\/\/www.mg.edu.rs)",
+                "address": "Kraljice Natalije 37, Beograd 11000, Srbija",
+                "details": "Pratite znakove da do\u0111ete do hale. \/ Follow the signs to the venue. ",
+                "coordinates": {
+                    "latitude": 44.809148,
+                    "longitude": 20.4614
+                }
+            },
+            "information": "Serbian Open 2019 je speedcubing takmi\u010denje. Svako moze da se takmi\u010di, nezavisno od njihove nacionalnosti ili godina, ali moraju biti upoznati sa WCA Regulacijama. Ovo takmi\u010denje je priznato i kao Srpsko Nacionalno Prvenstvo.\r\n\r\n------------------------\r\n\r\nSerbian Open 2019 is a speedcubing competition. Anyone can participate, no matter which nationality or age they are, but they need to be familiar with the WCA Regulations. This competition is also recognized as a Serbian National Championship.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VossOpen2019",
+            "name": "Voss Open 2019",
+            "city": "Voss",
+            "country": "NO",
+            "date": {
+                "from": "2019-02-23",
+                "till": "2019-02-24",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ulrik Bredland",
+                    "email": "ubredland@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ivar Strangstadstuen",
+                    "email": "tre141592653589793238462643383@gmail.com"
+                },
+                {
+                    "name": "Jonatan Solheim",
+                    "email": "tilingen@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Voss Folkeh\u00f8gskule",
+                "address": "Eskelandsvegen 28, 5704 Voss",
+                "details": "Olavsalen",
+                "coordinates": {
+                    "latitude": 60.62553,
+                    "longitude": 6.390886
+                }
+            },
+            "information": "Everyone who can solve a cube are welcome to participate in this competition!\r\n\r\n-----\r\n\r\nAlle som kan l\u00f8se kube er velkomne til \u00e5 delta i denne konkurransen!",
+            "externalWebsite": "http:\/\/kubing.no\/events\/vo2019\/"
+        },
+        {
+            "id": "MontenegroOpen2019",
+            "name": "Montenegro Open 2019",
+            "city": "Podgorica",
+            "country": "ME",
+            "date": {
+                "from": "2019-02-09",
+                "till": "2019-02-10",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "David Pantovi\u0107",
+                    "email": "davidpantovic24@gmail.com"
+                },
+                {
+                    "name": "Reto Bubendorf",
+                    "email": "retobubendorf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "University of Montenegro",
+                "address": "Bulevar D\u017eord\u017ea Va\u0161ingtona, Podgorica",
+                "details": "on the second floor, follow the signs",
+                "coordinates": {
+                    "latitude": 42.443069,
+                    "longitude": 19.240667
+                }
+            },
+            "information": "For more information check out the tabs!\r\nZa vi\u0161e informacija pogledajte tabove!",
+            "externalWebsite": null
+        },
+        {
+            "id": "MacedoniaWinter2019",
+            "name": "Macedonia Winter 2019",
+            "city": "Skopje",
+            "country": "MK",
+            "date": {
+                "from": "2019-02-02",
+                "till": "2019-02-03",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Tobias Peter",
+                    "email": "tobias.peter@bluewin.ch"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aleksandar Arsovski",
+                    "email": "aarsovski@worldcubeassociation.org"
+                },
+                {
+                    "name": "Reto Bubendorf",
+                    "email": "retobubendorf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Hotel Aleksandar Palace, Skopje",
+                "address": "Prohor Pcinjski, Skopje 1000",
+                "details": "Congress hall (there will be signs on the venue)",
+                "coordinates": {
+                    "latitude": 42.010787,
+                    "longitude": 21.405594
+                }
+            },
+            "information": "For more information check out the tabs!",
+            "externalWebsite": null
+        },
+        {
+            "id": "LightsOfReykjavik2019",
+            "name": "Lights of Reykjavik 2019",
+            "city": "Hafnarfj\u00f6r\u00f0ur",
+            "country": "IS",
+            "date": {
+                "from": "2019-01-04",
+                "till": "2019-01-05",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Hari Anirudh",
+                    "email": "harisv.1994@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Danival Heide S\u00e6varsson",
+                    "email": "dsaevarsson@worldcubeassociation.org"
+                },
+                {
+                    "name": "P\u00e9tur \u00d3skarsson",
+                    "email": "petur@viator.is"
+                },
+                {
+                    "name": "R\u00fanar Gauti Gunnarsson",
+                    "email": "runarg2002@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Flensborgarsk\u00f3linn",
+                "address": "Hringbraut 10, 220, Hafnarfjordur, Iceland",
+                "details": "Follow the signs\/ fylgi\u00f0 merkingunum",
+                "coordinates": {
+                    "latitude": 64.065124,
+                    "longitude": -21.951281
+                }
+            },
+            "information": "**Walk in registrations will be allowed until we reach the limit of registration**\r\n\r\nSpace in the venue is limited, please let us know how many people will come with you.\r\nYou will have to pay the registration fees at the venue the day of the competition to participate: kr1500 (~11\u20ac)\r\n________\r\n\r\nPl\u00e1ss \u00e1 sta\u00f0num er takmarka\u00f0 svo endilega l\u00e1ti\u00f0 okkur vita hversu marga gesti \u00fei\u00f0 munu\u00f0 hafa me\u00f0 ykkur.\r\nM\u00f3tsgjald er 1500 kr\u00f3nur fyrir keppendur og ver\u00f0ur \u00fea\u00f0 greitt \u00e1 m\u00f3tsdag.\r\n________\r\n.",
+            "externalWebsite": null
+        },
+        {
+            "id": "WSMO2018",
+            "name": "Weston-super-Mare Open 2018",
+            "city": "Weston-super-Mare, Somerset",
+            "country": "GB",
+            "date": {
+                "from": "2018-11-24",
+                "till": "2018-11-25",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Daniel Sheppard",
+                    "email": "danielkcsheppard@gmail.com"
+                },
+                {
+                    "name": "James Molloy",
+                    "email": "jmolloy@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sam Spendla",
+                    "email": "sspendla@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "AJ Nicholls",
+                    "email": "shakyhands.aj@gmail.com"
+                },
+                {
+                    "name": "Bertie Longden",
+                    "email": "blongden@worldcubeassociation.org"
+                },
+                {
+                    "name": "Chris Wright",
+                    "email": "cwwright.uk@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Grand Pier](https:\/\/www.grandpier.co.uk\/)",
+                "address": "179 Seafront Promenade, Weston-super-Mare BS23 1SE, UK",
+                "details": "Regency Suite, Top Floor",
+                "coordinates": {
+                    "latitude": 51.347803,
+                    "longitude": -2.986299
+                }
+            },
+            "information": "Please make sure to read all the information in the tabs above.",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZhytomyrOpen2018",
+            "name": "Zhytomyr Open 2018",
+            "city": "Zhytomyr",
+            "country": "UA",
+            "date": {
+                "from": "2018-09-02",
+                "till": "2018-09-02",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Roman Ostapenko (\u0420\u043e\u043c\u0430\u043d \u041e\u0441\u0442\u0430\u043f\u0435\u043d\u043a\u043e)",
+                    "email": "rostapenko@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Tetyana Kovalchuk",
+                    "email": "tatemgold@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Gnatyuk Art Centre](https:\/\/www.facebook.com\/GnatyukArtCenter\/)",
+                "address": "20 Velyka Berdychivska st.",
+                "details": "Main hall is located on the second floor. There is a cafe in the venue where everyone can take a lunch. ",
+                "coordinates": {
+                    "latitude": 50.252354,
+                    "longitude": 28.668138
+                }
+            },
+            "information": "Registration will be closed August, 28 or when we will reach 60 approved competitors.\r\n\u0420\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u044e \u0431\u0443\u0434\u0435 \u0437\u0430\u043a\u0440\u0438\u0442\u043e 28 \u0441\u0435\u0440\u043f\u043d\u044f \u0430\u0431\u043e \u043a\u043e\u043b\u0438 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u0438\u0445 \u0443\u0447\u0430\u0441\u043d\u0438\u043a\u0456\u0432 \u0434\u043e\u0441\u044f\u0433\u043d\u0435 60.\r\n\r\nSpectators are welcome. There is no entry fee for spectators.\r\n\u0411\u0443\u0434\u0435\u043c\u043e \u0440\u0430\u0434\u0456 \u0431\u0430\u0447\u0438\u0442\u0438 \u0432\u0430\u0441 \u0432 \u044f\u043a\u043e\u0441\u0442\u0456 \u0433\u043b\u044f\u0434\u0430\u0447\u0456\u0432. \u0412\u0445\u0456\u0434 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439.",
+            "externalWebsite": null
+        },
+        {
+            "id": "PchelkaOpen2018",
+            "name": "Pchelka Open 2018",
+            "city": "Chopon-Ata, Issyk Kul",
+            "country": "KG",
+            "date": {
+                "from": "2018-08-22",
+                "till": "2018-08-23",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Nadira Haroon",
+                    "email": "nad_ira25@yahoo.com"
+                },
+                {
+                    "name": "Nazira Shayimkulova",
+                    "email": "pchelka.kg@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Children's Camp Barchyn",
+                "address": "Children's Camp Barchyn, Chon-Sary-Oy, Chopon-Ata, Issyk Kul, Kyrgyzstan",
+                "details": "",
+                "coordinates": {
+                    "latitude": 42.609102,
+                    "longitude": 76.915328
+                }
+            },
+            "information": "There is a competitor limit of 150 competitors. If you register and later decide to not attend the competition, please inform the organizers so another competitor can get a seat.\r\n\u041b\u0438\u043c\u0438\u0442 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 150 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.\u0415\u0441\u043b\u0438 \u0432\u044b \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442\u0435\u0441\u044c, \u0430 \u0437\u0430\u0442\u0435\u043c \u0440\u0435\u0448\u0438\u0442\u0435 \u043d\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0435, \u0441\u043e\u043e\u0431\u0449\u0438\u0442\u0435 \u043e\u0431 \u044d\u0442\u043e\u043c \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0442\u043e\u0440\u0430\u043c.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VillavicencioOpenII2018",
+            "name": "Villavicencio Open II 2018",
+            "city": "Villavicencio",
+            "country": "CO",
+            "date": {
+                "from": "2018-08-18",
+                "till": "2018-08-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333oh",
+                "minx",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jos\u00e9 Leonardo Chaparro Prieto",
+                    "email": "jprieto@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Jos\u00e9 Leonardo Chaparro Prieto",
+                    "email": "jprieto@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Polideportivo Garc\u00eda Boh\u00f3rquez",
+                "address": "Calle 19 #37I-54",
+                "details": "",
+                "coordinates": {
+                    "latitude": 4.135106,
+                    "longitude": -73.63503
+                }
+            },
+            "information": "Limite de 50 competidores.\r\nCosto: $20.000 COP todos los eventos.\r\n\r\nCompetitor limit: 50.\r\nCost: $20.000COP (7USD aprox) for all events.",
+            "externalWebsite": null
+        },
+        {
+            "id": "UzbekistanOpen2018",
+            "name": "Uzbekistan Open 2018",
+            "city": "Tashkent",
+            "country": "UZ",
+            "date": {
+                "from": "2018-08-18",
+                "till": "2018-08-19",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Igor Aipkin",
+                    "email": "iaipkin@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Atlas",
+                "address": "Atlas, Tashkent city, Chilanzar district, Katartal str., 28",
+                "details": "4th Floor",
+                "coordinates": {
+                    "latitude": 41.281733,
+                    "longitude": 69.201847
+                }
+            },
+            "information": "The competition is open to all but only citizens of Uzbekistan can win prizes.\r\n\r\n\u0423\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u043d\u0438\u0438 \u043c\u043e\u0433\u0443\u0442 \u0432\u0441\u0435, \u043d\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0435 \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d\u0430 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0440\u0438\u0437\u044b.\r\n\r\nMusobaqada har qanday ishtirokchi qatnasha oladi, sovg'alar faqat O'zbekiston fuqarolari uchun beriladi.",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZwolleOpen2018",
+            "name": "Zwolle Open 2018",
+            "city": "Zwolle",
+            "country": "NL",
+            "date": {
+                "from": "2018-08-17",
+                "till": "2018-08-18",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333fm",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mattheo de Wit",
+                    "email": "mattheodw@gmail.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sandra de Geeter",
+                    "email": "sandra@kubuswedstrijden.nl"
+                },
+                {
+                    "name": "Yorick Brommer",
+                    "email": "brommer.scoot@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[SIO Zwolle](http:\/\/www.siozwolle.nl)",
+                "address": "Thorbeckelaan 2, 8014 AZ Zwolle",
+                "details": "Zaal 7",
+                "coordinates": {
+                    "latitude": 52.488607,
+                    "longitude": 6.107875
+                }
+            },
+            "information": "",
+            "externalWebsite": "https:\/\/www.kubuswedstrijden.nl\/zwolle-open-2018\/"
+        },
+        {
+            "id": "SemeyOpen2018",
+            "name": "Semey Open 2018",
+            "city": "Semey",
+            "country": "KZ",
+            "date": {
+                "from": "2018-06-08",
+                "till": "2018-06-09",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Nikolay Masson (\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041c\u0430\u0441\u0441\u043e\u043d)",
+                    "email": "nmasson@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Alikhan Yertursyn (\u0410\u043b\u0438\u0445\u0430\u043d \u0415\u0440\u0442\u0443\u0440\u0441\u044b\u043d)",
+                    "email": "a.ertursyn@gmail.com"
+                },
+                {
+                    "name": "Arman Mashimov (\u0410\u0440\u043c\u0430\u043d \u041c\u0430\u0448\u0438\u043c\u043e\u0432)",
+                    "email": "a_mashimov@mail.ru"
+                },
+                {
+                    "name": "Hanneke Rijks",
+                    "email": "hannekerijks@gmail.com"
+                },
+                {
+                    "name": "Mats Valk",
+                    "email": "matsvalk@gmail.com"
+                },
+                {
+                    "name": "Roman Strakhov",
+                    "email": "fpmk2@ya.ru"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Nazarbayev Intellectual school of Physics and Mathematics](http:\/\/nis.edu.kz\/en\/schools\/nis-semei\/)",
+                "address": "Karagaily St 1, Semey 071404, Kazakhstan",
+                "details": "",
+                "coordinates": {
+                    "latitude": 50.454897,
+                    "longitude": 80.243879
+                }
+            },
+            "information": "Dear competitors and guests!\r\n\r\n1. The official opening ceremony will be held on June 7, 2018 at 7 pm. According to our idea, it will be held at the main square of the city. For the ceremony we will prepare a special show with the famous speedcubers. In this regard, we recommend arriving in the city no later than 12.00 hours on June 7.\r\n\r\n2. The base fee allows to compete in 2x2x2 Cube, 3x3x3 Cube, Skewb, Pyraminx and Clock. For any other event you will need to pay additionally 1000 KZT per event.\r\n\r\n3. The winner of each event will receive a prize!\r\n\r\n===========\r\n\r\n\u0411\u0430\u0440\u043b\u044b\u049b \u049b\u0430\u0442\u044b\u0441\u0443\u0448\u044b\u043b\u0430\u0440 \u043c\u0435\u043d \u049b\u043e\u043d\u0430\u049b\u0442\u0430\u0440\u0434\u044b\u04a3 \u043d\u0430\u0437\u0430\u0440\u044b\u043d\u0430 !!!\r\n1. \u0420\u0435\u0441\u043c\u0438 \u0430\u0448\u044b\u043b\u0443 2018 \u0436\u044b\u043b\u0434\u044b\u04a3 7 \u043c\u0430\u0443\u0441\u044b\u043c\u044b\u043d\u0434\u0430 \u0441\u0430\u0493\u0430\u0442 19.00-\u0434\u0435 \u04e9\u0442\u0435\u0434\u0456, \u049b\u0430\u043b\u0430\u043d\u044b\u04a3 \u043e\u0440\u0442\u0430\u043b\u044b\u049b \u0430\u043b\u0430\u04a3\u044b\u043d\u0434\u0430 \u04e9\u0442\u0435\u0434\u0456. \u0421\u0430\u043b\u0442\u0430\u043d\u0430\u0442\u0442\u044b \u0430\u0448\u044b\u043b\u0443 \u0440\u04d9\u0441\u0456\u043c\u0456 \u04af\u0448\u0456\u043d \u0430\u0442\u0430\u049b\u0442\u044b \u0441\u043f\u0438\u0434\u043a\u0443\u0431\u0435\u0440\u043b\u0435\u0440 \u049b\u0430\u0442\u044b\u0441\u0443\u044b\u043c\u0435\u043d \u0448\u043e\u0443-\u0431\u0430\u0493\u0434\u0430\u0440\u043b\u0430\u043c\u0430 \u0434\u0430\u0439\u044b\u043d\u0434\u0430\u043b\u0430\u0434\u044b. \u041e\u0441\u044b\u0493\u0430\u043d \u0431\u0430\u0439\u043b\u0430\u043d\u044b\u0441\u0442\u044b \u0431\u0456\u0437 7-\u043c\u0430\u0443\u0441\u044b\u043c\u0434\u0430 \u0441\u0430\u0493\u0430\u0442 12.00-\u0434\u0435\u043d \u043a\u0435\u0448\u0456\u043a\u0442\u0456\u0440\u043c\u0435\u0439 \u049b\u0430\u043b\u0430\u0493\u0430 \u043a\u0435\u043b\u0443\u0434\u0456 \u04b1\u0441\u044b\u043d\u0430\u043c\u044b\u0437.\r\n\r\n2. \u041d\u0435\u0433\u0456\u0437\u0433\u0456 \u0441\u044b\u0439\u0430\u049b\u044b 2x2x2 \u043a\u0443\u0431, 3x3x3 \u043a\u0443\u0431, Skewb, Pyraminx \u0436\u04d9\u043d\u0435 Clock \u0431\u043e\u0439\u044b\u043d\u0448\u0430 \u0431\u04d9\u0441\u0435\u043a\u0435\u043b\u0435\u0441\u0443\u0433\u0435 \u043c\u04af\u043c\u043a\u0456\u043d\u0434\u0456\u043a \u0431\u0435\u0440\u0435\u0434\u0456. \u041a\u0435\u0437-\u043a\u0435\u043b\u0433\u0435\u043d \u0431\u0430\u0441\u049b\u0430 \u0456\u0441-\u0448\u0430\u0440\u0430\u0493\u0430 \u049b\u043e\u0441\u044b\u043c\u0448\u0430 \u0431\u0456\u0440 \u043e\u049b\u0438\u0493\u0430 \u04af\u0448\u0456\u043d 1000 \u0442\u0435\u04a3\u0433\u0435 \u0442\u04e9\u043b\u0435\u0443\u0433\u0435 \u0442\u0443\u0440\u0430 \u043a\u0435\u043b\u0435\u0434\u0456.\r\n\r\n3. \u04d8\u0440 \u0436\u0430\u0440\u044b\u0441\u0442\u044b\u04a3 \u0436\u0435\u04a3\u0456\u043c\u043f\u0430\u0437\u044b \u0436\u04af\u043b\u0434\u0435 \u0430\u043b\u0430\u0434\u044b.\r\n\r\n===========\r\n\r\n\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f:\r\n\r\n\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u0432\u0441\u0435\u043c \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430\u043c \u0438 \u0433\u043e\u0441\u0442\u044f\u043c!!!\r\n\r\n1. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0446\u0435\u0440\u0435\u043c\u043e\u043d\u0438\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f, \u0441\u043e\u0441\u0442\u043e\u0438\u0442\u0441\u044f 7 \u0438\u044e\u043d\u044f 2018 \u0433\u043e\u0434\u0430 \u0432 19.00 \u0447. \u041f\u043e \u043d\u0430\u0448\u0435\u0439 \u0437\u0430\u0434\u0443\u043c\u043a\u0435 \u043e\u043d\u0430 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u044c \u043d\u0430 \u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0433\u043e\u0440\u043e\u0434\u0430. \u0414\u043b\u044f \u0446\u0435\u0440\u0435\u043c\u043e\u043d\u0438\u0438 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0430 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0448\u043e\u0443 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0438\u043c\u0435\u043d\u0438\u0442\u044b\u0445 \u0441\u043f\u0438\u0434\u043a\u0443\u0431\u0435\u0440\u043e\u0432. \u0412 \u0441\u0432\u044f\u0437\u0438 \u0441 \u044d\u0442\u0438\u043c \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u043c \u043f\u0440\u0438\u0431\u044b\u0442\u044c \u0432 \u0433\u043e\u0440\u043e\u0434 \u043d\u0435 \u043f\u043e\u0437\u0434\u043d\u0435\u0435 12.00 \u0447\u0430\u0441\u043e\u0432 7 \u0438\u044e\u043d\u044f.\r\n\r\n2. \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0432\u0437\u043d\u043e\u0441 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430\u0445: 2\u04452, Rubik's Cube, Skweb, Piraminx, Clock. \u0414\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432 \u0434\u0440\u0443\u0433\u0438\u0445 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430\u0445 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043e\u043f\u043b\u0430\u0442\u0438\u0442\u044c  \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u0437\u043d\u043e\u0441 \u043f\u043e 1000 \u0442\u0435\u043d\u0433\u0435 \u0437\u0430 \u043a\u0430\u0436\u0434\u0443\u044e \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0443.  \r\n\r\n3. \u0417\u0430 \u043f\u0435\u0440\u0432\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0432\u043e \u0432\u0441\u0435\u0445 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430\u0445 \u043f\u0440\u0435\u0434\u0443\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u044b \u043f\u0440\u0438\u0437\u044b",
+            "externalWebsite": null
+        },
+        {
+            "id": "TunisiaWinterOpenDay2017",
+            "name": "Tunisia Winter Open Day 2017",
+            "city": "Sousse",
+            "country": "TN",
+            "date": {
+                "from": "2017-12-20",
+                "till": "2017-12-20",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mohamed Ali Bizid",
+                    "email": "mbizid@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Raouf Thabet",
+                    "email": "raoufh.thabet@laposte.net"
+                }
+            ],
+            "venue": {
+                "name": "Hotel Marhaba Palace Sousse",
+                "address": "BP N120\u060c Hammam Sousse 4089, Tunisie",
+                "details": "Look for the conference room inside the hotel",
+                "coordinates": {
+                    "latitude": 35.89654,
+                    "longitude": 10.593775
+                }
+            },
+            "information": "Tunisia Winter Open 2017 is open for participants from all countries, everyone is welcome.\r\nCompetition fee is 20DT per participant\r\nMedals and Gifts will be awarded to the winners in each category.\r\nIt should be known that only competitors who do check-in into the hotel can benefit from the lunch.",
+            "externalWebsite": null
+        },
+        {
+            "id": "YoRubik20SC2017",
+            "name": "Yo Rubik 2.0 S-C 2017",
+            "city": "Santa Cruz",
+            "country": "BO",
+            "date": {
+                "from": "2017-11-04",
+                "till": "2017-11-05",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cristian Franco Terrazas Flores",
+                    "email": "cflores@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jorge Miguel Trigo",
+                    "email": "jtrigo@worldcubeassociation.org"
+                },
+                {
+                    "name": "Rodrigo Ugarte",
+                    "email": "rugarte@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Juvenal Nu\u00f1ez",
+                    "email": "juvenal_75619441@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Instalaciones Santa Cruz para todos",
+                "address": "Avenida El Trompillo",
+                "details": "Salon",
+                "coordinates": {
+                    "latitude": -17.798947,
+                    "longitude": -63.170837
+                }
+            },
+            "information": "Competencia limitada a **60 personas**.  \r\n\r\nCompetition limited to **60 competitors**.",
+            "externalWebsite": null
+        },
+        {
+            "id": "WC2017",
+            "name": "World Rubik's Cube Championship 2017",
+            "city": "Paris",
+            "country": "FR",
+            "date": {
+                "from": "2017-07-13",
+                "till": "2017-07-16",
+                "numberOfDays": 4
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Hippolyte Moreau",
+                    "email": "hmoreau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jean-Louis Mathieu",
+                    "email": "rubikfr88@gmail.com"
+                },
+                {
+                    "name": "Philippe Lucien",
+                    "email": "plucien@worldcubeassociation.org"
+                },
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Antoine Piau",
+                    "email": "apiau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Hippolyte Moreau",
+                    "email": "hmoreau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jean-Louis Mathieu",
+                    "email": "rubikfr88@gmail.com"
+                },
+                {
+                    "name": "Lina Tissier",
+                    "email": "ltissier@worldcubeassociation.org"
+                },
+                {
+                    "name": "Philippe Lucien",
+                    "email": "plucien@worldcubeassociation.org"
+                },
+                {
+                    "name": "Philippe Virouleau",
+                    "email": "pvirouleau@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sylviane Mathieu",
+                    "email": "layanne88@yahoo.fr"
+                }
+            ],
+            "venue": {
+                "name": "[Les Docks de Paris - Dock Pullman](https:\/\/www.eurosites.fr\/location-salle\/eurosites-dock-paris)",
+                "address": "Les Docks De Paris, 50 avenue du Pr\u00e9sident Wilson - 93200 La Plaine Saint-Denis France",
+                "details": "Salle Pullman",
+                "coordinates": {
+                    "latitude": 48.903322,
+                    "longitude": 2.36544
+                }
+            },
+            "information": "Please check out the website to find out about competition's details.",
+            "externalWebsite": "http:\/\/www.rubiksworldparis2017.com"
+        },
+        {
+            "id": "ZUSTOpen2017",
+            "name": "ZUST Open 2017",
+            "city": "Hangzhou, Zhejiang",
+            "country": "CN",
+            "date": {
+                "from": "2017-06-10",
+                "till": "2017-06-11",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "clock",
+                "minx",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+                    "email": "bdong@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Junjie Fu (\u5085\u4fca\u6770)",
+                    "email": "864283256@qq.com"
+                }
+            ],
+            "venue": {
+                "name": "[Zhejiang University of Science and Technology](http:\/\/www.zust.edu.cn\/)",
+                "address": "Liuhe Road, Xihu District",
+                "details": "A4-122",
+                "coordinates": {
+                    "latitude": 30.219464,
+                    "longitude": 120.02733
+                }
+            },
+            "information": "The number limit of competitors is 160.\r\nThe registration will be opened at 19:00 15th Apr.\r\nPlease check the competition website for more information (events, schedule, etc).",
+            "externalWebsite": "https:\/\/cubingchina.com\/competition\/ZUST-Open-2017"
+        },
+        {
+            "id": "WirewoodPro2017",
+            "name": "Wirewood Pro 2017",
+            "city": "Montevideo",
+            "country": "UY",
+            "date": {
+                "from": "2017-04-30",
+                "till": "2017-04-30",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mateo Rodr\u00edguez",
+                    "email": "mrodriguez@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ricardo Piotti",
+                    "email": "rpiotti@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Francisco Alonso",
+                    "email": "franalonso2001@gmail.com"
+                },
+                {
+                    "name": "Lucas Molin\u00e9",
+                    "email": "lucas.moline03@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Wirewood City",
+                "address": "Bulevar Espa\u00f1a 2697 esquina ellauri",
+                "details": "En la entrada del local",
+                "coordinates": {
+                    "latitude": -34.913457,
+                    "longitude": -56.155052
+                }
+            },
+            "information": "El dinero para la inscripci\u00f3n se pagar\u00e1 el d\u00eda mismo de la competencia.",
+            "externalWebsite": null
+        },
+        {
+            "id": "YuraSpeedcubers2017",
+            "name": "Yura Speedcubers 2017",
+            "city": "Arequipa",
+            "country": "PE",
+            "date": {
+                "from": "2017-01-14",
+                "till": "2017-01-14",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Nat\u00e1n Riggenbach",
+                    "email": "nriggenbach@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Yenny Huanqque Ccapa",
+                    "email": "yennyhuanqqueccapa@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Municipalidad Distrital de Yura - Auditorio (Cuarto Piso)",
+                "address": "Asoc. Ciudad de Dios Zn. 3 Sector B Centro C\u00edvico ",
+                "details": "Km. 15.5 Pasando Colegio Intervida carretera Arequipa-Yura",
+                "coordinates": {
+                    "latitude": -16.302236,
+                    "longitude": -71.623866
+                }
+            },
+            "information": "El costo de inscripci\u00f3n es de S\/ 7.00 Soles de base y S\/ 2.00 por evento, y se pagar\u00e1 durante el registro del torneo; incluir\u00e1 Kit de participante (Polo, Certificado de Participante, Refrigerio). Habr\u00e1 premios para los primeros puestos, medallas y pases para el Hotel Tur\u00edstico de Yura.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VinderupOpen2016",
+            "name": "Vinderup Open 2016",
+            "city": "Vinderup",
+            "country": "DK",
+            "date": {
+                "from": "2016-10-08",
+                "till": "2016-10-09",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Henrik Buus Aagaard",
+                    "email": "haagaard@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Karina Grandjean Beck",
+                    "email": "karinagrandjeanbeck@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Vinderup Realskole](http:\/\/www.vinderup-real.dk\/)",
+                "address": "Vinderup Realskole, Sevelvej 42, 7830 Vinderup",
+                "details": "",
+                "coordinates": {
+                    "latitude": 56.478631,
+                    "longitude": 8.78436
+                }
+            },
+            "information": "Registration fee is 50dkr, it is possible to sleep at the venue (contact organiser)",
+            "externalWebsite": null
+        },
+        {
+            "id": "ZaragozaOpen2016",
+            "name": "Zaragoza Open 2016",
+            "city": "Zaragoza",
+            "country": "ES",
+            "date": {
+                "from": "2016-02-06",
+                "till": "2016-02-07",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Alexander Olleta del Molino",
+                    "email": "alexodm.wca@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Sandra Novales Pel\u00e1ez",
+                    "email": "sandranp2000@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Centro civ\u00edco Santa Isabel](https:\/\/www.zaragoza.es\/ciudad\/centros\/detalle_Centro?id=3134)",
+                "address": "Avda. Santa Isabel, 100 - 50016 Zaragoza",
+                "details": "",
+                "coordinates": {
+                    "latitude": 41.666759,
+                    "longitude": -0.830636
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/asociacionrubik.es\/c\/ZaragozaOpen2016"
+        },
+        {
+            "id": "HongKongSummerCubeDay2015",
+            "name": "Hong Kong Summer Cube Day 2015",
+            "city": "Hong Kong",
+            "country": "HK",
+            "date": {
+                "from": "2015-08-22",
+                "till": "2015-08-22",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chan Tak Chuen (\u9673\u5fb7\u6cc9)",
+                    "email": "tchan@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[The Yard](http:\/\/www.theyard.com.hk)",
+                "address": "8D, Wing Hin Factory Building, 31-33 Ng Fong Street, San Po Kong, Kowloon",
+                "details": "Room Y",
+                "coordinates": {
+                    "latitude": 22.337968,
+                    "longitude": 114.200879
+                }
+            },
+            "information": "N\/A",
+            "externalWebsite": "http:\/\/hkrcu.net\/hksummer15"
+        },
+        {
+            "id": "VeranoCubero2015",
+            "name": "Verano Cubero 2015",
+            "city": "Santo Domingo",
+            "country": "DO",
+            "date": {
+                "from": "2015-08-15",
+                "till": "2015-08-16",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Nestor Sanchez",
+                    "email": "nestorsanchez3d@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Rafael Gregorio Martinez Paredes",
+                    "email": "rparedes@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sumi Lee",
+                    "email": "misumilee@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Galeria 360](http:\/\/www.galeria360.com.do)",
+                "address": "Av. Jhon F. Kennedy casi esquina Av. Abraham Lincoln",
+                "details": "Area de entrada, puerta principal.",
+                "coordinates": {
+                    "latitude": 18.484951,
+                    "longitude": -69.936111
+                }
+            },
+            "information": "Novena competencia oficial en Republica Dominicana",
+            "externalWebsite": "http:\/\/www.cubingsouthamerica.com\/veranocubero2015\/"
+        },
+        {
+            "id": "VenezuelaOpen2013",
+            "name": "Venezuela Open 2013",
+            "city": "M\u00e9rida",
+            "country": "VE",
+            "date": {
+                "from": "2013-09-29",
+                "till": "2013-09-29",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Wilson Jos\u00e9 Duarte Espitia",
+                    "email": "wilsonjose.duarte@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Oscar Alberto Ceballos Contreras",
+                    "email": "oscaralbertoceballos@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Hotel Caribay](http:\/\/www.hotelcaribay.com)",
+                "address": "Av. 2 Lora con Viaducto Miranda, M\u00e9rida Venezuela",
+                "details": "Sal\u00f3n Zuhe",
+                "coordinates": {
+                    "latitude": 8.589428,
+                    "longitude": -71.156306
+                }
+            },
+            "information": "Primer Torneo Oficial Venezolano.  [P\u00e1gina de Registro al Venezuela Open 2013](http:\/\/www.cubingsouthamerica.com\/VenezuelaOpen\/register.php)",
+            "externalWebsite": "http:\/\/www.cubingsouthamerica.com\/VenezuelaOpen"
+        },
+        {
+            "id": "ZuneOpen2012",
+            "name": "Zune Open 2012",
+            "city": "Namur",
+            "country": "BE",
+            "date": {
+                "from": "2012-04-28",
+                "till": "2012-04-29",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Lars Vandenbergh",
+                    "email": "lars@cubezone.be"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Zo\u00e9 de Moffarts",
+                    "email": "zoe.demoffarts@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Le Chalet",
+                "address": "25 Rue du Cimeti\u00e8re, 5100 Jambes",
+                "details": "",
+                "coordinates": {
+                    "latitude": 50.456367,
+                    "longitude": 4.871877
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/dl.dropbox.com\/u\/23824956\/Zune%20Open%20website\/home.html"
+        },
+        {
+            "id": "WC2011",
+            "name": "World Rubik's Cube Championship 2011",
+            "city": "Bangkok",
+            "country": "TH",
+            "date": {
+                "from": "2011-10-14",
+                "till": "2011-10-16",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chatchawan Jaruwattanakun (\u0e0a\u0e31\u0e0a\u0e27\u0e32\u0e25\u0e22\u0e4c \u0e08\u0e32\u0e23\u0e38\u0e27\u0e31\u0e12\u0e19\u0e01\u0e38\u0e25)",
+                    "email": "cjaruwattanakun@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Baiyoke Sky hotel](http:\/\/baiyokesky.baiyokehotel.com\/)",
+                "address": "222 Rajprarop Rd, Rajthevee, Bangkok 10400, Thailand",
+                "details": "",
+                "coordinates": {
+                    "latitude": 13.723418,
+                    "longitude": 100.476231
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/www.thailandcube.com\/wc2011"
+        },
+        {
+            "id": "WC2009",
+            "name": "World Rubik's Cube Championship 2009",
+            "city": "D\u00fcsseldorf",
+            "country": "DE",
+            "date": {
+                "from": "2009-10-09",
+                "till": "2009-10-11",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Masayuki Akimoto (\u79cb\u5143\u6b63\u884c)",
+                    "email": "masayuki@akimoto3.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+                    "email": "tyson.mao@gmail.com"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Burg-W\u00e4chter Castello](http:\/\/www.burg-waechter-castello.de)",
+                "address": "Karl-Hohmann-Stra\u00dfe 1, D\u00fcsseldorf",
+                "details": "",
+                "coordinates": {
+                    "latitude": 51.174745,
+                    "longitude": 6.864554
+                }
+            },
+            "information": "5th World Rubik's Cube Championship",
+            "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2009"
+        },
+        {
+            "id": "WC2007",
+            "name": "World Rubik's Cube Championship 2007",
+            "city": "Budapest",
+            "country": "HU",
+            "date": {
+                "from": "2007-10-05",
+                "till": "2007-10-07",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333mbo",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Gilles Roux",
+                    "email": "grrroux@free.fr"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+                    "email": "tyson.mao@gmail.com"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Novotel Budapest Congress](http:\/\/www.novotel.com\/novotel\/fichehotel\/gb\/nov\/0511\/fiche_hotel.shtml)",
+                "address": "Alkotas utca 63-67, 1123 Budapest",
+                "details": "Patria theatre",
+                "coordinates": {
+                    "latitude": 47.489049,
+                    "longitude": 19.024155
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2007"
+        }
+    ]
+}

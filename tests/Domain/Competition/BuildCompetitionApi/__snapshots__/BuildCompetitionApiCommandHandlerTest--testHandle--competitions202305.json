@@ -1,0 +1,246 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 4
+    },
+    "total": 4,
+    "items": [
+        {
+            "id": "WestVisayasChampionship2023",
+            "name": "West Visayas Championship 2023",
+            "city": "Bacolod City, Negros Occidental",
+            "country": "PH",
+            "date": {
+                "from": "2023-05-27",
+                "till": "2023-05-28",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Kirby Jay Caragan",
+                    "email": "kcaragan@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ace Djun T. Aguirre Jr.",
+                    "email": "centrum1975@yahoo.com"
+                },
+                {
+                    "name": "Bea Alexandra Marie Flores",
+                    "email": "beaalexandramarie@gmail.com"
+                },
+                {
+                    "name": "Daniel Hussain Mohammadi",
+                    "email": "grazemohammadi@gmail.com"
+                },
+                {
+                    "name": "Savion Matula",
+                    "email": "savion37matula@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[SM City Bacolod](https:\/\/www.google.com\/maps\/place\/SM+City+Bacolod+Northwing\/@10.6722984,122.9420563,777m\/data=!3m2!1e3!4b1!4m5!3m4!1s0x33aed04d351d1a59:0x9e05cac55ef55144!8m2!3d10.6722931!4d122.944245)",
+                "address": "Rizal St, Reclamation Area, Bacolod City ",
+                "details": "3rd Floor, North Wing",
+                "coordinates": {
+                    "latitude": 10.670139,
+                    "longitude": 122.943856
+                }
+            },
+            "information": "#### The biggest WCA sanctioned competition in Western Visayas is here!\r\n\r\n\r\nAll necessary information about the competition can be found in the following tabs above.\r\n\r\nCompetitor or guardian must agree that NSOC, PCA, and WCA shall not be liable for any personal injury, property damage, heartbreak, or loss resulting from your participation of this event.\r\n\r\nPlease be familiar with the **[WCA rules and regulations](https:\/\/www.worldcubeassociation.org\/regulations\/)** before participating in this event.\r\n",
+            "externalWebsite": null
+        },
+        {
+            "id": "WienerFruhling2023",
+            "name": "Wiener Fr\u00fchling 2023",
+            "city": "Vienna",
+            "country": "AT",
+            "date": {
+                "from": "2023-05-20",
+                "till": "2023-05-21",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Bence Bar\u00e1t",
+                    "email": "bbarat@worldcubeassociation.org"
+                },
+                {
+                    "name": "Emma Beranov\u00e1",
+                    "email": "eberanova@worldcubeassociation.org"
+                },
+                {
+                    "name": "Viktor Kalmar",
+                    "email": "viktorcube@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "D\u00e1niel Varga",
+                    "email": "daniel.varga@icloud.com"
+                },
+                {
+                    "name": "David Dinh",
+                    "email": "dinhdhdavid@gmail.com"
+                },
+                {
+                    "name": "Felix Strasser",
+                    "email": "felix.strasser@hotmail.com"
+                },
+                {
+                    "name": "Florian Truckenthanner",
+                    "email": "vossytv@gmail.com"
+                },
+                {
+                    "name": "Pranjal Khan",
+                    "email": "pranjal.khan@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Gro\u00dfer Saal - Pfarre Akkonplatz](https:\/\/www.akkonplatz.at\/index.php\/de\/raeume-nutzen\/grossersaal)",
+                "address": "Oeverseestra\u00dfe 2c, 1150 Wien, Austria",
+                "details": "Folgen Sie den Schildern, um den Veranstaltungsort zu betreten. \/ Follow the signs to enter the venue.",
+                "coordinates": {
+                    "latitude": 48.202129,
+                    "longitude": 16.316067
+                }
+            },
+            "information": "##### *English version is below*\r\n\r\n#### **Deutsch:**\r\n\r\nWir freuen uns sehr euch \"Wiener Fr\u00fchling 2023\" als ein offizielles WCA Turnier ank\u00fcndigen zu k\u00f6nnen. \r\n\r\nDie Speedcubing Competition wird organisiert von Pranjal Khan, Florian Truckenthanner, David Dinh, D\u00e1niel Varga und Felix Strasser und wird delegiert von Bence Bar\u00e1t, Emma Beranov\u00e1 und Viktor Kalmar. Erneut findet das Turnier im gro\u00dfen Saal der Akkonplatz Pfarre statt. Die Resultate dieser Competition werden zu den offiziellen WCA World Rankings hinzugef\u00fcgt.\r\n\r\nJeder ist bei diesem Turnier gerne willkommen, unabh\u00e4ngig von der Erfahrung, Alter oder sonstigen F\u00e4higkeiten. Manche Events haben ein spezifisches Zeitlimit, damit wir sicherstellen k\u00f6nnen den ganzen Tag \u00fcber im Zeitplan zu bleiben. Es d\u00fcrfen Puzzles jeder Marke verwendet werden solange sie den WCA Richtlinien entsprechen. Es sind alle Herzlich willkommen!\r\n\r\nWir freuen uns besonders auf neue Speedcuber aus \u00d6sterreich!\r\n\r\n-----\r\n\r\n#### **English:**\r\n\r\nWe are happy to announce \"Wiener Fr\u00fchling 2023\" as an official WCA Competition. \r\n\r\nThe speedcubing competition is organised by Pranjal Khan, Florian Truckenthanner, David Dinh, D\u00e1niel Varga, Felix Strasser and is delegated by Bence Bar\u00e1t, Emma Beranov\u00e1 and Viktor Kalmar. The results of the competition will be added to the official WCA World Rankings.\r\n\r\nThe competition is open to all competitors regardless of experience and skill, but certain event-based time limits will be in place to make sure we can stay on schedule and get through the day on time. No prior experience in WCA competitions is necessary, but competitors must be familiar with the WCA Regulations. Any puzzle brand may be used during the competition, as long as it complies with the WCA regulations.",
+            "externalWebsite": null
+        },
+        {
+            "id": "ThePeponiHouseTwistTurn2023",
+            "name": "The Peponi House Twist & Turn 2023",
+            "city": "Nairobi",
+            "country": "KE",
+            "date": {
+                "from": "2023-05-13",
+                "till": "2023-05-13",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Rayan Parmar",
+                    "email": "rparmar@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Nikhath Zigmund",
+                    "email": "nikhathakhtar@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Peponi House Preparatory School",
+                "address": "Peponi House Preparatory School, Farasi Lane, Nairobi, Kenya",
+                "details": "Main Hall",
+                "coordinates": {
+                    "latitude": -1.241111,
+                    "longitude": 36.760382
+                }
+            },
+            "information": "Welcome to the third WCA competition in Kenya! \r\nThis competition is specifically created for those who are aged 13 and under. Those who are aged 14 and above can participate... but will not qualify to get a prize on the podium.\r\n\r\nParticipants should bring some form of identification in order to confirm that they are aged 13 and below. A passport, or a copy of your birth cirtificate is a good example since it shows name, age, nationality and so on.  \r\n\r\nYou only need to be present at the venue during the events in which you plan to attend. However, you need to be present at the venue no later than 15 minutes before your first event starts so that you have enough time to complete the registration.",
+            "externalWebsite": null
+        },
+        {
+            "id": "LuandaOpen2023",
+            "name": "Luanda Open 2023",
+            "city": "Luanda",
+            "country": "AO",
+            "date": {
+                "from": "2023-05-07",
+                "till": "2023-05-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cl\u00e1udio Vidal da Silva Morais",
+                    "email": "vidalmorais84@gmail.com"
+                },
+                {
+                    "name": "Marlon de V. Marques",
+                    "email": "mmarques@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Cl\u00e1udio Vidal da Silva Morais",
+                    "email": "vidalmorais84@gmail.com"
+                },
+                {
+                    "name": "Kahilo Pedro Massango",
+                    "email": "kahilo42@gmail.com"
+                },
+                {
+                    "name": "Manuel Ngola Cusseiala",
+                    "email": "ngolakjr@gmail.com"
+                },
+                {
+                    "name": "Marlon de V. Marques",
+                    "email": "mmarques@worldcubeassociation.org"
+                },
+                {
+                    "name": "Roger Nataniel Issassa dos Santos",
+                    "email": "rogerdossantos25@hotmail.com"
+                },
+                {
+                    "name": "Vivaldo Crist\u00f3v\u00e3o Roque",
+                    "email": "2001vivaldo@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Mediateca Z\u00e9 Du - Cazenga",
+                "address": "574M+9CQ, Rua dos Comandos, Cazenga",
+                "details": "Audit\u00f3rio",
+                "coordinates": {
+                    "latitude": -8.844037,
+                    "longitude": 13.283609
+                }
+            },
+            "information": "\ud83c\udde6\ud83c\uddf4 Bem-vindos \u00e0 1\u00aa competi\u00e7\u00e3o oficial da WCA em Angola!\r\n\r\nSua inscri\u00e7\u00e3o s\u00f3 ser\u00e1 aprovada no site da WCA ap\u00f3s a confirma\u00e7\u00e3o do pagamento, que dever\u00e1 ser efetuado de forma antecipada - mais informa\u00e7\u00f5es na aba [Inscrever](https:\/\/www.worldcubeassociation.org\/competitions\/BrasiliaBigsBlind2023\/register). Se tiver dificuldades em se inscrever, veja como fazer [neste v\u00eddeo](https:\/\/www.youtube.com\/watch?v=-cJNjPk_J4M).\r\n\r\nFavor leia o [Regulamento da WCA](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/portuguese-brazilian) antes da competi\u00e7\u00e3o.\r\n\r\n---\r\n\r\n\ud83c\uddfa\ud83c\uddf8 Welcome to the 1st WCA official competition in Angola!\r\n\r\nYour registration will only be approved in the WCA website after payment confirmation, which must be made in advance - more information in the [Register](https:\/\/www.worldcubeassociation.org\/competitions\/BrasiliaBigsBlind2023\/register) tab. If you have any problem with how to register, take a look at [this video](https:\/\/www.youtube.com\/watch?v=-cJNjPk_J4M).\r\n\r\nPlease read the [WCA Regulations](https:\/\/www.worldcubeassociation.org\/regulations) before the competition.",
+            "externalWebsite": null
+        }
+    ]
+}

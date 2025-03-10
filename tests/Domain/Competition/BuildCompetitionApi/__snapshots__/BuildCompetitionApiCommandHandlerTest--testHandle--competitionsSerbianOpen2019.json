@@ -1,0 +1,66 @@
+{
+    "id": "SerbianOpen2019",
+    "name": "Serbian Open 2019",
+    "city": "Belgrade",
+    "country": "RS",
+    "date": {
+        "from": "2019-03-02",
+        "till": "2019-03-03",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "555",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Dominik Vidakovi\u0107",
+            "email": "dvidakovic@worldcubeassociation.org"
+        },
+        {
+            "name": "Mihai C\u0103p\u0103\u0163inescu",
+            "email": "mcapatinescu@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Aleksa Ili\u0107",
+            "email": "ilic.alexa99@gmail.com"
+        },
+        {
+            "name": "Aleksa Radovanovi\u0107",
+            "email": "aradovanovic@worldcubeassociation.org"
+        },
+        {
+            "name": "Dominik Vidakovi\u0107",
+            "email": "dvidakovic@worldcubeassociation.org"
+        },
+        {
+            "name": "Mihai C\u0103p\u0103\u0163inescu",
+            "email": "mcapatinescu@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "[Mathematical Grammar School](https:\/\/www.mg.edu.rs)",
+        "address": "Kraljice Natalije 37, Beograd 11000, Srbija",
+        "details": "Pratite znakove da do\u0111ete do hale. \/ Follow the signs to the venue. ",
+        "coordinates": {
+            "latitude": 44.809148,
+            "longitude": 20.4614
+        }
+    },
+    "information": "Serbian Open 2019 je speedcubing takmi\u010denje. Svako moze da se takmi\u010di, nezavisno od njihove nacionalnosti ili godina, ali moraju biti upoznati sa WCA Regulacijama. Ovo takmi\u010denje je priznato i kao Srpsko Nacionalno Prvenstvo.\r\n\r\n------------------------\r\n\r\nSerbian Open 2019 is a speedcubing competition. Anyone can participate, no matter which nationality or age they are, but they need to be familiar with the WCA Regulations. This competition is also recognized as a Serbian National Championship.",
+    "externalWebsite": null
+}

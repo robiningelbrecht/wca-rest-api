@@ -1,0 +1,78 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "YouOnlyNeeda3x3AZ2023",
+            "name": "You Only Need a 3x3 AZ 2023",
+            "city": "Phoenix, Arizona",
+            "country": "US",
+            "date": {
+                "from": "2023-04-15",
+                "till": "2023-04-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ivan Vanek",
+                    "email": "ivanek@worldcubeassociation.org"
+                },
+                {
+                    "name": "Jake Roberts",
+                    "email": "jroberts@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mason Langenderfer",
+                    "email": "mlangenderfer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Matthew Dickman",
+                    "email": "mdickman@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mia Sponseller",
+                    "email": "msponseller@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Jake Roberts",
+                    "email": "jroberts@worldcubeassociation.org"
+                },
+                {
+                    "name": "Matthew Dickman",
+                    "email": "mdickman@worldcubeassociation.org"
+                },
+                {
+                    "name": "Mia Sponseller",
+                    "email": "msponseller@worldcubeassociation.org"
+                },
+                {
+                    "name": "Shane Grogan",
+                    "email": "shane724a@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[C. O. Greenfield Elementary School](https:\/\/az01901084.schoolwires.net\/greenfield)",
+                "address": "7009 S. 10th St. Phoenix AZ 85042",
+                "details": "Multi Purpose Room",
+                "coordinates": {
+                    "latitude": 33.381738,
+                    "longitude": -112.057511
+                }
+            },
+            "information": "This competition is recognized as an official World Cube Association competition. Therefore, all competitors must be familiar with the [WCA Regulations](https:\/\/www.worldcubeassociation.org\/regulations\/). If you are new to competing, please refer to the [Competitor Responsibilities](https:\/\/www.worldcubeassociation.org\/competitions\/YouOnlyNeeda3x3AZ2023#20697-competitor-responsibilities) tab.\r\n\r\nJoin our [Facebook group](https:\/\/www.facebook.com\/groups\/380588094020424\/) to hear about competitions in Arizona before they're announced and keep in touch with cubers in the area!",
+            "externalWebsite": null
+        }
+    ]
+}

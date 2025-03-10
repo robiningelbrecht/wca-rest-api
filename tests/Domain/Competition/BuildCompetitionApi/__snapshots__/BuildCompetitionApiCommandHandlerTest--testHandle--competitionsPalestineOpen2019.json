@@ -1,0 +1,46 @@
+{
+    "id": "PalestineOpen2019",
+    "name": "Palestine Open 2019",
+    "city": "Al-Beira",
+    "country": "PS",
+    "date": {
+        "from": "2019-07-06",
+        "till": "2019-07-07",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444",
+        "555",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Ilya Tsiareshka",
+            "email": "itsiareshka@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Ahmad Abu Hussein",
+            "email": "amah22222@yahoo.com"
+        }
+    ],
+    "venue": {
+        "name": "Baladeya Al Bireh",
+        "address": "Baladeya Al Bireh, Al-Bireh,00970 Be'Erot, West Bank",
+        "details": "On the first floor far in the back",
+        "coordinates": {
+            "latitude": 31.904212,
+            "longitude": 35.212635
+        }
+    },
+    "information": "",
+    "externalWebsite": null
+}

@@ -1,0 +1,158 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 3
+    },
+    "total": 3,
+    "items": [
+        {
+            "id": "MaltaOpen2019",
+            "name": "Malta Open 2019",
+            "city": "Msida",
+            "country": "MT",
+            "date": {
+                "from": "2019-11-30",
+                "till": "2019-11-30",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "555",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "James Golding",
+                    "email": "jamesgolding1337@gmail.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[The University of Malta](https:\/\/www.um.edu.mt\/)",
+                "address": "Mathematics and Physics Building, University of Malta, Msida MSD 2080, Malta.",
+                "details": "Room MP401",
+                "coordinates": {
+                    "latitude": 35.903086,
+                    "longitude": 14.484349
+                }
+            },
+            "information": "This is the first WCA competition in Malta. It is an open competition for all people from all ages and all countries.\r\nWe hope many people from Malta and other countries will participate.\r\n\r\nThe competition also counts as the national championship for Malta.\r\nSo the best competitors from Malta will be the national champions 2019 of Malta.\r\n\r\nDoors are open from 8:30am.",
+            "externalWebsite": null
+        },
+        {
+            "id": "RamliMallOpen2019",
+            "name": "Ramli Mall Open 2019",
+            "city": "Aali",
+            "country": "BH",
+            "date": {
+                "from": "2019-11-23",
+                "till": "2019-11-23",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ebrahim Jamsheer",
+                    "email": "jamsheerebrahim@hotmail.com"
+                },
+                {
+                    "name": "Matteo Dummar",
+                    "email": "mdummar@worldcubeassociation.org"
+                },
+                {
+                    "name": "Pulkit Mehra",
+                    "email": "pulkitmehra18@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Ramli Mall",
+                "address": "Rd. No. 3025 Aali",
+                "details": "Ramli Mall (Main Stage, Basement)",
+                "coordinates": {
+                    "latitude": 26.16307,
+                    "longitude": 50.523056
+                }
+            },
+            "information": "**\u0639\u0631\u0628\u064a:**\r\n\u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649**\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u062e\u0631\u0649** \u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u062e\u0631\u0649\r\n\r\n**English:**\r\nPlease refer to the **More Info.** tab for more details.",
+            "externalWebsite": null
+        },
+        {
+            "id": "CambodiaCubingChampionship2019",
+            "name": "Cambodia Cubing Championship 2019",
+            "city": "Phnom Penh",
+            "country": "KH",
+            "date": {
+                "from": "2019-11-03",
+                "till": "2019-11-03",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "John Edison Ubaldo (\u1707\u1714\u170c\u1713\ufe00\u1708\u1714 \u1701\u1707\u1712\u1710\u1713\ufe00\u1708\u1714 \u1702\u170a\u170e\u1714\u1707\u1713\ufe00)",
+                    "email": "jubaldo@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Mey Samorn",
+                    "email": "samornreality@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Cambodia-Japan Cooperation Center](http:\/\/www.cjcc.edu.kh\/site\/index.php\/en\/)",
+                "address": "Russian Confederation Blvd., Tuol Kork, Pnom Penh, Cambodia",
+                "details": "Angkor Kizuna Hall",
+                "coordinates": {
+                    "latitude": 11.568929,
+                    "longitude": 104.893694
+                }
+            },
+            "information": "This is the first-ever national cubing championship of Cambodia.\r\nWe also have a Facebook groups for our Cubing Area. [Khmer Top Cuber](https:\/\/www.facebook.com\/groups\/KhmerCuber\/). You can join the group to stay updated with upcoming competitions in the area.",
+            "externalWebsite": null
+        }
+    ]
+}

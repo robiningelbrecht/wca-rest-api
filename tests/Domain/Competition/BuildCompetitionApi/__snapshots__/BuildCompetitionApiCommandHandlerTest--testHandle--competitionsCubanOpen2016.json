@@ -1,0 +1,49 @@
+{
+    "id": "CubanOpen2016",
+    "name": "Cuban Open 2016",
+    "city": "Habana",
+    "country": "CU",
+    "date": {
+        "from": "2016-04-09",
+        "till": "2016-04-09",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Andy Valdes",
+            "email": "andyvaldes1991@gmail.com"
+        },
+        {
+            "name": "Hanneke Rijks",
+            "email": "hannekerijks@hotmail.com"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "Casa Valdes",
+        "address": "Zona 8 Alamar, La Habana",
+        "details": "Edif. D-49 Apto.12",
+        "coordinates": {
+            "latitude": 23.081275,
+            "longitude": -82.302783
+        }
+    },
+    "information": "",
+    "externalWebsite": "http:\/\/speedcubing.com\/events\/CubanOpen2016"
+}

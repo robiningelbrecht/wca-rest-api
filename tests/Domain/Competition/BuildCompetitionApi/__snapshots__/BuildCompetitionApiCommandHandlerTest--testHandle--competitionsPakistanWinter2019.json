@@ -1,0 +1,42 @@
+{
+    "id": "PakistanWinter2019",
+    "name": "Pakistan Winter 2019",
+    "city": "Islamabad",
+    "country": "PK",
+    "date": {
+        "from": "2019-12-21",
+        "till": "2019-12-21",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444",
+        "555"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Abdullah Gulab",
+            "email": "agulab@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Abdullah Gulab",
+            "email": "agulab@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "Air University",
+        "address": "Service Rd E-9 \/ E-8, E-9, Islamabad",
+        "details": "Main Auditorium",
+        "coordinates": {
+            "latitude": 33.7138,
+            "longitude": 73.0247
+        }
+    },
+    "information": "See tabs for more information about the competition.",
+    "externalWebsite": "http:\/\/cubingpakistan.com\/"
+}

@@ -1,0 +1,58 @@
+{
+    "id": "YoRubik20SC2017",
+    "name": "Yo Rubik 2.0 S-C 2017",
+    "city": "Santa Cruz",
+    "country": "BO",
+    "date": {
+        "from": "2017-11-04",
+        "till": "2017-11-05",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333mbf",
+        "333oh",
+        "444",
+        "555",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Cristian Franco Terrazas Flores",
+            "email": "cflores@worldcubeassociation.org"
+        },
+        {
+            "name": "Jorge Miguel Trigo",
+            "email": "jtrigo@worldcubeassociation.org"
+        },
+        {
+            "name": "Rodrigo Ugarte",
+            "email": "rugarte@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Juvenal Nu\u00f1ez",
+            "email": "juvenal_75619441@hotmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Instalaciones Santa Cruz para todos",
+        "address": "Avenida El Trompillo",
+        "details": "Salon",
+        "coordinates": {
+            "latitude": -17.798947,
+            "longitude": -63.170837
+        }
+    },
+    "information": "Competencia limitada a **60 personas**.  \r\n\r\nCompetition limited to **60 competitors**.",
+    "externalWebsite": null
+}

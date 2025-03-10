@@ -1,0 +1,51 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "RodoOpen2020",
+            "name": "Rodo Open 2020",
+            "city": "Peso da R\u00e9gua",
+            "country": "PT",
+            "date": {
+                "from": "2020-03-21",
+                "till": "2020-03-21",
+                "numberOfDays": 1
+            },
+            "isCanceled": true,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "444",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ant\u00f3nio Gomes",
+                    "email": "cubizh@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Didier Batista Ferreira",
+                    "email": "didierbatista@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Escola Profissional de Desenvolvimento Rural do Rodo](https:\/\/www.epregua.pt)",
+                "address": "Quinta do Rodo, Rua de Lousada \u2013 Godim, Peso da R\u00e9gua, 5050-092 Peso da R\u00e9gua",
+                "details": "Cantina",
+                "coordinates": {
+                    "latitude": 41.177216,
+                    "longitude": -7.796323
+                }
+            },
+            "information": "# This competition is cancelled due to the COVID-19 outbreak. \r\n\r\n# Esta competi\u00e7\u00e3o foi cancelada devido ao surto de COVID-19.\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

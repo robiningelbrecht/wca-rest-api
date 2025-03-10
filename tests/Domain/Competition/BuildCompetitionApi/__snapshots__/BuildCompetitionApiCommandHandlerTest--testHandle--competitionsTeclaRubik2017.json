@@ -1,0 +1,48 @@
+{
+    "id": "TeclaRubik2017",
+    "name": "Tecla Rubik 2017",
+    "city": "Santa Tecla",
+    "country": "SV",
+    "date": {
+        "from": "2017-05-06",
+        "till": "2017-05-06",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "555",
+        "pyram"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Joel Hern\u00e1ndez",
+            "email": "jhernandez@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Joel Hern\u00e1ndez",
+            "email": "jhernandez@worldcubeassociation.org"
+        },
+        {
+            "name": "Luis Salvador Batars\u00e9 Soto",
+            "email": "luisbatarse6@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[Palacio Tecle\u00f1o](https:\/\/www.facebook.com\/palaciosantatecla)",
+        "address": "2da avenida Nte y Paseo Concepci\u00f3n,  No. 2-1 Santa Tecla, El Salvador",
+        "details": "Plaza Central",
+        "coordinates": {
+            "latitude": 13.675693,
+            "longitude": -89.289391
+        }
+    },
+    "information": "El costo de la inscripci\u00f3n es de $5.00 en Pre-Inscripcion y $6 el dia del evento. (Incluye participaci\u00f3n en todas las categor\u00edas). \r\nEl Registro debera hacerse en esta pagina, se tomaran datos de competidor el dia del evento pero esto agregara $1 al costo de inscripcion. \r\n-Se podra pagar previamente en la cuenta detallada en la Pesta\u00f1a de \"Informacion de Pago\" con un costo de $5. \r\n-El dia del evento la inscripcion tendra un costo de $6.",
+    "externalWebsite": null
+}

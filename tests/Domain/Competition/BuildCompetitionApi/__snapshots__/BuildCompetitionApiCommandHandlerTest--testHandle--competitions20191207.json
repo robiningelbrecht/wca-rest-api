@@ -1,0 +1,103 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "FMCAsia2019",
+            "name": "FMC Asia 2019",
+            "city": "Multiple cities (see website)",
+            "country": "XA",
+            "date": {
+                "from": "2019-12-07",
+                "till": "2019-12-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "333fm"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Akash Rupela",
+                    "email": "arupela@worldcubeassociation.org"
+                },
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+                    "email": "bdong@worldcubeassociation.org"
+                },
+                {
+                    "name": "Baocheng Wu (\u5434\u5b9d\u57ce)",
+                    "email": "bwu@worldcubeassociation.org"
+                },
+                {
+                    "name": "Chia-Leo Lin (\u6797\u73c8\u6a02)",
+                    "email": "clin@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ilkyoo Choi (\ucd5c\uc77c\uaddc)",
+                    "email": "ichoi@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ming Zheng (\u90d1\u9e23)",
+                    "email": "mzheng@worldcubeassociation.org"
+                },
+                {
+                    "name": "Myagmardorj Ulziijargal (\u04e8\u043b\u0437\u0438\u0439\u0436\u0430\u0440\u0433\u0430\u043b \u041c\u044f\u0433\u043c\u0430\u0440\u0434\u043e\u0440\u0436)",
+                    "email": "mulziijargal@worldcubeassociation.org"
+                },
+                {
+                    "name": "Shuhei Omura (\u5927\u6751\u5468\u5e73)",
+                    "email": "somura@worldcubeassociation.org"
+                },
+                {
+                    "name": "Somya Srivastava",
+                    "email": "ssrivastava@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tanai Chaikraveephand (\u0e18\u0e19\u0e31\u0e22 \u0e0a\u0e31\u0e22\u0e01\u0e23\u0e30\u0e27\u0e35\u0e1e\u0e31\u0e19\u0e18\u0e4c)",
+                    "email": "tchaikraveephand@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ujjawal Pabreja",
+                    "email": "upabreja@worldcubeassociation.org"
+                },
+                {
+                    "name": "Wilson Alvis (\u9648\u667a\u80dc)",
+                    "email": "walvis@worldcubeassociation.org"
+                },
+                {
+                    "name": "Xiaobo Jin (\u91d1\u6653\u6ce2)",
+                    "email": "xjin@worldcubeassociation.org"
+                },
+                {
+                    "name": "Zhou Yichen (\u5468\u5955\u81e3)",
+                    "email": "yzhou@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+                    "email": "bdong@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Multiple venues",
+                "address": "See locations",
+                "details": "See [locations](https:\/\/www.worldcubeassociation.org\/competitions\/FMCAsia2019#12753-locations)",
+                "coordinates": {
+                    "latitude": 39.900549,
+                    "longitude": 116.416645
+                }
+            },
+            "information": "**YOU MUST INCLUDE THE LOCATION YOU ARE ATTENDING IN YOUR REGISTRATION COMMENT.**\r\n\r\nThe competition will be held in multiple locations, Asia. Please pay attention to the **date and time zone** of your location!\r\n\r\nLocations may be added until the 9th of November 23:59 UTC so if there isn't a location near you yet contact your local [Delegate](https:\/\/www.worldcubeassociation.org\/delegates) in Asia.",
+            "externalWebsite": null
+        }
+    ]
+}

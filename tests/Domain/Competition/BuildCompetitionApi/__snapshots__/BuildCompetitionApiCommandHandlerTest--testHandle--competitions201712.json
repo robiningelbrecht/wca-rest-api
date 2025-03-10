@@ -1,0 +1,103 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 2
+    },
+    "total": 2,
+    "items": [
+        {
+            "id": "TunisiaWinterOpenDay2017",
+            "name": "Tunisia Winter Open Day 2017",
+            "city": "Sousse",
+            "country": "TN",
+            "date": {
+                "from": "2017-12-20",
+                "till": "2017-12-20",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mohamed Ali Bizid",
+                    "email": "mbizid@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Raouf Thabet",
+                    "email": "raoufh.thabet@laposte.net"
+                }
+            ],
+            "venue": {
+                "name": "Hotel Marhaba Palace Sousse",
+                "address": "BP N120\u060c Hammam Sousse 4089, Tunisie",
+                "details": "Look for the conference room inside the hotel",
+                "coordinates": {
+                    "latitude": 35.89654,
+                    "longitude": 10.593775
+                }
+            },
+            "information": "Tunisia Winter Open 2017 is open for participants from all countries, everyone is welcome.\r\nCompetition fee is 20DT per participant\r\nMedals and Gifts will be awarded to the winners in each category.\r\nIt should be known that only competitors who do check-in into the hotel can benefit from the lunch.",
+            "externalWebsite": null
+        },
+        {
+            "id": "WellspringOpen2017",
+            "name": "Wellspring Open 2017",
+            "city": "Ras Al Khaimah",
+            "country": "AE",
+            "date": {
+                "from": "2017-12-02",
+                "till": "2017-12-02",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Lester Santos",
+                    "email": "lsantos@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Lester Santos",
+                    "email": "lsantos@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Ras Al Khaimah Academy",
+                "address": "34B St - Ras al Khaimah, United Arab Emirates",
+                "details": "Auditorium, Ras Al Khaimah Academy",
+                "coordinates": {
+                    "latitude": 25.770243,
+                    "longitude": 55.931557
+                }
+            },
+            "information": "REMINDER:\r\nFOR COUNTRY SELECTION, FOR UAE VISA RESIDENCE, KINDLY USE HOME COUNTRY AS YOUR\r\nCOUNTRY. DON'T USE OR REGISTER UNDER UNITED ARAB EMIRATES IF YOU ARE FROM OTHER\r\nCOUNTRIES, REGISTER THE COUNTRY MENTIONED IN YOUR PASSPORT. ONLY UAE LOCALS\r\nWILL BE ALLOWED TO USE THE UAE AS THEIR COUNTRY.\r\nE.g. If you're from INDIA please do not select UNITED ARAB EMIRATES",
+            "externalWebsite": null
+        }
+    ]
+}

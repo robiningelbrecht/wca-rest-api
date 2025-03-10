@@ -1,0 +1,66 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "RamliMallOpen2019",
+            "name": "Ramli Mall Open 2019",
+            "city": "Aali",
+            "country": "BH",
+            "date": {
+                "from": "2019-11-23",
+                "till": "2019-11-23",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Aysha Jamsheer",
+                    "email": "ajamsheer@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ebrahim Jamsheer",
+                    "email": "jamsheerebrahim@hotmail.com"
+                },
+                {
+                    "name": "Matteo Dummar",
+                    "email": "mdummar@worldcubeassociation.org"
+                },
+                {
+                    "name": "Pulkit Mehra",
+                    "email": "pulkitmehra18@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Ramli Mall",
+                "address": "Rd. No. 3025 Aali",
+                "details": "Ramli Mall (Main Stage, Basement)",
+                "coordinates": {
+                    "latitude": 26.16307,
+                    "longitude": 50.523056
+                }
+            },
+            "information": "**\u0639\u0631\u0628\u064a:**\r\n\u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649**\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u062e\u0631\u0649** \u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u062e\u0631\u0649\r\n\r\n**English:**\r\nPlease refer to the **More Info.** tab for more details.",
+            "externalWebsite": null
+        }
+    ]
+}

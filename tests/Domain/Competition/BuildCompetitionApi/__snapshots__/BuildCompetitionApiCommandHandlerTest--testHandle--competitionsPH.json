@@ -1,0 +1,72 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WestVisayasChampionship2023",
+            "name": "West Visayas Championship 2023",
+            "city": "Bacolod City, Negros Occidental",
+            "country": "PH",
+            "date": {
+                "from": "2023-05-27",
+                "till": "2023-05-28",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Kirby Jay Caragan",
+                    "email": "kcaragan@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ace Djun T. Aguirre Jr.",
+                    "email": "centrum1975@yahoo.com"
+                },
+                {
+                    "name": "Bea Alexandra Marie Flores",
+                    "email": "beaalexandramarie@gmail.com"
+                },
+                {
+                    "name": "Daniel Hussain Mohammadi",
+                    "email": "grazemohammadi@gmail.com"
+                },
+                {
+                    "name": "Savion Matula",
+                    "email": "savion37matula@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[SM City Bacolod](https:\/\/www.google.com\/maps\/place\/SM+City+Bacolod+Northwing\/@10.6722984,122.9420563,777m\/data=!3m2!1e3!4b1!4m5!3m4!1s0x33aed04d351d1a59:0x9e05cac55ef55144!8m2!3d10.6722931!4d122.944245)",
+                "address": "Rizal St, Reclamation Area, Bacolod City ",
+                "details": "3rd Floor, North Wing",
+                "coordinates": {
+                    "latitude": 10.670139,
+                    "longitude": 122.943856
+                }
+            },
+            "information": "#### The biggest WCA sanctioned competition in Western Visayas is here!\r\n\r\n\r\nAll necessary information about the competition can be found in the following tabs above.\r\n\r\nCompetitor or guardian must agree that NSOC, PCA, and WCA shall not be liable for any personal injury, property damage, heartbreak, or loss resulting from your participation of this event.\r\n\r\nPlease be familiar with the **[WCA rules and regulations](https:\/\/www.worldcubeassociation.org\/regulations\/)** before participating in this event.\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

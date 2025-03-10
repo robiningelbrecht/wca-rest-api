@@ -1,0 +1,56 @@
+{
+    "id": "AlbanianOpen2022",
+    "name": "Albanian Open 2022",
+    "city": "Tirana",
+    "country": "AL",
+    "date": {
+        "from": "2022-06-25",
+        "till": "2022-06-25",
+        "numberOfDays": 1
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "444",
+        "555",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Aleksandar Arsovski",
+            "email": "aarsovski@worldcubeassociation.org"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        },
+        {
+            "name": "Samuel Mema",
+            "email": "samuelmema33@gmail.com"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        },
+        {
+            "name": "Samuel Mema",
+            "email": "samuelmema33@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[POLIS University](http:\/\/www.universitetipolis.edu.al\/)",
+        "address": "Rruga Bylis 12, Autostrada Tiran\u00eb-Durr\u00ebs, Km 5, Kashar, SH2, Tiran\u00eb 1051",
+        "details": "Room C1",
+        "coordinates": {
+            "latitude": 41.352688,
+            "longitude": 19.75051
+        }
+    },
+    "information": "Third WCA competition in Albania.\r\n\r\nAdditional [Covid safety measures](https:\/\/www.worldcubeassociation.org\/competitions\/AlbanianOpen2022#-safety-protocol) will be applicable.\r\n",
+    "externalWebsite": null
+}

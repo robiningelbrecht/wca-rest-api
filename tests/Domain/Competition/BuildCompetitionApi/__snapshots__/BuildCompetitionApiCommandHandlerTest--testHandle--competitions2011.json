@@ -1,0 +1,69 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WC2011",
+            "name": "World Rubik's Cube Championship 2011",
+            "city": "Bangkok",
+            "country": "TH",
+            "date": {
+                "from": "2011-10-14",
+                "till": "2011-10-16",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chatchawan Jaruwattanakun (\u0e0a\u0e31\u0e0a\u0e27\u0e32\u0e25\u0e22\u0e4c \u0e08\u0e32\u0e23\u0e38\u0e27\u0e31\u0e12\u0e19\u0e01\u0e38\u0e25)",
+                    "email": "cjaruwattanakun@worldcubeassociation.org"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Baiyoke Sky hotel](http:\/\/baiyokesky.baiyokehotel.com\/)",
+                "address": "222 Rajprarop Rd, Rajthevee, Bangkok 10400, Thailand",
+                "details": "",
+                "coordinates": {
+                    "latitude": 13.723418,
+                    "longitude": 100.476231
+                }
+            },
+            "information": "",
+            "externalWebsite": "http:\/\/www.thailandcube.com\/wc2011"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "YouBetterBelizeIt2023",
+    "name": "You Better Belize It 2023",
+    "city": "Punta Gorda, BZE",
+    "country": "BZ",
+    "date": {
+        "from": "2023-03-18",
+        "till": "2023-03-19",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444",
+        "555",
+        "minx",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Anthony Brooks",
+            "email": "abrooks@worldcubeassociation.org"
+        },
+        {
+            "name": "Marvin Solano",
+            "email": "msolano@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Kristin Wiley",
+            "email": "cubedcommunities@gmail.com"
+        },
+        {
+            "name": "Pablo Say",
+            "email": "rubiksxela@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[TCC Toledo Community College Auditorium](https:\/\/tcc.edu.bz\/)",
+        "address": "TCC (Toledo Community College Auditorium - 454V+3CM, Punta Gorda, BZE",
+        "details": "Auditorium",
+        "coordinates": {
+            "latitude": 16.105212,
+            "longitude": -88.806453
+        }
+    },
+    "information": "**English**\r\n\r\nThis competition is recognized as an official World Cube Association competition. This is the first competition in Belize.\r\nThe competition is open to all competitors of all nationalities. Registration is available on the WCA website. No experience in WCA competitions is necessary, but competitors should be familiar with the WCA [Regulations](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\nThe competition is free to spectators and guests.\r\n\r\n**Spanish**\r\n\r\nEsta competencia es reconocida como una competencia official de la World Cube Association. Esta es la primera competencia oficial en Belice.\r\nLa competencia es abierta a competidores de cualquier nacionalidad, El registro esta habilitado desde la p\u00e1gina oficial de la WCA. No es necesario tener experiencia, pero los competidores deben estar conocer los [Reglamentos](https:\/\/www.worldcubeassociation.org\/regulations\/)\r\nEl acceso a invitados y espectadores ser\u00e1 gratuita.\r\n",
+    "externalWebsite": null
+}

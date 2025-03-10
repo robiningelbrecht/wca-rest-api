@@ -1,0 +1,51 @@
+{
+    "id": "MontenegroOpen2019",
+    "name": "Montenegro Open 2019",
+    "city": "Podgorica",
+    "country": "ME",
+    "date": {
+        "from": "2019-02-09",
+        "till": "2019-02-10",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "555",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Tobias Peter",
+            "email": "tobias.peter@bluewin.ch"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "David Pantovi\u0107",
+            "email": "davidpantovic24@gmail.com"
+        },
+        {
+            "name": "Reto Bubendorf",
+            "email": "retobubendorf@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "University of Montenegro",
+        "address": "Bulevar D\u017eord\u017ea Va\u0161ingtona, Podgorica",
+        "details": "on the second floor, follow the signs",
+        "coordinates": {
+            "latitude": 42.443069,
+            "longitude": 19.240667
+        }
+    },
+    "information": "For more information check out the tabs!\r\nZa vi\u0161e informacija pogledajte tabove!",
+    "externalWebsite": null
+}

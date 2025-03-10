@@ -1,0 +1,54 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "VIDCubing2023",
+            "name": "VID Cubing 2023",
+            "city": "Hatillo 3, San Jose",
+            "country": "CR",
+            "date": {
+                "from": "2023-04-29",
+                "till": "2023-04-29",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Marvin Solano",
+                    "email": "msolano@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Norman L\u00f3pez Delgado",
+                    "email": "norman.lopez.delgado@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[VID](https:\/\/www.instagram.com\/vid_ibecr\/)",
+                "address": "Hatillo 3, contiguo al Liceo Edgar Cervantes",
+                "details": "Sal\u00f3n Principal",
+                "coordinates": {
+                    "latitude": 9.917322,
+                    "longitude": -84.100223
+                }
+            },
+            "information": "**VID Cubing 2023** \r\n\r\nEs la segunda competencia del nuevo a\u00f1o 2023.\r\n\r\nEsta competencia es reconocida como una competencia official de la World Cube Association.\r\nLa competencia es abierta a competidores de cualquier nacionalidad, el registro esta habilitado desde la p\u00e1gina oficial de la WCA. No es necesario tener experiencia, pero los competidores deben estar conocer los Reglamentos\r\nEl acceso a invitados y espectadores ser\u00e1 gratuita.\r\n_____\r\n**English version**\r\n\r\n**VID Cubing 2023**\r\n\r\nIs a second competition of the new year 2023. \r\n\r\nThis competition is recognized as an official World Cube Association competition.\r\nThe competition is open to all competitors of all nationalities. Registration is available on the WCA website. No experience in WCA competitions is necessary, but competitors should be familiar with the WCA Regulations\r\nThe competition is free to spectators and guests.\r\n\r\n",
+            "externalWebsite": null
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+name: CI
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  test-suite:
+    name: PHPStan, PHPcs & Testsuite
+    runs-on: ubuntu-latest
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_DATABASE: wca
+          MYSQL_ROOT_PASSWORD: root
+        ports:
+          - 3306:3306
+
+    steps:
+      # https://github.com/marketplace/actions/setup-php-action
+      - name: Setup PHP 8.2 with Xdebug 3.x
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          coverage: xdebug
+          extensions: intl
+
+      # https://github.com/marketplace/actions/checkout
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          sparse-checkout: |
+            bin
+            config
+            public
+            src
+            tests
+            .env.github-actions
+            .php-cs-fixer.dist.php
+            composer.json
+            composer.lock
+            phpstan.neon
+            phpstan-baseline.neon
+            phpunit.xml.dist
+
+      - name: Copy .env file
+        run: cp .env.github-actions .env && cp .env.github-actions .env.test
+
+      - name: Wait for services to boot
+        run: sleep 10
+
+      - name: Install dependencies
+        run: composer install --prefer-dist
+
+      - name: Run PHPStan
+        run: vendor/bin/phpstan analyse
+
+      - name: Run PHPcs fixer dry-run
+        run: vendor/bin/php-cs-fixer fix --dry-run --stop-on-violation --config=.php-cs-fixer.dist.php
+
+      - name: Run test suite
+        run: vendor/bin/phpunit --fail-on-incomplete --log-junit junit.xml --coverage-clover clover.xml

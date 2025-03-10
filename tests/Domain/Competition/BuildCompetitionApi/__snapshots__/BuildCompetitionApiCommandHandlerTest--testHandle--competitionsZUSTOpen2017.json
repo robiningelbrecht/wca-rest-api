@@ -1,0 +1,50 @@
+{
+    "id": "ZUSTOpen2017",
+    "name": "ZUST Open 2017",
+    "city": "Hangzhou, Zhejiang",
+    "country": "CN",
+    "date": {
+        "from": "2017-06-10",
+        "till": "2017-06-11",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333fm",
+        "333mbf",
+        "333oh",
+        "444",
+        "444bf",
+        "555",
+        "555bf",
+        "clock",
+        "minx",
+        "pyram"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Baiqiang Dong (\u8463\u767e\u5f3a)",
+            "email": "bdong@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Junjie Fu (\u5085\u4fca\u6770)",
+            "email": "864283256@qq.com"
+        }
+    ],
+    "venue": {
+        "name": "[Zhejiang University of Science and Technology](http:\/\/www.zust.edu.cn\/)",
+        "address": "Liuhe Road, Xihu District",
+        "details": "A4-122",
+        "coordinates": {
+            "latitude": 30.219464,
+            "longitude": 120.02733
+        }
+    },
+    "information": "The number limit of competitors is 160.\r\nThe registration will be opened at 19:00 15th Apr.\r\nPlease check the competition website for more information (events, schedule, etc).",
+    "externalWebsite": "https:\/\/cubingchina.com\/competition\/ZUST-Open-2017"
+}

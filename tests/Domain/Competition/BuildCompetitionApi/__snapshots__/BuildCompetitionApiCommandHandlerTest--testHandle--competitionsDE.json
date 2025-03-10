@@ -1,0 +1,68 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WC2009",
+            "name": "World Rubik's Cube Championship 2009",
+            "city": "D\u00fcsseldorf",
+            "country": "DE",
+            "date": {
+                "from": "2009-10-09",
+                "till": "2009-10-11",
+                "numberOfDays": 3
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333mbf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "555bf",
+                "666",
+                "777",
+                "clock",
+                "magic",
+                "minx",
+                "mmagic",
+                "pyram",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Masayuki Akimoto (\u79cb\u5143\u6b63\u884c)",
+                    "email": "masayuki@akimoto3.com"
+                },
+                {
+                    "name": "Ron van Bruchem",
+                    "email": "rbruchem@worldcubeassociation.org"
+                },
+                {
+                    "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+                    "email": "tyson.mao@gmail.com"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[Burg-W\u00e4chter Castello](http:\/\/www.burg-waechter-castello.de)",
+                "address": "Karl-Hohmann-Stra\u00dfe 1, D\u00fcsseldorf",
+                "details": "",
+                "coordinates": {
+                    "latitude": 51.174745,
+                    "longitude": 6.864554
+                }
+            },
+            "information": "5th World Rubik's Cube Championship",
+            "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2009"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "YuraSpeedcubers2017",
+            "name": "Yura Speedcubers 2017",
+            "city": "Arequipa",
+            "country": "PE",
+            "date": {
+                "from": "2017-01-14",
+                "till": "2017-01-14",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Nat\u00e1n Riggenbach",
+                    "email": "nriggenbach@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Yenny Huanqque Ccapa",
+                    "email": "yennyhuanqqueccapa@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Municipalidad Distrital de Yura - Auditorio (Cuarto Piso)",
+                "address": "Asoc. Ciudad de Dios Zn. 3 Sector B Centro C\u00edvico ",
+                "details": "Km. 15.5 Pasando Colegio Intervida carretera Arequipa-Yura",
+                "coordinates": {
+                    "latitude": -16.302236,
+                    "longitude": -71.623866
+                }
+            },
+            "information": "El costo de inscripci\u00f3n es de S\/ 7.00 Soles de base y S\/ 2.00 por evento, y se pagar\u00e1 durante el registro del torneo; incluir\u00e1 Kit de participante (Polo, Certificado de Participante, Refrigerio). Habr\u00e1 premios para los primeros puestos, medallas y pases para el Hotel Tur\u00edstico de Yura.",
+            "externalWebsite": null
+        }
+    ]
+}

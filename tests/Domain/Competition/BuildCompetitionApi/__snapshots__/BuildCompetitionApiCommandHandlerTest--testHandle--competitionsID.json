@@ -1,0 +1,54 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "YongjunJakartaSpeedcubing2019",
+            "name": "Yongjun Jakarta Speedcubing 2019",
+            "city": "Jakarta",
+            "country": "ID",
+            "date": {
+                "from": "2019-09-14",
+                "till": "2019-09-15",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cendy Cahyo Rahmat",
+                    "email": "crahmat@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Yusuf Abdul Qohhar",
+                    "email": "abdulqohharyusuf@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Green Pramuka Square](http:\/\/www.greenpramukasquare.com\/)",
+                "address": "Jl. Rw. Jaya No.49, RT.16\/RW.9, Rawasari, Kec. Cemp. Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 13120",
+                "details": "Main Atrium",
+                "coordinates": {
+                    "latitude": -6.188854,
+                    "longitude": 106.873852
+                }
+            },
+            "information": "An official World Cube Association competition initiated by the [Nusantara Speedcubing Association](http:\/\/www.nsa.or.id\/) and Jakarta Speedcubing Community in collaboration with [Green Pramuka Square](https:\/\/www.instagram.com\/greenpramukasquarejakarta\/) and [YJ](https:\/\/www.facebook.com\/Yongjuncube\/) to accommodate people who love the cube.",
+            "externalWebsite": null
+        }
+    ]
+}

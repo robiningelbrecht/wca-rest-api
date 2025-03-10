@@ -1,0 +1,92 @@
+{
+    "id": "WC2017",
+    "name": "World Rubik's Cube Championship 2017",
+    "city": "Paris",
+    "country": "FR",
+    "date": {
+        "from": "2017-07-13",
+        "till": "2017-07-16",
+        "numberOfDays": 4
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333fm",
+        "333ft",
+        "333mbf",
+        "333oh",
+        "444",
+        "444bf",
+        "555",
+        "555bf",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Hippolyte Moreau",
+            "email": "hmoreau@worldcubeassociation.org"
+        },
+        {
+            "name": "Jean-Louis Mathieu",
+            "email": "rubikfr88@gmail.com"
+        },
+        {
+            "name": "Philippe Lucien",
+            "email": "plucien@worldcubeassociation.org"
+        },
+        {
+            "name": "Philippe Virouleau",
+            "email": "pvirouleau@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Antoine Piau",
+            "email": "apiau@worldcubeassociation.org"
+        },
+        {
+            "name": "Hippolyte Moreau",
+            "email": "hmoreau@worldcubeassociation.org"
+        },
+        {
+            "name": "Jean-Louis Mathieu",
+            "email": "rubikfr88@gmail.com"
+        },
+        {
+            "name": "Lina Tissier",
+            "email": "ltissier@worldcubeassociation.org"
+        },
+        {
+            "name": "Philippe Lucien",
+            "email": "plucien@worldcubeassociation.org"
+        },
+        {
+            "name": "Philippe Virouleau",
+            "email": "pvirouleau@worldcubeassociation.org"
+        },
+        {
+            "name": "Sylviane Mathieu",
+            "email": "layanne88@yahoo.fr"
+        }
+    ],
+    "venue": {
+        "name": "[Les Docks de Paris - Dock Pullman](https:\/\/www.eurosites.fr\/location-salle\/eurosites-dock-paris)",
+        "address": "Les Docks De Paris, 50 avenue du Pr\u00e9sident Wilson - 93200 La Plaine Saint-Denis France",
+        "details": "Salle Pullman",
+        "coordinates": {
+            "latitude": 48.903322,
+            "longitude": 2.36544
+        }
+    },
+    "information": "Please check out the website to find out about competition's details.",
+    "externalWebsite": "http:\/\/www.rubiksworldparis2017.com",
+    "region": "world"
+}

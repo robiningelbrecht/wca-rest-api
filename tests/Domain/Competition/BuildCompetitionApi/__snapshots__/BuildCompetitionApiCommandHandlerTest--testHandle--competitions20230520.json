@@ -1,0 +1,79 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WienerFruhling2023",
+            "name": "Wiener Fr\u00fchling 2023",
+            "city": "Vienna",
+            "country": "AT",
+            "date": {
+                "from": "2023-05-20",
+                "till": "2023-05-21",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "555",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Bence Bar\u00e1t",
+                    "email": "bbarat@worldcubeassociation.org"
+                },
+                {
+                    "name": "Emma Beranov\u00e1",
+                    "email": "eberanova@worldcubeassociation.org"
+                },
+                {
+                    "name": "Viktor Kalmar",
+                    "email": "viktorcube@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "D\u00e1niel Varga",
+                    "email": "daniel.varga@icloud.com"
+                },
+                {
+                    "name": "David Dinh",
+                    "email": "dinhdhdavid@gmail.com"
+                },
+                {
+                    "name": "Felix Strasser",
+                    "email": "felix.strasser@hotmail.com"
+                },
+                {
+                    "name": "Florian Truckenthanner",
+                    "email": "vossytv@gmail.com"
+                },
+                {
+                    "name": "Pranjal Khan",
+                    "email": "pranjal.khan@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Gro\u00dfer Saal - Pfarre Akkonplatz](https:\/\/www.akkonplatz.at\/index.php\/de\/raeume-nutzen\/grossersaal)",
+                "address": "Oeverseestra\u00dfe 2c, 1150 Wien, Austria",
+                "details": "Folgen Sie den Schildern, um den Veranstaltungsort zu betreten. \/ Follow the signs to enter the venue.",
+                "coordinates": {
+                    "latitude": 48.202129,
+                    "longitude": 16.316067
+                }
+            },
+            "information": "##### *English version is below*\r\n\r\n#### **Deutsch:**\r\n\r\nWir freuen uns sehr euch \"Wiener Fr\u00fchling 2023\" als ein offizielles WCA Turnier ank\u00fcndigen zu k\u00f6nnen. \r\n\r\nDie Speedcubing Competition wird organisiert von Pranjal Khan, Florian Truckenthanner, David Dinh, D\u00e1niel Varga und Felix Strasser und wird delegiert von Bence Bar\u00e1t, Emma Beranov\u00e1 und Viktor Kalmar. Erneut findet das Turnier im gro\u00dfen Saal der Akkonplatz Pfarre statt. Die Resultate dieser Competition werden zu den offiziellen WCA World Rankings hinzugef\u00fcgt.\r\n\r\nJeder ist bei diesem Turnier gerne willkommen, unabh\u00e4ngig von der Erfahrung, Alter oder sonstigen F\u00e4higkeiten. Manche Events haben ein spezifisches Zeitlimit, damit wir sicherstellen k\u00f6nnen den ganzen Tag \u00fcber im Zeitplan zu bleiben. Es d\u00fcrfen Puzzles jeder Marke verwendet werden solange sie den WCA Richtlinien entsprechen. Es sind alle Herzlich willkommen!\r\n\r\nWir freuen uns besonders auf neue Speedcuber aus \u00d6sterreich!\r\n\r\n-----\r\n\r\n#### **English:**\r\n\r\nWe are happy to announce \"Wiener Fr\u00fchling 2023\" as an official WCA Competition. \r\n\r\nThe speedcubing competition is organised by Pranjal Khan, Florian Truckenthanner, David Dinh, D\u00e1niel Varga, Felix Strasser and is delegated by Bence Bar\u00e1t, Emma Beranov\u00e1 and Viktor Kalmar. The results of the competition will be added to the official WCA World Rankings.\r\n\r\nThe competition is open to all competitors regardless of experience and skill, but certain event-based time limits will be in place to make sure we can stay on schedule and get through the day on time. No prior experience in WCA competitions is necessary, but competitors must be familiar with the WCA Regulations. Any puzzle brand may be used during the competition, as long as it complies with the WCA regulations.",
+            "externalWebsite": null
+        }
+    ]
+}

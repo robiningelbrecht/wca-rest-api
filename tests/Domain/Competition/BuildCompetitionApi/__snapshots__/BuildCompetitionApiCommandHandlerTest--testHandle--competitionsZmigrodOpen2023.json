@@ -1,0 +1,54 @@
+{
+    "id": "ZmigrodOpen2023",
+    "name": "\u017bmigr\u00f3d Open 2023",
+    "city": "\u017bmigr\u00f3d",
+    "country": "PL",
+    "date": {
+        "from": "2023-06-03",
+        "till": "2023-06-04",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333oh",
+        "444",
+        "555",
+        "666",
+        "777",
+        "pyram",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Jakub Hamka\u0142o",
+            "email": "jhamkalo@worldcubeassociation.org"
+        },
+        {
+            "name": "Karol Zakrzewski",
+            "email": "kzakrzewski@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Karol Zakrzewski",
+            "email": "kzakrzewski@worldcubeassociation.org"
+        },
+        {
+            "name": "Roksana Porucznik",
+            "email": "alex620362@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "[Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego w \u017bmigrodzie](https:\/\/spzmigrod.superszkolna.pl\/)",
+        "address": "Sienkiewicza 6, 55-140 \u017bmigr\u00f3d",
+        "details": "Sports hall",
+        "coordinates": {
+            "latitude": 51.46725,
+            "longitude": 16.902428
+        }
+    },
+    "information": "Zapraszamy na pierwsze zawody WCA w \u017bmigrodzie! \r\nWydarzenie odb\u0119dzie si\u0119 pod honorowym patronatem Burmistrza gminy \u017bmigr\u00f3d - Roberta Lewandowskiego!\r\n\r\n----\r\nWe invite you to the first WCA competition in \u017bmigr\u00f3d!\r\nThe competitions will be held under the honorary patronage of the Mayor of the \u017bmigr\u00f3d city - Robert Lewandowski!\r\n\r\n![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1kxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--992cfb3a1c02ac70d6ab3df6cffe3a0c87912c63\/zmigrod_mainpage.png)",
+    "externalWebsite": null
+}

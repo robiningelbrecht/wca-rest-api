@@ -1,0 +1,108 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 2
+    },
+    "total": 2,
+    "items": [
+        {
+            "id": "UTNIbarraOpen2023",
+            "name": "UTN Ibarra Open 2023",
+            "city": "Ibarra",
+            "country": "EC",
+            "date": {
+                "from": "2023-07-15",
+                "till": "2023-07-15",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Jorge Contento",
+                    "email": "jcontento@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Luis Fernando Ald\u00e1s Cuestas",
+                    "email": "ferchoaldas@hotmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Universidad T\u00e9cnica del Norte.",
+                "address": "Av. 17 de Julio 5-21 y Gral. Jos\u00e9 Mar\u00eda C\u00f3rdova - Sector El Olivo",
+                "details": "Polideportivo de Universidad.",
+                "coordinates": {
+                    "latitude": 0.358563,
+                    "longitude": -78.112524
+                }
+            },
+            "information": "Informaci\u00f3n detallada en las dem\u00e1s pesta\u00f1as.\r\n\r\nPlease check the tabs for detailed information.",
+            "externalWebsite": null
+        },
+        {
+            "id": "VoulaSummerOpen2023",
+            "name": "Voula Summer Open 2023",
+            "city": "Voula - Athens",
+            "country": "GR",
+            "date": {
+                "from": "2023-07-15",
+                "till": "2023-07-16",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333fm",
+                "333oh",
+                "444",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Ioannis Papadopoulos",
+                    "email": "ipapadopoulos@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kostas Papadopoulos",
+                    "email": "kwpaptypetomaniac97@gmail.com"
+                },
+                {
+                    "name": "Michael Eleftheriades",
+                    "email": "eleftheriadesm@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Christos Dimizas",
+                    "email": "cdimizas@otenet.gr"
+                }
+            ],
+            "venue": {
+                "name": "\"\u0399\u03c9\u03bd\u03af\u03b1\" \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \/ \"Ionia\" Caltural Center",
+                "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c5 \u039a\u03b1\u03c1\u03b1\u03bc\u03b1\u03bd\u03bb\u03ae 113, \u0392\u03bf\u03cd\u03bb\u03b1 166 73",
+                "details": "Culture Centre",
+                "coordinates": {
+                    "latitude": 37.836297,
+                    "longitude": 23.766522
+                }
+            },
+            "information": "![](https:\/\/www.worldcubeassociation.org\/rails\/active_storage\/blobs\/redirect\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUUvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--25a11a161841639a3cff2ecfb046c27deb82697e\/Cubestore_VSO23_post.jpg)\r\n\r\n\u03a4\u03bf Voula Summer Open 2023 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf 3o\u03c2 WCA \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf 2023. \u0395\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c0\u03b5\u03c1\u03ae\u03c6\u03b1\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03bc\u03b1\u03c2 \u03c6\u03ad\u03c4\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03bf\u03c5\u03bc\u03b5 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03ba\u03ac. \u03a3\u03c4\u03b7 \u03c3\u03b5\u03b9\u03c1\u03ac \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03ce\u03bd \"Road to Greek Nationals\" \u03b5\u03c3\u03c4\u03b9\u03ac\u03b6\u03bf\u03c5\u03bc\u03b5 \u03c3\u03b5 \u03ba\u03ac\u03b8\u03b5 \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03c3\u03b5 2 events \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c0\u03bf\u03bb\u03cd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ac \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \u03a3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03b8\u03ad\u03bb\u03bf\u03c5\u03bc\u03b5 \u03bd\u03b1 \u03c6\u03ad\u03c1\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03bf \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03cc \u03ba\u03bf\u03b9\u03bd\u03cc \u03c4\u03b1 \u03b1\u03b3\u03c9\u03bd\u03af\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 One Handed\/\u039b\u03cd\u03c3\u03b7 \u03bc\u03b5 \u03ad\u03bd\u03b1 \u03c7\u03ad\u03c1\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 Fewest Move Challenge (FMC)\/\u0394\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03af\u03b1 \u03bb\u03cd\u03c3\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c0\u03b9\u03bf \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2. \u039f \u03c3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03bc\u03b1\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b5\u03be\u03b1\u03c7\u03b8\u03b5\u03af \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b5\u03b8\u03bd\u03b9\u03ba\u03cc \u03c0\u03c1\u03c9\u03c4\u03ac\u03b8\u03bb\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c4\u03c1\u03ad\u03c7\u03bf\u03bd\u03c4\u03bf\u03c2 \u03ad\u03c4\u03bf\u03c5\u03c2. \u039c\u03ad\u03c7\u03c1\u03b9 \u03c4\u03cc\u03c4\u03b5, \u03cc\u03bb\u03b1 \u03c4\u03b1 WCA events \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9\u03ba\u03b5\u03af\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2. \u03a0\u03ac\u03c1\u03c4\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03cd\u03b2\u03bf\u03c5\u03c2 \u03c3\u03b1\u03c2, \u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5, \u03b4\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03bd\u03cc\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03bb\u03ac\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b3\u03b9\u03bf\u03c1\u03c4\u03ae \u03c4\u03bf\u03c5 cubing!\r\n\r\n\u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bbo\u03cd\u03bc\u03b5 \u03b4\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b9\u03c2 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b2\u03c1\u03b5\u03af\u03c4\u03b5 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2. \r\n\r\n\u03a3\u03b7\u03bc\u03b5\u03af\u03c9\u03c3\u03b7: \u0393\u03b9\u03b1 \u03bd\u03b1 \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u03bc\u03af\u03b1 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03c9\u03b8\u03b5\u03af \u03c4\u03bf registration \u03c3\u03c4\u03bf \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03b7\u03bd WCA **KAI** \u03bd\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03b7 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ae \u03c4\u03bf\u03c5 \u03b1\u03bd\u03c4\u03b9\u03c4\u03af\u03bc\u03bf\u03c5 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03ae\u03c2 \u03bc\u03b5 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b1\u03c2 \u03ba\u03ac\u03c1\u03c4\u03b1\u03c2 \u03bc\u03ad\u03c3\u03c9 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ce\u03bd stripe \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03b7 WCA, \u03cc\u03c0\u03c9\u03c2 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b5\u03c2 \u03b4\u03af\u03c0\u03bb\u03b1. \r\n\r\n[\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c3\u03c4\u03b7 WCA, \u03c3\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03b4\u03b9\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc \u03ba\u03b1\u03b9 \u03c0\u03bf\u03bb\u03bb\u03ac \u03b1\u03ba\u03cc\u03bc\u03b1. \u039f\u03b4\u03b7\u03b3\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03c9\u03c4\u03ac\u03c1\u03b7\u03b4\u03b5\u03c2.](https:\/\/youtu.be\/RS768gK0Vrg)\r\n\r\nThe Voula Open 2023 is the third competition this year in Greece. We are proud of our progress and we strongly continue our effort. Grab your cubes, get ready, read the rules, and come to the cubing celebration!\r\nDuring  each \"Road to Greek finals\" competition, we focus on 2 events that are not yet very well known in Greece. In this competition we are aiming to bring the events One Handed and Fewest Move Challenge (FMC) closer to the competitors. The goal is to make the first Greek National Championship towards the end of this year. By then, all WCA events will be familiar to the competitors.\r\n\r\nGrab your cubes, study the regulations and attend the greek feast of cubing!\r\n\r\nPlease read the following tabs very carefully!\r\n\r\nNote: For a registration to be considered valid, the competitor should both register though the WCA site **AND** pay the registration fee as described in the nexts tabs.\r\nPlease read the following tabs in detail to find all the necessary information.",
+            "externalWebsite": null
+        }
+    ]
+}

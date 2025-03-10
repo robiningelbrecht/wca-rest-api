@@ -1,0 +1,59 @@
+{
+    "id": "WC2007",
+    "name": "World Rubik's Cube Championship 2007",
+    "city": "Budapest",
+    "country": "HU",
+    "date": {
+        "from": "2007-10-05",
+        "till": "2007-10-07",
+        "numberOfDays": 3
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333fm",
+        "333ft",
+        "333mbf",
+        "333mbo",
+        "333oh",
+        "444",
+        "444bf",
+        "555",
+        "555bf",
+        "clock",
+        "magic",
+        "minx",
+        "mmagic",
+        "pyram",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Gilles Roux",
+            "email": "grrroux@free.fr"
+        },
+        {
+            "name": "Ron van Bruchem",
+            "email": "rbruchem@worldcubeassociation.org"
+        },
+        {
+            "name": "Tyson Mao (\u6bdb\u53f0\u52dd)",
+            "email": "tyson.mao@gmail.com"
+        }
+    ],
+    "organisers": [],
+    "venue": {
+        "name": "[Novotel Budapest Congress](http:\/\/www.novotel.com\/novotel\/fichehotel\/gb\/nov\/0511\/fiche_hotel.shtml)",
+        "address": "Alkotas utca 63-67, 1123 Budapest",
+        "details": "Patria theatre",
+        "coordinates": {
+            "latitude": 47.489049,
+            "longitude": 19.024155
+        }
+    },
+    "information": "",
+    "externalWebsite": "http:\/\/www.speedcubing.com\/events\/wc2007",
+    "region": "world"
+}

@@ -1,0 +1,56 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "WelcomeThrissur2021",
+            "name": "Welcome Thrissur 2021",
+            "city": "Thrissur, Kerala",
+            "country": "IN",
+            "date": {
+                "from": "2021-11-21",
+                "till": "2021-11-21",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Daniel James",
+                    "email": "djames@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arun Kattussery Pisharath",
+                    "email": "arunrajeevkpsm2000@gmail.com"
+                },
+                {
+                    "name": "Hariprasad CM",
+                    "email": "hcm@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "Loongs Cricket Academy, Aranattukara, Thrissur, Kerala, India",
+                "address": "Loongs Cricket Academy, Aranattukara, Thrissur, Kerala, India,- 680618",
+                "details": "Indoor Stadium",
+                "coordinates": {
+                    "latitude": 10.509108,
+                    "longitude": 76.198392
+                }
+            },
+            "information": "* Make sure you will be available at the venue at least 15 minutes before your event starts. You won't be allowed to participate in an event if you reach late.\r\n* If you're participating in a WCA competition for first time or not aware of competition rules, make sure that you attend the tutorial session.\r\n* If you're participating in a WCA competition for first time, please bring your ID card as well.\r\n\r\nAll participants are expected to volunteer for the event when they are not participating. The roles could be of a judge, runner, or a scrambler, depending upon the situation.\r\n\r\nCOVID-19 Specific Information:\r\n\r\n* We will be requiring proof of a negative COVID-19 RTPCR test within 72 hours before the start of competition or proof of full vaccination (two doses) to enter the competition.\r\n* We strongly discourage you from bringing guests. The maximum number of guests that is preferred to accompay a competitor would be limited to ONE.\r\n(Other additional guidelines will be informed in the Specific-Guidelines page).",
+            "externalWebsite": null
+        }
+    ]
+}

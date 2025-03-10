@@ -1,0 +1,57 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "UsakOpen2022",
+            "name": "U\u015fak Open 2022",
+            "city": "U\u015fak",
+            "country": "TR",
+            "date": {
+                "from": "2022-04-23",
+                "till": "2022-04-24",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Can Ersoy",
+                    "email": "cersoy@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "\u0130skender Aznavur",
+                    "email": "i.kuleli@gmail.com"
+                },
+                {
+                    "name": "Melih Kayra Kad\u0131o\u011flu",
+                    "email": "melih0kayra@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "\u0130skender Pala Halk K\u00fct\u00fcphanesi Kurtulu\u015f Mahallesi Do\u011fan \u00d6zkahraman Caddesi No:20 Merkez, U\u015fak",
+                "address": "Kurtulu\u015f Mahallesi, Do\u011fan \u00d6zkahraman Caddesi, No:20 U\u015fak, Merkez",
+                "details": "\u0130skender Pala Halk K\u00fct\u00fcphanesi",
+                "coordinates": {
+                    "latitude": 38.673788,
+                    "longitude": 29.401551
+                }
+            },
+            "information": "[TR]\r\nKay\u0131t s\u0131ras\u0131nda ad\u0131n\u0131z\u0131 ve soyad\u0131n\u0131z\u0131 l\u00fctfen kimlikte yaz\u0131ld\u0131\u011f\u0131 gibi hatas\u0131z giriniz. \u0130lk harfleri b\u00fcy\u00fck yaz\u0131n\u0131z.\r\nYar\u0131\u015fmaya gelirken yan\u0131n\u0131zda kimlik bulundurmay\u0131 unutmay\u0131n\u0131z. **L\u00fctfen sekmeleri okuyunuz.** \r\n\r\n[EN]\r\nPlease enter your name and surname during registration as it is written on your ID.\r\nThe First letters are capital letters.\r\nDont forget to have an ID card with you when you come to the competition. **Please read all the tabs.**",
+            "externalWebsite": null
+        }
+    ]
+}

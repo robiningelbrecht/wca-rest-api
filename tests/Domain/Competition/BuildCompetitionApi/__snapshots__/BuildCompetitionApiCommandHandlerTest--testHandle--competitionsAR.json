@@ -1,0 +1,63 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "VillaCarlosPazOtono2019",
+            "name": "Villa Carlos Paz Oto\u00f1o 2019",
+            "city": "Villa Carlos Paz, C\u00f3rdoba",
+            "country": "AR",
+            "date": {
+                "from": "2019-04-19",
+                "till": "2019-04-20",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333mbf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "777",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cristian Ezequiel Vega",
+                    "email": "cvega@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Agust\u00edn Bernasconi",
+                    "email": "hammerwtf10@gmail.com"
+                },
+                {
+                    "name": "Genaro Sahib Leguizamon",
+                    "email": "genasahib01@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Iglesia Vida Con Proposito",
+                "address": "Gabriela Mistral 549, Chincheta, Villa Carlos Paz, C\u00f3rdoba",
+                "details": "",
+                "coordinates": {
+                    "latitude": -31.413974,
+                    "longitude": -64.477627
+                }
+            },
+            "information": "VCP Oto\u00f1o 2019 will be the second competition ever to be hosted in the province of C\u00f3rdoba, Argentina. It will last two days and it will feature thirteen WCA events.\r\n\r\nVCP Oto\u00f1o 2019 ser\u00e1 la segunda competencia realizada en la Provincia de C\u00f3rdoba, Argentina. Constar\u00e1 de dos d\u00edas y se podr\u00e1 competir en trece categor\u00edas distintas.",
+            "externalWebsite": null
+        }
+    ]
+}

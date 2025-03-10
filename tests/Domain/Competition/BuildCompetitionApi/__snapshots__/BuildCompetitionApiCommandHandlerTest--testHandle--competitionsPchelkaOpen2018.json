@@ -1,0 +1,59 @@
+{
+    "id": "PchelkaOpen2018",
+    "name": "Pchelka Open 2018",
+    "city": "Chopon-Ata, Issyk Kul",
+    "country": "KG",
+    "date": {
+        "from": "2018-08-22",
+        "till": "2018-08-23",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "555",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Akash Rupela",
+            "email": "arupela@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Akash Rupela",
+            "email": "arupela@worldcubeassociation.org"
+        },
+        {
+            "name": "Cl\u00e9ment Cherblanc",
+            "email": "ccherblanc@worldcubeassociation.org"
+        },
+        {
+            "name": "Nadira Haroon",
+            "email": "nad_ira25@yahoo.com"
+        },
+        {
+            "name": "Nazira Shayimkulova",
+            "email": "pchelka.kg@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Children's Camp Barchyn",
+        "address": "Children's Camp Barchyn, Chon-Sary-Oy, Chopon-Ata, Issyk Kul, Kyrgyzstan",
+        "details": "",
+        "coordinates": {
+            "latitude": 42.609102,
+            "longitude": 76.915328
+        }
+    },
+    "information": "There is a competitor limit of 150 competitors. If you register and later decide to not attend the competition, please inform the organizers so another competitor can get a seat.\r\n\u041b\u0438\u043c\u0438\u0442 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 150 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.\u0415\u0441\u043b\u0438 \u0432\u044b \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442\u0435\u0441\u044c, \u0430 \u0437\u0430\u0442\u0435\u043c \u0440\u0435\u0448\u0438\u0442\u0435 \u043d\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0435, \u0441\u043e\u043e\u0431\u0449\u0438\u0442\u0435 \u043e\u0431 \u044d\u0442\u043e\u043c \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0442\u043e\u0440\u0430\u043c.",
+    "externalWebsite": null
+}

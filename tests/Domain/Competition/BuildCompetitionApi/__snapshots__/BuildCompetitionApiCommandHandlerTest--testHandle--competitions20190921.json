@@ -1,0 +1,64 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "SpeedcubingPaphos2019",
+            "name": "Speedcubing Paphos 2019",
+            "city": "Paphos",
+            "country": "CY",
+            "date": {
+                "from": "2019-09-21",
+                "till": "2019-09-21",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh",
+                "444",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Michael Eleftheriades",
+                    "email": "eleftheriadesm@gmail.com"
+                },
+                {
+                    "name": "Mihai C\u0103p\u0103\u0163inescu",
+                    "email": "mcapatinescu@worldcubeassociation.org"
+                },
+                {
+                    "name": "Shamil Magomedov",
+                    "email": "smagomedov@worldcubeassociation.org"
+                },
+                {
+                    "name": "Theodosia Kyriakou",
+                    "email": "kyriakoutheodosia30@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[The International School of Paphos](http:\/\/www.paphosinternationalschool.com\/en\/)",
+                "address": " 100 Aristotelous Savva Avenue, Anavargos, Paphos, Cyprus",
+                "details": "B BLOCK EXAMINATIONS HALL",
+                "coordinates": {
+                    "latitude": 34.800227,
+                    "longitude": 32.450693
+                }
+            },
+            "information": " Please read important information on \"Registration requirements\".\r\n",
+            "externalWebsite": "http:\/\/cypruscubing.com"
+        }
+    ]
+}

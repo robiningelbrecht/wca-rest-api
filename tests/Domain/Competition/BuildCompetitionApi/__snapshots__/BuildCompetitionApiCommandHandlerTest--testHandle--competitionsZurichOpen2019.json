@@ -1,0 +1,58 @@
+{
+    "id": "ZurichOpen2019",
+    "name": "Zurich Open 2019",
+    "city": "Uster",
+    "country": "CH",
+    "date": {
+        "from": "2019-05-18",
+        "till": "2019-05-19",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "555",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Oleg Gritsenko",
+            "email": "ogritsenko@worldcubeassociation.org"
+        },
+        {
+            "name": "Tobias Peter",
+            "email": "tobias.peter@bluewin.ch"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Fabian L\u00f6hle",
+            "email": "fabian.lakers@hotmail.com"
+        },
+        {
+            "name": "Theo Mayer",
+            "email": "theoderkaffe@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Musikcontainer Uster",
+        "address": "Asylstrasse 10, 8610 Uster",
+        "details": "",
+        "coordinates": {
+            "latitude": 47.350221,
+            "longitude": 8.723703
+        }
+    },
+    "information": "",
+    "externalWebsite": null
+}

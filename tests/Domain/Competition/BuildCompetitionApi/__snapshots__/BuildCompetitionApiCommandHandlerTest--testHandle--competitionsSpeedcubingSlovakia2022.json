@@ -1,0 +1,56 @@
+{
+    "id": "SpeedcubingSlovakia2022",
+    "name": "Speedcubing Slovakia 2022",
+    "city": "Bratislava",
+    "country": "SK",
+    "date": {
+        "from": "2022-08-13",
+        "till": "2022-08-14",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "555",
+        "666",
+        "777",
+        "clock",
+        "minx",
+        "skewb"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Hubert Hanusiak",
+            "email": "hhanusiak@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Adam Brestovansk\u00fd",
+            "email": "brestovanskyadam20@gmail.com"
+        },
+        {
+            "name": "Marek Majerik",
+            "email": "marecek.majerik@gmail.com"
+        },
+        {
+            "name": "\u0160imon Borovsk\u00fd",
+            "email": "sborovsky@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "[Budova Vedeck\u00e9ho parku UK v Bratislave](https:\/\/cusp.uniba.sk\/o-vedeckom-parku\/)",
+        "address": "Ilkovi\u010dova 8, 841 04 Karlova Ves, Slovakia",
+        "details": "First floor",
+        "coordinates": {
+            "latitude": 48.149525,
+            "longitude": 17.07337
+        }
+    },
+    "information": "![](https:\/\/i.imgur.com\/CDJ3dyD.png)\r\n\r\nPrv\u00e1 s\u00fa\u0165a\u017e na Slovensku od za\u010diatku pand\u00e9mie. V\u0161etci s\u00fa v\u00edtan\u00ed :D\r\n\r\n---\r\nFirst competition in Slovakia since the pandemic started. Everyone is welcome :D",
+    "externalWebsite": null
+}

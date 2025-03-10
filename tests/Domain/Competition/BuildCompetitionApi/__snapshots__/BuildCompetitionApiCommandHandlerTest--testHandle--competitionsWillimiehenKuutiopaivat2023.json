@@ -1,0 +1,67 @@
+{
+    "id": "WillimiehenKuutiopaivat2023",
+    "name": "Willimiehen Kuutiop\u00e4iv\u00e4t 2023",
+    "city": "Lappeenranta",
+    "country": "FI",
+    "date": {
+        "from": "2023-07-22",
+        "till": "2023-07-23",
+        "numberOfDays": 2
+    },
+    "isCanceled": false,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "444bf",
+        "555",
+        "555bf",
+        "666",
+        "777",
+        "clock",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "J\u0101nis Zirnis",
+            "email": "jzirnis@worldcubeassociation.org"
+        },
+        {
+            "name": "Niko Ronkainen",
+            "email": "nronkainen@worldcubeassociation.org"
+        },
+        {
+            "name": "Olli Vikstedt",
+            "email": "ovikstedt@worldcubeassociation.org"
+        },
+        {
+            "name": "Timo Norrkniivil\u00e4",
+            "email": "tnorrkniivila@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Erkka Niiva",
+            "email": "erkka.niiva@hotmail.com"
+        },
+        {
+            "name": "Niko Ronkainen",
+            "email": "nronkainen@worldcubeassociation.org"
+        }
+    ],
+    "venue": {
+        "name": "Tiril\u00e4n Ty\u00f6v\u00e4entalo",
+        "address": "Onninkatu 6, 53500 Lappeenranta",
+        "details": "",
+        "coordinates": {
+            "latitude": 61.057895,
+            "longitude": 28.237335
+        }
+    },
+    "information": "Please read through the [regulations](https:\/\/www.worldcubeassociation.org\/regulations\/) before the competition.\r\nThe schedule may be subject to change, so if you're leaving the venue during the day, make sure to return at least 30 minutes before your scheduled events.\r\n\r\n\r\nLue s\u00e4\u00e4nn\u00f6t ([englanniksi](https:\/\/www.worldcubeassociation.org\/regulations\/), [suomeksi](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/finnish\/)) ennen kilpailua.\r\nAikataulu voi muuttua, joten jos poistut kisapaikalta p\u00e4iv\u00e4n aikana, palaa v\u00e4hint\u00e4\u00e4n 30 minuuttia ennen lajejasi.",
+    "externalWebsite": null
+}

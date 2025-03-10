@@ -1,0 +1,64 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "NigeriaOpen2019",
+            "name": "Nigeria Open 2019",
+            "city": "Lagos",
+            "country": "NG",
+            "date": {
+                "from": "2019-05-25",
+                "till": "2019-05-26",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "444bf",
+                "555",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Soufiane Lakhlifi",
+                    "email": "slakhlifi@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Arinze Owoh",
+                    "email": "arinzeowoh@gmail.com"
+                },
+                {
+                    "name": "Cl\u00e9ment Cherblanc",
+                    "email": "ccherblanc@worldcubeassociation.org"
+                },
+                {
+                    "name": "Kemi Awe",
+                    "email": "kawe@worldcubeassociation.org"
+                }
+            ],
+            "venue": {
+                "name": "[Lyc\u00e9e Fran\u00e7ais Louis Pasteur](https:\/\/www.lflp-lagos.com)",
+                "address": "16 Younis Bashorun Street, Victoria Island, Lagos, Nigeria",
+                "details": "Room: Salle des Droits de l'Homme",
+                "coordinates": {
+                    "latitude": 6.426613,
+                    "longitude": 3.436617
+                }
+            },
+            "information": "You're asked to have read the [WCA regulations](https:\/\/www.worldcubeassociation.org\/regulations\/), the tutorial at the competition is here to remind them to you!\r\nIt is very important to attend to at least one of the tutorials so that you can understand how the competition goes and to avoid incidents!\r\n\r\nThe competition is open to all competitors, of all ages and all nationalities!",
+            "externalWebsite": null
+        }
+    ]
+}

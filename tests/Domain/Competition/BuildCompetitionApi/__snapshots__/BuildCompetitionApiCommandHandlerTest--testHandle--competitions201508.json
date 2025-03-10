@@ -1,0 +1,106 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 2
+    },
+    "total": 2,
+    "items": [
+        {
+            "id": "HongKongSummerCubeDay2015",
+            "name": "Hong Kong Summer Cube Day 2015",
+            "city": "Hong Kong",
+            "country": "HK",
+            "date": {
+                "from": "2015-08-22",
+                "till": "2015-08-22",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "clock",
+                "minx",
+                "pyram",
+                "skewb"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Chan Tak Chuen (\u9673\u5fb7\u6cc9)",
+                    "email": "tchan@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [],
+            "venue": {
+                "name": "[The Yard](http:\/\/www.theyard.com.hk)",
+                "address": "8D, Wing Hin Factory Building, 31-33 Ng Fong Street, San Po Kong, Kowloon",
+                "details": "Room Y",
+                "coordinates": {
+                    "latitude": 22.337968,
+                    "longitude": 114.200879
+                }
+            },
+            "information": "N\/A",
+            "externalWebsite": "http:\/\/hkrcu.net\/hksummer15"
+        },
+        {
+            "id": "VeranoCubero2015",
+            "name": "Verano Cubero 2015",
+            "city": "Santo Domingo",
+            "country": "DO",
+            "date": {
+                "from": "2015-08-15",
+                "till": "2015-08-16",
+                "numberOfDays": 2
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333bf",
+                "333fm",
+                "333ft",
+                "333oh",
+                "444",
+                "555",
+                "666",
+                "minx",
+                "pyram",
+                "skewb",
+                "sq1"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Nestor Sanchez",
+                    "email": "nestorsanchez3d@gmail.com"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Rafael Gregorio Martinez Paredes",
+                    "email": "rparedes@worldcubeassociation.org"
+                },
+                {
+                    "name": "Sumi Lee",
+                    "email": "misumilee@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "[Galeria 360](http:\/\/www.galeria360.com.do)",
+                "address": "Av. Jhon F. Kennedy casi esquina Av. Abraham Lincoln",
+                "details": "Area de entrada, puerta principal.",
+                "coordinates": {
+                    "latitude": 18.484951,
+                    "longitude": -69.936111
+                }
+            },
+            "information": "Novena competencia oficial en Republica Dominicana",
+            "externalWebsite": "http:\/\/www.cubingsouthamerica.com\/veranocubero2015\/"
+        }
+    ]
+}

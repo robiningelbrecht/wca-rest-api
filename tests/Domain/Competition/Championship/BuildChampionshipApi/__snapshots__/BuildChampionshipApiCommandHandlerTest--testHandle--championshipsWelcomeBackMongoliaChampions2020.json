@@ -1,0 +1,53 @@
+{
+    "id": "WelcomeBackMongoliaChampions2020",
+    "name": "Welcome Back Mongolia Championship 2020",
+    "city": "Ulaanbaatar",
+    "country": "MN",
+    "date": {
+        "from": "2020-12-19",
+        "till": "2020-12-20",
+        "numberOfDays": 2
+    },
+    "isCanceled": true,
+    "events": [
+        "222",
+        "333",
+        "333bf",
+        "333oh",
+        "444",
+        "555",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+    ],
+    "wcaDelegates": [
+        {
+            "name": "Myagmardorj Ulziijargal (\u04e8\u043b\u0437\u0438\u0439\u0436\u0430\u0440\u0433\u0430\u043b \u041c\u044f\u0433\u043c\u0430\u0440\u0434\u043e\u0440\u0436)",
+            "email": "mulziijargal@worldcubeassociation.org"
+        }
+    ],
+    "organisers": [
+        {
+            "name": "Maralgoo Ganbold (\u0413\u0430\u043d\u0431\u043e\u043b\u0434 \u041c\u0430\u0440\u0430\u043b\u0433\u043e\u043e)",
+            "email": "maralhello@gmail.com"
+        },
+        {
+            "name": "Sergelenbat Nymdorj",
+            "email": "bukgan.tamir@gmail.com"
+        }
+    ],
+    "venue": {
+        "name": "Mongolia-Japan Center",
+        "address": "Mongolia-Japan Center, Baga toiruu-1, Ulaanbaatar, Mongolia",
+        "details": "Conference hall, 1st floor",
+        "coordinates": {
+            "latitude": 47.923036,
+            "longitude": 106.920334
+        }
+    },
+    "information": "#### \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u043d\u044d\u044d\u043b\u043b\u0442\u044d\u0439 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\r\nThis competition is the official Championship of Mongolia.\r\nOnly Mongolian citizens are eligible to win prizes and titles.\r\nThe competition remains open for all nationalities to compete.\r\n\r\n**COVID-19 \u0446\u0430\u0440 \u0442\u0430\u0445\u043b\u044b\u043d \u0443\u043b\u043c\u0430\u0430\u0441 \u0446\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0431\u0430\u0439\u0441\u0430\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u0442\u044d\u043c\u0446\u044d\u044d\u043d \u201cWelcome Back Mongolia Championship 2020\u201d \u0433\u044d\u0441\u044d\u043d \u043d\u044d\u0440\u0442\u044d\u0439\u0433\u044d\u044d\u0440 \u0434\u0430\u0445\u0438\u043d \u0437\u0430\u0440\u043b\u0430\u0433\u0434\u0430\u0436 \u0431\u0430\u0439\u043d\u0430.\r\n\u0425\u044d\u0440\u0432\u044d\u044d \u0442\u0430 \u0446\u0443\u0446\u043b\u0430\u0433\u0434\u0441\u0430\u043d \u0431\u0430\u0439\u0441\u0430\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0423\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u0441\u044d\u043d \u0431\u043e\u043b \u044d\u043d\u044d \u0443\u0434\u0430\u0430\u0433\u0438\u0439\u043d \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 50%-\u0438\u0439\u043d \u0445\u04e9\u043d\u0433\u04e9\u043b\u04e9\u043b\u0442\u0442\u044d\u0439 \u043e\u0440\u043e\u043b\u0446\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0442\u043e\u0439.**\r\n\r\n**\u0413\u044d\u0445\u0434\u044d\u044d \u0442\u0430 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434\u044d\u044d \u0434\u0430\u0445\u0438\u043d \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u044d\u0445 \u0451\u0441\u0442\u043e\u0439 \u0433\u044d\u0434\u0433\u0438\u0439\u0433 \u0430\u043d\u0445\u0430\u0430\u0440\u043d\u0430 \u0443\u0443!**\r\n\r\n**\u0425\u044d\u0440\u0432\u044d\u044d \u0442\u0430 \u044d\u043d\u044d \u0443\u0434\u0430\u0430\u0433\u0438\u0439\u043d \u0420\u0443\u0431\u0438\u043a \u0448\u043e\u043e\u043d\u044b \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u0448\u0430\u043b\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445 \u0442\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u043e\u0440\u043e\u043b\u0446\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0433\u04af\u0439 \u0431\u043e\u043b\u0441\u043e\u043d \u0442\u043e\u0445\u0438\u043e\u043b\u0434\u043e\u043b\u0434 \u0442\u0430\u043d\u044b \u0442\u04e9\u043b\u0441\u04e9\u043d \u0445\u0443\u0440\u0430\u0430\u043c\u0436\u043d\u044b \u043c\u04e9\u043d\u0433\u0438\u0439\u0433 \u0431\u0443\u0446\u0430\u0430\u043d \u043e\u043b\u0433\u043e\u0445 \u0431\u043e\u043b\u043e\u043c\u0436\u0433\u04af\u0439. \u0425\u0430\u0440\u0438\u043d \u0442\u0430\u043d\u044c\u0434 \u04af\u043d\u044d \u0431\u04af\u0445\u0438\u0439 \u0434\u0443\u0440\u0441\u0433\u0430\u043b\u044b\u043d \u0437\u04af\u0439\u043b\u0441 \u0431\u044d\u043b\u044d\u0433\u043b\u044d\u0445 \u0431\u043e\u043b\u043d\u043e.**\r\n\r\n**\u0411\u0438\u0434\u043d\u0438\u0439 \u043d\u04e9\u0445\u0446\u04e9\u043b \u0431\u0430\u0439\u0434\u043b\u044b\u0433 \u043e\u0439\u043b\u0433\u043e\u0436 \u0445\u04af\u043b\u044d\u044d\u0446\u0442\u044d\u0439 \u0445\u0430\u043d\u0434\u0430\u043d\u0430 \u0443\u0443.**\r\n\r\n\r\n**The official Mongolia Championship, which was canceled due to the COVID-19 epidemic, is being re-announced under the name \"Welcome Back Mongolia Championship 2020\".**\r\n**If you have registered for the canceled Mongolia Championship, you can participate in this competiton with a 50% discount.**\r\n\r\n**Please note, however, that you must re-register for the competition!**\r\n\r\n**If you are unable to participate in this Mongolia Championship, your fee will not be refunded. But you will get valuable souvenirs.**\r\n\r\n**Please understand our situation and be patient.**\r\n\r\n[\u0422\u044d\u043c\u0446\u044d\u044d\u043d\u0442\u044d\u0439 \u0445\u043e\u043b\u0431\u043e\u043e\u0442\u043e\u0439 \u043c\u044d\u0434\u044d\u044d\u043b\u044d\u043b\/ Information of Mongolian competitions](https:\/\/www.facebook.com\/Mongoliacubecompetition\/)\r\n[\u0422\u044d\u043c\u0446\u044d\u044d\u043d\u0434 \u0431\u04af\u0440\u0442\u0433\u04af\u04af\u043b\u044d\u0445 \u0437\u0430\u0430\u0432\u0430\u0440\/ Instruction of registration](https:\/\/www.facebook.com\/media\/set\/?set=ms.c.eJxFj1EOAzAIQm~_0FMVW73~_xZSWjvy9PQBw2OJnoYQ0~%3BEAC6NqLDICriDPuB38lG~%3BUEsGcsAF~_QYKCOdkbwt9YyW4drY19jH4MhIZ~%3BSd3s7gEvAJtQPPSNV6aYbe9y8sZcQXMQs64A~-~-.bps.a.1748149085227952&type=1&__tn__=HH-R)\r\n\r\n\u0425\u043e\u043b\u0431\u043e\u043e \u0431\u0430\u0440\u0438\u0445\/Contact:\r\nFacebook: [Myagmardorj Ulziijargal](https:\/\/www.facebook.com\/Myagmardorj.Ulziijargal)\r\n\r\n\u0423\u0442\u0430\u0441\/Phone:\r\n(976) 89589811 - Maralgoo Ganbold \r\n(976) 89199853 - Myagmardorj Ulziijargal",
+    "externalWebsite": null,
+    "region": "mn"
+}

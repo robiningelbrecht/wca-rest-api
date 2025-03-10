@@ -1,0 +1,73 @@
+{
+    "pagination": {
+        "page": 1,
+        "size": 1
+    },
+    "total": 1,
+    "items": [
+        {
+            "id": "LuandaOpen2023",
+            "name": "Luanda Open 2023",
+            "city": "Luanda",
+            "country": "AO",
+            "date": {
+                "from": "2023-05-07",
+                "till": "2023-05-07",
+                "numberOfDays": 1
+            },
+            "isCanceled": false,
+            "events": [
+                "222",
+                "333",
+                "333oh"
+            ],
+            "wcaDelegates": [
+                {
+                    "name": "Cl\u00e1udio Vidal da Silva Morais",
+                    "email": "vidalmorais84@gmail.com"
+                },
+                {
+                    "name": "Marlon de V. Marques",
+                    "email": "mmarques@worldcubeassociation.org"
+                }
+            ],
+            "organisers": [
+                {
+                    "name": "Cl\u00e1udio Vidal da Silva Morais",
+                    "email": "vidalmorais84@gmail.com"
+                },
+                {
+                    "name": "Kahilo Pedro Massango",
+                    "email": "kahilo42@gmail.com"
+                },
+                {
+                    "name": "Manuel Ngola Cusseiala",
+                    "email": "ngolakjr@gmail.com"
+                },
+                {
+                    "name": "Marlon de V. Marques",
+                    "email": "mmarques@worldcubeassociation.org"
+                },
+                {
+                    "name": "Roger Nataniel Issassa dos Santos",
+                    "email": "rogerdossantos25@hotmail.com"
+                },
+                {
+                    "name": "Vivaldo Crist\u00f3v\u00e3o Roque",
+                    "email": "2001vivaldo@gmail.com"
+                }
+            ],
+            "venue": {
+                "name": "Mediateca Z\u00e9 Du - Cazenga",
+                "address": "574M+9CQ, Rua dos Comandos, Cazenga",
+                "details": "Audit\u00f3rio",
+                "coordinates": {
+                    "latitude": -8.844037,
+                    "longitude": 13.283609
+                }
+            },
+            "information": "\ud83c\udde6\ud83c\uddf4 Bem-vindos \u00e0 1\u00aa competi\u00e7\u00e3o oficial da WCA em Angola!\r\n\r\nSua inscri\u00e7\u00e3o s\u00f3 ser\u00e1 aprovada no site da WCA ap\u00f3s a confirma\u00e7\u00e3o do pagamento, que dever\u00e1 ser efetuado de forma antecipada - mais informa\u00e7\u00f5es na aba [Inscrever](https:\/\/www.worldcubeassociation.org\/competitions\/BrasiliaBigsBlind2023\/register). Se tiver dificuldades em se inscrever, veja como fazer [neste v\u00eddeo](https:\/\/www.youtube.com\/watch?v=-cJNjPk_J4M).\r\n\r\nFavor leia o [Regulamento da WCA](https:\/\/www.worldcubeassociation.org\/regulations\/translations\/portuguese-brazilian) antes da competi\u00e7\u00e3o.\r\n\r\n---\r\n\r\n\ud83c\uddfa\ud83c\uddf8 Welcome to the 1st WCA official competition in Angola!\r\n\r\nYour registration will only be approved in the WCA website after payment confirmation, which must be made in advance - more information in the [Register](https:\/\/www.worldcubeassociation.org\/competitions\/BrasiliaBigsBlind2023\/register) tab. If you have any problem with how to register, take a look at [this video](https:\/\/www.youtube.com\/watch?v=-cJNjPk_J4M).\r\n\r\nPlease read the [WCA Regulations](https:\/\/www.worldcubeassociation.org\/regulations) before the competition.",
+            "externalWebsite": null
+        }
+    ]
+}
