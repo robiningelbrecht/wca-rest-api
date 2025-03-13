@@ -1,1 +1,1 @@
-{"pagination":{"page":1,"size":1},"total":1,"items":[{"rankType":"average","personId":"2024AGAP01","eventId":"222","best":633,"rank":{"world":48246,"continent":411,"country":1}}]}
+{"pagination":{"page":1,"size":2},"total":2,"items":[{"rankType":"average","personId":"2024AGAP01","eventId":"222","best":633,"rank":{"world":48402,"continent":419,"country":1}},{"rankType":"average","personId":"2025MOST02","eventId":"222","best":850,"rank":{"world":81387,"continent":802,"country":2}}]}
