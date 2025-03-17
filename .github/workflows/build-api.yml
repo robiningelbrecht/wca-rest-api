@@ -1,8 +1,8 @@
 name: Build API
 on:
   workflow_dispatch:
-  #schedule:
-  #  - cron:  '30 11 * * *'
+  schedule:
+    - cron:  '30 11 * * *'
 jobs:
   build-api:
     name: Build API
