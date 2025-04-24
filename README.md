@@ -8,9 +8,7 @@
 <p align="center">
 <a href="https://github.com/robiningelbrecht/wca-rest-api/blob/master/.github/workflows/ci.yml"><img src="https://github.com/robiningelbrecht/wca-rest-api/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
 <a href="https://github.com/robiningelbrecht/wca-rest-api/blob/master/LICENSE"><img src="https://img.shields.io/github/license/robiningelbrecht/wca-rest-api?color=428f7e&logo=open%20source%20initiative&logoColor=white" alt="License"></a>
-<a href="https://app.codecov.io/gh/robiningelbrecht/wca-rest-api"><img src="https://codecov.io/gh/robiningelbrecht/wca-rest-api/branch/master/graph/badge.svg?token=Y0ux1gPe8Y"/></a>
 <a href="https://phpstan.org/"><img src="https://img.shields.io/badge/PHPStan-level%208-succes.svg?logo=php&logoColor=white&color=31C652" alt="PHPStan Enabled"></a>
-<a href="https://php.net/"><img src="https://img.shields.io/packagist/php-v/robiningelbrecht/wca-rest-api/dev-master?color=%23777bb3&logo=php&logoColor=white" alt="PHP"></a>
 </p>
 
 ---
