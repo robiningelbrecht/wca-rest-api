@@ -28,7 +28,7 @@ The API is updated once a day so rankings and results are not real-time.
 
 > This information is based on competition results owned and maintained by the
 > World Cube Association, published at https://www.worldcubeassociation.org/export/results
-> as of <!--START_SECTION:version-date-->October 28, 2025<!--END_SECTION:version-date-->.
+> as of <!--START_SECTION:version-date-->October 29, 2025<!--END_SECTION:version-date-->.
 
 I'm in no way affiliated with or part of the official WCA software team.
 
