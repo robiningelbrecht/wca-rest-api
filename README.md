@@ -13,6 +13,12 @@
 
 ---
 
+> [!WARNING]
+> As of **January 25, 2026**, the WCA software team will release a new version of the results export that this project depends on to build its API.
+> Unfortunately, I don’t have the time or energy to implement support for this new format. As a result, this API will be sunset on January 25, 2026.
+>
+> If you have any questions or would like to take over maintenance, feel free to get in touch.
+
 Welcome to the **unofficial** [World Cube Association](https://worldcubeassociation.org) (WCA) Public API documentation! 
 Here, you'll find all the information you need to integrate this API seamlessly into your projects. 
 Access competition data, results, competitor profiles, rankings, and more.
