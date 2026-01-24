@@ -18,7 +18,7 @@ readonly class EventRepository
         $queryBuilder = $this->connection->createQueryBuilder();
 
         $queryBuilder->select('SQL_CALC_FOUND_ROWS *')
-            ->from('Events', 'c')
+            ->from('events', 'c')
             ->orderBy('name', 'ASC');
 
         $results = $queryBuilder->executeQuery()->fetchAllAssociative();
