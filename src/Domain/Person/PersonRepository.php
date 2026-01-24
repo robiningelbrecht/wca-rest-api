@@ -28,11 +28,11 @@ readonly class PersonRepository
         $queryBuilder = $this->connection->createQueryBuilder();
 
         $queryBuilder->select('SQL_CALC_FOUND_ROWS p.*, c.iso2')
-            ->from('Persons', 'p')
-            ->innerJoin('p', 'Countries', 'c', 'p.countryId = c.id')
+            ->from('persons', 'p')
+            ->innerJoin('p', 'countries', 'c', 'p.country_id = c.id')
             ->setFirstResult($pagination->getOffset())
             ->setMaxResults($pagination->getLimit())
-            ->andWhere('subid = 1')
+            ->andWhere('sub_id = 1')
             ->addOrderBy('id', 'ASC');
 
         $results = $queryBuilder->executeQuery()->fetchAllAssociative();
