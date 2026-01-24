@@ -18,7 +18,7 @@ readonly class CountryRepository
         $queryBuilder = $this->connection->createQueryBuilder();
 
         $queryBuilder->select('SQL_CALC_FOUND_ROWS *')
-            ->from('Countries', 'c')
+            ->from('countries', 'c')
             ->orderBy('iso2', 'ASC');
 
         $results = $queryBuilder->executeQuery()->fetchAllAssociative();
