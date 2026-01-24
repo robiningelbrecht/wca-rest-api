@@ -64,7 +64,8 @@ readonly class ResultRepository
     public function findByPerson(string $personId): array
     {
         $query = '
-            SELECT r.*, rt.name as round_name, rt.final as is_final_round, f.name as format_name
+            SELECT r.*, rt.name as round_name, rt.final as is_final_round, f.name as format_name,
+            v1.value AS value1, v2.value AS value2, v3.value AS value3, v4.value AS value4, v5.value AS value5
             FROM Results r
             INNER JOIN round_types rt ON r.round_type_id = rt.id
             INNER JOIN formats f ON r.format_id = f.id
