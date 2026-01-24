@@ -1,8 +1,8 @@
 name: Build API
 on:
   workflow_dispatch:
-  #schedule:
-  #  - cron:  '30 11 * * *'
+  schedule:
+    - cron:  '30 11 * * *'
 jobs:
   build-api:
     name: Build API
@@ -54,7 +54,7 @@ jobs:
             mkdir wca-export
             
             echo "Downloading WCA export..."
-            curl https://www.worldcubeassociation.org/export/results/WCA_export.sql.zip -L --output "wca-export/export.zip"
+            curl https://www.worldcubeassociation.org/export/results/v2/sql -L --output "wca-export/export.zip"
             
             echo "Unzipping WCA export..."
             unzip wca-export/export.zip -d wca-export
@@ -67,15 +67,15 @@ jobs:
             mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca < wca-export/WCA_export.sql
             
             # Add indexes for faster processing
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON Persons (id)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON Results (personId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competitionId_index ON Results (competitionId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON Results (eventId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competitionId_index ON championships (competition_id)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON RanksSingle (personId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON RanksSingle (eventId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON RanksAverage (personId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON RanksAverage (eventId)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX person_id_index ON persons (id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX person_id_index ON results (person_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competition_id_index ON results (competition_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX event_id_index ON results (event_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competition_id_index ON championships (competition_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX person_id_index ON ranks_single (person_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX event_id_index ON ranks_single (event_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX person_id_index ON ranks_average (person_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX event_id_index ON ranks_average (event_id)"
             
             # Build API.
             bin/console app:api:build "continent,country,event,competition,championship,person,rank,result,version"
@@ -84,8 +84,8 @@ jobs:
           fi
       - name: Commit and push changes
         run: |
-          git config --global user.name 'robiningelbrecht'
-          git config --global user.email 'robiningelbrecht@users.noreply.github.com'
+          git config --global user.name 'timreyn'
+          git config --global user.email 'timreyn@users.noreply.github.com'
           git add .
           git status
           git diff --staged --quiet || git commit -m"New API build"
