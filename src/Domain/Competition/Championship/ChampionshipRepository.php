@@ -23,7 +23,7 @@ readonly class ChampionshipRepository
 
         $queryBuilder->select('SQL_CALC_FOUND_ROWS champ.*')
             ->from('championships', 'champ')
-            ->innerJoin('champ', 'Competitions', 'comp', 'champ.competition_id = comp.id')
+            ->innerJoin('champ', 'competitions', 'comp', 'champ.competition_id = comp.id')
             ->setFirstResult($pagination->getOffset())
             ->setMaxResults($pagination->getLimit())
             ->addOrderBy('comp.year', 'DESC')
@@ -65,7 +65,7 @@ readonly class ChampionshipRepository
         $query = '
             SELECT competition_id
             FROM championships champ
-            WHERE champ.competition_id IN (SELECT DISTINCT competitionId FROM Results WHERE personId = :personId)
+            WHERE champ.competition_id IN (SELECT DISTINCT competition_id FROM results WHERE person_id = :personId)
         ';
 
         return $this->connection->executeQuery($query, [

@@ -18,7 +18,7 @@ readonly class ContinentRepository
         $queryBuilder = $this->connection->createQueryBuilder();
 
         $queryBuilder->select('SQL_CALC_FOUND_ROWS *')
-            ->from('Continents', 'c')
+            ->from('continents', 'c')
             ->orderBy('id', 'ASC');
 
         $results = $queryBuilder->executeQuery()->fetchAllAssociative();

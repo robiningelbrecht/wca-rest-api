@@ -23,25 +23,25 @@ readonly class RankRepository
         $queryBuilder = $this->connection->createQueryBuilder();
 
         $queryBuilder->select('SQL_CALC_FOUND_ROWS r.*, c.iso2')
-            ->from(RankType::SINGLE === $rankType ? 'RanksSingle' : 'RanksAverage', 'r')
-            ->innerJoin('r', 'Persons', 'p', 'r.personId = p.id')
-            ->innerJoin('p', 'Countries', 'c', 'p.countryId = c.id')
-            ->andWhere('r.eventId = :event')
+            ->from(RankType::SINGLE === $rankType ? 'ranks_single' : 'ranks_average', 'r')
+            ->innerJoin('r', 'persons', 'p', 'r.person_id = p.wca_id')
+            ->innerJoin('p', 'countries', 'c', 'p.country_id = c.id')
+            ->andWhere('r.event_id = :event')
             ->setParameter('event', $eventId)
             ->setFirstResult($pagination->getOffset())
             ->setMaxResults($pagination->getLimit());
 
         if (RegionType::WORLD === $regionType) {
-            $queryBuilder->addOrderBy('r.worldRank');
-            $queryBuilder->andWhere('r.worldRank != 0');
+            $queryBuilder->addOrderBy('r.world_rank');
+            $queryBuilder->andWhere('r.world_rank != 0');
         } elseif (RegionType::CONTINENT === $regionType) {
-            $queryBuilder->addOrderBy('r.continentRank');
-            $queryBuilder->andWhere('r.continentRank != 0');
-            $queryBuilder->andWhere('c.continentId = :region');
+            $queryBuilder->addOrderBy('r.continent_rank');
+            $queryBuilder->andWhere('r.continent_rank != 0');
+            $queryBuilder->andWhere('c.continent_id = :region');
             $queryBuilder->setParameter('region', $region);
         } elseif (RegionType::COUNTRY === $regionType) {
-            $queryBuilder->addOrderBy('r.countryRank');
-            $queryBuilder->andWhere('r.countryRank != 0');
+            $queryBuilder->addOrderBy('r.country_rank');
+            $queryBuilder->andWhere('r.country_rank != 0');
             $queryBuilder->andWhere('c.iso2 = :region');
             $queryBuilder->setParameter('region', $region);
         }
@@ -64,12 +64,12 @@ readonly class RankRepository
         foreach ($results as $result) {
             $overview->addItem(Rank::fromState(
                 rankType: $rankType,
-                personId: $result['personId'],
-                eventId: $result['eventId'],
+                personId: $result['person_id'],
+                eventId: $result['event_id'],
                 best: $result['best'],
-                worldRank: $result['worldRank'],
-                continentRank: $result['continentRank'],
-                countryRank: $result['countryRank'],
+                worldRank: $result['world_rank'],
+                continentRank: $result['continent_rank'],
+                countryRank: $result['country_rank'],
             ));
         }
 
@@ -83,12 +83,12 @@ readonly class RankRepository
     {
         $query = '
             SELECT *, "average" as rankType
-            FROM RanksAverage
-            WHERE personId = :personId
+            FROM ranks_average
+            WHERE person_id = :personId
             UNION
             SELECT *, "single" as rankType
-            FROM RanksSingle
-            WHERE personId = :personId
+            FROM ranks_single
+            WHERE person_id = :personId
         ';
 
         $results = $this->connection->executeQuery($query, [
@@ -97,12 +97,12 @@ readonly class RankRepository
 
         return array_map(fn (array $result) => Rank::fromState(
             rankType: RankType::from($result['rankType']),
-            personId: $result['personId'],
-            eventId: $result['eventId'],
+            personId: $result['person_id'],
+            eventId: $result['event_id'],
             best: $result['best'],
-            worldRank: $result['worldRank'],
-            continentRank: $result['continentRank'],
-            countryRank: $result['countryRank'],
+            worldRank: $result['world_rank'],
+            continentRank: $result['continent_rank'],
+            countryRank: $result['country_rank'],
         ), $results);
     }
 }

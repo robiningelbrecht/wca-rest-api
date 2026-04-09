@@ -35,18 +35,19 @@ echo "Importing WCA export to database..."
 # We need to remove the first line from the import file, because it causes MySQL to crash during import
 tail -n +2 wca-export/WCA_export.sql > wca-export/tmp.sql && mv wca-export/tmp.sql wca-export/WCA_export.sql
 # Now import
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca < wca-export/WCA_export.sql
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca < wca-export/WCA_export.sql
 
 # Add indexes for faster processing
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX personId_index ON Persons (id)"
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX personId_index ON Results (personId)"
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX competitionId_index ON Results (competitionId)"
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX eventId_index ON Results (eventId)"
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX competitionId_index ON championships (competition_id)"
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX personId_index ON RanksSingle (personId)"
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX eventId_index ON RanksSingle (eventId)"
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX personId_index ON RanksAverage (personId)"
-mysql --host="host.docker.internal" --user=root --password=root --port=3307 wca -e "CREATE INDEX eventId_index ON RanksAverage (eventId)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX wca_id_index ON persons (wca_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX person_id_index ON results (person_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX competition_id_index ON results (competition_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX event_id_index ON results (event_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX competition_id_index ON championships (competition_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX person_id_index ON ranks_single (person_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX event_id_index ON ranks_single (event_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX person_id_index ON ranks_average (person_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX event_id_index ON ranks_average (event_id)"
+mysql --host="mysql" --user=root --password=root --port=3306 --skip-ssl wca -e "CREATE INDEX result_id_index ON result_attempts (result_id)"
 
 # Build API.
 bin/console app:api:build $APIS_TO_REBUILD

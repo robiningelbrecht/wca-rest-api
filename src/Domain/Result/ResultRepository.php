@@ -19,12 +19,12 @@ readonly class ResultRepository
     ): Overview {
         $queryBuilder = $this->connection->createQueryBuilder();
         $queryBuilder->select('r.*, rt.name as roundName, rt.final as isFinalRound, f.name as formatName')
-            ->from('Results', 'r')
-            ->innerJoin('r', 'RoundTypes', 'rt', 'r.roundTypeId = rt.id')
-            ->innerJoin('r', 'Formats', 'f', 'r.formatId = f.id')
-            ->innerJoin('r', 'Competitions', 'c', 'r.competitionId = c.id')
-            ->innerJoin('r', 'Events', 'e', 'r.eventId = e.id')
-            ->andWhere('r.competitionId = :competitionId')
+            ->from('results', 'r')
+            ->innerJoin('r', 'round_types', 'rt', 'r.round_type_id = rt.id')
+            ->innerJoin('r', 'formats', 'f', 'r.format_id = f.id')
+            ->innerJoin('r', 'competitions', 'c', 'r.competition_id = c.id')
+            ->innerJoin('r', 'events', 'e', 'r.event_id = e.id')
+            ->andWhere('r.competition_id = :competitionId')
             ->setParameter('competitionId', $competitionId)
             ->addOrderBy('e.rank', 'ASC')
             ->addOrderBy('rt.rank', 'DESC')
@@ -32,7 +32,7 @@ readonly class ResultRepository
 
         if ($eventId) {
             $queryBuilder
-                ->andWhere('r.eventId = :event')
+                ->andWhere('r.event_id = :event')
                 ->setParameter('event', $eventId);
         }
 
@@ -43,6 +43,9 @@ readonly class ResultRepository
             return Overview::empty(Pagination::default());
         }
 
+        // Batch-fetch attempts for all result IDs
+        $attemptsMap = $this->fetchAttemptsForResults($results);
+
         $overview = Overview::empty(
             Pagination::fromPageNumberAndSize(
                 1,
@@ -52,7 +55,8 @@ readonly class ResultRepository
         );
 
         foreach ($results as $result) {
-            $overview->addItem($this->buildResult($result));
+            $solves = $attemptsMap[$result['id']] ?? [];
+            $overview->addItem($this->buildResult($result, $solves));
         }
 
         return $overview;
@@ -65,12 +69,12 @@ readonly class ResultRepository
     {
         $query = '
             SELECT r.*, rt.name as roundName, rt.final as isFinalRound, f.name as formatName
-            FROM Results r
-            INNER JOIN RoundTypes rt ON r.roundTypeId = rt.id
-            INNER JOIN Formats f ON r.formatId = f.id
-            INNER JOIN Competitions c ON r.competitionId = c.id
-            INNER JOIN Events e ON r.eventId = e.id
-            WHERE personId = :personId
+            FROM results r
+            INNER JOIN round_types rt ON r.round_type_id = rt.id
+            INNER JOIN formats f ON r.format_id = f.id
+            INNER JOIN competitions c ON r.competition_id = c.id
+            INNER JOIN events e ON r.event_id = e.id
+            WHERE person_id = :personId
             ORDER BY c.year DESC, c.month DESC, c.day DESC, e.rank ASC, rt.rank DESC
         ';
 
@@ -78,33 +82,77 @@ readonly class ResultRepository
             'personId' => $personId,
         ])->fetchAllAssociative();
 
-        return array_map(fn (array $result) => $this->buildResult($result), $results);
+        // Batch-fetch attempts for all result IDs
+        $attemptsMap = $this->fetchAttemptsForResults($results);
+
+        return array_map(fn (array $result) => $this->buildResult(
+            $result,
+            $attemptsMap[$result['id']] ?? []
+        ), $results);
+    }
+
+    /**
+     * Batch-fetch all attempts for a set of results, grouped by result_id.
+     *
+     * @param array<mixed> $results
+     *
+     * @return array<int, int[]> Map of result_id => ordered array of attempt values
+     */
+    private function fetchAttemptsForResults(array $results): array
+    {
+        if (0 === count($results)) {
+            return [];
+        }
+
+        $resultIds = array_column($results, 'id');
+
+        $query = '
+            SELECT result_id, value
+            FROM result_attempts
+            WHERE result_id IN (?)
+            ORDER BY result_id, attempt_number
+        ';
+
+        $rows = $this->connection->executeQuery(
+            $query,
+            [$resultIds],
+            [Connection::PARAM_INT_ARRAY]
+        )->fetchAllAssociative();
+
+        $attemptsMap = [];
+        foreach ($rows as $row) {
+            $attemptsMap[(int) $row['result_id']][] = (int) $row['value'];
+        }
+
+        return $attemptsMap;
     }
 
     /**
      * @param array<mixed> $result
+     * @param int[] $solves
      */
-    private function buildResult(array $result): Result
+    private function buildResult(array $result, array $solves): Result
     {
+        // Pad solves to exactly 5 entries for backward compatibility
+        // The old schema always had value1-value5; the new result_attempts table
+        // only stores actual attempts, so we zero-pad to maintain API contract.
+        while (count($solves) < 5) {
+            $solves[] = 0;
+        }
+
         return Result::fromState(
-            competitionId: $result['competitionId'],
-            personId: $result['personId'],
-            eventId: $result['eventId'],
+            competitionId: $result['competition_id'],
+            personId: $result['person_id'],
+            eventId: $result['event_id'],
             round: $result['roundName'],
             isFinalRound: !empty($result['isFinalRound']),
             position: $result['pos'],
             best: $result['best'],
             average: $result['average'],
             format: $result['formatName'],
-            solves: [
-                $result['value1'],
-                $result['value2'],
-                $result['value3'],
-                $result['value4'],
-                $result['value5'],
-            ],
-            singleRecord: Record::tryFromMap($result['regionalSingleRecord']),
-            averageRecord: Record::tryFromMap($result['regionalAverageRecord'])
+            solves: $solves,
+            singleRecord: Record::tryFromMap($result['regional_single_record']),
+            averageRecord: Record::tryFromMap($result['regional_average_record'])
         );
     }
 }

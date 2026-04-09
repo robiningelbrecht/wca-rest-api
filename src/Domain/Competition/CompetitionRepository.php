@@ -30,8 +30,8 @@ readonly class CompetitionRepository
         $queryBuilder = $this->connection->createQueryBuilder();
 
         $queryBuilder->select('SQL_CALC_FOUND_ROWS comp.*, c.iso2')
-            ->from('Competitions', 'comp')
-            ->innerJoin('comp', 'Countries', 'c', 'comp.countryId = c.id')
+            ->from('competitions', 'comp')
+            ->innerJoin('comp', 'countries', 'c', 'comp.country_id = c.id')
             ->setFirstResult($pagination->getOffset())
             ->setMaxResults($pagination->getLimit())
             ->addOrderBy('year', 'DESC')
@@ -59,7 +59,7 @@ readonly class CompetitionRepository
         }
 
         if ($eventId) {
-            $queryBuilder->andWhere('comp.eventSpecs LIKE :event')
+            $queryBuilder->andWhere('comp.event_specs LIKE :event')
                 ->setParameter('event', '%'.$eventId.'%');
         }
 
@@ -92,8 +92,8 @@ readonly class CompetitionRepository
     {
         $query = '
             SELECT id
-            FROM Competitions comp
-            WHERE comp.id IN (SELECT DISTINCT competitionId FROM Results WHERE personId = :personId)
+            FROM competitions comp
+            WHERE comp.id IN (SELECT DISTINCT competition_id FROM results WHERE person_id = :personId)
         ';
 
         return $this->connection->executeQuery($query, [
@@ -105,7 +105,7 @@ readonly class CompetitionRepository
     {
         $query = "
           SELECT COUNT(DISTINCT DATE(CONCAT_WS('-', `year`, `month`, `day`)))
-           FROM Competitions
+           FROM competitions
         ";
 
         return (int) $this->connection->executeQuery($query)->fetchOne();
@@ -115,8 +115,8 @@ readonly class CompetitionRepository
     {
         $query = '
             SELECT comp.*, c.iso2
-            FROM Competitions comp
-            INNER JOIN Countries c ON comp.countryId = c.id
+            FROM competitions comp
+            INNER JOIN countries c ON comp.country_id = c.id
             WHERE comp.id = :competitionId
         ';
 
@@ -136,8 +136,8 @@ readonly class CompetitionRepository
      */
     private function buildResult(array $result): Competition
     {
-        $wcaDelegates = [$result['wcaDelegate']];
-        if (preg_match_all('/\[\{(?<name>[\s\S]+)\}\{mailto:(?<email>[\s\S]+)\}\]/U', $result['wcaDelegate'], $matches)) {
+        $wcaDelegates = [$result['delegates']];
+        if (preg_match_all('/\[\{(?<name>[\s\S]+)\}\{mailto:(?<email>[\s\S]+)\}\]/U', $result['delegates'], $matches)) {
             $wcaDelegates = [];
             foreach ($matches['name'] as $key => $match) {
                 $wcaDelegates[] = [
@@ -146,8 +146,8 @@ readonly class CompetitionRepository
                 ];
             }
         }
-        $organisers = [$result['organiser']];
-        if (preg_match_all('/\[\{(?<name>[\s\S]+)\}\{mailto:(?<email>[\s\S]+)\}\]/U', $result['organiser'] ?? '', $matches)) {
+        $organisers = [$result['organizers']];
+        if (preg_match_all('/\[\{(?<name>[\s\S]+)\}\{mailto:(?<email>[\s\S]+)\}\]/U', $result['organizers'] ?? '', $matches)) {
             $organisers = [];
             foreach ($matches['name'] as $key => $match) {
                 $organisers[] = [
@@ -160,22 +160,22 @@ readonly class CompetitionRepository
         return Competition::fromState(
             id: $result['id'],
             name: $result['name'],
-            city: $result['cityName'],
+            city: $result['city_name'],
             country: Iso2Code::fromString($result['iso2']),
             date: DateRange::fromFromDateAndTillDate(
                 SerializableDateTime::fromString($result['year'].'-'.$result['month'].'-'.$result['day']),
-                SerializableDateTime::fromString($result['year'].'-'.$result['endMonth'].'-'.$result['endDay']),
+                SerializableDateTime::fromString($result['end_year'].'-'.$result['end_month'].'-'.$result['end_day']),
             ),
             isCanceled: $result['cancelled'],
-            events: explode(' ', $result['eventSpecs']),
+            events: explode(' ', $result['event_specs']),
             wcaDelegates: $wcaDelegates,
             venue: Venue::fromValues(
                 $result['venue'],
-                $result['venueAddress'],
-                $result['venueDetails'],
+                $result['venue_address'],
+                $result['venue_details'],
                 Coordinates::fromIntegers(
-                    $result['latitude'],
-                    $result['longitude'],
+                    $result['latitude_microdegrees'],
+                    $result['longitude_microdegrees'],
                 )
             ),
             organisers: $organisers,

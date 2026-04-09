@@ -28,12 +28,12 @@ readonly class PersonRepository
         $queryBuilder = $this->connection->createQueryBuilder();
 
         $queryBuilder->select('SQL_CALC_FOUND_ROWS p.*, c.iso2')
-            ->from('Persons', 'p')
-            ->innerJoin('p', 'Countries', 'c', 'p.countryId = c.id')
+            ->from('persons', 'p')
+            ->innerJoin('p', 'countries', 'c', 'p.country_id = c.id')
             ->setFirstResult($pagination->getOffset())
             ->setMaxResults($pagination->getLimit())
-            ->andWhere('subid = 1')
-            ->addOrderBy('id', 'ASC');
+            ->andWhere('sub_id = 1')
+            ->addOrderBy('wca_id', 'ASC');
 
         $results = $queryBuilder->executeQuery()->fetchAllAssociative();
         $total = $this->connection->executeQuery('SELECT FOUND_ROWS() as total;')->fetchOne();
@@ -52,13 +52,13 @@ readonly class PersonRepository
 
         foreach ($results as $result) {
             $overview->addItem(Person::fromState(
-                id: $result['id'],
+                id: $result['wca_id'],
                 name: $result['name'],
                 country: Iso2Code::fromString($result['iso2']),
-                competitionIds: $this->competitionRepository->findCompetitionIdsByPerson($result['id']),
-                ranks: $this->rankRepository->findByPerson($result['id']),
-                results: $this->resultRepository->findByPerson($result['id']),
-                championshipIds: $this->championshipRepository->findChampionshipIdsByPerson($result['id']),
+                competitionIds: $this->competitionRepository->findCompetitionIdsByPerson($result['wca_id']),
+                ranks: $this->rankRepository->findByPerson($result['wca_id']),
+                results: $this->resultRepository->findByPerson($result['wca_id']),
+                championshipIds: $this->championshipRepository->findChampionshipIdsByPerson($result['wca_id']),
             ));
         }
 

@@ -67,15 +67,16 @@ jobs:
             mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca < wca-export/WCA_export.sql
             
             # Add indexes for faster processing
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON Persons (id)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON Results (personId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competitionId_index ON Results (competitionId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON Results (eventId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competitionId_index ON championships (competition_id)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON RanksSingle (personId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON RanksSingle (eventId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX personId_index ON RanksAverage (personId)"
-            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX eventId_index ON RanksAverage (eventId)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX wca_id_index ON persons (wca_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX person_id_index ON results (person_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competition_id_index ON results (competition_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX event_id_index ON results (event_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX competition_id_index ON championships (competition_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX person_id_index ON ranks_single (person_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX event_id_index ON ranks_single (event_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX person_id_index ON ranks_average (person_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX event_id_index ON ranks_average (event_id)"
+            mysql --host="127.0.0.1" --port=3306 --user=root --password=root wca -e "CREATE INDEX result_id_index ON result_attempts (result_id)"
             
             # Build API.
             bin/console app:api:build "continent,country,event,competition,championship,person,rank,result,version"
