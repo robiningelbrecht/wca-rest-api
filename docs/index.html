@@ -38,6 +38,12 @@
     init('./openapi.yml', {
         hideLoading: true,
         disableTelemetry: true,
+        codeSamples: {
+            languages: [
+                { key: 'curl', label: 'cURL', lang: 'bash' },
+                { key: 'php - guzzle', label: 'PHP - Guzzle', lang: 'php' },
+            ],
+        },
     }, document.getElementById('redoc-container'));
 </script>
 </body>

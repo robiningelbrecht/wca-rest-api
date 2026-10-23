@@ -154,7 +154,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Continents'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/continents.json'
@@ -176,7 +176,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Countries'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/countries.json'
@@ -198,7 +198,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Events'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/events.json'
@@ -228,7 +228,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Competitions'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/competitions.json'
@@ -259,7 +259,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Competitions'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/competitions/BE.json'
@@ -289,7 +289,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Competitions'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/competitions/2023.json'
@@ -338,7 +338,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Competitions'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/competitions/2023/08.json'
@@ -397,7 +397,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Competitions'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/competitions/2023/08/13.json'
@@ -434,7 +434,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Competitions'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/competitions/333.json'
@@ -465,7 +465,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Competition'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/competitions/BrizZonSylwesterOpen2022.json'
@@ -495,7 +495,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Championships'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/championships.json'
@@ -526,7 +526,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Championships'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/championships/world.json'
@@ -556,7 +556,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Championship'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/championships/WC2023.json'
@@ -586,7 +586,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Persons'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/persons.json'
@@ -617,7 +617,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Person'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/persons/2012PARK03.json'
@@ -664,7 +664,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Ranks'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/rank/world/single/333.json'
@@ -696,7 +696,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Results'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/results/BrizZonSylwesterOpen2022.json'
@@ -733,7 +733,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Results'
-      x-code-samples:
+      x-codeSamples:
         - lang: 'cURL'
           source: |
             curl --location 'https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/results/BrizZonSylwesterOpen2023/333.json'
